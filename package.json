@@ -8,6 +8,6 @@
     "http-server": "^14.1.1"
   },
   "scripts": {
-    "dev": "npx http-server ./docs -a localhost -p 3333"
+    "dev": "npx http-server ./docs -a localhost -p 3333 --cors"
   }
 }
