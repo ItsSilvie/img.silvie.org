@@ -1,0 +1,13 @@
+{
+  "name": "img.silvie.org",
+  "version": "1.0.0",
+  "repository": "https://github.com/ItsSilvie/img.silvie.org.git",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "scripts": {
+    "dev": "npx http-server ./docs -a localhost -p 3333"
+  }
+}
