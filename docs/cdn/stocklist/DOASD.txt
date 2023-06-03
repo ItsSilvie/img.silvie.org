@@ -1,0 +1,109 @@
+FIRE	C	EN-001	Spirit of Fire	0	N/A
+WATER	C	EN-002	Spirit of Water	0	N/A
+WIND	C	EN-003	Spirit of Wind	0	N/A
+NORM	C	EN-004	Lorraine, Wandering Warrior	0	N/A
+NORM	C	EN-005	Lorraine, Blademaster	0	N/A
+CRUX	C	EN-006	Lorraine, Crux Knight	0	N/A
+CRUX	CSR	EN-006	Lorraine, Crux Knight	N/A	0
+NORM	C	EN-007	Rai, Spellcrafter	0	N/A
+NORM	C	EN-008	Rai, Archmage	0	N/A
+ARCANE	C	EN-009	Rai, Storm Seer	0	N/A
+ARCANE	CSR	EN-009	Rai, Storm Seer	N/A	0
+NORM	C	EN-010	Silvie, Wilds Whisperer	0	N/A
+NORM	C	EN-011	Silvie, With the Pack	0	N/A
+TERA	C	EN-012	Silvie, Loved by All	0	N/A
+TERA	CSR	EN-012	Silvie, Loved by All	N/A	0
+LUXEM	C	EN-013	Zander, Blinding Steel	0	N/A
+NORM	C	EN-014	Bauble of Abundance	0	N/A
+NORM	U	EN-015	Beastbond Boots	0	N/A
+NORM	C	EN-016	Beastbond Ears	0	N/A
+NORM	C	EN-017	Beastbond Paws	0	N/A
+NORM	R	EN-018	Clarent, Sword of Peace	0	N/A
+NORM	C	EN-019	Crystal of Empowerment	0	N/A
+NORM	R	EN-020	Endura, Scepter of Ignition	0	N/A
+NORM	U	EN-021	Fire Resonance Bauble	0	N/A
+NORM	R	EN-022	Flute of Taming	0	N/A
+NORM	C	EN-023	Life Essence Amulet	0	N/A
+NORM	U	EN-024	Mana Limiter	0	N/A
+NORM	U	EN-025	Melodious Flute	0	N/A
+NORM	R	EN-026	Orb of Choking Fumes	0	N/A
+NORM	C	EN-027	Ornamental Greatsword	0	N/A
+NORM	U	EN-028	Surveillance Stone	0	N/A
+NORM	U	EN-029	Sword of Seeking	0	N/A
+NORM	U	EN-030	Tome of Knowledge	0	N/A
+NORM	U	EN-031	Warrior's Longsword	0	N/A
+NORM	U	EN-032	Water Resonance Bauble	0	N/A
+NORM	U	EN-033	Wind Resonance Bauble	0	N/A
+ARCANE	SR	EN-034	Arcanist's Prism	0	N/A
+CRUX	SR	EN-035	Prismatic Edge	0	N/A
+LUXEM	SR	EN-036	Caliburn of Silencing	0	N/A
+TERA	SR	EN-037	Seed of Nature	0	N/A
+NORM	C	EN-038	Banner Knight	0	N/A
+NORM	C	EN-039	Barrier Servant	0	N/A
+NORM	C	EN-040	Blissful Calling	0	N/A
+NORM	C	EN-041	Careful Study	0	N/A
+NORM	C	EN-042	Crusader of Aesa	0	N/A
+NORM	C	EN-043	Deflecting Edge	0	N/A
+NORM	C	EN-044	Empowering Harmony	0	N/A
+NORM	C	EN-045	Esteemed Knight	0	N/A
+NORM	C	EN-046	Gray Wolf	0	N/A
+NORM	C	EN-047	Honorable Vanguard	0	N/A
+NORM	C	EN-048	Idle Thoughts	0	N/A
+NORM	C	EN-049	Inspiring Call	0	N/A
+NORM	C	EN-050	Library Witch	0	N/A
+NORM	C	EN-051	Magus Disciple	0	N/A
+NORM	C	EN-052	Opening Cut	0	N/A
+NORM	C	EN-053	Peer into Mana	0	N/A
+NORM	C	EN-054	Rebellious Bull	0	N/A
+NORM	C	EN-055	Savage Slash	0	N/A
+NORM	C	EN-056	Scry the Skies	0	N/A
+NORM	C	EN-057	Smack with Flute	0	N/A
+NORM	C	EN-058	Song of Nurturing	0	N/A
+NORM	C	EN-059	Sudden Steel	0	N/A
+NORM	C	EN-060	Training Session	0	N/A
+NORM	C	EN-061	Trusty Steed	0	N/A
+NORM	C	EN-062	Veteran Soldier	0	N/A
+NORM	C	EN-063	Weaponsmith	0	N/A
+FIRE	U	EN-064	Blitz Mage	0	N/A
+FIRE	U	EN-065	Creative Shock	0	N/A
+FIRE	C	EN-066	Cremation Ritual	0	N/A
+FIRE	R	EN-067	Disintegrate	0	N/A
+FIRE	C	EN-068	Fireball	0	N/A
+FIRE	C	EN-069	Flame-Rune Swordsman	0	N/A
+FIRE	U	EN-070	Focused Flames	0	N/A
+FIRE	C	EN-071	Ignite the Soul	0	N/A
+FIRE	U	EN-072	Impassioned Tutor	0	N/A
+FIRE	U	EN-073	Purge in Flames	0	N/A
+WATER	U	EN-074	Blue Slime	0	N/A
+WATER	C	EN-075	Deep Sea Beastbonder	0	N/A
+WATER	C	EN-076	Dewdrop Hares	0	N/A
+WATER	C	EN-077	Freezing Hail	0	N/A
+WATER	U	EN-078	Giant Tortoise	0	N/A
+WATER	C	EN-079	Give Bath	0	N/A
+WATER	R	EN-080	Lakeside Serpent	0	N/A
+WATER	R	EN-081	Mist Resonance	0	N/A
+WATER	U	EN-082	Piper's Lullaby	0	N/A
+WATER	C	EN-083	Revitalizing Cleanse	0	N/A
+WIND	C	EN-084	Favorable Winds	0	N/A
+WIND	R	EN-085	Hurricane Sweep	0	N/A
+WIND	R	EN-086	Phalanx Captain	0	N/A
+WIND	U	EN-087	Reclaim	0	N/A
+WIND	C	EN-088	Swift Recruit	0	N/A
+WIND	C	EN-089	Wind Cutter	0	N/A
+ARCANE	R	EN-090	Anger the Skies	0	N/A
+ARCANE	U	EN-091	Arcane Blast	0	N/A
+ARCANE	U	EN-092	Arcane Disposition	0	N/A
+ARCANE	U	EN-093	Arcane Sight	0	N/A
+ARCANE	SR	EN-094	Power Overwhelming	0	N/A
+ARCANE	R	EN-095	Spellshield: Arcane	0	N/A
+CRUX	U	EN-096	Crux Sight	0	N/A
+CRUX	R	EN-097	Spirit Blade: Ascension	0	N/A
+CRUX	SR	EN-098	Spirit Blade: Dispersion	0	N/A
+CRUX	U	EN-099	Spirit Blade: Ghost Strike	0	N/A
+CRUX	R	EN-100	Spirit Blade: Infusion	0	N/A
+CRUX	R	EN-101	Spirit's Blessing	0	N/A
+TERA	U	EN-102	Gaia's Songbird	0	N/A
+TERA	R	EN-103	Invoke Dominance	0	N/A
+TERA	U	EN-104	Meadowbloom Dryad	0	N/A
+TERA	U	EN-105	Tera Sight	0	N/A
+TERA	R	EN-106	Vertus, Gaia's Roar	0	N/A

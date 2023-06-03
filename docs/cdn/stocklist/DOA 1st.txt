@@ -1,0 +1,287 @@
+FIRE	C	EN-001	Spirit of Fire	0	N/A
+WATER	C	EN-002	Spirit of Water	0	N/A
+WIND	C	EN-003	Spirit of Wind	0	N/A
+NORM	C	EN-004	Lorraine, Wandering Warrior	0	0
+NORM	CUR	EN-004	Lorraine, Wandering Warrior	N/A	0
+NORM	C	EN-005	Lorraine, Blademaster	0	0
+NORM	CUR	EN-005	Lorraine, Blademaster	N/A	0
+CRUX	C	EN-006	Lorraine, Spirit Ruler	0	0
+CRUX	CUR	EN-006	Lorraine, Spirit Ruler	N/A	0
+NORM	C	EN-007	Rai, Spellcrafter	0	0
+NORM	CUR	EN-007	Rai, Spellcrafter	N/A	0
+NORM	C	EN-008	Rai, Archmage	0	0
+NORM	CUR	EN-008	Rai, Archmage	N/A	0
+ARCANE	C	EN-009	Rai, Mana Weaver	0	0
+ARCANE	CUR	EN-009	Rai, Mana Weaver	N/A	0
+NORM	C	EN-010	Silvie, Wilds Whisperer	0	0
+NORM	CUR	EN-010	Silvie, Wilds Whisperer	N/A	0
+NORM	C	EN-011	Silvie, With the Pack	0	0
+NORM	CUR	EN-011	Silvie, With the Pack	N/A	0
+TERA	C	EN-012	Silvie, Earth's Tune	0	0
+TERA	CUR	EN-012	Silvie, Earth's Tune	N/A	0
+NORM	C	EN-013	Zander, Prepared Scout	0	0
+NORM	CUR	EN-013	Zander, Prepared Scout	N/A	0
+NORM	C	EN-014	Zander, Always Watching	0	0
+NORM	CUR	EN-014	Zander, Always Watching	N/A	0
+LUXEM	C	EN-015	Zander, Corhazi's Chosen	0	0
+LUXEM	CUR	EN-015	Zander, Corhazi's Chosen	N/A	0
+NORM	C	EN-016	Allen, Beast Beckoner	0	N/A
+NORM	C	EN-017	Merlin, Memory Thief	0	N/A
+NORM	C	EN-018	Mordred, Flawless Blade	0	N/A
+NORM	C	EN-019	Tristan, Grim Stalker	0	N/A
+NORM	C	EN-020	Assassin's Ripper	0	0
+NORM	C	EN-021	Bauble of Abundance	0	0
+NORM	R	EN-022	Bauble of Mending	0	0
+NORM	U	EN-023	Beastbond Boots	0	0
+NORM	C	EN-024	Beastbond Ears	0	0
+NORM	C	EN-025	Beastbond Paws	0	0
+NORM	R	EN-026	Blinding Orb	0	0
+NORM	R	EN-027	Chalice of Blood	0	0
+NORM	R	EN-028	Channeling Stone	0	0
+NORM	R	EN-029	Crystal of Argus	0	0
+NORM	C	EN-030	Crystal of Empowerment	0	0
+NORM	U	EN-031	Curved Dagger	0	0
+NORM	SR	EN-032	Discordia, Harp of Malice	0	0
+NORM	R	EN-033	Drawn Blade	0	0
+NORM	SR	EN-034	Excalibur, Cursed Sword	0	0
+NORM	R	EN-035	Eye of Argus	0	0
+NORM	U	EN-036	Fire Resonance Bauble	0	0
+NORM	SR	EN-037	Galatine, Sword of Sunlight	0	0
+NORM	UR	EN-038	Grand Crusader's Ring	0	0
+NORM	U	EN-039	Jewel of Enlightenment	0	0
+NORM	C	EN-040	Life Essence Amulet	0	0
+NORM	U	EN-041	Mana Limiter	0	0
+NORM	SR	EN-042	Map of Hidden Passage	0	0
+NORM	U	EN-043	Melodious Flute	0	0
+NORM	SR	EN-044	Orb of Glitter	0	0
+NORM	SR	EN-045	Orb of Regret	0	0
+NORM	C	EN-046	Ornamental Greatsword	0	0
+NORM	R	EN-047	Poisoned Coating Oil	0	0
+NORM	U	EN-048	Poisoned Dagger	0	0
+NORM	U	EN-049	Safeguard Amulet	0	0
+NORM	C	EN-050	Sealed Blade	0	0
+NORM	U	EN-051	Seer's Sword	0	0
+NORM	C	EN-052	Sharpening Stone	0	0
+NORM	C	EN-053	Smoke Bombs	0	0
+NORM	U	EN-054	Surveillance Stone	0	0
+NORM	R	EN-055	Sword of Adversity	0	0
+NORM	U	EN-056	Sword of Seeking	0	0
+NORM	U	EN-057	Tome of Knowledge	0	0
+NORM	U	EN-058	Warrior's Longsword	0	0
+NORM	U	EN-059	Water Resonance Bauble	0	0
+NORM	U	EN-060	Wind Resonance Bauble	0	0
+ARCANE	R	EN-061	Storm Tyrant's Eye	0	0
+ARCANE	UR	EN-062	Tome of Sacred Lightning	0	0
+CRUX	UR	EN-063	Majestic Spirit's Crest	0	0
+CRUX	R	EN-064	Sword of Avarice	0	0
+LUXEM	R	EN-065	Carnwennan, Shrouded Edge	0	0
+LUXEM	UR	EN-066	Luxera's Map	0	0
+TERA	UR	EN-067	Gaia's Blessing	0	0
+TERA	R	EN-068	Horn of Beastcalling	0	0
+NORM	C	EN-069	Accepted Contract	0	0
+NORM	C	EN-070	Backstab	0	0
+NORM	C	EN-071	Banner Knight	0	0
+NORM	C	EN-072	Barrier Servant	0	0
+NORM	C	EN-073	Blissful Calling	0	0
+NORM	C	EN-074	Careful Study	0	0
+NORM	U	EN-075	Clean Cut	0	0
+NORM	U	EN-076	Conceal	0	0
+NORM	SR	EN-077	Coup de Grace	0	0
+NORM	C	EN-078	Cram Session	0	0
+NORM	C	EN-079	Crusader of Aesa	0	0
+NORM	C	EN-080	Deflecting Edge	0	0
+NORM	R	EN-081	Dungeon Guide	0	0
+NORM	C	EN-082	Eager Page	0	0
+NORM	C	EN-083	Empowering Harmony	0	0
+NORM	C	EN-084	Enraged Boars	0	0
+NORM	C	EN-085	Esteemed Knight	0	0
+NORM	SR	EN-086	Fervent Beastmaster	0	0
+NORM	SR	EN-087	Galahad, Court Knight	0	0
+NORM	SR	EN-088	Gildas, Chronicler of Aesa	0	0
+NORM	C	EN-089	Gray Wolf	0	0
+NORM	C	EN-090	Harness Mana	0	0
+NORM	C	EN-091	Honorable Vanguard	0	0
+NORM	C	EN-092	Idle Thoughts	0	0
+NORM	C	EN-093	Inspiring Call	0	0
+NORM	C	EN-094	Invigorated Slash	0	0
+NORM	C	EN-095	Juggle Knives	0	0
+NORM	C	EN-096	Kingdom Informant	0	0
+NORM	C	EN-097	Library Witch	0	0
+NORM	C	EN-098	Magus Disciple	0	0
+NORM	SR	EN-099	Nimue, Cursed Touch	0	0
+NORM	C	EN-100	Opening Cut	0	0
+NORM	C	EN-101	Owl Familiar	0	0
+NORM	C	EN-102	Peer into Mana	0	0
+NORM	C	EN-103	Port Smuggler	0	0
+NORM	C	EN-104	Rebellious Bull	0	0
+NORM	C	EN-105	Reckless Slash	0	0
+NORM	C	EN-106	Refurbish	0	0
+NORM	C	EN-107	Savage Slash	0	0
+NORM	C	EN-108	Scry the Skies	0	0
+NORM	C	EN-109	Smack with Flute	0	0
+NORM	C	EN-110	Song of Nurturing	0	0
+NORM	C	EN-111	Strategic Planning	0	0
+NORM	C	EN-112	Sudden Steel	0	0
+NORM	C	EN-113	Training Session	0	0
+NORM	C	EN-114	Trusty Steed	0	0
+NORM	C	EN-115	Veteran Soldier	0	0
+NORM	C	EN-116	Weaponsmith	0	0
+NORM	U	EN-117	Woodland Squirrels	0	0
+FIRE	SR	EN-118	Arthur, Young Heir	0	0
+FIRE	U	EN-119	Blazing Direwolf	0	0
+FIRE	C	EN-120	Blazing Throw	0	0
+FIRE	U	EN-121	Blitz Mage	0	0
+FIRE	R	EN-122	Cemetery Sentry	0	0
+FIRE	U	EN-123	Clumsy Apprentice	0	0
+FIRE	U	EN-124	Corhazi Courier	0	0
+FIRE	U	EN-125	Creative Shock	0	0
+FIRE	C	EN-126	Cremation Ritual	0	0
+FIRE	R	EN-127	Devastating Blow	0	0
+FIRE	R	EN-128	Disintegrate	0	0
+FIRE	U	EN-129	Embersong	0	0
+FIRE	C	EN-130	Embertail Squirrel	0	0
+FIRE	U	EN-131	Energetic Beastbonder	0	0
+FIRE	R	EN-132	Erupting Rhapsody	0	0
+FIRE	U	EN-133	Fiery Momentum	0	0
+FIRE	C	EN-134	Fireball	0	0
+FIRE	R	EN-135	Flame Sweep	0	0
+FIRE	C	EN-136	Flame-Rune Swordsman	0	0
+FIRE	C	EN-137	Flamelash Subduer	0	0
+FIRE	U	EN-138	Focused Flames	0	0
+FIRE	U	EN-139	Hasty Messenger	0	0
+FIRE	C	EN-140	Ignite the Soul	0	0
+FIRE	C	EN-141	Ignited Stab	0	0
+FIRE	R	EN-142	Immolation Trap	0	0
+FIRE	U	EN-143	Impassioned Tutor	0	0
+FIRE	U	EN-144	Increasing Danger	0	0
+FIRE	C	EN-145	Mark the Target	0	0
+FIRE	U	EN-146	Patient Rogue	0	0
+FIRE	C	EN-147	Planted Explosive	0	0
+FIRE	C	EN-148	Prodigious Burstmage	0	0
+FIRE	U	EN-149	Purge in Flames	0	0
+FIRE	U	EN-150	Reckless Researcher	0	0
+FIRE	R	EN-151	Rending Flames	0	0
+FIRE	U	EN-152	Shout at Your Pets	0	0
+FIRE	C	EN-153	Spark Alight	0	0
+FIRE	U	EN-154	Spontaneous Combustion	0	0
+FIRE	U	EN-155	Spurn to Ash	0	0
+FIRE	U	EN-156	Strapping Conscript	0	0
+FIRE	U	EN-157	Tempered Steel	0	0
+FIRE	SR	EN-158	Varuck, Smoldering Spire	0	0
+WATER	U	EN-159	Aqueous Enchanting	0	0
+WATER	SR	EN-160	Avalon, Cursed Isle	0	0
+WATER	U	EN-161	Benevolent Battle Priest	0	0
+WATER	U	EN-162	Blue Slime	0	0
+WATER	U	EN-163	Bubble Mage	0	0
+WATER	C	EN-164	Chilling Touch	0	0
+WATER	C	EN-165	Deep Sea Beastbonder	0	0
+WATER	C	EN-166	Dewdrop Hares	0	0
+WATER	C	EN-167	Drowned Cut	0	0
+WATER	U	EN-168	Fishing Accident	0	0
+WATER	C	EN-169	Freeze Stiff	0	0
+WATER	C	EN-170	Freezing Hail	0	0
+WATER	R	EN-171	Frozen Nova	0	0
+WATER	U	EN-172	Giant Tortoise	0	0
+WATER	C	EN-173	Give Bath	0	0
+WATER	C	EN-174	Glacial Guidance	0	0
+WATER	C	EN-175	Imbue in Frost	0	0
+WATER	C	EN-176	Intrepid Highwayman	0	0
+WATER	R	EN-177	Lakeside Serpent	0	0
+WATER	R	EN-178	Lunete, Frostbinder Priest	0	0
+WATER	U	EN-179	Mind Freeze	0	0
+WATER	R	EN-180	Mist Resonance	0	0
+WATER	SR	EN-181	Mistbound Cutthroat	0	0
+WATER	C	EN-182	Mistbound Watcher	0	0
+WATER	R	EN-183	Nia, Mistveiled Scout	0	0
+WATER	U	EN-184	Piper's Lullaby	0	0
+WATER	C	EN-185	Restorative Slash	0	0
+WATER	C	EN-186	Revitalizing Cleanse	0	0
+WATER	C	EN-187	Seafaring Mercenary	0	0
+WATER	C	EN-188	Set the Traps	0	0
+WATER	R	EN-189	Shroud in Mist	0	0
+WATER	U	EN-190	Sink into Oblivion	0	0
+WATER	R	EN-191	Snow Fairy	0	0
+WATER	C	EN-192	Stillwater Patrol	0	0
+WATER	U	EN-193	Strike from the Mist	0	0
+WATER	U	EN-194	Sudden Snow	0	0
+WATER	R	EN-195	Tidal Sweep	0	0
+WATER	R	EN-196	Tide Diviner	0	0
+WATER	U	EN-197	Water Barrier	0	0
+WIND	U	EN-198	Aesan Protector	0	0
+WIND	U	EN-199	Arrow Trap	0	0
+WIND	R	EN-200	Attune with the Winds	0	0
+WIND	SR	EN-201	Beseech the Winds	0	0
+WIND	C	EN-202	Blackmarket Broker	0	0
+WIND	C	EN-203	Bushwhack Bandit	0	0
+WIND	SR	EN-204	Camelot, Impenetrable	0	0
+WIND	C	EN-205	Channel the Wind	0	0
+WIND	U	EN-206	Combo Strike	0	0
+WIND	U	EN-207	Cry for Help	0	0
+WIND	U	EN-208	Disorienting Winds	0	0
+WIND	R	EN-209	Dream Fairy	0	0
+WIND	R	EN-210	Ensnaring Fumes	0	0
+WIND	U	EN-211	Extortion Scheme	0	0
+WIND	U	EN-212	Fairy Whispers	0	0
+WIND	C	EN-213	Favorable Winds	0	0
+WIND	R	EN-214	Hurricane Sweep	0	0
+WIND	C	EN-215	Menagerie Beastbonder	0	0
+WIND	R	EN-216	Phalanx Captain	0	0
+WIND	C	EN-217	Poised Strike	0	0
+WIND	C	EN-218	Rallied Advance	0	0
+WIND	SR	EN-219	Ravaging Tempest	0	0
+WIND	U	EN-220	Reclaim	0	0
+WIND	R	EN-221	Scattering Gusts	0	0
+WIND	U	EN-222	Second Wind	0	0
+WIND	C	EN-223	Song of Return	0	0
+WIND	C	EN-224	Summon Gale	0	0
+WIND	C	EN-225	Swift Recruit	0	0
+WIND	R	EN-226	Tactful Sergeant	0	0
+WIND	U	EN-227	Tempest Silverback	0	0
+WIND	C	EN-228	Trained Hawk	0	0
+WIND	C	EN-229	Veiling Breeze	0	0
+WIND	C	EN-230	Wilderness Harpist	0	0
+WIND	C	EN-231	Wind Cutter	0	0
+WIND	U	EN-232	Windrider Mage	0	0
+WIND	C	EN-233	Windrider Vanguard	0	0
+WIND	C	EN-234	Windstream Mutt	0	0
+WIND	R	EN-235	Zephyr	0	0
+WIND	C	EN-236	Zephyr Assistant	0	0
+ARCANE	SR	EN-237	Advent of the Stormcaller	0	0
+ARCANE	R	EN-238	Anger the Skies	0	0
+ARCANE	U	EN-239	Arcane Blast	0	0
+ARCANE	U	EN-240	Arcane Disposition	0	0
+ARCANE	R	EN-241	Arcane Elemental	0	0
+ARCANE	U	EN-242	Arcane Sight	0	0
+ARCANE	R	EN-243	Conduit of the Mad Mage	0	0
+ARCANE	R	EN-244	Erratic Bolt	0	0
+ARCANE	SR	EN-245	Power Overwhelming	0	0
+ARCANE	SR	EN-246	Reckless Conversion	0	0
+ARCANE	R	EN-247	Spellshield: Arcane	0	0
+CRUX	U	EN-248	Crux Sight	0	0
+CRUX	SR	EN-249	Ghosts of Pendragon	0	0
+CRUX	SR	EN-250	Intangible Geist	0	0
+CRUX	R	EN-251	Spirit Blade: Ascension	0	0
+CRUX	SR	EN-252	Spirit Blade: Dispersion	0	0
+CRUX	SR	EN-253	Spirit Blade: Ensoul	0	0
+CRUX	U	EN-254	Spirit Blade: Ghost Strike	0	0
+CRUX	R	EN-255	Spirit Blade: Infusion	0	0
+CRUX	R	EN-256	Spirit's Blessing	0	0
+LUXEM	R	EN-257	Corhazi Infiltrator	0	0
+LUXEM	U	EN-258	Corhazi Lightblade	0	0
+LUXEM	R	EN-259	Excalibur, Cleansing Light	0	0
+LUXEM	U	EN-260	Gleaming Cut	0	0
+LUXEM	SR	EN-261	Lightweaver's Assault	0	0
+LUXEM	U	EN-262	Luxem Sight	0	0
+LUXEM	SR	EN-263	Thousand Refractions	0	0
+LUXEM	SR	EN-264	Triskit, Guidance Angel	0	0
+LUXEM	R	EN-265	Uncover the Plot	0	0
+TERA	SR	EN-266	Arima, Gaia's Wings	0	0
+TERA	SR	EN-267	Artificer's Opus	0	0
+TERA	R	EN-268	Call the Pack	0	0
+TERA	R	EN-269	Command the Hunt	0	0
+TERA	U	EN-270	Gaia's Songbird	0	0
+TERA	SR	EN-271	Hymn of Gaia's Grace	0	0
+TERA	R	EN-272	Invoke Dominance	0	0
+TERA	U	EN-273	Meadowbloom Dryad	0	0
+TERA	U	EN-274	Tera Sight	0	0
+TERA	R	EN-275	Vertus, Gaia's Roar	0	0

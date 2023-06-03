@@ -1,0 +1,119 @@
+FIRE	C	EN-001	Spirit of Fire	0	N/A
+WIND	C	EN-002	Spirit of Wind	0	N/A
+NORM	C	EN-003	Lorraine, Wandering Warrior	0	N/A
+NORM	C	EN-004	Lorraine, Blademaster	0	N/A
+CRUX	C	EN-005	Lorraine, Crux Knight	0	N/A
+NORM	C	EN-006	Rai, Spellcrafter	0	N/A
+NORM	C	EN-007	Rai, Archmage	0	N/A
+ARCANE	C	EN-008	Rai, Storm Seer	0	N/A
+TERA	C	EN-009	Silvie, Loved by All	0	N/A
+LUXEM	C	EN-010	Zander, Blinding Steel	0	N/A
+NORM	C	EN-011	Bauble of Abundance	0	N/A
+NORM	R	EN-012	Clarent, Sword of Peace	0	N/A
+NORM	C	EN-013	Crystal of Empowerment	0	N/A
+NORM	R	EN-014	Endura, Scepter of Ignition	0	N/A
+NORM	U	EN-015	Fire Resonance Bauble	0	N/A
+NORM	R	EN-016	Flute of Taming	0	N/A
+NORM	C	EN-017	Life Essence Amulet	0	N/A
+NORM	U	EN-018	Mana Limiter	0	N/A
+NORM	R	EN-019	Orb of Choking Fumes	0	N/A
+NORM	SR	EN-020KS	Orb of Glitter	0	N/A
+NORM	C	EN-021	Ornamental Greatsword	0	N/A
+NORM	U	EN-022	Seer's Sword	0	N/A
+NORM	U	EN-023	Surveillance Stone	0	N/A
+NORM	U	EN-024	Sword of Seeking	0	N/A
+NORM	U	EN-025	Tome of Knowledge	0	N/A
+NORM	U	EN-026	Warrior's Longsword	0	N/A
+NORM	U	EN-027	Wind Resonance Bauble	0	N/A
+ARCANE	SR	EN-028	Arcanist's Prism	0	N/A
+CRUX	SR	EN-029	Prismatic Edge	0	N/A
+LUXEM	SR	EN-030	Caliburn of Silencing	0	N/A
+TERA	SR	EN-031	Seed of Nature	0	N/A
+NORM	C	EN-032	Banner Knight	0	N/A
+NORM	C	EN-033	Barrier Servant	0	N/A
+NORM	C	EN-034	Careful Study	0	N/A
+NORM	C	EN-035	Conceal	0	N/A
+NORM	C	EN-036	Crusader of Aesa	0	N/A
+NORM	C	EN-037	Deflecting Edge	0	N/A
+NORM	R	EN-038	Dungeon Guide	0	N/A
+NORM	R	EN-038KS	Dungeon Guide	0	N/A
+NORM	C	EN-039	Enraged Boars	0	N/A
+NORM	C	EN-040	Esteemed Knight	0	N/A
+NORM	SR	EN-041KS	Galahad, Court Knight	0	N/A
+NORM	SR	EN-042KS	Gildas, Chronicler of Aesa	0	N/A
+NORM	C	EN-043	Gray Wolf	0	N/A
+NORM	C	EN-044	Honorable Vanguard	0	N/A
+NORM	C	EN-045	Idle Thoughts	0	N/A
+NORM	C	EN-046	Inspiring Call	0	N/A
+NORM	U	EN-047	Invigorated Slash	0	N/A
+NORM	C	EN-048	Library Witch	0	N/A
+NORM	C	EN-049	Magus Disciple	0	N/A
+NORM	SR	EN-050KS	Nimue, Cursed Touch	0	N/A
+NORM	C	EN-051	Opening Cut	0	N/A
+NORM	C	EN-052	Owl Familiar	0	N/A
+NORM	C	EN-053	Peer into Mana	0	N/A
+NORM	C	EN-054	Reckless Slash	0	N/A
+NORM	C	EN-055	Refurbish	0	N/A
+NORM	C	EN-056	Savage Slash	0	N/A
+NORM	C	EN-057	Scry the Skies	0	N/A
+NORM	C	EN-058	Sudden Steel	0	N/A
+NORM	C	EN-059	Training Session	0	N/A
+NORM	C	EN-060	Trusty Steed	0	N/A
+NORM	C	EN-061	Veteran Soldier	0	N/A
+NORM	C	EN-062	Weaponsmith	0	N/A
+NORM	C	EN-063	Woodland Squirrels	0	N/A
+FIRE	C	EN-064	Blazing Throw	0	N/A
+FIRE	U	EN-065	Blitz Mage	0	N/A
+FIRE	U	EN-066	Creative Shock	0	N/A
+FIRE	C	EN-067	Cremation Ritual	0	N/A
+FIRE	U	EN-068	Devastating Blow	0	N/A
+FIRE	R	EN-069KS	Disintegrate	0	N/A
+FIRE	U	EN-070	Fiery Momentum	0	N/A
+FIRE	C	EN-071	Fireball	0	N/A
+FIRE	R	EN-072KS	Flame Sweep	0	N/A
+FIRE	C	EN-073	Flame-Rune Swordsman	0	N/A
+FIRE	U	EN-074	Focused Flames	0	N/A
+FIRE	C	EN-075	Ignite the Soul	0	N/A
+FIRE	U	EN-076	Impassioned Tutor	0	N/A
+FIRE	U	EN-077	Increasing Danger	0	N/A
+FIRE	R	EN-078	Purge in Flames	0	N/A
+FIRE	R	EN-078KS	Purge in Flames	0	N/A
+FIRE	U	EN-079	Reckless Researcher	0	N/A
+FIRE	U	EN-080	Rending Flames	0	N/A
+FIRE	C	EN-081	Spark Alight	0	N/A
+FIRE	U	EN-082	Spurn to Ash	0	N/A
+FIRE	C	EN-083	Tempered Steel	0	N/A
+WIND	U	EN-084	Aesan Protector	0	N/A
+WIND	U	EN-085	Combo Strike	0	N/A
+WIND	U	EN-086	Disorienting Winds	0	N/A
+WIND	R	EN-087	Dream Fairy	0	N/A
+WIND	U	EN-088	Fairy Whispers	0	N/A
+WIND	C	EN-089	Favorable Winds	0	N/A
+WIND	R	EN-090	Hurricane Sweep	0	N/A
+WIND	C	EN-091	Rallied Advance	0	N/A
+WIND	R	EN-092KS	Ravaging Tempest	0	N/A
+WIND	C	EN-093	Reclaim	0	N/A
+WIND	R	EN-094KS	Scattering Gusts	0	N/A
+WIND	U	EN-095	Second Wind	0	N/A
+WIND	C	EN-096	Swift Recruit	0	N/A
+WIND	U	EN-097	Tactful Sergeant	0	N/A
+WIND	C	EN-098	Trained Hawk	0	N/A
+WIND	C	EN-099	Veiling Breeze	0	N/A
+WIND	C	EN-100	Wind Cutter	0	N/A
+ARCANE	U	EN-101	Anger the Skies	0	N/A
+ARCANE	U	EN-102	Arcane Blast	0	N/A
+ARCANE	U	EN-103	Arcane Disposition	0	N/A
+ARCANE	U	EN-104	Arcane Sight	0	N/A
+ARCANE	R	EN-105	Power Overwhelming	0	N/A
+ARCANE	R	EN-105KS	Power Overwhelming	0	N/A
+ARCANE	SR	EN-106KS	Reckless Conversion	0	N/A
+ARCANE	R	EN-107	Spellshield: Arcane	0	N/A
+CRUX	U	EN-108	Crux Sight	0	N/A
+CRUX	SR	EN-109KS	Ghosts of Pendragon	0	N/A
+CRUX	R	EN-110	Spirit Blade: Ascension	0	N/A
+CRUX	R	EN-110KS	Spirit Blade: Ascension	0	N/A
+CRUX	R	EN-111	Spirit Blade: Dispersion	0	N/A
+CRUX	R	EN-111KS	Spirit Blade: Dispersion	0	N/A
+CRUX	U	EN-112	Spirit Blade: Ghost Strike	0	N/A
+CRUX	U	EN-113	Spirit Blade: Infusion	0	N/A
+CRUX	R	EN-114	Spirit's Blessing	0	N/A

@@ -1,0 +1,7 @@
+NORM	PR	EN-001	Dungeon Guide	0	0
+NORM	PR	EN-002	Honorable Vanguard	0	0
+WATER	PR	EN-003	Bubble Mage	0	0
+WATER	PR	EN-004	Sink into Oblivion	0	0
+NORM	PR	EN-005	Kingdom Informant	0	0
+FIRE	PR	EN-006	Clumsy Apprentice	0	0
+NORM	CPR	EN-007	Banner Knight	N/A	0

@@ -1,0 +1,3 @@
+WATER	CSR	EN-001	Nia, Mistveiled Scout	N/A	0
+FIRE	CSR	EN-002	Arthur, Young Heir	N/A	0
+WATER	CSR	EN-003	Lunete, Frostbinder Priest	N/A	0
