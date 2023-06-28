@@ -1,0 +1,21 @@
+ARCANE	SR	EN-001	Arcane Blast	0	0
+NORM	R	EN-002	Barrier Servant	0	0
+FIRE	U	EN-003	Blitz Mage	0	0
+FIRE	R	EN-004	Cemetery Sentry	0	0
+NORM	U	EN-005	Esteemed Knight	0	0
+FIRE	R	EN-006	Fireball	0	0
+WATER	R	EN-007	Fishing Accident	0	0
+WATER	R	EN-008	Freezing Hail	0	0
+NORM	CSR	EN-009	Gildas, Chronicler of Aesa	N/A	0
+WIND	SR	EN-010	Hurricane Sweep	0	0
+NORM	CSR	EN-011	Nimue, Cursed Touch	N/A	0
+WIND	R	EN-012	Reclaim	0	0
+FIRE	SR	EN-013	Rending Flames	0	0
+WATER	SR	EN-014	Snow Fairy	0	0
+WATER	U	EN-015	Stillwater Patrol	0	0
+WIND	U	EN-016	Swift Recruit	0	0
+LUXEM	CSR	EN-017	Triskit, Guidance Angel	N/A	0
+NORM	U	EN-018	Veteran Soldier	0	0
+NORM	U	EN-019	Woodland Squirrels	0	0
+LUXEM	CSR	EN-020	Zander, Blinding Steel	N/A	0
+WIND	R	EN-021	Zephyr	0	0
