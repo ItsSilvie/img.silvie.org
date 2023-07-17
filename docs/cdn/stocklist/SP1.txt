@@ -19,3 +19,9 @@ NORM	U	EN-018	Veteran Soldier	0	0
 NORM	U	EN-019	Woodland Squirrels	0	0
 LUXEM	CSR	EN-020	Zander, Blinding Steel	N/A	0
 WIND	R	EN-021	Zephyr	0	0
+FIRE	PR	EN-022	Embertail Squirrel	0	N/A
+WATER	PR	EN-023	Giant Tortoise	0	N/A
+NORM	PR	EN-024	Gray Wolf	0	N/A
+WIND	PR	EN-025	Trained Hawk	0	N/A
+NORM	PR	EN-026	Trusty Steed	0	N/A
+WIND	PR	EN-027	Windstream Mutt	0	N/A
