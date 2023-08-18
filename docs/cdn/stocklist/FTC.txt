@@ -1,0 +1,98 @@
+FIRE	UR	EN-001	Spirit of Serene Fire	0	0
+WATER	UR	EN-002	Spirit of Serene Water	0	0
+WIND	UR	EN-003	Spirit of Serene Wind	0	0
+CRUX	SR	EN-004	Merlin, Kingslayer	0	0
+CRUX	CSR	EN-004A	Merlin, Kingslayer	N/A	0
+CRUX	CSR	EN-004B	Merlin, Kingslayer	N/A	0
+NORM	U	EN-005	Azure Protective Trinket	0	0
+NORM	U	EN-006	Crimson Protective Trinket	0	0
+NORM	UR	EN-007	Quicksilver Grail	0	N/A
+NORM	C	EN-008	Tariff Ring	0	0
+NORM	C	EN-009	Tithe Proclamation	0	0
+NORM	U	EN-010	Viridian Protective Trinket	0	0
+FIRE	R	EN-011	Beastsoul Visage	0	0
+FIRE	R	EN-012	Explosive Rune	0	0
+FIRE	R	EN-013	Firetongue	0	0
+FIRE	SR	EN-014	Varuckan Soulknife	0	0
+WATER	SR	EN-015	Arondight, Azure Blade	0	0
+WATER	R	EN-016	Cloak of Stillwater	0	0
+WATER	R	EN-017	Wand of Frost	0	0
+WATER	R	EN-018	Wildheart Lyre	0	0
+WIND	SR	EN-019	Effigy of Gaia	0	0
+WIND	SR	EN-020	Ventus, Staff of Zephyrs	0	0
+WIND	R	EN-021	Windwalker Boots	0	0
+WIND	R	EN-022	Zephyr's Edge	0	0
+CRUX	UR	EN-023	The Majestic Spirit	0	0
+CRUX	CSR	EN-023	The Majestic Spirit	N/A	0
+LUXEM	UR	EN-024	Fractured Crown	0	0
+TERA	R	EN-025	Covenant of Thorns	0	0
+NORM	SR	EN-026	Bedivere, Woodland Overseer	0	0
+NORM	CSR	EN-026	Bedivere, Woodland Overseer	N/A	0
+NORM	SR	EN-027	Blanche, Sheltering Saint	0	0
+NORM	CSR	EN-027	Blanche, Sheltering Saint	N/A	0
+NORM	C	EN-028	Capricious Lynx	0	0
+NORM	C	EN-029	Cunning Broker	0	0
+NORM	SR	EN-030	Dawn of Ashes	0	0
+NORM	C	EN-031	Develop Mana	0	0
+NORM	C	EN-032	Fast Cure	0	0
+NORM	C	EN-033	Fractal of Insight	0	0
+NORM	SR	EN-034	Gawain, Chivalrous Thief	0	0
+NORM	R	EN-035	Gentle Respite	0	0
+NORM	C	EN-036	Imperious Highlander	0	0
+NORM	SR	EN-037	Lancelot, Goliath of Aesa	0	0
+NORM	CSR	EN-037	Lancelot, Goliath of Aesa	N/A	0
+NORM	C	EN-038	Lurking Assailant	0	0
+NORM	SR	EN-039	Morgan, Soul Guide	0	0
+NORM	CSR	EN-039	Morgan, Soul Guide	N/A	0
+NORM	C	EN-040	Ordinary Bear	0	0
+NORM	C	EN-041	Peaceful Reunion	0	0
+NORM	SR	EN-042	Prismatic Sanctuary	0	0
+NORM	U	EN-043	Resolute Stand	0	0
+NORM	UR	EN-044	Right of Realm	0	0
+NORM	C	EN-045	Scavenging Raccoon	0	0
+NORM	C	EN-046	Seeking Shot	0	0
+NORM	C	EN-047	Stalwart Shieldmate	0	0
+NORM	C	EN-048	Steady Verse	0	0
+NORM	C	EN-049	Thieving Cut	0	0
+FIRE	C	EN-050	Blazing Bowman	0	0
+FIRE	U	EN-051	Corhazi Arsonist	0	0
+FIRE	C	EN-052	Flamebreak Chorus	0	0
+FIRE	C	EN-053	Hone by Fire	0	0
+FIRE	C	EN-054	Incendiary Fractal	0	0
+FIRE	R	EN-055	Innervate Fury	0	0
+FIRE	U	EN-056	Red Slime	0	0
+FIRE	U	EN-057	Varuckan Acolyte	0	0
+WATER	U	EN-058	Corhazi Trapper	0	0
+WATER	C	EN-059	Deep Sea Fractal	0	0
+WATER	R	EN-060	Fractal of Intrusion	0	0
+WATER	R	EN-061	Fracturize	0	0
+WATER	U	EN-062	Frostbind	0	0
+WATER	U	EN-063	Frostbinder Apostle	0	0
+WATER	U	EN-064	Guarded Dissipation	0	0
+WATER	R	EN-065	Innervate Knowledge	0	0
+WATER	U	EN-066	Ocean's Blessing	0	0
+WATER	C	EN-067	Protective Fractal	0	0
+WATER	U	EN-068	Refracting Missile	0	0
+WATER	C	EN-069	Riptide Slash	0	0
+WATER	C	EN-070	Song of Frost	0	0
+WIND	C	EN-071	Anthem of Vitality	0	0
+WIND	U	EN-072	Corhazi Outlook	0	0
+WIND	C	EN-073	Dematerialize	0	0
+WIND	R	EN-074	Displace	0	0
+WIND	U	EN-075	Green Slime	0	0
+WIND	R	EN-076	Innervate Agility	0	0
+WIND	C	EN-077	Intrepid Spearman	0	0
+WIND	C	EN-078	Mark of Fervor	0	0
+WIND	R	EN-079	Parcenet, Royal Maid	0	0
+WIND	U	EN-080	Rally the Peasants	0	0
+WIND	U	EN-081	Scatter Essence	0	0
+WIND	U	EN-082	Windrider Invoker	0	0
+ARCANE	R	EN-083	Shock Therapy	0	0
+ARCANE	SR	EN-084	Voltaic Sphere	0	0
+CRUX	SR	EN-085	Incarnate Majesty	0	0
+CRUX	R	EN-086	Slay the King	0	0
+LUXEM	R	EN-087	Illuminate Secrets	0	0
+LUXEM	SR	EN-088	Uther, Illustrious King	0	0
+TERA	R	EN-089	Avatar of Gaia	0	0
+TERA	SR	EN-090	Kraal, Stonescale Tyrant	0	0
+TERA	CSR	EN-090	Kraal, Stonescale Tyrant	N/A	0

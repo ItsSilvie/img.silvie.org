@@ -1,0 +1,26 @@
+NORM	SR	EN-001	Assassin's Ripper	N/A	0
+NORM	SR	EN-002	Bauble of Abundance	N/A	0
+NORM	SR	EN-003	Beastbond Boots	N/A	0
+NORM	SR	EN-004	Beastbond Ears	N/A	0
+NORM	SR	EN-005	Beastbond Paws	N/A	0
+NORM	SR	EN-006	Crystal of Empowerment	N/A	0
+NORM	SR	EN-007	Curved Dagger	N/A	0
+NORM	SR	EN-008	Drawn Blade	N/A	0
+NORM	SR	EN-009	Endura, Scepter of Ignition	N/A	0
+NORM	SR	EN-010	Fire Resonance Bauble	N/A	0
+NORM	SR	EN-011	Jewel of Enlightenment	N/A	0
+NORM	SR	EN-012	Mana Limiter	N/A	0
+NORM	SR	EN-013	Melodious Flute	N/A	0
+NORM	SR	EN-014	Ornamental Greatsword	N/A	0
+NORM	SR	EN-015	Poisoned Dagger	N/A	0
+NORM	UR	EN-016	Quicksilver Grail	N/A	0
+NORM	SR	EN-017	Safeguard Amulet	N/A	0
+NORM	SR	EN-018	Seer's Sword	N/A	0
+NORM	SR	EN-019	Sharpening Stone	N/A	0
+NORM	SR	EN-020	Smoke Bombs	N/A	0
+NORM	SR	EN-021	Surveillance Stone	N/A	0
+NORM	SR	EN-022	Sword of Seeking	N/A	0
+NORM	SR	EN-023	Tome of Knowledge	N/A	0
+NORM	SR	EN-024	Warrior's Longsword	N/A	0
+NORM	SR	EN-025	Water Resonance Bauble	N/A	0
+NORM	SR	EN-026	Wind Resonance Bauble	N/A	0
