@@ -3,4 +3,4 @@ FIRE	CSR	EN-002	Arthur, Young Heir	N/A	0
 WATER	CSR	EN-003	Lunete, Frostbinder Priest	N/A	0
 NORM	CSR	EN-004	Gawain, Chivalrous Thief	N/A	0
 WIND	CSR	EN-005	Parcenet, Royal Maid	N/A	0
-LUXEM	CSR	EN-006	Uther, Illustrious King	N/A	N/A
+LUXEM	CSR	EN-006	Uther, Illustrious King	N/A	0
