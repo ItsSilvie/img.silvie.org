@@ -1,2 +1,3 @@
 WATER	PR	EN-001	Scepter of Lumina	N/A	N/A
 TERA	PR	EN-002	Stonescale Band	N/A	N/A
+LUXEM	PR	EN-003	Insignia of the Corhazi	N/A	N/A

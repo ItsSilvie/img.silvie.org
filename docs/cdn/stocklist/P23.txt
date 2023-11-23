@@ -4,6 +4,7 @@ NORM	PR	EN-003	Nullifying Lantern	0	0
 NORM	PR	EN-004	Scavenging Raccoon	0	0
 NORM	PR	EN-005	Imperious Highlander	0	0
 NORM	PR	EN-006	Inspiring Call	0	0
+NORM	CSR	EN-006	Inspiring Call	N/A	N/A
 FIRE	PR	EN-007	Hasty Messenger	0	0
 WATER	PR	EN-008	Tide Diviner	N/A	0
 FIRE	CPR	EN-009	Aithne, Spirit of Fire	N/A	0
@@ -12,3 +13,6 @@ NORM	PR	EN-011	Prismatic Spirit	0	N/A
 NORM	PR	EN-012	Gate of Alterity	0	N/A
 NORM	PR	EN-013	Orb of Regret	N/A	0
 NORM	PR	EN-014	Orb of Glitter	N/A	0
+NORM	PR	EN-016	Ordinary Bear	N/A	N/A
+FIRE	PR	EN-019	Creative Shock	N/A	N/A
+FIRE	CSR	EN-019	Creative Shock	N/A	N/A
