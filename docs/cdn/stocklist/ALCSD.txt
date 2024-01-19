@@ -1,0 +1,111 @@
+FIRE	C	EN-001	Spirit of Fire	0	N/A
+WATER	C	EN-002	Spirit of Water	0	N/A
+WIND	C	EN-003	Spirit of Wind	0	N/A
+NORM	C	EN-004	Arisanna, Herbalist Prodigy	0	N/A
+NORM	C	EN-005	Arisanna, Master Alchemist	0	N/A
+ASTRA	C	EN-006	Arisanna, Astral Zenith	0	N/A
+ASTRA	CSR	EN-006	Arisanna, Astral Zenith	N/A	0
+NORM	C	EN-007	Diana, Keen Huntress	0	N/A
+NORM	C	EN-008	Diana, Deadly Duelist	0	N/A
+UMBRA	C	EN-009	Diana, Duskstalker	0	N/A
+UMBRA	CSR	EN-009	Diana, Duskstalker	N/A	0
+NORM	C	EN-010	Tonoris, Lone Mercenary	0	N/A
+NORM	C	EN-011	Tonoris, Might of Humanity	0	N/A
+NEOS	C	EN-012	Tonoris, Genesis Aegis	0	N/A
+NEOS	CSR	EN-012	Tonoris, Genesis Aegis	N/A	0
+NORM	R	EN-013	Blastshot Pump	0	N/A
+NORM	U	EN-014	Bulwark Sword	0	N/A
+NORM	U	EN-015	Charged Manaplate	0	N/A
+NORM	U	EN-016	Cleric Robes	0	N/A
+NORM	U	EN-017	Crest of the Alliance	0	N/A
+NORM	R	EN-018	Flash Grenade	0	N/A
+NORM	U	EN-019	Ingredient Pouch	0	N/A
+NORM	U	EN-020	Life Essence Amulet	0	N/A
+NORM	U	EN-021	Necklace of Foresight	0	N/A
+NORM	U	EN-022	Plated Bullet	0	N/A
+NORM	U	EN-023	Powercharged Shield	0	N/A
+NORM	U	EN-024	Prototype Pistol	0	N/A
+NORM	R	EN-025	Prototype Staff	0	N/A
+NORM	U	EN-026	Quickdraw Piercer	0	N/A
+NORM	U	EN-027	Scale of Souls	0	N/A
+NORM	U	EN-028	Synth Disrupter	0	N/A
+NORM	R	EN-029	Tasershot	0	N/A
+NORM	R	EN-030	Worn Gearblade	0	N/A
+FIRE	R	EN-031	Penetrator Round	0	N/A
+WIND	R	EN-032	Deployment Beacon	0	N/A
+ASTRA	R	EN-033	Cosmic Astroscope	0	N/A
+NEOS	R	EN-034	Archon Broadsword	0	N/A
+NEOS	SR	EN-035	Sentinel Fabricator	0	N/A
+UMBRA	SR	EN-036	Shadow's Twin	0	N/A
+NORM	C	EN-037	Academy Attendant	0	N/A
+NORM	C	EN-038	Automaton Drone	0	N/A
+NORM	C	EN-039	Backstep	0	N/A
+NORM	C	EN-040	Barter Herbs	0	N/A
+NORM	C	EN-041	Blightroot	0	N/A
+NORM	C	EN-042	Caretaker Drone	0	N/A
+NORM	C	EN-043	Evasive Maneuvers	0	N/A
+NORM	C	EN-044	Foraging Servant	0	N/A
+NORM	C	EN-045	Fortified Mana Shield	0	N/A
+NORM	C	EN-046	Fraysia	0	N/A
+NORM	C	EN-047	Heavy Swing	0	N/A
+NORM	C	EN-048	Idle Thoughts	0	N/A
+NORM	C	EN-049	Imperial Recruit	0	N/A
+NORM	C	EN-050	Imperial Rifleman	0	N/A
+NORM	C	EN-051	Imperial Sentry	0	N/A
+NORM	C	EN-052	Into the Fray	0	N/A
+NORM	C	EN-053	Manaroot	0	N/A
+NORM	C	EN-054	Martial Guard	0	N/A
+NORM	C	EN-055	Materialize Munitions	0	N/A
+NORM	C	EN-056	Novice Mechanist	0	N/A
+NORM	C	EN-057	Potion of Healing	0	N/A
+NORM	C	EN-058	Razorvine	0	N/A
+NORM	C	EN-059	Reposition	0	N/A
+NORM	C	EN-060	Scry the Skies	0	N/A
+NORM	C	EN-061	Serum of Wisdom	0	N/A
+NORM	C	EN-062	Silvershine	0	N/A
+NORM	C	EN-063	Springleaf	0	N/A
+NORM	C	EN-064	Stalwart Shieldmate	0	N/A
+NORM	U	EN-065	Supply Drone	0	N/A
+NORM	C	EN-066	Take Aim	0	N/A
+NORM	R	EN-067	Take Cover	0	N/A
+NORM	C	EN-068	Take Point	0	N/A
+NORM	C	EN-069	Trained Sharpshooter	0	N/A
+FIRE	C	EN-070	Airship Engineer	0	N/A
+FIRE	C	EN-071	Automaton Bomber	0	N/A
+FIRE	U	EN-072	Force Load	0	N/A
+FIRE	C	EN-073	Incendiary Shot	0	N/A
+FIRE	U	EN-074	Rocket Jump	0	N/A
+WATER	U	EN-075	Essence of Blizzards	0	N/A
+WATER	U	EN-076	Flash Freeze	0	N/A
+WATER	C	EN-077	Hypothermia	0	N/A
+WATER	C	EN-078	Krustallan Distiller	0	N/A
+WATER	U	EN-079	Perfect Repulsion	0	N/A
+WATER	R	EN-080	Potion Infusion: Clarity	0	N/A
+WATER	U	EN-081	Potion Infusion: Frostbite	0	N/A
+WATER	C	EN-082	Stream of Consciousness	0	N/A
+WATER	U	EN-083	Water Barrier	0	N/A
+WIND	R	EN-084	Cyclonic Strike	0	N/A
+WIND	U	EN-085	Recruitment Officer	0	N/A
+WIND	C	EN-086	Rousing Slam	0	N/A
+WIND	U	EN-087	Winds of Retribution	0	N/A
+WIND	U	EN-088	Young Peacekeeper	0	N/A
+ASTRA	U	EN-089	Astra Sight	0	N/A
+ASTRA	R	EN-090	Cometfall	0	N/A
+ASTRA	R	EN-091	Condensed Supernova	0	N/A
+ASTRA	U	EN-092	Cosmic Bolt	0	N/A
+ASTRA	R	EN-093	Potion Infusion: Starlight	0	N/A
+ASTRA	R	EN-094	Spellshield: Astra	0	N/A
+NEOS	SR	EN-095	Assemble the Ancients	0	N/A
+NEOS	C	EN-096	Aurousteel Greatsword	0	N/A
+NEOS	U	EN-097	Neos Sight	0	N/A
+NEOS	C	EN-098	Obelisk of Armaments	0	N/A
+NEOS	C	EN-099	Obelisk of Fabrication	0	N/A
+NEOS	C	EN-100	Obelisk of Protection	0	N/A
+NEOS	U	EN-101	Smash with Obelisk	0	N/A
+NEOS	U	EN-102	Summon Sentinels	0	N/A
+UMBRA	SR	EN-103	Anathema's End	0	N/A
+UMBRA	C	EN-104	Creeping Torment	0	N/A
+UMBRA	R	EN-105	Mindbreak Bullet	0	N/A
+UMBRA	U	EN-106	Umbra Sight	0	N/A
+UMBRA	R	EN-107	Umbral Tithe	0	N/A
+UMBRA	SR	EN-108	Violet Haze	0	N/A

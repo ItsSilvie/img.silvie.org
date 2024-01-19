@@ -1,6 +1,9 @@
-WATER	CSR	EN-001	Nia, Mistveiled Scout	N/A	0
+WATER	CSR	EN-001	Nia, Mistveiled Scout	0	0
 FIRE	CSR	EN-002	Arthur, Young Heir	N/A	0
 WATER	CSR	EN-003	Lunete, Frostbinder Priest	N/A	0
 NORM	CSR	EN-004	Gawain, Chivalrous Thief	N/A	0
 WIND	CSR	EN-005	Parcenet, Royal Maid	N/A	0
 LUXEM	CSR	EN-006	Uther, Illustrious King	N/A	0
+ASTRA	CSR	EN-007	Astarte, Celestial Dawn	N/A	0
+WATER	CSR	EN-008	Geni, Gifted Mechanist	N/A	0
+WIND	CSR	EN-009	Perse, Relentless Raptor	N/A	0

@@ -1,0 +1,41 @@
+NORM	PR	EN-001	Blastshot Pump	N/A	N/A
+NORM	PR	EN-002	Bulwark Sword	N/A	N/A
+NORM	PR	EN-003	Charged Manaplate	N/A	N/A
+NORM	PR	EN-004	Cleric Robes	N/A	N/A
+NORM	PR	EN-005	Crest of the Alliance	N/A	N/A
+NORM	PR	EN-006	Flash Grenade	N/A	N/A
+NORM	PR	EN-007	Ingredient Pouch	N/A	N/A
+NORM	PR	EN-008	Life Essence Amulet	N/A	N/A
+NORM	PR	EN-009	Necklace of Foresight	N/A	N/A
+NORM	PR	EN-010	Plated Bullet	N/A	N/A
+NORM	PR	EN-011	Powercharged Shield	N/A	N/A
+NORM	PR	EN-012	Prototype Pistol	N/A	N/A
+NORM	PR	EN-013	Prototype Staff	N/A	N/A
+NORM	PR	EN-014	Quickdraw Piercer	N/A	N/A
+NORM	PR	EN-015	Scale of Souls	N/A	N/A
+NORM	PR	EN-016	Synth Disrupter	N/A	N/A
+NORM	PR	EN-017	Tasershot	N/A	N/A
+NORM	PR	EN-018	Worn Gearblade	N/A	N/A
+FIRE	PR	EN-019	Penetrator Round	N/A	N/A
+WIND	PR	EN-020	Deployment Beacon	N/A	N/A
+ASTRA	PR	EN-021	Cosmic Astroscope	N/A	N/A
+NEOS	PR	EN-022	Archon Broadsword	N/A	N/A
+NEOS	PR	EN-023	Sentinel Fabricator	N/A	N/A
+UMBRA	PR	EN-024	Shadow's Twin	N/A	N/A
+NORM	PR	EN-025	Backstep	N/A	N/A
+NORM	PR	EN-026	Evasive Maneuvers	N/A	N/A
+NORM	PR	EN-027	Foraging Servant	N/A	N/A
+NORM	PR	EN-028	Fortified Mana Shield	N/A	N/A
+NORM	PR	EN-029	Heavy Swing	N/A	N/A
+NORM	PR	EN-030	Imperial Recruit	N/A	N/A
+NORM	PR	EN-031	Imperial Rifleman	N/A	N/A
+NORM	PR	EN-032	Imperial Sentry	N/A	N/A
+NORM	PR	EN-033	Martial Guard	N/A	N/A
+NORM	PR	EN-034	Materialize Munitions	N/A	N/A
+NORM	PR	EN-035	Novice Mechanist	N/A	N/A
+NORM	PR	EN-036	Stalwart Shieldmate	N/A	N/A
+NORM	PR	EN-037	Take Point	N/A	N/A
+FIRE	PR	EN-038	Incendiary Shot	N/A	N/A
+WATER	PR	EN-039	Essence of Blizzards	N/A	N/A
+WIND	PR	EN-040	Recruitment Officer	N/A	N/A
+ASTRA	PR	EN-041	Cosmic Bolt	N/A	N/A

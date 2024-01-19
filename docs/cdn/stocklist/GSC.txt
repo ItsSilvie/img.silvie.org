@@ -1,3 +1,5 @@
 WIND	PR	EN-001	Favorable Winds	0	0
 NORM	PR	EN-002	Empowering Harmony	0	0
 NORM	PR	EN-003	Strategic Planning	0	0
+FIRE	PR	EN-004	Spark Alight	0	0
+NORM	PR	EN-005	Idle Thoughts	0	0

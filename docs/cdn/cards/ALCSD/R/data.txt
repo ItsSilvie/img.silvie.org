@@ -1,0 +1,1 @@
+013 Blastshot Pump,018 Flash Grenade,025 Prototype Staff,029 Tasershot,030 Worn Gearblade,031 Penetrator Round,032 Deployment Beacon,033 Cosmic Astroscope,034 Archon Broadsword,067 Take Cover,080 Potion Infusion: Clarity,084 Cyclonic Strike,090 Cometfall,091 Condensed Supernova,093 Potion Infusion: Starlight,094 Spellshield: Astra,105 Mindbreak Bullet,107 Umbral Tithe
