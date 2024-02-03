@@ -3,9 +3,9 @@ NORM	PR	CN-002	Backstep	N/A	N/A
 FIRE	PR	CN-003	Cremation Ritual	N/A	N/A
 FIRE	CPR	CN-003	Cremation Ritual	N/A	N/A
 FIRE	PR	CN-004	Force Load	N/A	N/A
-NORM	CPR	CN-005	Healing Aura	N/A	N/A
+NORM	PR	CN-005	Healing Aura	N/A	N/A
 WATER	PR	CN-006	Hypothermia	N/A	N/A
-WATER	CSR	CN-006	Hypothermia	N/A	N/A
+WATER	CPR	CN-006	Hypothermia	N/A	N/A
 NORM	PR	CN-007	Imperial Recruit	N/A	N/A
 FIRE	PR	CN-008	Increasing Danger	N/A	N/A
 FIRE	CPR	CN-008	Increasing Danger	N/A	N/A
