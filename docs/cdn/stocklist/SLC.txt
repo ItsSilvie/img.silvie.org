@@ -1,19 +1,19 @@
-NORM	PR	CN-001	Allied Warpriestess	N/A	N/A
-NORM	PR	CN-002	Backstep	N/A	N/A
-FIRE	PR	CN-003	Cremation Ritual	N/A	N/A
-FIRE	CPR	CN-003	Cremation Ritual	N/A	N/A
-FIRE	PR	CN-004	Force Load	N/A	N/A
-NORM	PR	CN-005	Healing Aura	N/A	N/A
-WATER	PR	CN-006	Hypothermia	N/A	N/A
-WATER	CPR	CN-006	Hypothermia	N/A	N/A
-NORM	PR	CN-007	Imperial Recruit	N/A	N/A
-FIRE	PR	CN-008	Increasing Danger	N/A	N/A
-FIRE	CPR	CN-008	Increasing Danger	N/A	N/A
-NORM	PR	CN-009	Lurking Assailant	N/A	N/A
-NORM	PR	CN-010	Navigate the Streets	N/A	N/A
-NORM	PR	CN-011	Potion of Healing	N/A	N/A
-NORM	PR	CN-012	Resolute Stand	N/A	N/A
-NORM	CPR	CN-012	Resolute Stand	N/A	N/A
-NORM	PR	CN-013	Study the Fables	N/A	N/A
-FIRE	PR	CN-014	Varuckan Acolyte	N/A	N/A
-WIND	PR	CN-015	Windrider Vanguard	N/A	N/A
+NORM	PR	CN-001	Allied Warpriestess	0	0
+NORM	PR	CN-002	Backstep	0	0
+FIRE	PR	CN-003	Cremation Ritual	0	0
+FIRE	CPR	CN-003	Cremation Ritual	N/A	0
+FIRE	PR	CN-004	Force Load	0	0
+NORM	PR	CN-005	Healing Aura	0	0
+WATER	PR	CN-006	Hypothermia	0	0
+WATER	CPR	CN-006	Hypothermia	N/A	0
+NORM	PR	CN-007	Imperial Recruit	0	0
+FIRE	PR	CN-008	Increasing Danger	0	0
+FIRE	CPR	CN-008	Increasing Danger	N/A	0
+NORM	PR	CN-009	Lurking Assailant	0	0
+NORM	PR	CN-010	Navigate the Streets	0	0
+NORM	PR	CN-011	Potion of Healing	0	0
+NORM	PR	CN-012	Resolute Stand	0	0
+NORM	CPR	CN-012	Resolute Stand	N/A	0
+NORM	PR	CN-013	Study the Fables	0	0
+FIRE	PR	CN-014	Varuckan Acolyte	0	0
+WIND	PR	CN-015	Windrider Vanguard	0	0

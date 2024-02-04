@@ -1,1 +1,1 @@
-CN-003 Cremation Ritual,CN-005 Healing Aura,CN-008 Increasing Danger,CN-012 Resolute Stand
+CN-003 Cremation Ritual,CN-006 Hypothermia,CN-008 Increasing Danger,CN-012 Resolute Stand
