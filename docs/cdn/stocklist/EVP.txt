@@ -1,4 +1,4 @@
-WATER	CSR	EN-001	Nia, Mistveiled Scout	0	0
+WATER	CSR	EN-001	Nia, Mistveiled Scout	N/A	0
 FIRE	CSR	EN-002	Arthur, Young Heir	N/A	0
 WATER	CSR	EN-003	Lunete, Frostbinder Priest	N/A	0
 NORM	CSR	EN-004	Gawain, Chivalrous Thief	N/A	0

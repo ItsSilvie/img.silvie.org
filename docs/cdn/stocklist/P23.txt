@@ -18,5 +18,5 @@ NORM	PR	EN-016	Ordinary Bear	0	0
 NORM	PR	EN-017	Fast Cure	N/A	0
 NORM	PR	EN-018	Tithe Proclamation	N/A	0
 FIRE	PR	EN-019	Creative Shock	N/A	N/A
-FIRE	CSR	EN-019	Creative Shock	N/A	N/A
+FIRE	CPR	EN-019	Creative Shock	N/A	N/A
 WATER	CPR	EN-020	Sabrina, Spirit of Water	N/A	0
