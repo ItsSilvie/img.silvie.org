@@ -1,0 +1,34 @@
+NORM	C	EN-001	Spirit of Slime	N/A	N/A
+NORM	C	EN-002	Silvie, Wilds Whisperer	N/A	N/A
+NORM	C	EN-003	Silvie, With the Pack	N/A	N/A
+TERA	SR	EN-004	Silvie, Slime Sovereign	N/A	N/A
+TERA	CSR	EN-004	Silvie, Slime Sovereign	N/A	N/A
+NORM	R	EN-005	Bauble of Mending	N/A	N/A
+NORM	C	EN-006	Beastbond Ears	N/A	N/A
+NORM	C	EN-007	Beastbond Paws	N/A	N/A
+NORM	R	EN-008	Key Slime Pudding	N/A	N/A
+NORM	C	EN-009	Life Essence Amulet	N/A	N/A
+NORM	R	EN-010	Slime Nexus	N/A	N/A
+TERA	SR	EN-011	Slime Totem	N/A	N/A
+TERA	SR	EN-012	Verdant Scepter	N/A	N/A
+NORM	U	EN-013	Baby Gray Slime	N/A	N/A
+NORM	R	EN-014	Forest Cake	N/A	N/A
+NORM	C	EN-015	Idle Thoughts	N/A	N/A
+NORM	R	EN-016	Limitless Slime	N/A	N/A
+NORM	C	EN-017	Smack with Flute	N/A	N/A
+NORM	C	EN-018	Song of Nurturing	N/A	N/A
+FIRE	R	EN-019	Baby Red Slime	N/A	N/A
+FIRE	U	EN-020	Red Slime	N/A	N/A
+FIRE	U	EN-021	Slime Eruption	N/A	N/A
+WATER	R	EN-022	Baby Blue Slime	N/A	N/A
+WATER	U	EN-023	Blue Slime	N/A	N/A
+WATER	R	EN-024	Gather Slimes	N/A	N/A
+WIND	R	EN-025	Baby Green Slime	N/A	N/A
+WIND	U	EN-026	Green Slime	N/A	N/A
+WIND	R	EN-027	Slime's Blessing	N/A	N/A
+WIND	R	EN-028	Slimeshield	N/A	N/A
+ARCANE	SR	EN-029	Storm Slime	N/A	N/A
+CRUX	SR	EN-030	Ethereal Slime	N/A	N/A
+LUXEM	R	EN-031	Lustrous Slime	N/A	N/A
+TERA	UR	EN-032	Slime King	N/A	N/A
+TERA	R	EN-033	Verdant Slime	N/A	N/A

@@ -1,0 +1,207 @@
+FIRE	UR	EN-001	Fragmented Spirit of Fire	0	0
+WATER	UR	EN-002	Fragmented Spirit of Water	0	0
+WIND	UR	EN-003	Fragmented Spirit of Wind	0	0
+NORM	C	EN-004	Tristan, Underhanded	0	0
+NORM	CSR	EN-004	Tristan, Underhanded	N/A	0
+NORM	C	EN-005	Tristan, Hired Blade	0	0
+NORM	CSR	EN-005	Tristan, Hired Blade	N/A	0
+UMBRA	SR	EN-006	Tristan, Shadowreaver	0	0
+UMBRA	CUR	EN-006	Tristan, Shadowreaver	N/A	0
+NORM	R	EN-007	Alkahest	0	0
+NORM	R	EN-008	Backup Charger	0	0
+NORM	SR	EN-009	Clockwork Musicbox	0	0
+NORM	R	EN-010	Framework Sidearm	0	0
+NORM	R	EN-011	Mercenary's Blade	0	0
+NORM	UR	EN-012	Mercurial Heart	0	0
+NORM	R	EN-013	Prototype Shield	0	0
+NORM	R	EN-014	Steel Slug	0	0
+NORM	R	EN-015	Worn Diary	0	0
+FIRE	R	EN-016	Blast Shield	0	0
+FIRE	R	EN-017	Contraband Revolver	0	0
+FIRE	R	EN-018	Forgelight Blade	0	0
+FIRE	R	EN-019	Impact Hammer	0	0
+WATER	R	EN-020	Krustallan Longsword	0	0
+WATER	R	EN-021	Loaded Thoughts	0	0
+WATER	SR	EN-022	Tideholder Claymore	0	0
+WATER	R	EN-023	Vaporjet Shield	0	0
+WIND	R	EN-024	Ceremonial Stormblade	0	0
+WIND	R	EN-025	Emerald Pistol	0	0
+WIND	SR	EN-026	Mechanized Smasher	0	0
+WIND	R	EN-027	Winbless Kiteshield	0	0
+WIND	SR	EN-028	Windpiercer	0	0
+ASTRA	R	EN-029	Lunar Conduit	0	0
+NEOS	SR	EN-030	Aegis of Dawn	0	0
+NEOS	R	EN-031	Alchemical Scripture	0	0
+UMBRA	SR	EN-032	Gloamspire Mantle	0	0
+UMBRA	R	EN-033	Memento Mori	0	0
+UMBRA	UR	EN-034	Shadow's Claw	0	0
+UMBRA	SR	EN-035	Sorrowcaller	0	0
+NORM	SR	EN-036	Atmos Armor Type-Hermes	0	0
+NORM	CSR	EN-036	Atmos Armor Type-Hermes	N/A	0
+NORM	U	EN-037	Automaton Beastkeeper	0	0
+NORM	C	EN-038	Automaton Drone	0	0
+NORM	C	EN-039	Bandage Wound	0	0
+NORM	SR	EN-040	Bertha, Spry Howitzer	0	0
+NORM	C	EN-041	Blightroot	0	0
+NORM	U	EN-042	Buried Grief	0	0
+NORM	C	EN-043	Cell Assembler	0	0
+NORM	U	EN-044	Charged Hunter	0	0
+NORM	C	EN-045	Charged Mannequin	0	0
+NORM	U	EN-046	City Protector	0	0
+NORM	R	EN-047	Critical Recovery	0	0
+NORM	C	EN-048	Dodge Roll	0	0
+NORM	SR	EN-049	Engineered Slime	0	0
+NORM	C	EN-050	Fraysia	0	0
+NORM	C	EN-051	Gearshift Block	0	0
+NORM	R	EN-052	Geldus, Terror of Dorumegia	0	0
+NORM	R	EN-053	Harvester Mk II	0	0
+NORM	U	EN-054	Hide in Bush	0	0
+NORM	C	EN-055	Hub of Innovation	0	0
+NORM	C	EN-056	Imperial Spy	0	0
+NORM	C	EN-057	Machined Monstrosity	0	0
+NORM	C	EN-058	Manaroot	0	0
+NORM	C	EN-059	Manufacture Cell	0	0
+NORM	U	EN-060	Mechanical Hare	0	0
+NORM	C	EN-061	Novice Healer	0	0
+NORM	C	EN-062	Nurture Crops	0	0
+NORM	UR	EN-063	Overlord Mk III	0	0
+NORM	C	EN-064	Powercell	0	0
+NORM	C	EN-064	Powercell	0	0
+NORM	C	EN-065	Purification	0	0
+NORM	C	EN-066	Razorvine	0	0
+NORM	C	EN-067	Reprogram	0	0
+NORM	C	EN-068	Retold Fortune	0	0
+NORM	SR	EN-069	Sadi, Blood Harvester	0	0
+NORM	CSR	EN-069	Sadi, Blood Harvester	N/A	0
+NORM	C	EN-070	Savage Smash	0	0
+NORM	C	EN-071	Sharpen Blade	0	0
+NORM	C	EN-072	Silvershine	0	0
+NORM	C	EN-073	Spirit Shard	0	0
+NORM	C	EN-074	Springleaf	0	0
+NORM	C	EN-075	Synthetic Strike	0	0
+NORM	U	EN-076	Tonic of Remembrance	0	0
+NORM	C	EN-077	Turbo Charge	0	0
+NORM	C	EN-078	Vicious Slice	0	0
+FIRE	C	EN-079	Airship Captain	0	0
+FIRE	C	EN-080	Arsenal Keeper	0	0
+FIRE	SR	EN-081	Calamity Cannon	0	0
+FIRE	CSR	EN-081	Calamity Cannon	N/A	0
+FIRE	C	EN-082	Captivating Cutthroat	0	0
+FIRE	C	EN-083	Cell Forging	0	0
+FIRE	R	EN-084	Cell Handler	0	0
+FIRE	C	EN-085	Charged Alchemist	0	0
+FIRE	U	EN-086	Charged Gunslinger	0	0
+FIRE	C	EN-087	Cinderbloom Tender	0	0
+FIRE	C	EN-088	Embershield Keeper	0	0
+FIRE	U	EN-089	Kindling Flare	0	0
+FIRE	U	EN-090	Molten Cinder	0	0
+FIRE	U	EN-091	Potion Infusion: Blaze	0	0
+FIRE	C	EN-092	Powered Bishop	0	0
+FIRE	C	EN-093	Powered Sentinel	0	0
+FIRE	U	EN-094	Priestess of Flame	0	0
+FIRE	C	EN-095	Pyroclastic Flow	0	0
+FIRE	C	EN-096	Reduce to Ash	0	0
+FIRE	U	EN-097	Scorching Trap	0	0
+FIRE	U	EN-098	Smashing Force	0	0
+FIRE	U	EN-099	Surge Protector	0	0
+FIRE	C	EN-100	Surging Bolt	0	0
+FIRE	U	EN-101	Under Fire	0	0
+FIRE	SR	EN-102	Vermilion Decree	0	0
+FIRE	U	EN-103	Volatile Fusilier	0	0
+WATER	U	EN-104	Aqua Vitae	0	0
+WATER	U	EN-105	Cell Converter	0	0
+WATER	U	EN-106	Cell Sharpshooter	0	0
+WATER	SR	EN-107	Cerulean Decree	0	0
+WATER	U	EN-108	Collapsing Trap	0	0
+WATER	C	EN-109	Desperate Dive	0	0
+WATER	C	EN-110	Enthralling Visage	0	0
+WATER	U	EN-111	Eternal Dreamer	0	0
+WATER	U	EN-112	Fractal of Rain	0	0
+WATER	C	EN-113	Freezing Steel	0	0
+WATER	R	EN-114	Frost Shard	0	0
+WATER	U	EN-115	Hailstorm Guard	0	0
+WATER	C	EN-116	Hidden Enclave	0	0
+WATER	SR	EN-117	Icebound Slam	0	0
+WATER	R	EN-118	Imperial Apprentice	0	0
+WATER	C	EN-119	Imperial Scout	0	0
+WATER	R	EN-120	Krustallan Patrol	0	0
+WATER	U	EN-121	Krustallan Ruins	0	0
+WATER	R	EN-122	Lost in Thought	0	0
+WATER	SR	EN-123	Naia, Diviner of Fortunes	0	0
+WATER	CSR	EN-123	Naia, Diviner of Fortunes	N/A	0
+WATER	U	EN-124	Portside Pirate	0	0
+WATER	U	EN-125	Potion Infusion: Seal	0	0
+WATER	R	EN-126	Powered Defender	0	0
+WATER	C	EN-127	Powered Swordsman	0	0
+WATER	R	EN-128	Primordial Ritual	0	0
+WATER	C	EN-129	Purified Shot	0	0
+WATER	SR	EN-130	Ravishing Finale	0	0
+WATER	CSR	EN-130	Ravishing Finale	N/A	0
+WATER	SR	EN-131	Seaside Ringleader	0	0
+WATER	C	EN-132	Water Herbs	0	0
+WATER	C	EN-133	Waterveil Apostle	0	0
+WIND	SR	EN-134	Andronika, Eternal Herald	0	0
+WIND	CSR	EN-134	Andronika, Eternal Herald	N/A	0
+WIND	R	EN-135	Blessed Clergy	0	0
+WIND	U	EN-136	Cell Generator	0	0
+WIND	C	EN-137	Cell Vanguard	0	0
+WIND	C	EN-138	Charged Assailant	0	0
+WIND	R	EN-139	Cleansing Reunion	0	0
+WIND	C	EN-140	Concealed Marksman	0	0
+WIND	C	EN-141	Cultivate	0	0
+WIND	SR	EN-142	Diablerie	0	0
+WIND	SR	EN-143	Eternal Magistrate	0	0
+WIND	C	EN-144	Favorable Winds	0	0
+WIND	R	EN-145	Gearstride Academy	0	0
+WIND	U	EN-146	Liquid Amnesia	0	0
+WIND	R	EN-147	Orchestrated Seizure	0	0
+WIND	C	EN-148	Potion Infusion: Growth	0	0
+WIND	C	EN-149	Scout the Land	0	0
+WIND	C	EN-150	Shred to Ribbons	0	0
+WIND	U	EN-151	Skirting Step	0	0
+WIND	U	EN-152	Spirited Falconer	0	0
+WIND	U	EN-153	Tempest Downfall	0	0
+WIND	SR	EN-154	Vainglory Retribution	0	0
+WIND	CSR	EN-154	Vainglory Retribution	N/A	0
+WIND	SR	EN-155	Verdigris Decree	0	0
+WIND	C	EN-156	Vigilant Sentry	0	0
+WIND	R	EN-157	Winbless Forecaster	0	0
+WIND	U	EN-158	Winbless Hurricane Farm	0	0
+WIND	U	EN-159	Winbless Rangefinder	0	0
+WIND	U	EN-160	Windmill Engineer	0	0
+ASTRA	SR	EN-161	Astromech Attendant	0	0
+ASTRA	SR	EN-162	Foretold Bloom	0	0
+ASTRA	U	EN-163	Lunar Seer	0	0
+ASTRA	SR	EN-164	Meteor Strike	0	0
+ASTRA	UR	EN-165	Prima Materia	0	0
+ASTRA	CSR	EN-165	Prima Materia	N/A	0
+ASTRA	U	EN-166	Reflect the Skies	0	0
+ASTRA	U	EN-167	Refracted Twilight	0	0
+ASTRA	U	EN-168	Stargazer's Portent	0	0
+ASTRA	SR	EN-169	Twilight Slime	0	0
+NEOS	UR	EN-170	Atmos Armor Type-Ares	0	0
+NEOS	CSR	EN-170	Atmos Armor Type-Ares	N/A	0
+NEOS	C	EN-171	Atmos Shield	0	0
+NEOS	R	EN-172	Blade of Creation	0	0
+NEOS	R	EN-173	Bolster Ranks	0	0
+NEOS	R	EN-174	Convoking Slime	0	0
+NEOS	SR	EN-175	Cordelia, Aurous Kaiser	0	0
+NEOS	CSR	EN-175	Cordelia, Aurous Kaiser	N/A	0
+NEOS	R	EN-176	Echoic Guard	0	0
+UMBRA	SR	EN-177	Curse Amplification	0	0
+UMBRA	CSR	EN-177	Curse Amplification	N/A	0
+UMBRA	R	EN-178	Debilitating Grasp	0	0
+UMBRA	R	EN-179	Expunge	0	0
+UMBRA	UR	EN-180	Final Stroke	0	0
+UMBRA	U	EN-181	Gloamspire Sniper	0	0
+UMBRA	C	EN-182	Ominous Shadow	0	0
+UMBRA	SR	EN-183	Penumbral Waltz	0	0
+UMBRA	CSR	EN-183	Penumbral Waltz	N/A	0
+UMBRA	U	EN-184	Possessed Remnant	0	0
+UMBRA	U	EN-185	Powered Armsmaster	0	0
+UMBRA	SR	EN-186	Revenant’s Scourge	0	0
+UMBRA	U	EN-187	Sinister Mindreaver	0	0
+UMBRA	U	EN-188	Siphoning Fractal	0	0
+UMBRA	U	EN-189	Slip Away	0	0
+UMBRA	R	EN-190	Suffocating Miasma	0	0
+UMBRA	UR	EN-191	Vampiric Slime	0	0

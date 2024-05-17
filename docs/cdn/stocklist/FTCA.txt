@@ -10,7 +10,7 @@ NORM	SR	EN-009	Endura, Scepter of Ignition	N/A	0
 NORM	SR	EN-010	Fire Resonance Bauble	N/A	0
 NORM	SR	EN-011	Jewel of Enlightenment	N/A	0
 NORM	SR	EN-012	Mana Limiter	N/A	0
-NORM	SR	EN-013	Melodious Flute	0	0
+NORM	SR	EN-013	Melodious Flute	N/A	0
 NORM	SR	EN-014	Ornamental Greatsword	N/A	0
 NORM	SR	EN-015	Poisoned Dagger	N/A	0
 NORM	UR	EN-016	Quicksilver Grail	N/A	0
