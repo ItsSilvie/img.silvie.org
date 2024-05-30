@@ -1,41 +1,106 @@
-NORM	PR	EN-001	Blastshot Pump	N/A	N/A
-NORM	PR	EN-002	Bulwark Sword	N/A	N/A
-NORM	PR	EN-003	Charged Manaplate	N/A	N/A
-NORM	PR	EN-004	Cleric Robes	N/A	N/A
-NORM	PR	EN-005	Crest of the Alliance	N/A	N/A
-NORM	PR	EN-006	Flash Grenade	N/A	N/A
-NORM	PR	EN-007	Ingredient Pouch	N/A	N/A
-NORM	PR	EN-008	Life Essence Amulet	N/A	N/A
-NORM	PR	EN-009	Necklace of Foresight	N/A	N/A
-NORM	PR	EN-010	Plated Bullet	N/A	N/A
-NORM	PR	EN-011	Powercharged Shield	N/A	N/A
-NORM	PR	EN-012	Prototype Pistol	N/A	N/A
-NORM	PR	EN-013	Prototype Staff	N/A	N/A
-NORM	PR	EN-014	Quickdraw Piercer	N/A	N/A
-NORM	PR	EN-015	Scale of Souls	N/A	N/A
-NORM	PR	EN-016	Synth Disrupter	N/A	N/A
-NORM	PR	EN-017	Tasershot	N/A	N/A
-NORM	PR	EN-018	Worn Gearblade	N/A	N/A
-FIRE	PR	EN-019	Penetrator Round	N/A	N/A
-WIND	PR	EN-020	Deployment Beacon	N/A	N/A
-ASTRA	PR	EN-021	Cosmic Astroscope	N/A	N/A
-NEOS	PR	EN-022	Archon Broadsword	N/A	N/A
-NEOS	PR	EN-023	Sentinel Fabricator	N/A	N/A
-UMBRA	PR	EN-024	Shadow's Twin	N/A	N/A
-NORM	PR	EN-025	Backstep	N/A	N/A
-NORM	PR	EN-026	Evasive Maneuvers	N/A	N/A
-NORM	PR	EN-027	Foraging Servant	N/A	N/A
-NORM	PR	EN-028	Fortified Mana Shield	N/A	N/A
-NORM	PR	EN-029	Heavy Swing	N/A	N/A
-NORM	PR	EN-030	Imperial Recruit	N/A	N/A
-NORM	PR	EN-031	Imperial Rifleman	N/A	N/A
-NORM	PR	EN-032	Imperial Sentry	N/A	N/A
-NORM	PR	EN-033	Martial Guard	N/A	N/A
-NORM	PR	EN-034	Materialize Munitions	N/A	N/A
-NORM	PR	EN-035	Novice Mechanist	N/A	N/A
-NORM	PR	EN-036	Stalwart Shieldmate	N/A	N/A
-NORM	PR	EN-037	Take Point	N/A	N/A
-FIRE	PR	EN-038	Incendiary Shot	N/A	N/A
-WATER	PR	EN-039	Essence of Blizzards	N/A	N/A
-WIND	PR	EN-040	Recruitment Officer	N/A	N/A
-ASTRA	PR	EN-041	Cosmic Bolt	N/A	N/A
+NORM	PR	EN-001	Blastshot Pump	N/A	0
+NORM	PR	EN-002	Bulwark Sword	N/A	0
+NORM	PR	EN-003	Charged Manaplate	N/A	0
+NORM	PR	EN-004	Cleric Robes	N/A	0
+NORM	PR	EN-005	Crest of the Alliance	N/A	0
+NORM	PR	EN-006	Flash Grenade	N/A	0
+NORM	PR	EN-007	Ingredient Pouch	N/A	0
+NORM	PR	EN-008	Life Essence Amulet	N/A	0
+NORM	PR	EN-009	Necklace of Foresight	N/A	0
+NORM	PR	EN-010	Plated Bullet	N/A	0
+NORM	PR	EN-011	Powercharged Shield	N/A	0
+NORM	PR	EN-012	Prototype Pistol	N/A	0
+NORM	PR	EN-013	Prototype Staff	N/A	0
+NORM	PR	EN-014	Quickdraw Piercer	N/A	0
+NORM	PR	EN-015	Scale of Souls	N/A	0
+NORM	PR	EN-016	Synth Disrupter	N/A	0
+NORM	PR	EN-017	Tasershot	N/A	0
+NORM	PR	EN-018	Worn Gearblade	N/A	0
+FIRE	PR	EN-019	Penetrator Round	N/A	0
+WIND	PR	EN-020	Deployment Beacon	N/A	0
+ASTRA	PR	EN-021	Cosmic Astroscope	N/A	0
+NEOS	PR	EN-022	Archon Broadsword	N/A	0
+NEOS	PR	EN-023	Sentinel Fabricator	N/A	0
+UMBRA	PR	EN-024	Shadow's Twin	N/A	0
+NORM	PR	EN-025	Backstep	N/A	0
+NORM	PR	EN-026	Evasive Maneuvers	N/A	0
+NORM	PR	EN-027	Foraging Servant	N/A	0
+NORM	PR	EN-028	Fortified Mana Shield	N/A	0
+NORM	PR	EN-029	Heavy Swing	N/A	0
+NORM	PR	EN-030	Imperial Recruit	N/A	0
+NORM	PR	EN-031	Imperial Rifleman	N/A	0
+NORM	PR	EN-032	Imperial Sentry	N/A	0
+NORM	PR	EN-033	Martial Guard	N/A	0
+NORM	PR	EN-034	Materialize Munitions	N/A	0
+NORM	PR	EN-035	Novice Mechanist	N/A	0
+NORM	PR	EN-036	Stalwart Shieldmate	N/A	0
+NORM	PR	EN-037	Take Point	N/A	0
+FIRE	PR	EN-038	Incendiary Shot	N/A	0
+WATER	PR	EN-039	Essence of Blizzards	N/A	0
+WIND	PR	EN-040	Recruitment Officer	N/A	0
+ASTRA	PR	EN-041	Cosmic Bolt	N/A	0
+CRUX	PR	EN-042	Spirit Blade: Ascension	N/A	N/A
+CRUX	PR	EN-042	Spirit Blade: Ascension	N/A	N/A
+WATER	PR	EN-043	Frostbind	N/A	N/A
+WATER	CPR	EN-043	Frostbind	N/A	N/A
+WIND	PR	EN-044	Veiling Breeze	N/A	N/A
+NORM	PR	EN-045	Lurking Assailant	N/A	N/A
+NORM	PR	EN-046	Orb of Hubris	N/A	N/A
+NORM	PR	EN-047	Capricious Lynx	N/A	N/A
+NORM	PR	EN-048	Peaceful Reunion	N/A	N/A
+NORM	CPR	EN-048	Peaceful Reunion	N/A	N/A
+NORM	PR	EN-049	Empowering Prayer	N/A	N/A
+NORM	PR	EN-050	Swooping Talons	N/A	N/A
+NORM	PR	EN-051	Scry the Skies	N/A	N/A
+NORM	CPR	EN-051	Scry the Skies	N/A	N/A
+WIND	PR	EN-052	Beseech the Winds	N/A	N/A
+WATER	PR	EN-053	Chilling Touch	N/A	N/A
+NORM	PR	EN-054	Into the Fray	N/A	N/A
+FIRE	PR	EN-055	Fireworks Display	N/A	N/A
+NORM	PR	EN-056	Key Slime Pudding	N/A	N/A
+NORM	PR	EN-057	Assassin's Mantle	N/A	N/A
+WATER	PR	EN-058	Vaporjet Shieldbearer	N/A	N/A
+NORM	CPR	EN-059	Priscilla, Lost Spirit	N/A	0
+NORM	PR	EN-068	Spirit of Slime	N/A	0
+TERA	PR	EN-069	Silvie, Slime Sovereign	N/A	N/A
+NORM	PR	EN-070	Slime Nexus	N/A	0
+TERA	PR	EN-071	Slime Totem	N/A	0
+TERA	PR	EN-072	Verdant Scepter	N/A	0
+NORM	PR	EN-073	Baby Gray Slime	N/A	0
+NORM	PR	EN-074	Forest Cake	N/A	N/A
+NORM	PR	EN-075	Limitless Slime	N/A	0
+FIRE	PR	EN-076	Baby Red Slime	N/A	0
+FIRE	PR	EN-077	Slime Eruption	N/A	0
+WATER	PR	EN-078	Baby Blue Slime	N/A	0
+WATER	PR	EN-079	Gather Slimes	N/A	0
+WIND	PR	EN-080	Baby Green Slime	N/A	0
+WIND	PR	EN-081	Slime's Blessing	N/A	0
+WIND	PR	EN-082	Slimeshield	N/A	0
+ARCANE	PR	EN-083	Storm Slime	N/A	0
+CRUX	PR	EN-084	Ethereal Slime	N/A	0
+LUXEM	PR	EN-085	Lustrous Slime	N/A	N/A
+TERA	PR	EN-086	Slime King	N/A	N/A
+TERA	PR	EN-087	Verdant Slime	N/A	N/A
+UMBRA	PR	EN-088	Tristan, Shadowdancer	N/A	0
+NORM	PR	EN-089	Curved Dagger	N/A	0
+WIND	PR	EN-090	Gearstride Gloves	N/A	0
+UMBRA	PR	EN-091	Dusksoul Stone	N/A	0
+UMBRA	PR	EN-092	Malignant Athame	N/A	0
+UMBRA	PR	EN-093	Shadeblood Coating	N/A	0
+NORM	PR	EN-094	Exploit Vulnerability	N/A	0
+NORM	PR	EN-095	Incapacitate	N/A	0
+NORM	PR	EN-096	Mastermind Scheme	N/A	0
+NORM	PR	EN-097	Slice and Dice	N/A	0
+NORM	PR	EN-098	Thieving Cut	N/A	0
+WIND	PR	EN-099	Arrow Trap	N/A	0
+WIND	PR	EN-100	Betraying Blade	N/A	N/A
+WIND	PR	EN-101	Cloaked Executioner	N/A	0
+WIND	PR	EN-102	Sirocco Operative	N/A	0
+WIND	PR	EN-103	Stifling Trap	N/A	0
+WIND	PR	EN-104	Surveil the Winds	N/A	0
+UMBRA	PR	EN-105	Gloamspire Headhunter	N/A	0
+UMBRA	PR	EN-106	Grim Foreboding	N/A	0
+UMBRA	PR	EN-107	Haunting Demise	N/A	0
+UMBRA	PR	EN-108	Shadow Resonance	N/A	0
+UMBRA	PR	EN-109	Shadowstrike	N/A	0
+UMBRA	PR	EN-110	Shifting Mirage	N/A	0
