@@ -1,3 +1,4 @@
+NORM	CPR	EN-000	Apotheosis Rite	N/A	0
 NORM	PR	EN-001	Blastshot Pump	N/A	0
 NORM	PR	EN-002	Bulwark Sword	N/A	0
 NORM	PR	EN-003	Charged Manaplate	N/A	0
@@ -61,6 +62,9 @@ NORM	PR	EN-056	Key Slime Pudding	N/A	N/A
 NORM	PR	EN-057	Assassin's Mantle	N/A	N/A
 WATER	PR	EN-058	Vaporjet Shieldbearer	N/A	N/A
 NORM	CPR	EN-059	Priscilla, Lost Spirit	N/A	0
+NORM	PR	EN-060	Sable Remnant	N/A	N/A
+WIND	PR	EN-061	Windmill Engineer	N/A	N/A
+LUXEM	PR	EN-062	Lightweaver's Assault	N/A	N/A
 NORM	PR	EN-068	Spirit of Slime	N/A	0
 TERA	PR	EN-069	Silvie, Slime Sovereign	N/A	N/A
 NORM	PR	EN-070	Slime Nexus	N/A	0

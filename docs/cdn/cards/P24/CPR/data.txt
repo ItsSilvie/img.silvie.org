@@ -1,1 +1,1 @@
-043 Frostbind,048 Peaceful Reunion,051 Scry the Skies,059 Priscilla Lost Spirit
+000 Apotheosis Rite,043 Frostbind,048 Peaceful Reunion,051 Scry the Skies,059 Priscilla Lost Spirit
