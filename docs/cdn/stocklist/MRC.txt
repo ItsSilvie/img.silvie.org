@@ -38,7 +38,7 @@ NORM	U	EN-037	Automaton Beastkeeper	0	0
 NORM	C	EN-038	Automaton Drone	0	0
 NORM	C	EN-039	Bandage Wound	0	0
 NORM	SR	EN-040	Bertha, Spry Howitzer	0	0
-NORM	C	EN-041	Blightroot	0	0
+NORM	C	EN-041	Blightroot	0	N/A
 NORM	U	EN-042	Buried Grief	0	0
 NORM	C	EN-043	Cell Assembler	0	0
 NORM	U	EN-044	Charged Hunter	0	0
@@ -47,7 +47,7 @@ NORM	U	EN-046	City Protector	0	0
 NORM	R	EN-047	Critical Recovery	0	0
 NORM	C	EN-048	Dodge Roll	0	0
 NORM	SR	EN-049	Engineered Slime	0	0
-NORM	C	EN-050	Fraysia	0	0
+NORM	C	EN-050	Fraysia	0	N/A
 NORM	C	EN-051	Gearshift Block	0	0
 NORM	R	EN-052	Geldus, Terror of Dorumegia	0	0
 NORM	R	EN-053	Harvester Mk II	0	0
@@ -55,7 +55,7 @@ NORM	U	EN-054	Hide in Bush	0	0
 NORM	C	EN-055	Hub of Innovation	0	0
 NORM	C	EN-056	Imperial Spy	0	0
 NORM	C	EN-057	Machined Monstrosity	0	0
-NORM	C	EN-058	Manaroot	0	0
+NORM	C	EN-058	Manaroot	0	N/A
 NORM	C	EN-059	Manufacture Cell	0	0
 NORM	U	EN-060	Mechanical Hare	0	0
 NORM	C	EN-061	Novice Healer	0	0
@@ -64,15 +64,15 @@ NORM	UR	EN-063	Overlord Mk III	0	0
 NORM	C	EN-064A	Powercell	0	0
 NORM	C	EN-064B	Powercell	N/A	0
 NORM	C	EN-065	Purification	0	0
-NORM	C	EN-066	Razorvine	0	0
+NORM	C	EN-066	Razorvine	0	N/A
 NORM	C	EN-067	Reprogram	0	0
 NORM	C	EN-068	Retold Fortune	0	0
 NORM	SR	EN-069	Sadi, Blood Harvester	0	0
 NORM	C	EN-070	Savage Smash	0	0
 NORM	C	EN-071	Sharpen Blade	0	0
-NORM	C	EN-072	Silvershine	0	0
+NORM	C	EN-072	Silvershine	0	N/A
 NORM	C	EN-073	Spirit Shard	0	0
-NORM	C	EN-074	Springleaf	0	0
+NORM	C	EN-074	Springleaf	0	N/A
 NORM	C	EN-075	Synthetic Strike	0	0
 NORM	U	EN-076	Tonic of Remembrance	0	0
 NORM	C	EN-077	Turbo Charge	0	0

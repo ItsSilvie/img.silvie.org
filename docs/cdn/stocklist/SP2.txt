@@ -1,0 +1,43 @@
+WIND	R	EN-001	Aesan Protector	0	0
+UMBRA	CSR	EN-002	Carter, Synthetic Reaper	N/A	0
+NORM	U	EN-003	Cell Assembler	0	0
+WIND	U	EN-004	Combo Strike	0	0
+ASTRA	SR	EN-005	Cometfall	0	0
+FIRE	R	EN-006	Corhazi Arsonist	0	0
+WATER	U	EN-007	Corhazi Trapper	0	0
+UMBRA	U	EN-008	Creeping Torment	0	0
+FIRE	SR	EN-009	Cremation Ritual	0	0
+NORM	U	EN-010	Evasive Maneuvers	0	0
+WIND	SR	EN-011	Fairy Whispers	0	0
+NORM	CSR	EN-012	Freydis, Master Tactician	N/A	0
+LUXEM	R	EN-013	Gleaming Cut	0	0
+FIRE	R	EN-014	Incendiary Shot	0	0
+NORM	U	EN-015	Invigorated Slash	0	0
+WATER	R	EN-016	Mind Freeze	0	0
+FIRE	CSR	EN-017	Rococo, Explosive Maven	N/A	0
+NORM	U	EN-018	Savage Slash	0	0
+NORM	R	EN-019	Serum of Wisdom	0	0
+WIND	U	EN-020	Shimmercloak Assassin	0	0
+WATER	SR	EN-021	Song of Frost	0	0
+WIND	R	EN-022	Spellshield: Wind	0	0
+NEOS	R	EN-023	Summon Sentinels	0	0
+NORM	U	EN-024	Trained Sharpshooter	0	0
+NORM	CSR	EN-025	Zander, Deft Executor	N/A	0
+NEOS	PR	EN-026	Atmos Shield	0	N/A
+NEOS	PR	EN-027	Aurousteel Greatsword	0	N/A
+NORM	PR	EN-028	Automaton Drone	0	N/A
+NORM	PR	EN-029	Blightroot	0	N/A
+NORM	PR	EN-030	Fraysia	0	N/A
+NORM	PR	EN-031	Manaroot	0	N/A
+NEOS	PR	EN-032	Obelisk of Armaments	0	N/A
+NEOS	PR	EN-033	Obelisk of Fabrication	0	N/A
+NEOS	PR	EN-034	Obelisk of Protection	0	N/A
+UMBRA	PR	EN-035	Ominous Shadow	0	N/A
+NORM	PR	EN-036	Powercell	0	N/A
+NORM	PR	EN-037	Razorvine	0	N/A
+NORM	PR	EN-038	Silvershine	0	N/A
+FIRE	PR	EN-039	Spirit of Fire	0	N/A
+WATER	PR	EN-040	Spirit of Water	0	N/A
+WIND	PR	EN-041	Spirit of Wind	0	N/A
+NORM	PR	EN-042	Spirit Shard	0	N/A
+NORM	PR	EN-043	Springleaf	0	N/A

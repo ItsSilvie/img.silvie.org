@@ -1,0 +1,1 @@
+003 Cell Assembler,004 Combo Strike,007 Corhazi Trapper,008 Creeping Torment,010 Evasive Maneuvers,015 Invigorated Slash,018 Savage Slash,020 Shimmercloak Assassin,024 Trained Sharpshooter
