@@ -65,6 +65,7 @@ NORM	CPR	EN-059	Priscilla, Lost Spirit	N/A	0
 NORM	PR	EN-060	Sable Remnant	N/A	N/A
 WIND	PR	EN-061	Windmill Engineer	N/A	N/A
 LUXEM	PR	EN-062	Lightweaver's Assault	N/A	N/A
+FIRE	CPR	EN-067	Vyra, Spirit of Fire	N/A	0
 NORM	PR	EN-068	Spirit of Slime	N/A	0
 TERA	PR	EN-069	Silvie, Slime Sovereign	N/A	N/A
 NORM	PR	EN-070	Slime Nexus	N/A	0
