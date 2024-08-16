@@ -1,0 +1,15 @@
+NORM	CSR	EN-004	Tristan, Underhanded	N/A	0
+NORM	CSR	EN-005	Tristan, Hired Blade	N/A	0
+UMBRA	CUR	EN-006	Tristan, Shadowreaver	N/A	0
+NORM	CSR	EN-036	Atmos Armor Type-Hermes	N/A	0
+NORM	CSR	EN-069	Sadi, Blood Harvester	N/A	0
+FIRE	CSR	EN-081	Calamity Cannon	N/A	0
+WATER	CSR	EN-123	Naia, Diviner of Fortunes	N/A	0
+WATER	CSR	EN-130	Ravishing Finale	N/A	0
+WIND	CSR	EN-134	Andronika, Eternal Herald	N/A	0
+WIND	CSR	EN-154	Vainglory Retribution	N/A	0
+ASTRA	CSR	EN-165	Prima Materia	N/A	0
+NEOS	CSR	EN-170	Atmos Armor Type-Ares	N/A	0
+NEOS	CSR	EN-175	Cordelia, Aurous Kaiser	N/A	0
+UMBRA	CSR	EN-177	Curse Amplification	N/A	0
+UMBRA	CSR	EN-183	Penumbral Waltz	N/A	0

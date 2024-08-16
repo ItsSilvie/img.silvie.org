@@ -109,3 +109,4 @@ UMBRA	PR	EN-107	Haunting Demise	N/A	0
 UMBRA	PR	EN-108	Shadow Resonance	N/A	0
 UMBRA	PR	EN-109	Shadowstrike	N/A	0
 UMBRA	PR	EN-110	Shifting Mirage	N/A	0
+FIRE	PR	EN-112	Flame-Rune Swordsman	N/A	N/A

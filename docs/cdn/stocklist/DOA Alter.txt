@@ -3,7 +3,7 @@ WATER	C	EN-002	Spirit of Water	0	N/A
 WIND	C	EN-003	Spirit of Wind	0	N/A
 NORM	C	EN-004	Lorraine, Wandering Warrior	0	N/A
 NORM	C	EN-005	Lorraine, Blademaster	0	N/A
-CRUX	C	EN-006	Lorraine, Spirit Ruler	0	0
+CRUX	C	EN-006	Lorraine, Spirit Ruler	0	N/A
 NORM	C	EN-007	Rai, Spellcrafter	0	N/A
 NORM	C	EN-008	Rai, Archmage	0	N/A
 ARCANE	C	EN-009	Rai, Mana Weaver	0	N/A
