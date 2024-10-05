@@ -1,0 +1,62 @@
+WATER	C	EN-001	Spirit of Water	0	N/A
+WIND	C	EN-002	Spirit of Wind	0	N/A
+NORM	C	EN-003	Jin, Fate Defiant	0	N/A
+NORM	C	EN-004	Jin, Zealous Maverick	0	N/A
+EXIA	C	EN-005	Jin, Undying Resolve	0	N/A
+EXIA	CSR	EN-005	Jin, Undying Resolve	N/A	0
+NORM	C	EN-006	Kongming, Wayward Maven	0	N/A
+NORM	C	EN-007	Kongming, Ascetic Vice	0	N/A
+TERA	C	EN-008	Kongming, Fel Eidolon	0	N/A
+TERA	CSR	EN-008	Kongming, Fel Eidolon	N/A	0
+NORM	C	EN-009	Bauble of Abundance	0	N/A
+NORM	R	EN-010	Executioner's Spear	0	N/A
+NORM	R	EN-011	Fan of Seven Debts	0	N/A
+NORM	C	EN-012	Life Essence Amulet	0	N/A
+NORM	C	EN-013	Safeguard Amulet	0	N/A
+NORM	C	EN-014	Shard of Empowerment	0	N/A
+NORM	C	EN-015	Slate Whetstone	0	N/A
+NORM	U	EN-016	Steel Halberd	0	N/A
+NORM	C	EN-017	Tariff Ring	0	N/A
+WATER	U	EN-018	Sweet Ambrosia	0	N/A
+EXIA	SR	EN-019	Berserker Plate	0	N/A
+EXIA	SR	EN-020	Shuang Ji of Sacrifice	0	N/A
+TERA	SR	EN-021	Coronal of Rejuvenation	0	N/A
+TERA	SR	EN-022	Entrancing Filigree	0	N/A
+NORM	U	EN-023	Ardent Cloudstriker	0	N/A
+NORM	C	EN-024	Banner Knight	0	N/A
+NORM	U	EN-025	Formidable Youxia	0	N/A
+NORM	U	EN-026	Harmonious Mantra	0	N/A
+NORM	C	EN-027	Heighten Spellcraft	0	N/A
+NORM	C	EN-028	Idle Thoughts	0	N/A
+NORM	R	EN-029	Pierce the Heavens	0	N/A
+NORM	C	EN-030	Regenerate	0	N/A
+NORM	U	EN-031	Safeguard Paladin	0	N/A
+NORM	C	EN-032	Savage Swing	0	N/A
+NORM	C	EN-033	Shifting Currents	0	N/A
+NORM	U	EN-034	Spirited Neophyte	0	N/A
+NORM	C	EN-036	Veteran Soldier	0	N/A
+NORM	C	EN-037	Wisdom's Reprise	0	N/A
+WATER	U	EN-038	Cone of Frost	0	N/A
+WATER	U	EN-039	Coriolis Ward	0	N/A
+WATER	U	EN-040	Hydroguard Retainer	0	N/A
+WATER	C	EN-041	Rising Tides	0	N/A
+WATER	U	EN-042	Taiji of Crystal Strategems	0	N/A
+WATER	U	EN-043	Tsunami of Nanyue	0	N/A
+WATER	C	EN-044	Water Barrier	0	N/A
+WIND	U	EN-045	Eminent Commander	0	N/A
+WIND	C	EN-046	Favorable Winds	0	N/A
+WIND	U	EN-047	Materialize Polearm	0	N/A
+WIND	C	EN-048	Reclaim	0	N/A
+WIND	C	EN-049	Swift Recruit	0	N/A
+WIND	U	EN-050	Wind Cutter	0	N/A
+EXIA	U	EN-051	Bloodbond Bladesworn	0	N/A
+EXIA	U	EN-052	Enrage	0	N/A
+EXIA	U	EN-053	Exia Sight	0	N/A
+EXIA	U	EN-054	Hemorrhaging Rend	0	N/A
+EXIA	R	EN-055	Mend Flesh	0	N/A
+EXIA	SR	EN-056	Relentless Outburst	0	N/A
+TERA	U	EN-057	Devoted Bloomweaver	0	N/A
+TERA	U	EN-058	Leeching Bolt	0	N/A
+TERA	SR	EN-059	Planar Abyss	0	N/A
+TERA	R	EN-060	Ruinous Pillars of Qidao	0	N/A
+TERA	U	EN-061	Tera Sight	0	N/A

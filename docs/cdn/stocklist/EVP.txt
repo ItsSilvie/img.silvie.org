@@ -10,3 +10,5 @@ WIND	CSR	EN-009	Perse, Relentless Raptor	N/A	0
 UMBRA	CSR	EN-010	Ominous Shadow	N/A	N/A
 NORM	CSR	EN-011	Overlord Mk III	N/A	N/A
 TERA	CSR	EN-012	Slime King	N/A	N/A
+WIND	CSR	EN-013	Dilu, Auspicious Charger	N/A	N/A
+WATER	CSR	EN-014	Jueying, Shadowmare	N/A	N/A

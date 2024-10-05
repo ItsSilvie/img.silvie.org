@@ -57,6 +57,9 @@ NORM	CPR	EN-051	Scry the Skies	N/A	N/A
 WIND	PR	EN-052	Beseech the Winds	N/A	N/A
 WATER	PR	EN-053	Chilling Touch	N/A	N/A
 NORM	PR	EN-054	Into the Fray	N/A	N/A
+NORM	CSR	EN-054	Into the Fray	N/A	N/A
+NORM	CSR	EN-054	Into the Fray	N/A	N/A
+NORM	CSR	EN-054	Into the Fray	N/A	N/A
 FIRE	PR	EN-055	Fireworks Display	N/A	N/A
 NORM	PR	EN-056	Key Slime Pudding	N/A	N/A
 NORM	PR	EN-057	Assassin's Mantle	N/A	N/A
