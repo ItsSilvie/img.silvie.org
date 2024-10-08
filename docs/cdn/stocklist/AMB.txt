@@ -1,6 +1,6 @@
-FIRE	C	EN-001	Spirit of Fire	0	0
-WATER	C	EN-002	Spirit of Water	0	0
-WIND	C	EN-003	Spirit of Wind	0	0
+FIRE	C	EN-001	Spirit of Fire	0	N/A
+WATER	C	EN-002	Spirit of Water	0	N/A
+WIND	C	EN-003	Spirit of Wind	0	N/A
 NORM	C	EN-004	Jin, Fate Defiant	0	0
 NORM	C	EN-005	Jin, Zealous Maverick	0	0
 EXIA	C	EN-006	Jin, Undying Resolve	0	0
@@ -12,20 +12,16 @@ NORM	C	EN-011	Defender's Maul	0	0
 NORM	C	EN-012	Emergent Dagger	0	0
 NORM	C	EN-013	Fan of Insight	0	0
 NORM	R	EN-014	Ghostsight Glass	0	0
-NORM	UR	EN-015	Imperial Seal	0	0
 NORM	C	EN-016	Intricate Longbow	0	0
 NORM	SR	EN-017	Mandate of Honor	0	0
 NORM	R	EN-018	Orb of Regret	0	0
 NORM	SR	EN-019	Orb of Sealing	0	0
 NORM	C	EN-020	Primal Whip	0	0
 NORM	C	EN-021	Tome of Sorcery	0	0
-FIRE	UR	EN-022	Dragon's Dawn	0	0
 FIRE	SR	EN-023	Everflame Staff	0	0
 FIRE	R	EN-024	Gem of Searing Flame	0	0
-WATER	UR	EN-025	Ebbing Tide	0	0
 WATER	SR	EN-026	Eventide Spear	0	0
 WIND	SR	EN-027	Cloudstone Orb	0	0
-WIND	UR	EN-028	Sundering Moon	0	0
 NORM	R	EN-029	Acolyte of Cultivation	0	0
 NORM	C	EN-030	Adorned Stag	0	0
 NORM	C	EN-031	Backstep	0	0
@@ -59,7 +55,6 @@ NORM	R	EN-058	Lost Wisdom	0	0
 NORM	U	EN-059	Lumbering Steed	0	0
 NORM	U	EN-060	Marksman Captain	0	0
 NORM	C	EN-061	Mnemonic Charm	0	0
-NORM	UR	EN-062	Mortal Ambition	0	0
 NORM	U	EN-063	Mystic Purifier	0	0
 NORM	U	EN-064	Nascent Barrier	0	0
 NORM	C	EN-065	Nascent Blast	0	0
@@ -191,7 +186,6 @@ WIND	R	EN-190	Soothing Disillusion	0	0
 WIND	C	EN-191	Swift Recruit	0	0
 WIND	R	EN-192	Tailwind's Blessing	0	0
 WIND	U	EN-193	Tempus Stalker	0	0
-WIND	UR	EN-194	Three Visits	0	0
 WIND	C	EN-195	Unrelenting Warden	0	0
 WIND	U	EN-196	Vengeful Gust	0	0
 WIND	C	EN-197	Wildgrowth Feline	0	0
@@ -211,13 +205,11 @@ EXIA	R	EN-210	Mend Flesh	0	0
 EXIA	R	EN-211	Proof of Life	0	0
 EXIA	SR	EN-212	Relentless Outburst	0	0
 EXIA	SR	EN-213	Seize Fate	0	0
-EXIA	UR	EN-214	Zhao Yun, Dragonsblood	0	0
 LUXEM	R	EN-215	Bathe in Light	0	0
 LUXEM	R	EN-216	Glow Forth	0	0
 LUXEM	SR	EN-217	Illuminating Charge	0	0
 TERA	SR	EN-218	Channel Manifold Desire	0	0
 TERA	SR	EN-219	Conduit of Seasons	0	0
-TERA	UR	EN-220	Dong Zhou, False Liege	0	0
 TERA	R	EN-221	Invigoration	0	0
 TERA	U	EN-222	Leeching Bolt	0	0
 TERA	R	EN-223	Nature's Appeal	0	0
