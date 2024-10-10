@@ -34,6 +34,7 @@ NORM	U	EN-031	Safeguard Paladin	0	N/A
 NORM	C	EN-032	Savage Swing	0	N/A
 NORM	C	EN-033	Shifting Currents	0	N/A
 NORM	U	EN-034	Spirited Neophyte	0	N/A
+NORM	C	EN-035	Trusty Steed	N/A	N/A
 NORM	C	EN-036	Veteran Soldier	0	N/A
 NORM	C	EN-037	Wisdom's Reprise	0	N/A
 WATER	U	EN-038	Cone of Frost	0	N/A
