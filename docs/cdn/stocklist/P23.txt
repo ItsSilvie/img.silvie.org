@@ -12,11 +12,15 @@ NORM	CPR	EN-010	Morrigan, Lost Spirit	N/A	0
 NORM	PR	EN-011	Prismatic Spirit	0	N/A
 NORM	PR	EN-012	Gate of Alterity	0	N/A
 NORM	PR	EN-013	Orb of Regret	N/A	0
+NORM	CPR	EN-013	Orb of Regret	N/A	N/A
 NORM	PR	EN-014	Orb of Glitter	N/A	0
+NORM	CPR	EN-014	Orb of Glitter	N/A	N/A
 WIND	CPR	EN-015	Gwendolyn, Spirit of Wind	N/A	0
 NORM	PR	EN-016	Ordinary Bear	0	0
 NORM	PR	EN-017	Tithe Proclamation	N/A	0
+NORM	CPR	EN-017	Tithe Proclamation	N/A	N/A
 NORM	PR	EN-018	Fast Cure	N/A	0
+NORM	CPR	EN-018	Fast Cure	N/A	N/A
 FIRE	PR	EN-019	Creative Shock	N/A	N/A
 FIRE	CPR	EN-019	Creative Shock	N/A	N/A
 WATER	CPR	EN-020	Sabrina, Spirit of Water	N/A	0

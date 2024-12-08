@@ -7,6 +7,7 @@ NORM	PR	EN-005	Crest of the Alliance	N/A	0
 NORM	PR	EN-006	Flash Grenade	N/A	0
 NORM	PR	EN-007	Ingredient Pouch	N/A	0
 NORM	PR	EN-008	Life Essence Amulet	N/A	0
+NORM	PR	EN-135	Life Essence Amulet	N/A	0
 NORM	PR	EN-009	Necklace of Foresight	N/A	0
 NORM	PR	EN-010	Plated Bullet	N/A	0
 NORM	PR	EN-011	Powercharged Shield	N/A	0
@@ -20,6 +21,7 @@ NORM	PR	EN-018	Worn Gearblade	N/A	0
 FIRE	PR	EN-019	Penetrator Round	N/A	0
 WIND	PR	EN-020	Deployment Beacon	N/A	0
 ASTRA	PR	EN-021	Cosmic Astroscope	N/A	0
+ASTRA	PR	EN-156	Cosmic Astroscope	N/A	N/A
 NEOS	PR	EN-022	Archon Broadsword	N/A	0
 NEOS	PR	EN-023	Sentinel Fabricator	N/A	0
 UMBRA	PR	EN-024	Shadow's Twin	N/A	0
@@ -59,7 +61,7 @@ WATER	PR	EN-053	Chilling Touch	N/A	N/A
 NORM	PR	EN-054	Into the Fray	N/A	N/A
 NORM	CSR	EN-054	Into the Fray	N/A	N/A
 NORM	CSR	EN-054	Into the Fray	N/A	N/A
-NORM	CSR	EN-054	Into the Fray	N/A	N/A
+NORM	CPR	EN-054	Into the Fray	N/A	N/A
 FIRE	PR	EN-055	Fireworks Display	N/A	N/A
 NORM	PR	EN-056	Key Slime Pudding	N/A	N/A
 NORM	PR	EN-057	Assassin's Mantle	N/A	N/A
@@ -68,6 +70,10 @@ NORM	CPR	EN-059	Priscilla, Lost Spirit	N/A	0
 NORM	PR	EN-060	Sable Remnant	N/A	N/A
 WIND	PR	EN-061	Windmill Engineer	N/A	N/A
 LUXEM	PR	EN-062	Lightweaver's Assault	N/A	N/A
+NORM	PR	EN-063	Exorcise Curses	N/A	N/A
+NORM	PR	EN-064	Cell Assembler	N/A	N/A
+FIRE	PR	EN-065	Reduce to Ash	N/A	N/A
+WATER	PR	EN-066	Hailstorm Guard	N/A	N/A
 FIRE	CPR	EN-067	Vyra, Spirit of Fire	N/A	0
 NORM	PR	EN-068	Spirit of Slime	N/A	0
 TERA	PR	EN-069	Silvie, Slime Sovereign	N/A	N/A
@@ -112,4 +118,50 @@ UMBRA	PR	EN-107	Haunting Demise	N/A	0
 UMBRA	PR	EN-108	Shadow Resonance	N/A	0
 UMBRA	PR	EN-109	Shadowstrike	N/A	0
 UMBRA	PR	EN-110	Shifting Mirage	N/A	0
+NORM	PR	EN-111	Careful Study	N/A	N/A
 FIRE	PR	EN-112	Flame-Rune Swordsman	N/A	N/A
+NORM	CPR	EN-113	Shira, Lost Spirit	N/A	N/A
+NORM	PR	EN-114	Reprogram	N/A	N/A
+NORM	PR	EN-115	Tariff Ring	N/A	N/A
+NORM	PR	EN-149	Tariff Ring	N/A	0
+NORM	PR	EN-116	Executioner's Spear	N/A	N/A
+NORM	PR	EN-117	Fan of Seven Debts	N/A	N/A
+FIRE	PR	EN-118	Blazing Throw	N/A	N/A
+NORM	PR	EN-119	Backup Charger	N/A	N/A
+NORM	PR	EN-120	Academy Attendant	N/A	N/A
+WATER	PR	EN-121	Fractal of Rain	N/A	N/A
+NORM	PR	EN-122	Heighten Spellcraft	N/A	N/A
+NORM	PR	EN-123	Ardent Cloudstriker	N/A	0
+NORM	PR	EN-124	Banner Knight	N/A	0
+NORM	PR	EN-125	Bauble of Abundance	N/A	0
+EXIA	PR	EN-126	Berserker Plate	N/A	0
+WATER	PR	EN-127	Coriolis Ward	N/A	0
+TERA	PR	EN-128	Coronal of Rejuvenation	N/A	0
+TERA	PR	EN-129	Devoted Bloomweaver	N/A	0
+WIND	PR	EN-130	Eminent Commander	N/A	0
+EXIA	PR	EN-131	Enrage	N/A	0
+TERA	PR	EN-132	Entrancing Filigree	N/A	0
+NORM	PR	EN-133	Formidable Youxia	N/A	0
+NORM	PR	EN-134	Harmonious Mantra	N/A	0
+NORM	PR	EN-136	Pierce the Heavens	N/A	0
+WIND	PR	EN-137	Reclaim	N/A	0
+NORM	PR	EN-138	Safeguard Amulet	N/A	0
+NORM	PR	EN-139	Safeguard Paladin	N/A	0
+NORM	PR	EN-140	Savage Swing	N/A	0
+NORM	PR	EN-141	Shard of Empowerment	N/A	0
+NORM	PR	EN-142	Shifting Currents	N/A	0
+EXIA	PR	EN-143	Shuang Ji of Sacrifice	N/A	0
+NORM	PR	EN-144	Slate Whetstone	N/A	0
+NORM	PR	EN-145	Spirited Neophyte	N/A	0
+NORM	PR	EN-146	Steel Halberd	N/A	0
+WATER	PR	EN-147	Sweet Ambrosia	N/A	0
+WATER	PR	EN-148	Taiji of Crystal Strategems	N/A	0
+WIND	CPR	EN-150	Brissa, Spirit of Wind	N/A	N/A
+WATER	PR	EN-151	Cone of Frost	N/A	N/A
+NORM	PR	EN-152	Staggering Strike	N/A	N/A
+WATER	PR	EN-153	Lost in Thought	N/A	N/A
+NORM	PR	EN-154	Peer into Mana	N/A	N/A
+WATER	CPR	EN-155	Minthe, Spirit of Water	N/A	N/A
+NORM	CPR	EN-157	Morrigan, Lost Spirit	N/A	N/A
+NORM	PR	EN-158	Nascent Blast	N/A	N/A
+NORM	CPR	EN-158	Nascent Blast	N/A	N/A
