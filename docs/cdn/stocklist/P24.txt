@@ -21,7 +21,6 @@ NORM	PR	EN-018	Worn Gearblade	N/A	0
 FIRE	PR	EN-019	Penetrator Round	N/A	0
 WIND	PR	EN-020	Deployment Beacon	N/A	0
 ASTRA	PR	EN-021	Cosmic Astroscope	N/A	0
-ASTRA	PR	EN-156	Cosmic Astroscope	N/A	N/A
 NEOS	PR	EN-022	Archon Broadsword	N/A	0
 NEOS	PR	EN-023	Sentinel Fabricator	N/A	0
 UMBRA	PR	EN-024	Shadow's Twin	N/A	0
@@ -59,8 +58,6 @@ NORM	CPR	EN-051	Scry the Skies	N/A	N/A
 WIND	PR	EN-052	Beseech the Winds	N/A	N/A
 WATER	PR	EN-053	Chilling Touch	N/A	N/A
 NORM	PR	EN-054	Into the Fray	N/A	N/A
-NORM	CSR	EN-054	Into the Fray	N/A	N/A
-NORM	CSR	EN-054	Into the Fray	N/A	N/A
 NORM	CPR	EN-054	Into the Fray	N/A	N/A
 FIRE	PR	EN-055	Fireworks Display	N/A	N/A
 NORM	PR	EN-056	Key Slime Pudding	N/A	N/A

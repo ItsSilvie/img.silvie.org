@@ -1,0 +1,43 @@
+NORM	C	EN-001	Nameless Champion	N/A	N/A
+NORM	C	EN-001	Nameless Champion	N/A	N/A
+NORM	C	EN-001	Nameless Champion	N/A	N/A
+NORM	C	EN-001	Nameless Champion	N/A	N/A
+NORM	C	EN-001	Nameless Champion	N/A	N/A
+NORM	C	EN-001	Nameless Champion	N/A	N/A
+NORM	C	EN-001	Nameless Champion	N/A	N/A
+NORM	C	EN-001	Nameless Champion	N/A	N/A
+NORM	C	EN-001	Nameless Champion	N/A	N/A
+NORM	C	EN-001	Nameless Champion	N/A	N/A
+NORM	C	EN-001	Nameless Champion	N/A	N/A
+NORM	C	EN-001	Nameless Champion	N/A	N/A
+NORM	C	EN-001	Nameless Champion	N/A	N/A
+NORM	C	EN-001	Nameless Champion	N/A	N/A
+NORM	C	EN-001	Nameless Champion	N/A	N/A
+NORM	C	EN-002	Amorphous Missile	N/A	N/A
+NORM	C	EN-003	Bellona's Runestone	N/A	N/A
+NORM	C	EN-004	Clandestine Chart	N/A	N/A
+NORM	C	EN-005	Cowl of the Wild	N/A	N/A
+NORM	C	EN-006	Duxal Proclamation	N/A	N/A
+NORM	C	EN-007	Etherealys' Promise	N/A	N/A
+NORM	C	EN-008	Fauna Friend	N/A	N/A
+NORM	C	EN-009	Gem of Sorority	N/A	N/A
+NORM	C	EN-010	Gossamer Staff	N/A	N/A
+NORM	C	EN-011	Halcyon Prism	N/A	N/A
+NORM	C	EN-012	Intwined Bangle	N/A	N/A
+NORM	C	EN-013	Marksman's Charm	N/A	N/A
+NORM	C	EN-014	Naga's Fang	N/A	N/A
+NORM	C	EN-015	Ninja Tabi	N/A	N/A
+NORM	C	EN-016	Oathbreaker's Justice	N/A	N/A
+NORM	C	EN-017	Phantom Veil	N/A	N/A
+NORM	C	EN-018	Prismatic Codex	N/A	N/A
+NORM	C	EN-019	Prismatic Perseverance	N/A	N/A
+NORM	C	EN-020	Protector's Plate	N/A	N/A
+NORM	C	EN-021	Sage's Urn	N/A	N/A
+NORM	C	EN-022	Sanguine Goblet	N/A	N/A
+NORM	C	EN-023	Shield of Parvati	N/A	N/A
+NORM	C	EN-024	Sojourner's Hunt	N/A	N/A
+NORM	C	EN-025	Spectral Beacon	N/A	N/A
+NORM	C	EN-026	Training Sword	N/A	N/A
+NORM	C	EN-027	Veilara's Promise	N/A	N/A
+NORM	C	EN-028	Winged Talaria	N/A	N/A
+NORM	C	EN-029	Prismatic Spirit	N/A	N/A
