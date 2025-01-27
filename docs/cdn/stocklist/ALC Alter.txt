@@ -1,36 +1,36 @@
-FIRE	CSR	EN-016	Polkhawk, Bombastic Shot	N/A	N/A
-WATER	CSR	EN-017	Nico, Whiplash Allure	N/A	N/A
-WIND	CSR	EN-018	Vanitas, Obliviate Schemer	N/A	N/A
-WIND	CSR	EN-019	Vanitas, Convergent Ruin	N/A	N/A
-NORM	UR	EN-029	Temporal Spectrometer	N/A	N/A
-WATER	UR	EN-036	Magebane Lash	N/A	N/A
-ASTRA	UR	EN-039	The Elysian Astrolabe	N/A	N/A
-UMBRA	UR	EN-040	Gloamspire Lance	N/A	N/A
-NORM	UR	EN-089	The Eternal Kingdom	N/A	N/A
-ASTRA	UR	EN-186	Scry the Stars	N/A	N/A
-NEOS	UR	EN-194	Neos Elemental	N/A	N/A
-UMBRA	UR	EN-203	Carter, Synthetic Reaper	N/A	N/A
-NORM	U	EN-215	Accompanying Guard	N/A	N/A
-NORM	U	EN-216	Automated Gardener	N/A	N/A
-FIRE	R	EN-217	Bombastic Sprint	N/A	N/A
-ASTRA	R	EN-218	Dawn's Reversal	N/A	N/A
-NORM	U	EN-219	Focusing Round	N/A	N/A
-WIND	U	EN-220	Fortifying Aroma	N/A	N/A
-WATER	R	EN-221	Frozen Dismissal	N/A	N/A
-WIND	U	EN-222	Galestream Insight	N/A	N/A
-UMBRA	R	EN-223	Gloamspire Prowler	N/A	N/A
-ASTRA	SR	EN-224	Horticounter	N/A	N/A
-NORM	U	EN-225	Imperial Panzer	N/A	N/A
-WATER	U	EN-226	Nico, Rapture's Embrace	N/A	N/A
-WATER	CSR	EN-226	Nico, Rapture's Embrace	N/A	N/A
-FIRE	SR	EN-227	Perdition	N/A	N/A
-FIRE	U	EN-228	Polkhawk, Boisterous Riot	N/A	N/A
-FIRE	CSR	EN-228	Polkhawk, Boisterous Riot	N/A	N/A
-WIND	R	EN-229	Reconnaissance Scout	N/A	N/A
-NEOS	R	EN-230	Refabrication	N/A	N/A
-FIRE	U	EN-231	Slash and Burn	N/A	N/A
-WATER	R	EN-232	Surging Undertow	N/A	N/A
-WATER	R	EN-233	Temptation's Facade	N/A	N/A
-WIND	SR	EN-234	Vanitas, Dominus Rex	N/A	N/A
-WIND	CSR	EN-234	Vanitas, Dominus Rex	N/A	N/A
-ASTRA	C	EN-235	Cosmic Bolt	N/A	N/A
+FIRE	CSR	EN-016	Polkhawk, Bombastic Shot	N/A	0
+WATER	CSR	EN-017	Nico, Whiplash Allure	N/A	0
+WIND	CSR	EN-018	Vanitas, Obliviate Schemer	N/A	0
+WIND	CSR	EN-019	Vanitas, Convergent Ruin	N/A	0
+NORM	UR	EN-029	Temporal Spectrometer	0	0
+WATER	UR	EN-036	Magebane Lash	0	0
+ASTRA	UR	EN-039	The Elysian Astrolabe	0	0
+UMBRA	UR	EN-040	Gloamspire Lance	0	0
+NORM	UR	EN-089	The Eternal Kingdom	0	0
+ASTRA	UR	EN-186	Scry the Stars	0	0
+NEOS	UR	EN-194	Neos Elemental	0	0
+UMBRA	UR	EN-203	Carter, Synthetic Reaper	0	0
+NORM	U	EN-215	Accompanying Guard	0	0
+NORM	U	EN-216	Automated Gardener	0	0
+FIRE	R	EN-217	Bombastic Sprint	0	0
+ASTRA	R	EN-218	Dawn's Reversal	0	0
+NORM	U	EN-219	Focusing Round	0	0
+WIND	U	EN-220	Fortifying Aroma	0	0
+WATER	R	EN-221	Frozen Dismissal	0	0
+WIND	U	EN-222	Galestream Insight	0	0
+UMBRA	R	EN-223	Gloamspire Prowler	0	0
+ASTRA	SR	EN-224	Horticounter	0	0
+NORM	U	EN-225	Imperial Panzer	0	0
+WATER	U	EN-226	Nico, Rapture's Embrace	0	0
+WATER	CSR	EN-226	Nico, Rapture's Embrace	N/A	0
+FIRE	SR	EN-227	Perdition	0	0
+FIRE	U	EN-228	Polkhawk, Boisterous Riot	0	0
+FIRE	CSR	EN-228	Polkhawk, Boisterous Riot	N/A	0
+WIND	R	EN-229	Reconnaissance Scout	0	0
+NEOS	R	EN-230	Refabrication	0	0
+FIRE	U	EN-231	Slash and Burn	0	0
+WATER	R	EN-232	Surging Undertow	0	0
+WATER	R	EN-233	Temptation's Facade	0	0
+WIND	SR	EN-234	Vanitas, Dominus Rex	0	0
+WIND	CSR	EN-234	Vanitas, Dominus Rex	N/A	0
+ASTRA	C	EN-235	Cosmic Bolt	0	0

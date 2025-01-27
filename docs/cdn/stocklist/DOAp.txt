@@ -35,8 +35,8 @@ NORM	C	EN-034	Careful Study	0	N/A
 NORM	C	EN-035	Conceal	0	N/A
 NORM	C	EN-036	Crusader of Aesa	0	N/A
 NORM	C	EN-037	Deflecting Edge	0	N/A
-NORM	R	EN-038	Dungeon Guide	0	N/A
 NORM	R	EN-038KS	Dungeon Guide	0	N/A
+NORM	R	EN-038	Dungeon Guide	0	N/A
 NORM	C	EN-039	Enraged Boars	0	N/A
 NORM	C	EN-040	Esteemed Knight	0	N/A
 NORM	SR	EN-041KS	Galahad, Court Knight	0	N/A
@@ -104,8 +104,8 @@ ARCANE	U	EN-101	Anger the Skies	0	N/A
 ARCANE	U	EN-102	Arcane Blast	0	N/A
 ARCANE	U	EN-103	Arcane Disposition	0	N/A
 ARCANE	U	EN-104	Arcane Sight	0	N/A
-ARCANE	R	EN-105	Power Overwhelming	0	N/A
 ARCANE	R	EN-105KS	Power Overwhelming	0	N/A
+ARCANE	R	EN-105	Power Overwhelming	0	N/A
 ARCANE	SR	EN-106KS	Reckless Conversion	0	N/A
 ARCANE	R	EN-107	Spellshield: Arcane	0	N/A
 CRUX	U	EN-108	Crux Sight	0	N/A

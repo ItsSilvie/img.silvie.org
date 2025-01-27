@@ -1,34 +1,34 @@
-WIND	C	EN-001	Spirit of Wind	N/A	N/A
-NORM	C	EN-002	Tristan, Underhanded	N/A	N/A
-NORM	C	EN-003	Tristan, Hired Blade	N/A	N/A
-UMBRA	SR	EN-004	Tristan, Shadowdancer	N/A	N/A
-UMBRA	CSR	EN-004	Tristan, Shadowdancer	N/A	N/A
-NORM	R	EN-005	Assassin's Mantle	N/A	N/A
-NORM	U	EN-006	Curved Dagger	N/A	N/A
-NORM	C	EN-007	Life Essence Amulet	N/A	N/A
-NORM	U	EN-008	Poisoned Dagger	N/A	N/A
-WIND	R	EN-009	Gearstride Gloves	N/A	N/A
-UMBRA	SR	EN-010	Dusksoul Stone	N/A	N/A
-UMBRA	SR	EN-011	Malignant Athame	N/A	N/A
-UMBRA	R	EN-012	Shadeblood Coating	N/A	N/A
-NORM	U	EN-013	Exploit Vulnerability	N/A	N/A
-NORM	C	EN-014	Idle Thoughts	N/A	N/A
-NORM	R	EN-015	Incapacitate	N/A	N/A
-NORM	SR	EN-016	Mastermind Scheme	N/A	N/A
-NORM	U	EN-017	Sable Remnant	N/A	N/A
-NORM	U	EN-018	Slice and Dice	N/A	N/A
-NORM	C	EN-019	Thieving Cut	N/A	N/A
-WIND	U	EN-020	Arrow Trap	N/A	N/A
-WIND	U	EN-021	Betraying Blade	N/A	N/A
-WIND	U	EN-022	Cloaked Executioner	N/A	N/A
-WIND	C	EN-023	Shimmercloak Assassin	N/A	N/A
-WIND	U	EN-024	Sirocco Operative	N/A	N/A
-WIND	R	EN-025	Stifling Trap	N/A	N/A
-WIND	U	EN-026	Surveil the Winds	N/A	N/A
-UMBRA	R	EN-027	Gloamspire Headhunter	N/A	N/A
-UMBRA	SR	EN-028	Grim Foreboding	N/A	N/A
-UMBRA	R	EN-029	Haunting Demise	N/A	N/A
-UMBRA	C	EN-030	Ominous Shadow	N/A	N/A
-UMBRA	UR	EN-031	Shadow Resonance	N/A	N/A
-UMBRA	SR	EN-032	Shadowstrike	N/A	N/A
-UMBRA	SR	EN-033	Shifting Mirage	N/A	N/A
+WIND	C	EN-001	Spirit of Wind	0	N/A
+NORM	C	EN-002	Tristan, Underhanded	0	N/A
+NORM	C	EN-003	Tristan, Hired Blade	0	N/A
+UMBRA	SR	EN-004	Tristan, Shadowdancer	0	N/A
+UMBRA	CSR	EN-004	Tristan, Shadowdancer	N/A	0
+NORM	R	EN-005	Assassin's Mantle	0	N/A
+NORM	U	EN-006	Curved Dagger	0	N/A
+NORM	C	EN-007	Life Essence Amulet	0	N/A
+NORM	U	EN-008	Poisoned Dagger	0	N/A
+WIND	R	EN-009	Gearstride Gloves	0	N/A
+UMBRA	SR	EN-010	Dusksoul Stone	0	N/A
+UMBRA	SR	EN-011	Malignant Athame	0	N/A
+UMBRA	R	EN-012	Shadeblood Coating	0	N/A
+NORM	U	EN-013	Exploit Vulnerability	0	N/A
+NORM	C	EN-014	Idle Thoughts	0	N/A
+NORM	R	EN-015	Incapacitate	0	N/A
+NORM	SR	EN-016	Mastermind Scheme	0	N/A
+NORM	U	EN-017	Sable Remnant	0	N/A
+NORM	U	EN-018	Slice and Dice	0	N/A
+NORM	C	EN-019	Thieving Cut	0	N/A
+WIND	U	EN-020	Arrow Trap	0	N/A
+WIND	U	EN-021	Betraying Blade	0	N/A
+WIND	U	EN-022	Cloaked Executioner	0	N/A
+WIND	C	EN-023	Shimmercloak Assassin	0	N/A
+WIND	U	EN-024	Sirocco Operative	0	N/A
+WIND	R	EN-025	Stifling Trap	0	N/A
+WIND	U	EN-026	Surveil the Winds	0	N/A
+UMBRA	R	EN-027	Gloamspire Headhunter	0	N/A
+UMBRA	SR	EN-028	Grim Foreboding	0	N/A
+UMBRA	R	EN-029	Haunting Demise	0	N/A
+UMBRA	C	EN-030	Ominous Shadow	0	N/A
+UMBRA	UR	EN-031	Shadow Resonance	0	N/A
+UMBRA	SR	EN-032	Shadowstrike	0	N/A
+UMBRA	SR	EN-033	Shifting Mirage	0	N/A

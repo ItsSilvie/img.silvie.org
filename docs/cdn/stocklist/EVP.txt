@@ -7,8 +7,8 @@ LUXEM	CSR	EN-006	Uther, Illustrious King	N/A	0
 ASTRA	CSR	EN-007	Astarte, Celestial Dawn	N/A	0
 WATER	CSR	EN-008	Geni, Gifted Mechanist	N/A	0
 WIND	CSR	EN-009	Perse, Relentless Raptor	N/A	0
-UMBRA	CSR	EN-010	Ominous Shadow	N/A	N/A
-NORM	CSR	EN-011	Overlord Mk III	N/A	N/A
-TERA	CSR	EN-012	Slime King	N/A	N/A
+UMBRA	CSR	EN-010	Ominous Shadow	N/A	0
+NORM	CSR	EN-011	Overlord Mk III	N/A	0
+TERA	CSR	EN-012	Slime King	N/A	0
 WIND	CSR	EN-013	Dilu, Auspicious Charger	N/A	0
 WATER	CSR	EN-014	Jueying, Shadowmare	N/A	0

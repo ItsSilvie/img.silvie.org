@@ -1,6 +1,6 @@
 WATER	PR	EN-001	Scepter of Lumina	N/A	N/A
 NORM	PR	EN-001T	Nullifying Mirror	N/A	N/A
-TERA	PR	EN-002	Stonescale Band	N/A	N/A
+TERA	PR	EN-002B	Stonescale Band	N/A	N/A
 LUXEM	PR	EN-003	Insignia of the Corhazi	N/A	N/A
 NORM	PR	EN-004	Viridian Protective Trinket	N/A	N/A
 NORM	PR	EN-005	Zander, Deft Executor	N/A	N/A
