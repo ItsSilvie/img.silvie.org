@@ -5,3 +5,4 @@ LUXEM	PR	EN-003	Insignia of the Corhazi	N/A	N/A
 NORM	PR	EN-004	Viridian Protective Trinket	N/A	N/A
 NORM	PR	EN-005	Zander, Deft Executor	N/A	N/A
 NORM	PR	EN-006	Polaris, Twinkling Cauldron	N/A	N/A
+NORM	PR	EN-007	Reciprocity, Dorumegia's Call	N/A	N/A

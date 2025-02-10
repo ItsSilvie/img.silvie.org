@@ -33,4 +33,4 @@ WATER	R	EN-232	Surging Undertow	0	0
 WATER	R	EN-233	Temptation's Facade	0	0
 WIND	SR	EN-234	Vanitas, Dominus Rex	0	0
 WIND	CSR	EN-234	Vanitas, Dominus Rex	N/A	0
-ASTRA	C	EN-235	Cosmic Bolt	0	0
+ASTRA	C	EN-235	Cosmic Bolt	0	N/A

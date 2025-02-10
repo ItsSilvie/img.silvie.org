@@ -35,8 +35,8 @@ NORM	C	EN-034	Careful Study	0	N/A
 NORM	C	EN-035	Conceal	0	N/A
 NORM	C	EN-036	Crusader of Aesa	0	N/A
 NORM	C	EN-037	Deflecting Edge	0	N/A
-NORM	R	EN-038KS	Dungeon Guide	0	N/A
 NORM	R	EN-038	Dungeon Guide	0	N/A
+NORM	R	EN-038KS	Dungeon Guide	0	N/A
 NORM	C	EN-039	Enraged Boars	0	N/A
 NORM	C	EN-040	Esteemed Knight	0	N/A
 NORM	SR	EN-041KS	Galahad, Court Knight	0	N/A
@@ -76,8 +76,8 @@ FIRE	U	EN-074	Focused Flames	0	N/A
 FIRE	C	EN-075	Ignite the Soul	0	N/A
 FIRE	U	EN-076	Impassioned Tutor	0	N/A
 FIRE	U	EN-077	Increasing Danger	0	N/A
-FIRE	R	EN-078	Purge in Flames	0	N/A
 FIRE	R	EN-078KS	Purge in Flames	0	N/A
+FIRE	R	EN-078	Purge in Flames	0	N/A
 FIRE	U	EN-079	Reckless Researcher	0	N/A
 FIRE	U	EN-080	Rending Flames	0	N/A
 FIRE	C	EN-081	Spark Alight	0	N/A
@@ -104,16 +104,16 @@ ARCANE	U	EN-101	Anger the Skies	0	N/A
 ARCANE	U	EN-102	Arcane Blast	0	N/A
 ARCANE	U	EN-103	Arcane Disposition	0	N/A
 ARCANE	U	EN-104	Arcane Sight	0	N/A
-ARCANE	R	EN-105KS	Power Overwhelming	0	N/A
 ARCANE	R	EN-105	Power Overwhelming	0	N/A
+ARCANE	R	EN-105KS	Power Overwhelming	0	N/A
 ARCANE	SR	EN-106KS	Reckless Conversion	0	N/A
 ARCANE	R	EN-107	Spellshield: Arcane	0	N/A
 CRUX	U	EN-108	Crux Sight	0	N/A
 CRUX	SR	EN-109KS	Ghosts of Pendragon	0	N/A
 CRUX	R	EN-110	Spirit Blade: Ascension	0	N/A
 CRUX	R	EN-110KS	Spirit Blade: Ascension	0	N/A
-CRUX	R	EN-111	Spirit Blade: Dispersion	0	N/A
 CRUX	R	EN-111KS	Spirit Blade: Dispersion	0	N/A
+CRUX	R	EN-111	Spirit Blade: Dispersion	0	N/A
 CRUX	U	EN-112	Spirit Blade: Ghost Strike	0	N/A
 CRUX	U	EN-113	Spirit Blade: Infusion	0	N/A
 CRUX	R	EN-114	Spirit's Blessing	0	N/A
