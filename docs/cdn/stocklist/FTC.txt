@@ -2,8 +2,8 @@ FIRE	UR	EN-001	Spirit of Serene Fire	0	0
 WATER	UR	EN-002	Spirit of Serene Water	0	0
 WIND	UR	EN-003	Spirit of Serene Wind	0	0
 CRUX	SR	EN-004	Merlin, Kingslayer	0	0
-CRUX	CSR	EN-004A	Merlin, Kingslayer	N/A	0
 CRUX	CSR	EN-004B	Merlin, Kingslayer	N/A	0
+CRUX	CSR	EN-004A	Merlin, Kingslayer	N/A	0
 NORM	U	EN-005	Azure Protective Trinket	0	0
 NORM	U	EN-006	Crimson Protective Trinket	0	0
 NORM	UR	EN-007	Quicksilver Grail	0	N/A
