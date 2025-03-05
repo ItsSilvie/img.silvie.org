@@ -12,3 +12,5 @@ NORM	CSR	EN-011	Overlord Mk III	N/A	0
 TERA	CSR	EN-012	Slime King	N/A	0
 WIND	CSR	EN-013	Dilu, Auspicious Charger	N/A	0
 WATER	CSR	EN-014	Jueying, Shadowmare	N/A	0
+FIRE	CSR	EN-015	Red Hare, Unrivaled Stallion	N/A	0
+NORM	CSR	EN-016	Zhou Yu, Enlightened Sage	N/A	0

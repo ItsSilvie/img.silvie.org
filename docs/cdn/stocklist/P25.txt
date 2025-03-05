@@ -1,1 +1,3 @@
-NORM	PR	CN-021	Coronation Ceremony	0	0
+NORM	PR	EN-021	Coronation Ceremony	0	0
+NORM	PR	EN-022	Rousing Rattle Drum	N/A	0
+WATER	PR	EN-023	Hairpin of Transience	N/A	0

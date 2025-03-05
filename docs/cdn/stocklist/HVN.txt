@@ -1,0 +1,201 @@
+FIRE	SR	EN-001	Spirit of Fortuitous Fire	0	0
+WATER	SR	EN-002	Spirit of Fortuitous Water	0	0
+WIND	SR	EN-003	Spirit of Fortuitous Wind	0	0
+NORM	C	EN-004	Diao Chan, Enchantress	0	0
+NORM	C	EN-005	Diao Chan, Dreaming Wish	0	0
+TERA	C	EN-006	Diao Chan, Idyll Corsage	0	0
+NORM	C	EN-007	Guo Jia, Chosen Disciple	0	0
+NORM	C	EN-008	Guo Jia, Blessed Scion	0	0
+LUXEM	C	EN-009	Guo Jia, Heaven's Favored	0	0
+NORM	SR	EN-010	Kongming, Erudite Strategist	0	0
+NORM	R	EN-012	Censer of Restful Peace	0	0
+NORM	U	EN-013	Forged Scalemail	0	0
+NORM	R	EN-015	Nullifying Mirror	0	0
+NORM	U	EN-016	Protective Helm	0	0
+NORM	R	EN-017	Sword Saint's Vow	0	0
+NORM	R	EN-018	Tabula of Salvage	0	0
+FIRE	R	EN-020	Sigil of Budding Embers	0	0
+WATER	SR	EN-022	Frostbitten Etui	0	0
+WATER	R	EN-023	Tidefate Brooch	0	0
+WIND	R	EN-024	Bell of the Chosen	0	0
+WIND	SR	EN-026	Windspire Crest	0	0
+TERA	SR	EN-028	Enthralling Chime	0	0
+NORM	C	EN-030	Ameliorating Mantra	0	0
+NORM	U	EN-031	Annul Spell	0	0
+NORM	C	EN-032	Aphotic Ruin	0	0
+NORM	C	EN-033	Auspicious Feast	0	0
+NORM	R	EN-034	Brackish Lutist	0	0
+NORM	C	EN-035	Break Apart	0	0
+NORM	U	EN-036	Caretaker Horse	0	0
+NORM	R	EN-037	Changban, Heroic Impasse	0	0
+NORM	R	EN-038	Chibi, Battle of Red Cliffs	0	0
+NORM	R	EN-039	Clash of Fates	0	0
+NORM	C	EN-040	Clear Pastures	0	0
+NORM	U	EN-041	Coronation Ceremony	0	0
+NORM	R	EN-042	Crystallized Destiny	0	0
+NORM	C	EN-043	Disenchant	0	0
+NORM	C	EN-044	Empowering Enlightenment	0	0
+NORM	U	EN-045	Fatestone of Balance	0	0
+NORM	U	EN-046	Fatestone of Progress	0	0
+NORM	C	EN-047	Feathery Tune	0	0
+NORM	C	EN-048	Fledgling	0	0
+NORM	U	EN-049	Gentle Respite	0	0
+NORM	U	EN-050	Hidden Longbowman	0	0
+NORM	C	EN-051	Horse Archer	0	0
+NORM	SR	EN-052	Idle Fatestone	0	0
+NORM	U	EN-053	Immaterial Dissolution	0	0
+NORM	U	EN-054	Innocuous Disposer	0	0
+NORM	U	EN-055	Kingdom's Divide	0	0
+NORM	C	EN-056	Maiden of Shimmering Air	0	0
+NORM	U	EN-057	Minister of Ceremony	0	0
+NORM	U	EN-058	Provoking Stand	0	0
+NORM	C	EN-059	Rescue the Heir	0	0
+NORM	R	EN-060	Revealing Mesmer	0	0
+NORM	C	EN-061	Rotund Squirrel	0	0
+NORM	SR	EN-062	Shangxiang, Fierce Princess	0	0
+NORM	U	EN-063	Shimmering Refraction	0	0
+NORM	C	EN-064	Stand Fast	0	0
+NORM	U	EN-065	Steady Sharpshooter	0	0
+NORM	SR	EN-066	Sun Ce, Weaponsmaster	0	0
+NORM	SR	EN-067	Sun Jian, Wolvesbane	0	0
+NORM	C	EN-068	Surreptitious Scheme	0	0
+NORM	U	EN-069	Wingpeak Patriarch	0	0
+NORM	C	EN-070	Withering Grasp	0	0
+NORM	SR	EN-071	Yuan Shao, Crown General	0	0
+NORM	SR	EN-072	Zhang Jiao, Way of Peace	0	0
+NORM	SR	EN-073	Zhou Yu, Enlightened Sage	0	0
+FIRE	U	EN-074	Ashwick Cremator	0	0
+FIRE	C	EN-075	Blazing Bowman	0	0
+FIRE	U	EN-076	Blitz Charger	0	0
+FIRE	C	EN-077	Cinder Geyser	0	0
+FIRE	SR	EN-078	Coiled Fatestone	0	0
+FIRE	SR	EN-079	Da Qiao, Cinderbinder	0	0
+FIRE	C	EN-080	Dazzling Courtesan	0	0
+FIRE	U	EN-081	Demolition	0	0
+FIRE	U	EN-082	Dire Requiem	0	0
+FIRE	C	EN-083	Direwolf	0	0
+FIRE	R	EN-084	Direwolf Alpha	0	0
+FIRE	C	EN-085	Explosive Concoction	0	0
+FIRE	SR	EN-086	Firebloom Flourish	0	0
+FIRE	C	EN-087	Flamebolt Arbalist	0	0
+FIRE	U	EN-088	Flamelash Beastmaster	0	0
+FIRE	U	EN-089	General at Arms	0	0
+FIRE	U	EN-090	Glowering Conflagration	0	0
+FIRE	C	EN-091	Increasing Danger	0	0
+FIRE	SR	EN-092	Jianye, Dawn's Keep	0	0
+FIRE	SR	EN-093	Lu Xun, Pyre Strategist	0	0
+FIRE	U	EN-094	Ravenous Pyre	0	0
+FIRE	SR	EN-095	Red Hare, Unrivaled Stallion	0	0
+FIRE	C	EN-096	Restorative Flame	0	0
+FIRE	C	EN-097	Ritai Berserker	0	0
+FIRE	R	EN-098	Ritai Stablemaster	0	0
+FIRE	U	EN-099	Scorching Imperilment	0	0
+FIRE	SR	EN-100	Searing Rebuke	0	0
+FIRE	U	EN-101	Searing Truth	0	0
+FIRE	C	EN-102	Silent Firebrand	0	0
+FIRE	U	EN-103	Sly Songstress	0	0
+FIRE	C	EN-104	Smoke Out	0	0
+FIRE	R	EN-105	Solar Providence	0	0
+FIRE	R	EN-106	Sunglory Sentinel	0	0
+FIRE	R	EN-107	Suzaku's Command	0	0
+FIRE	U	EN-108	Tinderflare Pivot	0	0
+WATER	U	EN-109	Austere Priestess	0	0
+WATER	U	EN-110	Beguiling Bandit	0	0
+WATER	SR	EN-111	Captivating Opulence	0	0
+WATER	R	EN-112	Carpsong Coda	0	0
+WATER	U	EN-113	Ceasing Edict	0	0
+WATER	R	EN-114	Conniving Plans	0	0
+WATER	U	EN-115	Convalescing Mare	0	0
+WATER	R	EN-116	Delusional Vapors	0	0
+WATER	SR	EN-117	Dian Wei, Valorant Fury	0	0
+WATER	C	EN-118	Disciple of the Waves	0	0
+WATER	C	EN-119	Dissonant Fractal	0	0
+WATER	R	EN-120	Drowned Exorcist	0	0
+WATER	R	EN-121	Dynasty Chancellor	0	0
+WATER	SR	EN-122	Extricating Touch	0	0
+WATER	U	EN-123	Floating Peace	0	0
+WATER	U	EN-124	Fluvial Fatestone	0	0
+WATER	C	EN-125	Forgetful Concoction	0	0
+WATER	R	EN-126	Genbu's Command	0	0
+WATER	C	EN-128	Keeper of the Wild	0	0
+WATER	C	EN-129	Lively Chorale	0	0
+WATER	R	EN-130	Mana Resonance	0	0
+WATER	R	EN-131	Misteye Archer	0	0
+WATER	U	EN-132	Mistsworn Magister	0	0
+WATER	U	EN-133	Moontide Illusionist	0	0
+WATER	C	EN-134	Outrider of Waves	0	0
+WATER	SR	EN-135	Pelagic Fatestone	0	0
+WATER	SR	EN-136	Resonating Fugue	0	0
+WATER	R	EN-137	Seaside Rangefinder	0	0
+WATER	R	EN-138	Sleety Retreat	0	0
+WATER	C	EN-139	Splashing Spearguard	0	0
+WATER	R	EN-140	Submerged Fatestone	0	0
+WATER	C	EN-141	Think Deep	0	0
+WATER	R	EN-142	Tidebreaker Sentinel	0	0
+WATER	C	EN-143	Tidestone Seeker	0	0
+WATER	U	EN-144	Waterfall Veiler	0	0
+WATER	U	EN-145	Waterlogged Ranger	0	0
+WATER	SR	EN-146	Xuchang, Frozen Citadel	0	0
+WATER	SR	EN-147	Zhang He, Cloak of Night	0	0
+WIND	SR	EN-148	Baidi, Oathsworn Palace	0	0
+WIND	SR	EN-149	Beseeched Fatestone	0	0
+WIND	R	EN-150	Byakko's Command	0	0
+WIND	R	EN-151	Captain Archer	0	0
+WIND	C	EN-152	Courtside Beastkeeper	0	0
+WIND	U	EN-153	Cyclonic Fatestone	0	0
+WIND	U	EN-154	Evanescent Winds	0	0
+WIND	C	EN-155	Fleetfoot Filly	0	0
+WIND	C	EN-156	Galewind Scout	0	0
+WIND	U	EN-157	Inquisitive Magician	0	0
+WIND	C	EN-158	Invigorating Concoction	0	0
+WIND	R	EN-159	Jadelight Protector	0	0
+WIND	SR	EN-160	Ma Chao, Lupine Huntress	0	0
+WIND	U	EN-161	Maiden of Glimmer's Dusk	0	0
+WIND	U	EN-162	Maiden of Reverent Gale	0	0
+WIND	R	EN-163	Maiden of Shrouded Fog	0	0
+WIND	U	EN-164	Modulating Cadence	0	0
+WIND	U	EN-165	Pluming Crescendo	0	0
+WIND	C	EN-166	Poised Bowman	0	0
+WIND	U	EN-167	Primeval Ritual	0	0
+WIND	C	EN-168	Razorblade Execution	0	0
+WIND	U	EN-169	Rearing Rebound	0	0
+WIND	C	EN-170	Rebounding Gust	0	0
+WIND	R	EN-171	Rilewind Sentinel	0	0
+WIND	C	EN-172	Sage Protection	0	0
+WIND	U	EN-173	Squallbind Pounce	0	0
+WIND	R	EN-174	Stifling Trap	0	0
+WIND	R	EN-175	Sword Saint of Eveswind	0	0
+WIND	U	EN-176	Sylph's Envelopment	0	0
+WIND	U	EN-177	Usurp the Winds	0	0
+WIND	C	EN-178	Whirlwind Reaper	0	0
+WIND	C	EN-179	Whirlwind Threads	0	0
+WIND	U	EN-180	Wildgrowth Fatestone	0	0
+WIND	C	EN-181	Wildheart Hymn	0	0
+WIND	U	EN-182	Winds of Destiny	0	0
+WIND	U	EN-183	Wulin Lancer	0	0
+ARCANE	C	EN-184	Arcane Blast	0	0
+ARCANE	R	EN-186	Harness Lightning	0	0
+ARCANE	SR	EN-187	Seiryuu's Command	0	0
+ARCANE	SR	EN-188	Shattering Discharge	0	0
+ARCANE	R	EN-189	Stabilizing Capacitance	0	0
+EXIA	R	EN-191	Bloodshroud Temper	0	0
+EXIA	R	EN-192	Savage Sunder	0	0
+EXIA	R	EN-193	Wrathful Slime	0	0
+EXIA	SR	EN-194	Zhang Liao, Bloodmonger	0	0
+LUXEM	R	EN-195	Felicitous Flock	0	0
+LUXEM	SR	EN-197	Lumen Borealis	0	0
+LUXEM	SR	EN-198	Pang Tong, Young Phoenix	0	0
+LUXEM	R	EN-199	Striking Illuminance	0	0
+LUXEM	SR	EN-200	Sunblessed Gazelle	0	0
+TERA	C	EN-201	Acerbica	0	0
+TERA	SR	EN-202	Bagua of Vital Demise	0	0
+TERA	C	EN-203	Baihua	0	0
+TERA	R	EN-204	Bloom: Autumn's Fall	0	0
+TERA	R	EN-205	Enervating Decay	0	0
+TERA	C	EN-206	Floodbloom	0	0
+TERA	C	EN-207	Flowerbud	0	0
+TERA	C	EN-209	Lycoria	0	0
+TERA	R	EN-210	Maiden of Primal Virtue	0	0
+TERA	SR	EN-211	Natural Order	0	0
+TERA	C	EN-212	Nightshade	0	0
+TERA	C	EN-213	Washuru	0	0

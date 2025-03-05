@@ -1,0 +1,29 @@
+NORM	CSR	EN-004	Diao Chan, Enchantress	N/A	0
+NORM	CSR	EN-005	Diao Chan, Dreaming Wish	N/A	0
+TERA	CSR	EN-006	Diao Chan, Idyll Corsage	N/A	0
+NORM	CSR	EN-007	Guo Jia, Chosen Disciple	N/A	0
+NORM	CSR	EN-008	Guo Jia, Blessed Scion	N/A	0
+LUXEM	CSR	EN-009	Guo Jia, Heaven's Favored	N/A	0
+NORM	CSR	EN-010	Kongming, Erudite Strategist	N/A	0
+NORM	UR	EN-011	Art of War	0	0
+NORM	UR	EN-014	Huaji of Heaven's Rise	0	0
+FIRE	UR	EN-019	Fabled Ruby Fatestone	0	N/A
+FIRE	CSR	EN-019	Fabled Ruby Fatestone	N/A	0
+WATER	UR	EN-021	Fabled Sapphire Fatestone	0	N/A
+WATER	CSR	EN-021	Fabled Sapphire Fatestone	N/A	0
+WIND	UR	EN-025	Fabled Emerald Fatestone	0	N/A
+WIND	CSR	EN-025	Fabled Emerald Fatestone	N/A	0
+ARCANE	CSR	EN-027	Fabled Azurite Fatestone	N/A	0
+TERA	UR	EN-029	Scepter of Awakening	0	0
+NORM	CSR	EN-062	Shangxiang, Fierce Princess	N/A	0
+NORM	CSR	EN-066	Sun Ce, Weaponsmaster	N/A	0
+NORM	CSR	EN-071	Yuan Shao, Crown General	N/A	0
+NORM	CSR	EN-072	Zhang Jiao, Way of Peace	N/A	0
+FIRE	CSR	EN-079	Da Qiao, Cinderbinder	N/A	0
+WATER	CSR	EN-117	Dian Wei, Valorant Fury	N/A	0
+WATER	UR	EN-127	Jianyu, Fate's Premonition	0	0
+ARCANE	UR	EN-185	Harbinger of Lightning	0	0
+EXIA	UR	EN-190	Annihilation	0	0
+LUXEM	UR	EN-196	Glorious Presence	0	0
+TERA	UR	EN-208	Lu Bu, Indomitable Titan	0	0
+TERA	CUR	EN-208	Lu Bu, Indomitable Titan	N/A	0
