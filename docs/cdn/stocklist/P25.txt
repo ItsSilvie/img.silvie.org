@@ -1,3 +1,52 @@
+WIND	CPR	EN-008	Kaze, Spirit of Wind	N/A	0
 NORM	PR	EN-021	Coronation Ceremony	0	0
 NORM	PR	EN-022	Rousing Rattle Drum	N/A	0
 WATER	PR	EN-023	Hairpin of Transience	N/A	0
+EXIA	CPR	EN-024	Enrage	N/A	0
+NORM	CPR	EN-025	Mandate of Honor	N/A	0
+NORM	CPR	EN-026	Mnemonic Charm	N/A	0
+WATER	PR	EN-028	Frostbind	N/A	0
+WATER	PR	EN-030	Acquiescing Rejection	N/A	0
+LUXEM	PR	EN-031	Advent of the Shenju	N/A	0
+FIRE	PR	EN-032	Band of Burning Verdict	N/A	0
+TERA	PR	EN-033	Bloom: Summer's Glow	N/A	0
+TERA	PR	EN-034	Bloom: Winter's Chill	N/A	0
+TERA	PR	EN-035	Blossoming Denial	N/A	0
+FIRE	PR	EN-036	Broken Promises	N/A	0
+WATER	PR	EN-037	Chill to the Bone	N/A	0
+NORM	PR	EN-038	Cleric Robes	N/A	0
+NORM	PR	EN-039	Companion Fatestone	N/A	0
+NORM	PR	EN-040	Craggy Fatestone	N/A	0
+WATER	PR	EN-041	Dissuading Halt	N/A	0
+WATER	PR	EN-042	Eventide Lure	N/A	0
+NORM	PR	EN-043	Expel the Departed	N/A	0
+ARCANE	PR	EN-044	Fabled Azurite Fatestone	N/A	0
+NORM	PR	EN-045	Fated Keepsake	N/A	0
+LUXEM	PR	EN-046	Fatestone of Heaven	N/A	0
+NORM	PR	EN-047	Fatestone of Revelations	N/A	0
+FIRE	PR	EN-048	Fatestone of Unrelenting	N/A	0
+FIRE	PR	EN-049	Flamewreath Call	N/A	0
+NORM	PR	EN-050	Foraging Fox	N/A	0
+WATER	PR	EN-051	Fractal of Refreshment	N/A	0
+WATER	PR	EN-052	Frostlorn Caress	N/A	0
+WATER	PR	EN-053	Frostnip Pirouette	N/A	0
+NORM	PR	EN-054	Glimmer Essence Amulet	N/A	0
+WATER	PR	EN-055	Glimmering Refusal	N/A	0
+LUXEM	PR	EN-056	Incandescent Reliquary	N/A	0
+NORM	PR	EN-057	Journey's Beginning	N/A	0
+TERA	PR	EN-058	Kaleidoscope Barrette	N/A	0
+FIRE	PR	EN-059	Lavaplume Fatestone	N/A	0
+LUXEM	PR	EN-060	Light the Hunt	N/A	0
+NORM	PR	EN-061	Obscuring Threads	N/A	0
+LUXEM	PR	EN-062	Peacock of Prosperity	N/A	0
+NORM	PR	EN-063	Portentous Tanggu	N/A	0
+WATER	PR	EN-064	Redirect Flow	N/A	0
+TERA	PR	EN-065	Ripples of Atrophy	N/A	0
+NORM	PR	EN-066	Scepter of Fascination	N/A	0
+TERA	PR	EN-067	Season's End	N/A	0
+FIRE	PR	EN-068	Shatter the Brittle	N/A	0
+TERA	PR	EN-069	Shriveling Vines	N/A	0
+TERA	PR	EN-070	Staff of Blossoming Will	N/A	0
+NORM	PR	EN-071	Strengthen the Bonds	N/A	0
+NORM	PR	EN-072	Unstable Fractal	N/A	0
+NORM	PR	EN-075	Fast Cure	0	0

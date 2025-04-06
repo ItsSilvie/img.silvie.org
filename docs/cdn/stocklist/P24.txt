@@ -6,8 +6,8 @@ NORM	PR	EN-004	Cleric Robes	N/A	0
 NORM	PR	EN-005	Crest of the Alliance	N/A	0
 NORM	PR	EN-006	Flash Grenade	N/A	0
 NORM	PR	EN-007	Ingredient Pouch	N/A	0
-NORM	PR	EN-135	Life Essence Amulet	N/A	0
 NORM	PR	EN-008	Life Essence Amulet	N/A	0
+NORM	PR	EN-135	Life Essence Amulet	N/A	0
 NORM	PR	EN-009	Necklace of Foresight	N/A	0
 NORM	PR	EN-010	Plated Bullet	N/A	0
 NORM	PR	EN-011	Powercharged Shield	N/A	0
@@ -41,8 +41,7 @@ FIRE	PR	EN-038	Incendiary Shot	N/A	0
 WATER	PR	EN-039	Essence of Blizzards	N/A	0
 WIND	PR	EN-040	Recruitment Officer	N/A	0
 ASTRA	PR	EN-041	Cosmic Bolt	N/A	0
-CRUX	PR	EN-042	Spirit Blade: Ascension	N/A	N/A
-CRUX	PR	EN-042	Spirit Blade: Ascension	N/A	N/A
+CRUX	PR	EN-042	Spirit Blade: Ascension	0	0
 WATER	PR	EN-043	Frostbind	N/A	N/A
 WATER	CPR	EN-043	Frostbind	N/A	N/A
 WIND	PR	EN-044	Veiling Breeze	N/A	N/A
@@ -71,6 +70,7 @@ NORM	PR	EN-063	Exorcise Curses	N/A	N/A
 NORM	PR	EN-064	Cell Assembler	N/A	N/A
 FIRE	PR	EN-065	Reduce to Ash	N/A	N/A
 WATER	PR	EN-066	Hailstorm Guard	N/A	N/A
+WATER	CPR	EN-066	Hailstorm Guard	N/A	N/A
 FIRE	CPR	EN-067	Vyra, Spirit of Fire	N/A	0
 NORM	PR	EN-068	Spirit of Slime	N/A	0
 TERA	PR	EN-069	Silvie, Slime Sovereign	N/A	N/A
@@ -156,9 +156,12 @@ WATER	PR	EN-148	Taiji of Crystal Strategems	N/A	0
 WIND	CPR	EN-150	Brissa, Spirit of Wind	N/A	N/A
 WATER	PR	EN-151	Cone of Frost	N/A	N/A
 NORM	PR	EN-152	Staggering Strike	N/A	N/A
-WATER	PR	EN-153	Lost in Thought	N/A	N/A
+WATER	PR	EN-153	Lost in Thought	N/A	0
+WATER	CPR	EN-153	Lost in Thought	N/A	N/A
 NORM	PR	EN-154	Peer into Mana	N/A	N/A
 WATER	CPR	EN-155	Minthe, Spirit of Water	N/A	N/A
+WATER	PR	EN-156	Revitalizing Cleanse	0	0
+WATER	CPR	EN-156	Revitalizing Cleanse	N/A	0
 NORM	CPR	EN-157	Morrigan, Lost Spirit	N/A	N/A
 NORM	PR	EN-158	Nascent Blast	N/A	N/A
 NORM	CPR	EN-158	Nascent Blast	N/A	N/A
