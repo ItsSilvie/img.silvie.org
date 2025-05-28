@@ -32,3 +32,4 @@ CRUX	SR	EN-030	Ethereal Slime	0	N/A
 LUXEM	R	EN-031	Lustrous Slime	0	N/A
 TERA	UR	EN-032	Slime King	0	N/A
 TERA	R	EN-033	Verdant Slime	0	N/A
+NORM	U	EN-034	Baby Silver Slime	0	N/A

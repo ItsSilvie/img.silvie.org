@@ -1,11 +1,31 @@
+CRUX	PR	EN-001	Lorraine, Ascendant Wings	N/A	N/A
+CRUX	CPR	EN-001	Lorraine, Ascendant Wings	N/A	N/A
+NORM	PR	EN-002	Sword of Seeking	N/A	N/A
+WIND	PR	EN-003	Eternal Magistrate	N/A	N/A
+FIRE	PR	EN-004	Spurn to Ash	N/A	N/A
+FIRE	CPR	EN-004	Spurn to Ash	N/A	N/A
+ASTRA	CPR	EN-007	Cosmic Astroscope	N/A	N/A
 WIND	CPR	EN-008	Kaze, Spirit of Wind	N/A	0
+FIRE	CPR	EN-009	Hanabi, Spirit of Fire	N/A	N/A
+NORM	CPR	EN-010	Priscilla, Lost Spirit	N/A	N/A
+WATER	CPR	EN-011	Miao, Spirit of Water	N/A	N/A
+FIRE	PR	EN-016	Wandering Glaivier	N/A	0
+NORM	PR	EN-057	Journey's Beginning	N/A	0
+NORM	PR	EN-017	Journey's Beginning	N/A	N/A
+WATER	PR	EN-041	Dissuading Halt	N/A	0
+WATER	PR	EN-018	Dissuading Halt	N/A	N/A
+NORM	PR	EN-019	Acolyte of Cultivation	N/A	N/A
+NORM	CPR	EN-019	Acolyte of Cultivation	N/A	N/A
+NORM	PR	EN-020	Shard of Empowerment	N/A	N/A
 NORM	PR	EN-021	Coronation Ceremony	0	0
 NORM	PR	EN-022	Rousing Rattle Drum	N/A	0
 WATER	PR	EN-023	Hairpin of Transience	N/A	0
 EXIA	CPR	EN-024	Enrage	N/A	0
 NORM	CPR	EN-025	Mandate of Honor	N/A	0
 NORM	CPR	EN-026	Mnemonic Charm	N/A	0
+NORM	PR	EN-027	Incapacitate	N/A	N/A
 WATER	PR	EN-028	Frostbind	N/A	0
+NORM	PR	EN-029	Seal the Past	N/A	N/A
 WATER	PR	EN-030	Acquiescing Rejection	N/A	0
 LUXEM	PR	EN-031	Advent of the Shenju	N/A	0
 FIRE	PR	EN-032	Band of Burning Verdict	N/A	0
@@ -17,7 +37,6 @@ WATER	PR	EN-037	Chill to the Bone	N/A	0
 NORM	PR	EN-038	Cleric Robes	N/A	0
 NORM	PR	EN-039	Companion Fatestone	N/A	0
 NORM	PR	EN-040	Craggy Fatestone	N/A	0
-WATER	PR	EN-041	Dissuading Halt	N/A	0
 WATER	PR	EN-042	Eventide Lure	N/A	0
 NORM	PR	EN-043	Expel the Departed	N/A	0
 ARCANE	PR	EN-044	Fabled Azurite Fatestone	N/A	0
@@ -33,7 +52,6 @@ WATER	PR	EN-053	Frostnip Pirouette	N/A	0
 NORM	PR	EN-054	Glimmer Essence Amulet	N/A	0
 WATER	PR	EN-055	Glimmering Refusal	N/A	0
 LUXEM	PR	EN-056	Incandescent Reliquary	N/A	0
-NORM	PR	EN-057	Journey's Beginning	N/A	0
 TERA	PR	EN-058	Kaleidoscope Barrette	N/A	0
 FIRE	PR	EN-059	Lavaplume Fatestone	N/A	0
 LUXEM	PR	EN-060	Light the Hunt	N/A	0
@@ -49,4 +67,10 @@ TERA	PR	EN-069	Shriveling Vines	N/A	0
 TERA	PR	EN-070	Staff of Blossoming Will	N/A	0
 NORM	PR	EN-071	Strengthen the Bonds	N/A	0
 NORM	PR	EN-072	Unstable Fractal	N/A	0
+NORM	PR	EN-073	Annul Spell	N/A	N/A
+WATER	CPR	EN-074	Frostsworn Paladin	N/A	N/A
 NORM	PR	EN-075	Fast Cure	0	0
+NORM	PR	EN-076	Retold Fortune	N/A	N/A
+NORM	CPR	EN-076	Retold Fortune	N/A	N/A
+NORM	PR	EN-077	Tariff Ring	N/A	N/A
+FIRE	PR	EN-078	Thunderclap	N/A	N/A
