@@ -1,0 +1,32 @@
+ASTRA	SR	EN-001	Astral Seal	0	0
+WIND	U	EN-002	Blackmarket Broker	0	0
+NEOS	R	EN-003	Blade of Creation	0	0
+WIND	R	EN-004	Blessed Clergy	0	0
+NORM	R	EN-005	Blissful Calling	0	0
+LUXEM	SR	EN-006	Excalibur, Cleansing Light	0	0
+FIRE	SR	EN-007	Flame Sweep	0	0
+NORM	U	EN-008	Forest Cake	0	0
+WATER	CSR	EN-009	Fracturize	N/A	0
+WATER	R	EN-010	Frost Shard	0	0
+NORM	CSR	EN-011	Geldus, Terror of Dorumegia	N/A	0
+FIRE	CSR	EN-012	Gloamspire, Black Market	N/A	0
+NORM	U	EN-013	Heavy Swing	0	0
+WATER	U	EN-014	Hydroguard Retainer	0	0
+FIRE	CSR	EN-015	Inzali, Unshackled Blaze	N/A	0
+NORM	U	EN-016	Library Witch	0	0
+FIRE	R	EN-017	Mark the Target	0	0
+WIND	R	EN-018	Rallied Advance	0	0
+EXIA	R	EN-019	Relentless Outburst	0	0
+NORM	U	EN-020	Sable Remnant	0	0
+WIND	U	EN-021	Skirting Step	0	0
+WIND	SR	EN-022	Stifling Trap	0	0
+FIRE	U	EN-023	Surging Bolt	0	0
+WIND	U	EN-024	Tempest Downfall	0	0
+NORM	U	EN-025	Trusty Steed	0	0
+NORM	U	EN-026	Turbo Charge	0	0
+FIRE	R	EN-027	Under Fire	0	0
+WIND	CSR	EN-028	Verdigris Decree	N/A	0
+FIRE	PR	EN-029	Blitz Charger	0	0
+WATER	PR	EN-030	Cone of Frost	0	0
+NORM	PR	EN-031	Horse Archer	0	0
+NORM	PR	EN-032	Slice and Dice	0	0

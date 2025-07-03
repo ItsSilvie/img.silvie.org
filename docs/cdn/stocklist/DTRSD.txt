@@ -1,0 +1,62 @@
+FIRE	C	EN-001	Spirit of Fire	0	N/A
+WATER	C	EN-002	Spirit of Water	0	N/A
+NORM	C	EN-003	Ciel, Loyal Valet	0	N/A
+NORM	C	EN-004	Ciel, Omenbringer	0	N/A
+UMBRA	C	EN-005	Ciel, Mirage's Grave	0	N/A
+UMBRA	CSR	EN-005	Ciel, Mirage's Grave	N/A	0
+NORM	C	EN-006	Diana, Aether Dilettante	0	N/A
+NORM	C	EN-007	Diana, Judgment's Arrow	0	N/A
+ASTRA	C	EN-008	Diana, Moonpiercer	0	N/A
+ASTRA	CSR	EN-008	Diana, Moonpiercer	N/A	0
+NORM	C	EN-009	Bauble of Abundance	0	N/A
+NORM	U	EN-010	Bulwark Sword	0	N/A
+NORM	U	EN-011	Foresight Lens	0	N/A
+NORM	R	EN-012	Grande Aiguille	0	N/A
+NORM	R	EN-013	Leporine Masque	0	N/A
+NORM	C	EN-014	Life Essence Amulet	0	N/A
+NORM	R	EN-015	Manxome Armoire	0	N/A
+NORM	R	EN-016	Ranger Boots	0	N/A
+NORM	U	EN-017	Refluxal Ribbon	0	N/A
+NORM	R	EN-018	Seeker's Aetherwing	0	N/A
+NORM	C	EN-019	Tariff Ring	0	N/A
+WATER	R	EN-020	Aquamirage Whisper	0	N/A
+ASTRA	SR	EN-021	Pleiades, Celestial Genesis	0	N/A
+UMBRA	SR	EN-022	Grande Sonnerie	0	N/A
+NORM	U	EN-023	Aetheric Calibration	0	N/A
+NORM	C	EN-024	Backstep	0	N/A
+NORM	C	EN-025	Charge the Soul	0	N/A
+NORM	U	EN-026	Coy Bouclier	0	N/A
+NORM	C	EN-027	Heavy Swing	0	N/A
+NORM	C	EN-028	Idle Thoughts	0	N/A
+NORM	U	EN-029	Lamentation's Toll	0	N/A
+NORM	C	EN-030	Martial Guard	0	N/A
+NORM	U	EN-031	Overpowering Defense	0	N/A
+NORM	U	EN-032	Prudent Nock	0	N/A
+NORM	C	EN-033	Reposition	0	N/A
+NORM	U	EN-034	Sablier Guard	0	N/A
+NORM	C	EN-035	Servile Possessions	0	N/A
+NORM	C	EN-036	Stalwart Shieldmate	0	N/A
+NORM	C	EN-037	Vigil Rempart	0	N/A
+NORM	C	EN-038	Whimsy's Warden	0	N/A
+FIRE	C	EN-039	Conflagrant Sentinel	0	N/A
+FIRE	U	EN-040	Flamme Sorcel	0	N/A
+FIRE	C	EN-041	Tempered Steel	0	N/A
+FIRE	U	EN-042	Torch Marshal	0	N/A
+WATER	C	EN-043	Corsair Captain	0	N/A
+WATER	C	EN-044	Dissuading Aether	0	N/A
+WATER	U	EN-045	Drown in Aether	0	N/A
+WATER	U	EN-046	Undercurrent Vantage	0	N/A
+ASTRA	U	EN-047	Astra Sight	0	N/A
+ASTRA	C	EN-048	Astral Shard	0	N/A
+ASTRA	U	EN-049	Constellation's Blessing	0	N/A
+ASTRA	SR	EN-050	Guided Starlight	0	N/A
+ASTRA	R	EN-051	Meteoric Volley	0	N/A
+ASTRA	U	EN-052	Poised Occlusion	0	N/A
+ASTRA	U	EN-053	Sidereal Spellshot	0	N/A
+ASTRA	U	EN-054	Starbirth	0	N/A
+UMBRA	SR	EN-055	Devotion's Price	0	N/A
+UMBRA	R	EN-056	Nocturne's Oblivion	0	N/A
+UMBRA	U	EN-057	Ombreux Chevalier	0	N/A
+UMBRA	U	EN-058	Reverse Affliction	0	N/A
+UMBRA	U	EN-059	Sinistre Stab	0	N/A
+UMBRA	U	EN-060	Umbra Sight	0	N/A

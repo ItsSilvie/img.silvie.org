@@ -1,7 +1,8 @@
+NORM	CPR	EN-000	Sacramental Rite	N/A	N/A
 CRUX	PR	EN-001	Lorraine, Ascendant Wings	N/A	N/A
 CRUX	CPR	EN-001	Lorraine, Ascendant Wings	N/A	N/A
-NORM	PR	EN-002	Sword of Seeking	N/A	N/A
-WIND	PR	EN-003	Eternal Magistrate	N/A	N/A
+NORM	PR	EN-002	Sword of Seeking	N/A	0
+WIND	CPR	EN-003	Eternal Magistrate	N/A	0
 FIRE	PR	EN-004	Spurn to Ash	N/A	N/A
 FIRE	CPR	EN-004	Spurn to Ash	N/A	N/A
 ASTRA	CPR	EN-007	Cosmic Astroscope	N/A	N/A
@@ -12,8 +13,8 @@ WATER	CPR	EN-011	Miao, Spirit of Water	N/A	N/A
 FIRE	PR	EN-016	Wandering Glaivier	N/A	0
 NORM	PR	EN-057	Journey's Beginning	N/A	0
 NORM	PR	EN-017	Journey's Beginning	N/A	N/A
-WATER	PR	EN-041	Dissuading Halt	N/A	0
 WATER	PR	EN-018	Dissuading Halt	N/A	N/A
+WATER	PR	EN-041	Dissuading Halt	N/A	0
 NORM	PR	EN-019	Acolyte of Cultivation	N/A	N/A
 NORM	CPR	EN-019	Acolyte of Cultivation	N/A	N/A
 NORM	PR	EN-020	Shard of Empowerment	N/A	N/A

@@ -6,8 +6,8 @@ NORM	PR	EN-004	Cleric Robes	N/A	0
 NORM	PR	EN-005	Crest of the Alliance	N/A	0
 NORM	PR	EN-006	Flash Grenade	N/A	0
 NORM	PR	EN-007	Ingredient Pouch	N/A	0
-NORM	PR	EN-135	Life Essence Amulet	N/A	0
 NORM	PR	EN-008	Life Essence Amulet	N/A	0
+NORM	PR	EN-135	Life Essence Amulet	N/A	0
 NORM	PR	EN-009	Necklace of Foresight	N/A	0
 NORM	PR	EN-010	Plated Bullet	N/A	0
 NORM	PR	EN-011	Powercharged Shield	N/A	0
@@ -46,9 +46,9 @@ WATER	PR	EN-043	Frostbind	0	0
 WATER	CPR	EN-043	Frostbind	N/A	0
 WIND	PR	EN-044	Veiling Breeze	N/A	0
 NORM	PR	EN-045	Lurking Assailant	N/A	0
-NORM	CPR	EN-045	Lurking Assailant	N/A	N/A
+NORM	CPR	EN-045	Lurking Assailant	N/A	0
 NORM	PR	EN-046	Orb of Hubris	N/A	0
-NORM	CPR	EN-046	Orb of Hubris	N/A	N/A
+NORM	CPR	EN-046	Orb of Hubris	N/A	0
 NORM	PR	EN-047	Capricious Lynx	0	0
 NORM	PR	EN-048	Peaceful Reunion	0	0
 NORM	CPR	EN-048	Peaceful Reunion	N/A	0
@@ -67,9 +67,9 @@ WATER	PR	EN-058	Vaporjet Shieldbearer	N/A	0
 NORM	CPR	EN-059	Priscilla, Lost Spirit	N/A	0
 NORM	PR	EN-060	Sable Remnant	N/A	0
 WIND	PR	EN-061	Windmill Engineer	N/A	0
-WIND	CPR	EN-061	Windmill Engineer	N/A	N/A
+WIND	CPR	EN-061	Windmill Engineer	N/A	0
 LUXEM	PR	EN-062	Lightweaver's Assault	N/A	0
-LUXEM	CPR	EN-062	Lightweaver's Assault	N/A	N/A
+LUXEM	CPR	EN-062	Lightweaver's Assault	N/A	0
 NORM	PR	EN-063	Exorcise Curses	N/A	0
 NORM	CPR	EN-063	Exorcise Curses	N/A	0
 NORM	PR	EN-064	Cell Assembler	N/A	0
@@ -130,9 +130,9 @@ NORM	PR	EN-115	Tariff Ring	N/A	0
 NORM	PR	EN-116	Executioner's Spear	N/A	0
 NORM	PR	EN-117	Fan of Seven Debts	N/A	0
 FIRE	PR	EN-118	Blazing Throw	N/A	0
-FIRE	CPR	EN-118	Blazing Throw	N/A	N/A
+FIRE	CPR	EN-118	Blazing Throw	N/A	0
 NORM	PR	EN-119	Backup Charger	N/A	0
-NORM	CPR	EN-119	Backup Charger	N/A	N/A
+NORM	CPR	EN-119	Backup Charger	N/A	0
 NORM	PR	EN-120	Academy Guide	N/A	0
 NORM	CPR	EN-120	Academy Guide	N/A	0
 WATER	PR	EN-121	Fractal of Rain	0	0
