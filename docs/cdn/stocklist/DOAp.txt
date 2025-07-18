@@ -110,8 +110,8 @@ ARCANE	SR	EN-106KS	Reckless Conversion	0	N/A
 ARCANE	R	EN-107	Spellshield: Arcane	0	N/A
 CRUX	U	EN-108	Crux Sight	0	N/A
 CRUX	SR	EN-109KS	Ghosts of Pendragon	0	N/A
-CRUX	R	EN-110KS	Spirit Blade: Ascension	0	N/A
 CRUX	R	EN-110	Spirit Blade: Ascension	0	N/A
+CRUX	R	EN-110KS	Spirit Blade: Ascension	0	N/A
 CRUX	R	EN-111KS	Spirit Blade: Dispersion	0	N/A
 CRUX	R	EN-111	Spirit Blade: Dispersion	0	N/A
 CRUX	U	EN-112	Spirit Blade: Ghost Strike	0	N/A

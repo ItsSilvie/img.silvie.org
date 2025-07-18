@@ -1,10 +1,11 @@
 NORM	CPR	EN-000	Sacramental Rite	N/A	N/A
 CRUX	PR	EN-001	Lorraine, Ascendant Wings	N/A	N/A
-CRUX	CPR	EN-001	Lorraine, Ascendant Wings	N/A	N/A
+CRUX	CPR	EN-001	Lorraine, Ascendant Wings	N/A	0
 NORM	PR	EN-002	Sword of Seeking	N/A	0
 WIND	CPR	EN-003	Eternal Magistrate	N/A	0
 FIRE	PR	EN-004	Spurn to Ash	N/A	N/A
 FIRE	CPR	EN-004	Spurn to Ash	N/A	N/A
+WIND	PR	EN-005	Second Wind	N/A	N/A
 ASTRA	CPR	EN-007	Cosmic Astroscope	N/A	N/A
 WIND	CPR	EN-008	Kaze, Spirit of Wind	N/A	0
 FIRE	CPR	EN-009	Hanabi, Spirit of Fire	N/A	N/A
@@ -13,8 +14,8 @@ WATER	CPR	EN-011	Miao, Spirit of Water	N/A	N/A
 FIRE	PR	EN-016	Wandering Glaivier	N/A	0
 NORM	PR	EN-057	Journey's Beginning	N/A	0
 NORM	PR	EN-017	Journey's Beginning	N/A	N/A
-WATER	PR	EN-018	Dissuading Halt	N/A	N/A
 WATER	PR	EN-041	Dissuading Halt	N/A	0
+WATER	PR	EN-018	Dissuading Halt	N/A	N/A
 NORM	PR	EN-019	Acolyte of Cultivation	N/A	N/A
 NORM	CPR	EN-019	Acolyte of Cultivation	N/A	N/A
 NORM	PR	EN-020	Shard of Empowerment	N/A	N/A
@@ -27,6 +28,7 @@ NORM	CPR	EN-026	Mnemonic Charm	N/A	0
 NORM	PR	EN-027	Incapacitate	N/A	N/A
 WATER	PR	EN-028	Frostbind	N/A	0
 NORM	PR	EN-029	Seal the Past	N/A	N/A
+NORM	CPR	EN-029	Seal the Past	N/A	0
 WATER	PR	EN-030	Acquiescing Rejection	N/A	0
 LUXEM	PR	EN-031	Advent of the Shenju	N/A	0
 FIRE	PR	EN-032	Band of Burning Verdict	N/A	0
@@ -74,4 +76,48 @@ NORM	PR	EN-075	Fast Cure	0	0
 NORM	PR	EN-076	Retold Fortune	N/A	N/A
 NORM	CPR	EN-076	Retold Fortune	N/A	N/A
 NORM	PR	EN-077	Tariff Ring	N/A	N/A
+NORM	PR	EN-132	Tariff Ring	N/A	0
 FIRE	PR	EN-078	Thunderclap	N/A	N/A
+NORM	PR	EN-093	Aetheric Calibration	N/A	0
+WATER	PR	EN-094	Aquamirage Whisper	N/A	0
+NORM	PR	EN-095	Backstep	N/A	0
+NORM	PR	EN-096	Bauble of Abundance	N/A	0
+NORM	PR	EN-097	Bulwark Sword	N/A	0
+NORM	PR	EN-098	Charge the Soul	N/A	0
+ASTRA	PR	EN-099	Constellation's Blessing	N/A	0
+WATER	PR	EN-100	Corsair Captain	N/A	0
+NORM	PR	EN-101	Coy Bouclier	N/A	0
+UMBRA	PR	EN-102	Devotion's Price	N/A	0
+WATER	PR	EN-103	Dissuading Aether	N/A	0
+WATER	PR	EN-104	Drown in Aether	N/A	0
+FIRE	PR	EN-105	Flamme Sorcel	N/A	0
+NORM	PR	EN-106	Foresight Lens	N/A	0
+UMBRA	PR	EN-107	Grande Sonnerie	N/A	0
+ASTRA	PR	EN-108	Guided Starlight	N/A	0
+NORM	PR	EN-109	Heavy Swing	N/A	0
+NORM	PR	EN-110	Lamentation's Toll	N/A	0
+NORM	PR	EN-111	Leporine Masque	N/A	0
+NORM	PR	EN-112	Life Essence Amulet	N/A	0
+NORM	PR	EN-113	Manxome Armoire	N/A	0
+NORM	PR	EN-114	Martial Guard	N/A	0
+ASTRA	PR	EN-115	Meteoric Volley	N/A	0
+UMBRA	PR	EN-116	Nocturne's Oblivion	N/A	0
+UMBRA	PR	EN-117	Ombreux Chevalier	N/A	0
+NORM	PR	EN-118	Overpowering Defense	N/A	0
+ASTRA	PR	EN-119	Pleiades, Celestial Genesis	N/A	0
+ASTRA	PR	EN-120	Poised Occlusion	N/A	0
+NORM	PR	EN-121	Prudent Nock	N/A	0
+NORM	PR	EN-122	Ranger Boots	N/A	0
+NORM	PR	EN-123	Reposition	N/A	0
+UMBRA	PR	EN-124	Reverse Affliction	N/A	0
+NORM	PR	EN-125	Sablier Guard	N/A	0
+NORM	PR	EN-126	Seeker's Aetherwing	N/A	0
+NORM	PR	EN-127	Servile Possessions	N/A	0
+ASTRA	PR	EN-128	Sidereal Spellshot	N/A	0
+UMBRA	PR	EN-129	Sinistre Stab	N/A	0
+NORM	PR	EN-130	Stalwart Shieldmate	N/A	0
+ASTRA	PR	EN-131	Starbirth	N/A	0
+FIRE	PR	EN-133	Torch Marshal	N/A	0
+WATER	PR	EN-134	Undercurrent Vantage	N/A	0
+NORM	PR	EN-135	Whimsy's Warden	N/A	0
+NORM	PR	EN-135	Vigil Rempart	N/A	0

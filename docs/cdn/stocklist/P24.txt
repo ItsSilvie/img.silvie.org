@@ -125,8 +125,8 @@ FIRE	PR	EN-112	Flame-Rune Swordsman	0	0
 NORM	CPR	EN-113	Shira, Lost Spirit	N/A	0
 NORM	PR	EN-114	Reprogram	0	0
 NORM	CPR	EN-114	Reprogram	N/A	0
-NORM	PR	EN-149	Tariff Ring	N/A	0
 NORM	PR	EN-115	Tariff Ring	N/A	0
+NORM	PR	EN-149	Tariff Ring	N/A	0
 NORM	PR	EN-116	Executioner's Spear	N/A	0
 NORM	PR	EN-117	Fan of Seven Debts	N/A	0
 FIRE	PR	EN-118	Blazing Throw	N/A	0
@@ -155,7 +155,7 @@ NORM	PR	EN-138	Safeguard Amulet	N/A	0
 NORM	PR	EN-139	Safeguard Paladin	N/A	0
 NORM	PR	EN-140	Savage Swing	N/A	0
 NORM	PR	EN-141	Shard of Empowerment	N/A	0
-NORM	PR	EN-142	Shifting Currents	N/A	0
+	PR	EN-142	Shifting Currents	N/A	0
 EXIA	PR	EN-143	Shuang Ji of Sacrifice	N/A	0
 NORM	PR	EN-144	Slate Whetstone	N/A	0
 NORM	PR	EN-145	Spirited Neophyte	N/A	0

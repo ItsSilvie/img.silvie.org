@@ -32,7 +32,7 @@ NORM	R	EN-029	Pierce the Heavens	0	N/A
 NORM	C	EN-030	Regenerate	0	N/A
 NORM	U	EN-031	Safeguard Paladin	0	N/A
 NORM	C	EN-032	Savage Swing	0	N/A
-NORM	C	EN-033	Shifting Currents	0	N/A
+	C	EN-033	Shifting Currents	0	N/A
 NORM	U	EN-034	Spirited Neophyte	0	N/A
 NORM	C	EN-035	Trusty Steed	0	N/A
 NORM	C	EN-036	Veteran Soldier	0	N/A
