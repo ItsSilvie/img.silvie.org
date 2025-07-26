@@ -1,6 +1,6 @@
-FIRE	C	EN-001	Spirit of Fire	0	0
-WATER	C	EN-002	Spirit of Water	0	0
-WIND	C	EN-003	Spirit of Wind	0	0
+FIRE	C	EN-001	Spirit of Fire	0	N/A
+WATER	C	EN-002	Spirit of Water	0	N/A
+WIND	C	EN-003	Spirit of Wind	0	N/A
 NORM	SR	EN-004	Alice, Golden Queen	0	0
 NORM	C	EN-005	Ciel, Loyal Valet	0	0
 NORM	C	EN-006	Ciel, Omenbringer	0	0
