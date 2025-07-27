@@ -1,7 +1,7 @@
-NORM	PR	EN-001	Dungeon Guide	0	0
-NORM	PR	EN-002	Honorable Vanguard	0	0
-WATER	PR	EN-003	Bubble Mage	0	0
-WATER	PR	EN-004	Sink into Oblivion	0	0
-NORM	PR	EN-005	Kingdom Informant	0	0
-FIRE	PR	EN-006	Clumsy Apprentice	0	0
-NORM	CPR	EN-007	Banner Knight	N/A	0
+NORM	PR	EN-001	Dungeon Guide	0	0	=HYPERLINK("https://index.gatcg.com/edition/dungeon-guide-p22", "View on Index")
+NORM	PR	EN-002	Honorable Vanguard	0	0	=HYPERLINK("https://index.gatcg.com/edition/honorable-vanguard-p22", "View on Index")
+WATER	PR	EN-003	Bubble Mage	0	0	=HYPERLINK("https://index.gatcg.com/edition/bubble-mage-p22", "View on Index")
+WATER	PR	EN-004	Sink into Oblivion	0	0	=HYPERLINK("https://index.gatcg.com/edition/sink-into-oblivion-p22", "View on Index")
+NORM	PR	EN-005	Kingdom Informant	0	0	=HYPERLINK("https://index.gatcg.com/edition/kingdom-informant-p22", "View on Index")
+FIRE	PR	EN-006	Clumsy Apprentice	0	0	=HYPERLINK("https://index.gatcg.com/edition/clumsy-apprentice-p22", "View on Index")
+NORM	CPR	EN-007	Banner Knight	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/banner-knight-p22", "View on Index")

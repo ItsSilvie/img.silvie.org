@@ -1,36 +1,36 @@
-FIRE	CSR	EN-016	Polkhawk, Bombastic Shot	N/A	0
-WATER	CSR	EN-017	Nico, Whiplash Allure	N/A	0
-WIND	CSR	EN-018	Vanitas, Obliviate Schemer	N/A	0
-WIND	CSR	EN-019	Vanitas, Convergent Ruin	N/A	0
-NORM	UR	EN-029	Temporal Spectrometer	0	0
-WATER	UR	EN-036	Magebane Lash	0	0
-ASTRA	UR	EN-039	The Elysian Astrolabe	0	0
-UMBRA	UR	EN-040	Gloamspire Lance	0	0
-NORM	UR	EN-089	The Eternal Kingdom	0	0
-ASTRA	UR	EN-186	Scry the Stars	0	0
-NEOS	UR	EN-194	Neos Elemental	0	0
-UMBRA	UR	EN-203	Carter, Synthetic Reaper	0	0
-NORM	U	EN-215	Accompanying Guard	0	0
-NORM	U	EN-216	Automated Gardener	0	0
-FIRE	R	EN-217	Bombastic Sprint	0	0
-ASTRA	R	EN-218	Dawn's Reversal	0	0
-NORM	U	EN-219	Focusing Round	0	0
-WIND	U	EN-220	Fortifying Aroma	0	0
-WATER	R	EN-221	Frozen Dismissal	0	0
-WIND	U	EN-222	Galestream Insight	0	0
-UMBRA	R	EN-223	Gloamspire Prowler	0	0
-ASTRA	SR	EN-224	Horticounter	0	0
-NORM	U	EN-225	Imperial Panzer	0	0
-WATER	U	EN-226	Nico, Rapture's Embrace	0	0
-WATER	CSR	EN-226	Nico, Rapture's Embrace	N/A	0
-FIRE	SR	EN-227	Perdition	0	0
-FIRE	U	EN-228	Polkhawk, Boisterous Riot	0	0
-FIRE	CSR	EN-228	Polkhawk, Boisterous Riot	N/A	0
-WIND	R	EN-229	Reconnaissance Scout	0	0
-NEOS	R	EN-230	Refabrication	0	0
-FIRE	U	EN-231	Slash and Burn	0	0
-WATER	R	EN-232	Surging Undertow	0	0
-WATER	R	EN-233	Temptation's Facade	0	0
-WIND	SR	EN-234	Vanitas, Dominus Rex	0	0
-WIND	CSR	EN-234	Vanitas, Dominus Rex	N/A	0
-ASTRA	C	EN-235	Cosmic Bolt	0	N/A
+FIRE	CSR	EN-016	Polkhawk, Bombastic Shot	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/polkhawk-bombastic-shot-alc-alter-csr", "View on Index")
+WATER	CSR	EN-017	Nico, Whiplash Allure	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/nico-whiplash-allure-alc-alter-csr", "View on Index")
+WIND	CSR	EN-018	Vanitas, Obliviate Schemer	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/vanitas-obliviate-schemer-alc-alter-csr", "View on Index")
+WIND	CSR	EN-019	Vanitas, Convergent Ruin	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/vanitas-convergent-ruin-alc-alter-csr", "View on Index")
+NORM	UR	EN-029	Temporal Spectrometer	0	0	=HYPERLINK("https://index.gatcg.com/edition/temporal-spectrometer-alc-alter", "View on Index")
+WATER	UR	EN-036	Magebane Lash	0	0	=HYPERLINK("https://index.gatcg.com/edition/magebane-lash-alc-alter", "View on Index")
+ASTRA	UR	EN-039	The Elysian Astrolabe	0	0	=HYPERLINK("https://index.gatcg.com/edition/the-elysian-astrolabe-alc-alter", "View on Index")
+UMBRA	UR	EN-040	Gloamspire Lance	0	0	=HYPERLINK("https://index.gatcg.com/edition/gloamspire-lance-alc-alter", "View on Index")
+NORM	UR	EN-089	The Eternal Kingdom	0	0	=HYPERLINK("https://index.gatcg.com/edition/the-eternal-kingdom-alc-alter", "View on Index")
+ASTRA	UR	EN-186	Scry the Stars	0	0	=HYPERLINK("https://index.gatcg.com/edition/scry-the-stars-alc-alter", "View on Index")
+NEOS	UR	EN-194	Neos Elemental	0	0	=HYPERLINK("https://index.gatcg.com/edition/neos-elemental-alc-alter", "View on Index")
+UMBRA	UR	EN-203	Carter, Synthetic Reaper	0	0	=HYPERLINK("https://index.gatcg.com/edition/carter-synthetic-reaper-alc-alter", "View on Index")
+NORM	U	EN-215	Accompanying Guard	0	0	=HYPERLINK("https://index.gatcg.com/edition/accompanying-guard-alc-alter", "View on Index")
+NORM	U	EN-216	Automated Gardener	0	0	=HYPERLINK("https://index.gatcg.com/edition/automated-gardener-alc-alter", "View on Index")
+FIRE	R	EN-217	Bombastic Sprint	0	0	=HYPERLINK("https://index.gatcg.com/edition/bombastic-sprint-alc-alter", "View on Index")
+ASTRA	R	EN-218	Dawn's Reversal	0	0	=HYPERLINK("https://index.gatcg.com/edition/dawns-reversal-alc-alter", "View on Index")
+NORM	U	EN-219	Focusing Round	0	0	=HYPERLINK("https://index.gatcg.com/edition/focusing-round-alc-alter", "View on Index")
+WIND	U	EN-220	Fortifying Aroma	0	0	=HYPERLINK("https://index.gatcg.com/edition/fortifying-aroma-alc-alter", "View on Index")
+WATER	R	EN-221	Frozen Dismissal	0	0	=HYPERLINK("https://index.gatcg.com/edition/frozen-dismissal-alc-alter", "View on Index")
+WIND	U	EN-222	Galestream Insight	0	0	=HYPERLINK("https://index.gatcg.com/edition/galestream-insight-alc-alter", "View on Index")
+UMBRA	R	EN-223	Gloamspire Prowler	0	0	=HYPERLINK("https://index.gatcg.com/edition/gloamspire-prowler-alc-alter", "View on Index")
+ASTRA	SR	EN-224	Horticounter	0	0	=HYPERLINK("https://index.gatcg.com/edition/horticounter-alc-alter", "View on Index")
+NORM	U	EN-225	Imperial Panzer	0	0	=HYPERLINK("https://index.gatcg.com/edition/imperial-panzer-alc-alter", "View on Index")
+WATER	U	EN-226	Nico, Rapture's Embrace	0	0	=HYPERLINK("https://index.gatcg.com/edition/nico-raptures-embrace-alc-alter", "View on Index")
+WATER	CSR	EN-226	Nico, Rapture's Embrace	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/nico-raptures-embrace-alc-alter-csr", "View on Index")
+FIRE	SR	EN-227	Perdition	0	0	=HYPERLINK("https://index.gatcg.com/edition/perdition-alc-alter", "View on Index")
+FIRE	U	EN-228	Polkhawk, Boisterous Riot	0	0	=HYPERLINK("https://index.gatcg.com/edition/polkhawk-boisterous-riot-alc-alter", "View on Index")
+FIRE	CSR	EN-228	Polkhawk, Boisterous Riot	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/polkhawk-boisterous-riot-alc-alter-csr", "View on Index")
+WIND	R	EN-229	Reconnaissance Scout	0	0	=HYPERLINK("https://index.gatcg.com/edition/reconnaissance-scout-alc-alter", "View on Index")
+NEOS	R	EN-230	Refabrication	0	0	=HYPERLINK("https://index.gatcg.com/edition/refabrication-alc-alter", "View on Index")
+FIRE	U	EN-231	Slash and Burn	0	0	=HYPERLINK("https://index.gatcg.com/edition/slash-and-burn-alc-alter", "View on Index")
+WATER	R	EN-232	Surging Undertow	0	0	=HYPERLINK("https://index.gatcg.com/edition/surging-undertow-alc-alter", "View on Index")
+WATER	R	EN-233	Temptation's Facade	0	0	=HYPERLINK("https://index.gatcg.com/edition/temptations-facade-alc-alter", "View on Index")
+WIND	SR	EN-234	Vanitas, Dominus Rex	0	0	=HYPERLINK("https://index.gatcg.com/edition/vanitas-dominus-rex-alc-alter", "View on Index")
+WIND	CSR	EN-234	Vanitas, Dominus Rex	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/vanitas-dominus-rex-alc-alter-csr", "View on Index")
+ASTRA	C	EN-235	Cosmic Bolt	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/cosmic-bolt-alc-alter", "View on Index")

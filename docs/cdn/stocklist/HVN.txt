@@ -1,201 +1,201 @@
-FIRE	SR	EN-001	Spirit of Fortuitous Fire	0	0
-WATER	SR	EN-002	Spirit of Fortuitous Water	0	0
-WIND	SR	EN-003	Spirit of Fortuitous Wind	0	0
-NORM	C	EN-004	Diao Chan, Enchantress	0	0
-NORM	C	EN-005	Diao Chan, Dreaming Wish	0	0
-TERA	C	EN-006	Diao Chan, Idyll Corsage	0	0
-NORM	C	EN-007	Guo Jia, Chosen Disciple	0	0
-NORM	C	EN-008	Guo Jia, Blessed Scion	0	0
-LUXEM	C	EN-009	Guo Jia, Heaven's Favored	0	0
-NORM	SR	EN-010	Kongming, Erudite Strategist	0	0
-NORM	R	EN-012	Censer of Restful Peace	0	0
-NORM	U	EN-013	Forged Scalemail	0	0
-NORM	R	EN-015	Nullifying Mirror	0	0
-NORM	U	EN-016	Protective Helm	0	0
-NORM	R	EN-017	Sword Saint's Vow	0	0
-NORM	R	EN-018	Tabula of Salvage	0	0
-FIRE	R	EN-020	Sigil of Budding Embers	0	0
-WATER	SR	EN-022	Frostbitten Etui	0	0
-WATER	R	EN-023	Tidefate Brooch	0	0
-WIND	R	EN-024	Bell of the Chosen	0	0
-WIND	SR	EN-026	Windspire Crest	0	0
-TERA	SR	EN-028	Enthralling Chime	0	0
-NORM	C	EN-030	Ameliorating Mantra	0	0
-NORM	U	EN-031	Annul Spell	0	0
-NORM	C	EN-032	Aphotic Ruin	0	0
-NORM	C	EN-033	Auspicious Feast	0	0
-NORM	R	EN-034	Brackish Lutist	0	0
-NORM	C	EN-035	Break Apart	0	0
-NORM	U	EN-036	Caretaker Horse	0	0
-NORM	R	EN-037	Changban, Heroic Impasse	0	0
-NORM	R	EN-038	Chibi, Battle of Red Cliffs	0	0
-NORM	R	EN-039	Clash of Fates	0	0
-NORM	C	EN-040	Clear Pastures	0	0
-NORM	U	EN-041	Coronation Ceremony	0	0
-NORM	R	EN-042	Crystallized Destiny	0	0
-NORM	C	EN-043	Disenchant	0	0
-NORM	C	EN-044	Empowering Enlightenment	0	0
-NORM	U	EN-045	Fatestone of Balance	0	0
-NORM	U	EN-046	Fatestone of Progress	0	0
-NORM	C	EN-047	Feathery Tune	0	0
-NORM	C	EN-048	Fledgling	0	0
-NORM	U	EN-049	Gentle Respite	0	0
-NORM	U	EN-050	Hidden Longbowman	0	0
-NORM	C	EN-051	Horse Archer	0	0
-NORM	SR	EN-052	Idle Fatestone	0	0
-NORM	U	EN-053	Immaterial Dissolution	0	0
-NORM	U	EN-054	Innocuous Disposer	0	0
-NORM	U	EN-055	Kingdom's Divide	0	0
-NORM	C	EN-056	Maiden of Shimmering Air	0	0
-NORM	U	EN-057	Minister of Ceremony	0	0
-NORM	U	EN-058	Provoking Stand	0	0
-NORM	C	EN-059	Rescue the Heir	0	0
-NORM	R	EN-060	Revealing Mesmer	0	0
-NORM	C	EN-061	Rotund Squirrel	0	0
-NORM	SR	EN-062	Shangxiang, Fierce Princess	0	0
-NORM	U	EN-063	Shimmering Refraction	0	0
-NORM	C	EN-064	Stand Fast	0	0
-NORM	U	EN-065	Steady Sharpshooter	0	0
-NORM	SR	EN-066	Sun Ce, Weaponsmaster	0	0
-NORM	SR	EN-067	Sun Jian, Wolvesbane	0	0
-NORM	C	EN-068	Surreptitious Scheme	0	0
-NORM	U	EN-069	Wingpeak Patriarch	0	0
-NORM	C	EN-070	Withering Grasp	0	0
-NORM	SR	EN-071	Yuan Shao, Crown General	0	0
-NORM	SR	EN-072	Zhang Jiao, Way of Peace	0	0
-NORM	SR	EN-073	Zhou Yu, Enlightened Sage	0	0
-FIRE	U	EN-074	Ashwick Cremator	0	0
-FIRE	C	EN-075	Blazing Bowman	0	0
-FIRE	U	EN-076	Blitz Charger	0	0
-FIRE	C	EN-077	Cinder Geyser	0	0
-FIRE	SR	EN-078	Coiled Fatestone	0	0
-FIRE	SR	EN-079	Da Qiao, Cinderbinder	0	0
-FIRE	C	EN-080	Dazzling Courtesan	0	0
-FIRE	U	EN-081	Demolition	0	0
-FIRE	U	EN-082	Dire Requiem	0	0
-FIRE	C	EN-083	Direwolf	0	0
-FIRE	R	EN-084	Direwolf Alpha	0	0
-FIRE	C	EN-085	Explosive Concoction	0	0
-FIRE	SR	EN-086	Firebloom Flourish	0	0
-FIRE	C	EN-087	Flamebolt Arbalist	0	0
-FIRE	U	EN-088	Flamelash Beastmaster	0	0
-FIRE	U	EN-089	General at Arms	0	0
-FIRE	U	EN-090	Glowering Conflagration	0	0
-FIRE	C	EN-091	Increasing Danger	0	0
-FIRE	SR	EN-092	Jianye, Dawn's Keep	0	0
-FIRE	SR	EN-093	Lu Xun, Pyre Strategist	0	0
-FIRE	U	EN-094	Ravenous Pyre	0	0
-FIRE	SR	EN-095	Red Hare, Unrivaled Stallion	0	0
-FIRE	C	EN-096	Restorative Flame	0	0
-FIRE	C	EN-097	Ritai Berserker	0	0
-FIRE	R	EN-098	Ritai Stablemaster	0	0
-FIRE	U	EN-099	Scorching Imperilment	0	0
-FIRE	SR	EN-100	Searing Rebuke	0	0
-FIRE	U	EN-101	Searing Truth	0	0
-FIRE	C	EN-102	Silent Firebrand	0	0
-FIRE	U	EN-103	Sly Songstress	0	0
-FIRE	C	EN-104	Smoke Out	0	0
-FIRE	R	EN-105	Solar Providence	0	0
-FIRE	R	EN-106	Sunglory Sentinel	0	0
-FIRE	R	EN-107	Suzaku's Command	0	0
-FIRE	U	EN-108	Tinderflare Pivot	0	0
-WATER	U	EN-109	Austere Priestess	0	0
-WATER	U	EN-110	Beguiling Bandit	0	0
-WATER	SR	EN-111	Captivating Opulence	0	0
-WATER	R	EN-112	Carpsong Coda	0	0
-WATER	U	EN-113	Ceasing Edict	0	0
-WATER	R	EN-114	Conniving Plans	0	0
-WATER	U	EN-115	Convalescing Mare	0	0
-WATER	R	EN-116	Delusional Vapors	0	0
-WATER	SR	EN-117	Dian Wei, Valorant Fury	0	0
-WATER	C	EN-118	Disciple of the Waves	0	0
-WATER	C	EN-119	Dissonant Fractal	0	0
-WATER	R	EN-120	Drowned Exorcist	0	0
-WATER	R	EN-121	Dynasty Chancellor	0	0
-WATER	SR	EN-122	Extricating Touch	0	0
-WATER	U	EN-123	Floating Peace	0	0
-WATER	U	EN-124	Fluvial Fatestone	0	0
-WATER	C	EN-125	Forgetful Concoction	0	0
-WATER	R	EN-126	Genbu's Command	0	0
-WATER	C	EN-128	Keeper of the Wild	0	0
-WATER	C	EN-129	Lively Chorale	0	0
-WATER	R	EN-130	Mana Resonance	0	0
-WATER	R	EN-131	Misteye Archer	0	0
-WATER	U	EN-132	Mistsworn Magister	0	0
-WATER	U	EN-133	Moontide Illusionist	0	0
-WATER	C	EN-134	Outrider of Waves	0	0
-WATER	SR	EN-135	Pelagic Fatestone	0	0
-WATER	SR	EN-136	Resonating Fugue	0	0
-WATER	R	EN-137	Seaside Rangefinder	0	0
-WATER	R	EN-138	Sleety Retreat	0	0
-WATER	C	EN-139	Splashing Spearguard	0	0
-WATER	R	EN-140	Submerged Fatestone	0	0
-WATER	C	EN-141	Think Deep	0	0
-WATER	R	EN-142	Tidebreaker Sentinel	0	0
-WATER	C	EN-143	Tidestone Seeker	0	0
-WATER	U	EN-144	Waterfall Veiler	0	0
-WATER	U	EN-145	Waterlogged Ranger	0	0
-WATER	SR	EN-146	Xuchang, Frozen Citadel	0	0
-WATER	SR	EN-147	Zhang He, Cloak of Night	0	0
-WIND	SR	EN-148	Baidi, Oathsworn Palace	0	0
-WIND	SR	EN-149	Beseeched Fatestone	0	0
-WIND	R	EN-150	Byakko's Command	0	0
-WIND	R	EN-151	Captain Archer	0	0
-WIND	C	EN-152	Courtside Beastkeeper	0	0
-WIND	U	EN-153	Cyclonic Fatestone	0	0
-WIND	U	EN-154	Evanescent Winds	0	0
-WIND	C	EN-155	Fleetfoot Filly	0	0
-WIND	C	EN-156	Galewind Scout	0	0
-WIND	U	EN-157	Inquisitive Magician	0	0
-WIND	C	EN-158	Invigorating Concoction	0	0
-WIND	R	EN-159	Jadelight Protector	0	0
-WIND	SR	EN-160	Ma Chao, Lupine Huntress	0	0
-WIND	U	EN-161	Maiden of Glimmer's Dusk	0	0
-WIND	U	EN-162	Maiden of Reverent Gale	0	0
-WIND	R	EN-163	Maiden of Shrouded Fog	0	0
-WIND	U	EN-164	Modulating Cadence	0	0
-WIND	U	EN-165	Pluming Crescendo	0	0
-WIND	C	EN-166	Poised Bowman	0	0
-WIND	U	EN-167	Primeval Ritual	0	0
-WIND	C	EN-168	Razorblade Execution	0	0
-WIND	U	EN-169	Rearing Rebound	0	0
-WIND	C	EN-170	Rebounding Gust	0	0
-WIND	R	EN-171	Rilewind Sentinel	0	0
-WIND	C	EN-172	Sage Protection	0	0
-WIND	U	EN-173	Squallbind Pounce	0	0
-WIND	R	EN-174	Stifling Trap	0	0
-WIND	R	EN-175	Sword Saint of Eveswind	0	0
-WIND	U	EN-176	Sylph's Envelopment	0	0
-WIND	U	EN-177	Usurp the Winds	0	0
-WIND	C	EN-178	Whirlwind Reaper	0	0
-WIND	C	EN-179	Whirlwind Threads	0	0
-WIND	U	EN-180	Wildgrowth Fatestone	0	0
-WIND	C	EN-181	Wildheart Hymn	0	0
-WIND	U	EN-182	Winds of Destiny	0	0
-WIND	U	EN-183	Wulin Lancer	0	0
-ARCANE	C	EN-184	Arcane Blast	0	0
-ARCANE	R	EN-186	Harness Lightning	0	0
-ARCANE	SR	EN-187	Seiryuu's Command	0	0
-ARCANE	SR	EN-188	Shattering Discharge	0	0
-ARCANE	R	EN-189	Stabilizing Capacitance	0	0
-EXIA	R	EN-191	Bloodshroud Temper	0	0
-EXIA	R	EN-192	Savage Sunder	0	0
-EXIA	R	EN-193	Wrathful Slime	0	0
-EXIA	SR	EN-194	Zhang Liao, Bloodmonger	0	0
-LUXEM	R	EN-195	Felicitous Flock	0	0
-LUXEM	SR	EN-197	Lumen Borealis	0	0
-LUXEM	SR	EN-198	Pang Tong, Young Phoenix	0	0
-LUXEM	R	EN-199	Striking Illuminance	0	0
-LUXEM	SR	EN-200	Sunblessed Gazelle	0	0
-TERA	C	EN-201	Acerbica	0	0
-TERA	SR	EN-202	Bagua of Vital Demise	0	0
-TERA	C	EN-203	Baihua	0	0
-TERA	R	EN-204	Bloom: Autumn's Fall	0	0
-TERA	R	EN-205	Enervating Decay	0	0
-TERA	C	EN-206	Floodbloom	0	0
-TERA	C	EN-207	Flowerbud	0	0
-TERA	C	EN-209	Lycoria	0	0
-TERA	R	EN-210	Maiden of Primal Virtue	0	0
-TERA	SR	EN-211	Natural Order	0	0
-TERA	C	EN-212	Nightshade	0	0
-TERA	C	EN-213	Washuru	0	0
+FIRE	SR	EN-001	Spirit of Fortuitous Fire	0	0	=HYPERLINK("https://index.gatcg.com/edition/spirit-of-fortuitous-fire-hvn", "View on Index")
+WATER	SR	EN-002	Spirit of Fortuitous Water	0	0	=HYPERLINK("https://index.gatcg.com/edition/spirit-of-fortuitous-water-hvn", "View on Index")
+WIND	SR	EN-003	Spirit of Fortuitous Wind	0	0	=HYPERLINK("https://index.gatcg.com/edition/spirit-of-fortuitous-wind-hvn", "View on Index")
+NORM	C	EN-004	Diao Chan, Enchantress	0	0	=HYPERLINK("https://index.gatcg.com/edition/diao-chan-enchantress-hvn", "View on Index")
+NORM	C	EN-005	Diao Chan, Dreaming Wish	0	0	=HYPERLINK("https://index.gatcg.com/edition/diao-chan-dreaming-wish-hvn", "View on Index")
+TERA	C	EN-006	Diao Chan, Idyll Corsage	0	0	=HYPERLINK("https://index.gatcg.com/edition/diao-chan-idyll-corsage-hvn", "View on Index")
+NORM	C	EN-007	Guo Jia, Chosen Disciple	0	0	=HYPERLINK("https://index.gatcg.com/edition/guo-jia-chosen-disciple-hvn", "View on Index")
+NORM	C	EN-008	Guo Jia, Blessed Scion	0	0	=HYPERLINK("https://index.gatcg.com/edition/guo-jia-blessed-scion-hvn", "View on Index")
+LUXEM	C	EN-009	Guo Jia, Heaven's Favored	0	0	=HYPERLINK("https://index.gatcg.com/edition/guo-jia-heavens-favored-hvn", "View on Index")
+NORM	SR	EN-010	Kongming, Erudite Strategist	0	0	=HYPERLINK("https://index.gatcg.com/edition/kongming-erudite-strategist-hvn", "View on Index")
+NORM	R	EN-012	Censer of Restful Peace	0	0	=HYPERLINK("https://index.gatcg.com/edition/censer-of-restful-peace-hvn", "View on Index")
+NORM	U	EN-013	Forged Scalemail	0	0	=HYPERLINK("https://index.gatcg.com/edition/forged-scalemail-hvn", "View on Index")
+NORM	R	EN-015	Nullifying Mirror	0	0	=HYPERLINK("https://index.gatcg.com/edition/nullifying-mirror-hvn", "View on Index")
+NORM	U	EN-016	Protective Helm	0	0	=HYPERLINK("https://index.gatcg.com/edition/protective-helm-hvn", "View on Index")
+NORM	R	EN-017	Sword Saint's Vow	0	0	=HYPERLINK("https://index.gatcg.com/edition/sword-saints-vow-hvn", "View on Index")
+NORM	R	EN-018	Tabula of Salvage	0	0	=HYPERLINK("https://index.gatcg.com/edition/tabula-of-salvage-hvn", "View on Index")
+FIRE	R	EN-020	Sigil of Budding Embers	0	0	=HYPERLINK("https://index.gatcg.com/edition/sigil-of-budding-embers-hvn", "View on Index")
+WATER	SR	EN-022	Frostbitten Etui	0	0	=HYPERLINK("https://index.gatcg.com/edition/frostbitten-etui-hvn", "View on Index")
+WATER	R	EN-023	Tidefate Brooch	0	0	=HYPERLINK("https://index.gatcg.com/edition/tidefate-brooch-hvn", "View on Index")
+WIND	R	EN-024	Bell of the Chosen	0	0	=HYPERLINK("https://index.gatcg.com/edition/bell-of-the-chosen-hvn", "View on Index")
+WIND	SR	EN-026	Windspire Crest	0	0	=HYPERLINK("https://index.gatcg.com/edition/windspire-crest-hvn", "View on Index")
+TERA	SR	EN-028	Enthralling Chime	0	0	=HYPERLINK("https://index.gatcg.com/edition/enthralling-chime-hvn", "View on Index")
+NORM	C	EN-030	Ameliorating Mantra	0	0	=HYPERLINK("https://index.gatcg.com/edition/ameliorating-mantra-hvn", "View on Index")
+NORM	U	EN-031	Annul Spell	0	0	=HYPERLINK("https://index.gatcg.com/edition/annul-spell-hvn", "View on Index")
+NORM	C	EN-032	Aphotic Ruin	0	0	=HYPERLINK("https://index.gatcg.com/edition/aphotic-ruin-hvn", "View on Index")
+NORM	C	EN-033	Auspicious Feast	0	0	=HYPERLINK("https://index.gatcg.com/edition/auspicious-feast-hvn", "View on Index")
+NORM	R	EN-034	Brackish Lutist	0	0	=HYPERLINK("https://index.gatcg.com/edition/brackish-lutist-hvn", "View on Index")
+NORM	C	EN-035	Break Apart	0	0	=HYPERLINK("https://index.gatcg.com/edition/break-apart-hvn", "View on Index")
+NORM	U	EN-036	Caretaker Horse	0	0	=HYPERLINK("https://index.gatcg.com/edition/caretaker-horse-hvn", "View on Index")
+NORM	R	EN-037	Changban, Heroic Impasse	0	0	=HYPERLINK("https://index.gatcg.com/edition/changban-heroic-impasse-hvn", "View on Index")
+NORM	R	EN-038	Chibi, Battle of Red Cliffs	0	0	=HYPERLINK("https://index.gatcg.com/edition/chibi-battle-of-red-cliffs-hvn", "View on Index")
+NORM	R	EN-039	Clash of Fates	0	0	=HYPERLINK("https://index.gatcg.com/edition/clash-of-fates-hvn", "View on Index")
+NORM	C	EN-040	Clear Pastures	0	0	=HYPERLINK("https://index.gatcg.com/edition/clear-pastures-hvn", "View on Index")
+NORM	U	EN-041	Coronation Ceremony	0	0	=HYPERLINK("https://index.gatcg.com/edition/coronation-ceremony-hvn", "View on Index")
+NORM	R	EN-042	Crystallized Destiny	0	0	=HYPERLINK("https://index.gatcg.com/edition/crystallized-destiny-hvn", "View on Index")
+NORM	C	EN-043	Disenchant	0	0	=HYPERLINK("https://index.gatcg.com/edition/disenchant-hvn", "View on Index")
+NORM	C	EN-044	Empowering Enlightenment	0	0	=HYPERLINK("https://index.gatcg.com/edition/empowering-enlightenment-hvn", "View on Index")
+NORM	U	EN-045	Fatestone of Balance	0	0	=HYPERLINK("https://index.gatcg.com/edition/fatestone-of-balance-hvn", "View on Index")
+NORM	U	EN-046	Fatestone of Progress	0	0	=HYPERLINK("https://index.gatcg.com/edition/fatestone-of-progress-hvn", "View on Index")
+NORM	C	EN-047	Feathery Tune	0	0	=HYPERLINK("https://index.gatcg.com/edition/feathery-tune-hvn", "View on Index")
+NORM	C	EN-048	Fledgling	0	0	=HYPERLINK("https://index.gatcg.com/edition/fledgling-hvn", "View on Index")
+NORM	U	EN-049	Gentle Respite	0	0	=HYPERLINK("https://index.gatcg.com/edition/gentle-respite-hvn", "View on Index")
+NORM	U	EN-050	Hidden Longbowman	0	0	=HYPERLINK("https://index.gatcg.com/edition/hidden-longbowman-hvn", "View on Index")
+NORM	C	EN-051	Horse Archer	0	0	=HYPERLINK("https://index.gatcg.com/edition/horse-archer-hvn", "View on Index")
+NORM	SR	EN-052	Idle Fatestone	0	0	=HYPERLINK("https://index.gatcg.com/edition/idle-fatestone-hvn", "View on Index")
+NORM	U	EN-053	Immaterial Dissolution	0	0	=HYPERLINK("https://index.gatcg.com/edition/immaterial-dissolution-hvn", "View on Index")
+NORM	U	EN-054	Innocuous Disposer	0	0	=HYPERLINK("https://index.gatcg.com/edition/innocuous-disposer-hvn", "View on Index")
+NORM	U	EN-055	Kingdom's Divide	0	0	=HYPERLINK("https://index.gatcg.com/edition/kingdoms-divide-hvn", "View on Index")
+NORM	C	EN-056	Maiden of Shimmering Air	0	0	=HYPERLINK("https://index.gatcg.com/edition/maiden-of-shimmering-air-hvn", "View on Index")
+NORM	U	EN-057	Minister of Ceremony	0	0	=HYPERLINK("https://index.gatcg.com/edition/minister-of-ceremony-hvn", "View on Index")
+NORM	U	EN-058	Provoking Stand	0	0	=HYPERLINK("https://index.gatcg.com/edition/provoking-stand-hvn", "View on Index")
+NORM	C	EN-059	Rescue the Heir	0	0	=HYPERLINK("https://index.gatcg.com/edition/rescue-the-heir-hvn", "View on Index")
+NORM	R	EN-060	Revealing Mesmer	0	0	=HYPERLINK("https://index.gatcg.com/edition/revealing-mesmer-hvn", "View on Index")
+NORM	C	EN-061	Rotund Squirrel	0	0	=HYPERLINK("https://index.gatcg.com/edition/rotund-squirrel-hvn", "View on Index")
+NORM	SR	EN-062	Shangxiang, Fierce Princess	0	0	=HYPERLINK("https://index.gatcg.com/edition/shangxiang-fierce-princess-hvn", "View on Index")
+NORM	U	EN-063	Shimmering Refraction	0	0	=HYPERLINK("https://index.gatcg.com/edition/shimmering-refraction-hvn", "View on Index")
+NORM	C	EN-064	Stand Fast	0	0	=HYPERLINK("https://index.gatcg.com/edition/stand-fast-hvn", "View on Index")
+NORM	U	EN-065	Steady Sharpshooter	0	0	=HYPERLINK("https://index.gatcg.com/edition/steady-sharpshooter-hvn", "View on Index")
+NORM	SR	EN-066	Sun Ce, Weaponsmaster	0	0	=HYPERLINK("https://index.gatcg.com/edition/sun-ce-weaponsmaster-hvn", "View on Index")
+NORM	SR	EN-067	Sun Jian, Wolvesbane	0	0	=HYPERLINK("https://index.gatcg.com/edition/sun-jian-wolvesbane-hvn", "View on Index")
+NORM	C	EN-068	Surreptitious Scheme	0	0	=HYPERLINK("https://index.gatcg.com/edition/surreptitious-scheme-hvn", "View on Index")
+NORM	U	EN-069	Wingpeak Patriarch	0	0	=HYPERLINK("https://index.gatcg.com/edition/wingpeak-patriarch-hvn", "View on Index")
+NORM	C	EN-070	Withering Grasp	0	0	=HYPERLINK("https://index.gatcg.com/edition/withering-grasp-hvn", "View on Index")
+NORM	SR	EN-071	Yuan Shao, Crown General	0	0	=HYPERLINK("https://index.gatcg.com/edition/yuan-shao-crown-general-hvn", "View on Index")
+NORM	SR	EN-072	Zhang Jiao, Way of Peace	0	0	=HYPERLINK("https://index.gatcg.com/edition/zhang-jiao-way-of-peace-hvn", "View on Index")
+NORM	SR	EN-073	Zhou Yu, Enlightened Sage	0	0	=HYPERLINK("https://index.gatcg.com/edition/zhou-yu-enlightened-sage-hvn", "View on Index")
+FIRE	U	EN-074	Ashwick Cremator	0	0	=HYPERLINK("https://index.gatcg.com/edition/ashwick-cremator-hvn", "View on Index")
+FIRE	C	EN-075	Blazing Bowman	0	0	=HYPERLINK("https://index.gatcg.com/edition/blazing-bowman-hvn", "View on Index")
+FIRE	U	EN-076	Blitz Charger	0	0	=HYPERLINK("https://index.gatcg.com/edition/blitz-charger-hvn", "View on Index")
+FIRE	C	EN-077	Cinder Geyser	0	0	=HYPERLINK("https://index.gatcg.com/edition/cinder-geyser-hvn", "View on Index")
+FIRE	SR	EN-078	Coiled Fatestone	0	0	=HYPERLINK("https://index.gatcg.com/edition/coiled-fatestone-hvn", "View on Index")
+FIRE	SR	EN-079	Da Qiao, Cinderbinder	0	0	=HYPERLINK("https://index.gatcg.com/edition/da-qiao-cinderbinder-hvn", "View on Index")
+FIRE	C	EN-080	Dazzling Courtesan	0	0	=HYPERLINK("https://index.gatcg.com/edition/dazzling-courtesan-hvn", "View on Index")
+FIRE	U	EN-081	Demolition	0	0	=HYPERLINK("https://index.gatcg.com/edition/demolition-hvn", "View on Index")
+FIRE	U	EN-082	Dire Requiem	0	0	=HYPERLINK("https://index.gatcg.com/edition/dire-requiem-hvn", "View on Index")
+FIRE	C	EN-083	Direwolf	0	0	=HYPERLINK("https://index.gatcg.com/edition/direwolf-hvn", "View on Index")
+FIRE	R	EN-084	Direwolf Alpha	0	0	=HYPERLINK("https://index.gatcg.com/edition/direwolf-alpha-hvn", "View on Index")
+FIRE	C	EN-085	Explosive Concoction	0	0	=HYPERLINK("https://index.gatcg.com/edition/explosive-concoction-hvn", "View on Index")
+FIRE	SR	EN-086	Firebloom Flourish	0	0	=HYPERLINK("https://index.gatcg.com/edition/firebloom-flourish-hvn", "View on Index")
+FIRE	C	EN-087	Flamebolt Arbalist	0	0	=HYPERLINK("https://index.gatcg.com/edition/flamebolt-arbalist-hvn", "View on Index")
+FIRE	U	EN-088	Flamelash Beastmaster	0	0	=HYPERLINK("https://index.gatcg.com/edition/flamelash-beastmaster-hvn", "View on Index")
+FIRE	U	EN-089	General at Arms	0	0	=HYPERLINK("https://index.gatcg.com/edition/general-at-arms-hvn", "View on Index")
+FIRE	U	EN-090	Glowering Conflagration	0	0	=HYPERLINK("https://index.gatcg.com/edition/glowering-conflagration-hvn", "View on Index")
+FIRE	C	EN-091	Increasing Danger	0	0	=HYPERLINK("https://index.gatcg.com/edition/increasing-danger-hvn", "View on Index")
+FIRE	SR	EN-092	Jianye, Dawn's Keep	0	0	=HYPERLINK("https://index.gatcg.com/edition/jianye-dawns-keep-hvn", "View on Index")
+FIRE	SR	EN-093	Lu Xun, Pyre Strategist	0	0	=HYPERLINK("https://index.gatcg.com/edition/lu-xun-pyre-strategist-hvn", "View on Index")
+FIRE	U	EN-094	Ravenous Pyre	0	0	=HYPERLINK("https://index.gatcg.com/edition/ravenous-pyre-hvn", "View on Index")
+FIRE	SR	EN-095	Red Hare, Unrivaled Stallion	0	0	=HYPERLINK("https://index.gatcg.com/edition/red-hare-unrivaled-stallion-hvn", "View on Index")
+FIRE	C	EN-096	Restorative Flame	0	0	=HYPERLINK("https://index.gatcg.com/edition/restorative-flame-hvn", "View on Index")
+FIRE	C	EN-097	Ritai Berserker	0	0	=HYPERLINK("https://index.gatcg.com/edition/ritai-berserker-hvn", "View on Index")
+FIRE	R	EN-098	Ritai Stablemaster	0	0	=HYPERLINK("https://index.gatcg.com/edition/ritai-stablemaster-hvn", "View on Index")
+FIRE	U	EN-099	Scorching Imperilment	0	0	=HYPERLINK("https://index.gatcg.com/edition/scorching-imperilment-hvn", "View on Index")
+FIRE	SR	EN-100	Searing Rebuke	0	0	=HYPERLINK("https://index.gatcg.com/edition/searing-rebuke-hvn", "View on Index")
+FIRE	U	EN-101	Searing Truth	0	0	=HYPERLINK("https://index.gatcg.com/edition/searing-truth-hvn", "View on Index")
+FIRE	C	EN-102	Silent Firebrand	0	0	=HYPERLINK("https://index.gatcg.com/edition/silent-firebrand-hvn", "View on Index")
+FIRE	U	EN-103	Sly Songstress	0	0	=HYPERLINK("https://index.gatcg.com/edition/sly-songstress-hvn", "View on Index")
+FIRE	C	EN-104	Smoke Out	0	0	=HYPERLINK("https://index.gatcg.com/edition/smoke-out-hvn", "View on Index")
+FIRE	R	EN-105	Solar Providence	0	0	=HYPERLINK("https://index.gatcg.com/edition/solar-providence-hvn", "View on Index")
+FIRE	R	EN-106	Sunglory Sentinel	0	0	=HYPERLINK("https://index.gatcg.com/edition/sunglory-sentinel-hvn", "View on Index")
+FIRE	R	EN-107	Suzaku's Command	0	0	=HYPERLINK("https://index.gatcg.com/edition/suzakus-command-hvn", "View on Index")
+FIRE	U	EN-108	Tinderflare Pivot	0	0	=HYPERLINK("https://index.gatcg.com/edition/tinderflare-pivot-hvn", "View on Index")
+WATER	U	EN-109	Austere Priestess	0	0	=HYPERLINK("https://index.gatcg.com/edition/austere-priestess-hvn", "View on Index")
+WATER	U	EN-110	Beguiling Bandit	0	0	=HYPERLINK("https://index.gatcg.com/edition/beguiling-bandit-hvn", "View on Index")
+WATER	SR	EN-111	Captivating Opulence	0	0	=HYPERLINK("https://index.gatcg.com/edition/captivating-opulence-hvn", "View on Index")
+WATER	R	EN-112	Carpsong Coda	0	0	=HYPERLINK("https://index.gatcg.com/edition/carpsong-coda-hvn", "View on Index")
+WATER	U	EN-113	Ceasing Edict	0	0	=HYPERLINK("https://index.gatcg.com/edition/ceasing-edict-hvn", "View on Index")
+WATER	R	EN-114	Conniving Plans	0	0	=HYPERLINK("https://index.gatcg.com/edition/conniving-plans-hvn", "View on Index")
+WATER	U	EN-115	Convalescing Mare	0	0	=HYPERLINK("https://index.gatcg.com/edition/convalescing-mare-hvn", "View on Index")
+WATER	R	EN-116	Delusional Vapors	0	0	=HYPERLINK("https://index.gatcg.com/edition/delusional-vapors-hvn", "View on Index")
+WATER	SR	EN-117	Dian Wei, Valorant Fury	0	0	=HYPERLINK("https://index.gatcg.com/edition/dian-wei-valorant-fury-hvn", "View on Index")
+WATER	C	EN-118	Disciple of the Waves	0	0	=HYPERLINK("https://index.gatcg.com/edition/disciple-of-the-waves-hvn", "View on Index")
+WATER	C	EN-119	Dissonant Fractal	0	0	=HYPERLINK("https://index.gatcg.com/edition/dissonant-fractal-hvn", "View on Index")
+WATER	R	EN-120	Drowned Exorcist	0	0	=HYPERLINK("https://index.gatcg.com/edition/drowned-exorcist-hvn", "View on Index")
+WATER	R	EN-121	Dynasty Chancellor	0	0	=HYPERLINK("https://index.gatcg.com/edition/dynasty-chancellor-hvn", "View on Index")
+WATER	SR	EN-122	Extricating Touch	0	0	=HYPERLINK("https://index.gatcg.com/edition/extricating-touch-hvn", "View on Index")
+WATER	U	EN-123	Floating Peace	0	0	=HYPERLINK("https://index.gatcg.com/edition/floating-peace-hvn", "View on Index")
+WATER	U	EN-124	Fluvial Fatestone	0	0	=HYPERLINK("https://index.gatcg.com/edition/fluvial-fatestone-hvn", "View on Index")
+WATER	C	EN-125	Forgetful Concoction	0	0	=HYPERLINK("https://index.gatcg.com/edition/forgetful-concoction-hvn", "View on Index")
+WATER	R	EN-126	Genbu's Command	0	0	=HYPERLINK("https://index.gatcg.com/edition/genbus-command-hvn", "View on Index")
+WATER	C	EN-128	Keeper of the Wild	0	0	=HYPERLINK("https://index.gatcg.com/edition/keeper-of-the-wild-hvn", "View on Index")
+WATER	C	EN-129	Lively Chorale	0	0	=HYPERLINK("https://index.gatcg.com/edition/lively-chorale-hvn", "View on Index")
+WATER	R	EN-130	Mana Resonance	0	0	=HYPERLINK("https://index.gatcg.com/edition/mana-resonance-hvn", "View on Index")
+WATER	R	EN-131	Misteye Archer	0	0	=HYPERLINK("https://index.gatcg.com/edition/misteye-archer-hvn", "View on Index")
+WATER	U	EN-132	Mistsworn Magister	0	0	=HYPERLINK("https://index.gatcg.com/edition/mistsworn-magister-hvn", "View on Index")
+WATER	U	EN-133	Moontide Illusionist	0	0	=HYPERLINK("https://index.gatcg.com/edition/moontide-illusionist-hvn", "View on Index")
+WATER	C	EN-134	Outrider of Waves	0	0	=HYPERLINK("https://index.gatcg.com/edition/outrider-of-waves-hvn", "View on Index")
+WATER	SR	EN-135	Pelagic Fatestone	0	0	=HYPERLINK("https://index.gatcg.com/edition/pelagic-fatestone-hvn", "View on Index")
+WATER	SR	EN-136	Resonating Fugue	0	0	=HYPERLINK("https://index.gatcg.com/edition/resonating-fugue-hvn", "View on Index")
+WATER	R	EN-137	Seaside Rangefinder	0	0	=HYPERLINK("https://index.gatcg.com/edition/seaside-rangefinder-hvn", "View on Index")
+WATER	R	EN-138	Sleety Retreat	0	0	=HYPERLINK("https://index.gatcg.com/edition/sleety-retreat-hvn", "View on Index")
+WATER	C	EN-139	Splashing Spearguard	0	0	=HYPERLINK("https://index.gatcg.com/edition/splashing-spearguard-hvn", "View on Index")
+WATER	R	EN-140	Submerged Fatestone	0	0	=HYPERLINK("https://index.gatcg.com/edition/submerged-fatestone-hvn", "View on Index")
+WATER	C	EN-141	Think Deep	0	0	=HYPERLINK("https://index.gatcg.com/edition/think-deep-hvn", "View on Index")
+WATER	R	EN-142	Tidebreaker Sentinel	0	0	=HYPERLINK("https://index.gatcg.com/edition/tidebreaker-sentinel-hvn", "View on Index")
+WATER	C	EN-143	Tidestone Seeker	0	0	=HYPERLINK("https://index.gatcg.com/edition/tidestone-seeker-hvn", "View on Index")
+WATER	U	EN-144	Waterfall Veiler	0	0	=HYPERLINK("https://index.gatcg.com/edition/waterfall-veiler-hvn", "View on Index")
+WATER	U	EN-145	Waterlogged Ranger	0	0	=HYPERLINK("https://index.gatcg.com/edition/waterlogged-ranger-hvn", "View on Index")
+WATER	SR	EN-146	Xuchang, Frozen Citadel	0	0	=HYPERLINK("https://index.gatcg.com/edition/xuchang-frozen-citadel-hvn", "View on Index")
+WATER	SR	EN-147	Zhang He, Cloak of Night	0	0	=HYPERLINK("https://index.gatcg.com/edition/zhang-he-cloak-of-night-hvn", "View on Index")
+WIND	SR	EN-148	Baidi, Oathsworn Palace	0	0	=HYPERLINK("https://index.gatcg.com/edition/baidi-oathsworn-palace-hvn", "View on Index")
+WIND	SR	EN-149	Beseeched Fatestone	0	0	=HYPERLINK("https://index.gatcg.com/edition/beseeched-fatestone-hvn", "View on Index")
+WIND	R	EN-150	Byakko's Command	0	0	=HYPERLINK("https://index.gatcg.com/edition/byakkos-command-hvn", "View on Index")
+WIND	R	EN-151	Captain Archer	0	0	=HYPERLINK("https://index.gatcg.com/edition/captain-archer-hvn", "View on Index")
+WIND	C	EN-152	Courtside Beastkeeper	0	0	=HYPERLINK("https://index.gatcg.com/edition/courtside-beastkeeper-hvn", "View on Index")
+WIND	U	EN-153	Cyclonic Fatestone	0	0	=HYPERLINK("https://index.gatcg.com/edition/cyclonic-fatestone-hvn", "View on Index")
+WIND	U	EN-154	Evanescent Winds	0	0	=HYPERLINK("https://index.gatcg.com/edition/evanescent-winds-hvn", "View on Index")
+WIND	C	EN-155	Fleetfoot Filly	0	0	=HYPERLINK("https://index.gatcg.com/edition/fleetfoot-filly-hvn", "View on Index")
+WIND	C	EN-156	Galewind Scout	0	0	=HYPERLINK("https://index.gatcg.com/edition/galewind-scout-hvn", "View on Index")
+WIND	U	EN-157	Inquisitive Magician	0	0	=HYPERLINK("https://index.gatcg.com/edition/inquisitive-magician-hvn", "View on Index")
+WIND	C	EN-158	Invigorating Concoction	0	0	=HYPERLINK("https://index.gatcg.com/edition/invigorating-concoction-hvn", "View on Index")
+WIND	R	EN-159	Jadelight Protector	0	0	=HYPERLINK("https://index.gatcg.com/edition/jadelight-protector-hvn", "View on Index")
+WIND	SR	EN-160	Ma Chao, Lupine Huntress	0	0	=HYPERLINK("https://index.gatcg.com/edition/ma-chao-lupine-huntress-hvn", "View on Index")
+WIND	U	EN-161	Maiden of Glimmer's Dusk	0	0	=HYPERLINK("https://index.gatcg.com/edition/maiden-of-glimmers-dusk-hvn", "View on Index")
+WIND	U	EN-162	Maiden of Reverent Gale	0	0	=HYPERLINK("https://index.gatcg.com/edition/maiden-of-reverent-gale-hvn", "View on Index")
+WIND	R	EN-163	Maiden of Shrouded Fog	0	0	=HYPERLINK("https://index.gatcg.com/edition/maiden-of-shrouded-fog-hvn", "View on Index")
+WIND	U	EN-164	Modulating Cadence	0	0	=HYPERLINK("https://index.gatcg.com/edition/modulating-cadence-hvn", "View on Index")
+WIND	U	EN-165	Pluming Crescendo	0	0	=HYPERLINK("https://index.gatcg.com/edition/pluming-crescendo-hvn", "View on Index")
+WIND	C	EN-166	Poised Bowman	0	0	=HYPERLINK("https://index.gatcg.com/edition/poised-bowman-hvn", "View on Index")
+WIND	U	EN-167	Primeval Ritual	0	0	=HYPERLINK("https://index.gatcg.com/edition/primeval-ritual-hvn", "View on Index")
+WIND	C	EN-168	Razorblade Execution	0	0	=HYPERLINK("https://index.gatcg.com/edition/razorblade-execution-hvn", "View on Index")
+WIND	U	EN-169	Rearing Rebound	0	0	=HYPERLINK("https://index.gatcg.com/edition/rearing-rebound-hvn", "View on Index")
+WIND	C	EN-170	Rebounding Gust	0	0	=HYPERLINK("https://index.gatcg.com/edition/rebounding-gust-hvn", "View on Index")
+WIND	R	EN-171	Rilewind Sentinel	0	0	=HYPERLINK("https://index.gatcg.com/edition/rilewind-sentinel-hvn", "View on Index")
+WIND	C	EN-172	Sage Protection	0	0	=HYPERLINK("https://index.gatcg.com/edition/sage-protection-hvn", "View on Index")
+WIND	U	EN-173	Squallbind Pounce	0	0	=HYPERLINK("https://index.gatcg.com/edition/squallbind-pounce-hvn", "View on Index")
+WIND	R	EN-174	Stifling Trap	0	0	=HYPERLINK("https://index.gatcg.com/edition/stifling-trap-hvn", "View on Index")
+WIND	R	EN-175	Sword Saint of Eveswind	0	0	=HYPERLINK("https://index.gatcg.com/edition/sword-saint-of-eveswind-hvn", "View on Index")
+WIND	U	EN-176	Sylph's Envelopment	0	0	=HYPERLINK("https://index.gatcg.com/edition/sylphs-envelopment-hvn", "View on Index")
+WIND	U	EN-177	Usurp the Winds	0	0	=HYPERLINK("https://index.gatcg.com/edition/usurp-the-winds-hvn", "View on Index")
+WIND	C	EN-178	Whirlwind Reaper	0	0	=HYPERLINK("https://index.gatcg.com/edition/whirlwind-reaper-hvn", "View on Index")
+WIND	C	EN-179	Whirlwind Threads	0	0	=HYPERLINK("https://index.gatcg.com/edition/whirlwind-threads-hvn", "View on Index")
+WIND	U	EN-180	Wildgrowth Fatestone	0	0	=HYPERLINK("https://index.gatcg.com/edition/wildgrowth-fatestone-hvn", "View on Index")
+WIND	C	EN-181	Wildheart Hymn	0	0	=HYPERLINK("https://index.gatcg.com/edition/wildheart-hymn-hvn", "View on Index")
+WIND	U	EN-182	Winds of Destiny	0	0	=HYPERLINK("https://index.gatcg.com/edition/winds-of-destiny-hvn", "View on Index")
+WIND	U	EN-183	Wulin Lancer	0	0	=HYPERLINK("https://index.gatcg.com/edition/wulin-lancer-hvn", "View on Index")
+ARCANE	C	EN-184	Arcane Blast	0	0	=HYPERLINK("https://index.gatcg.com/edition/arcane-blast-hvn", "View on Index")
+ARCANE	R	EN-186	Harness Lightning	0	0	=HYPERLINK("https://index.gatcg.com/edition/harness-lightning-hvn", "View on Index")
+ARCANE	SR	EN-187	Seiryuu's Command	0	0	=HYPERLINK("https://index.gatcg.com/edition/seiryuus-command-hvn", "View on Index")
+ARCANE	SR	EN-188	Shattering Discharge	0	0	=HYPERLINK("https://index.gatcg.com/edition/shattering-discharge-hvn", "View on Index")
+ARCANE	R	EN-189	Stabilizing Capacitance	0	0	=HYPERLINK("https://index.gatcg.com/edition/stabilizing-capacitance-hvn", "View on Index")
+EXIA	R	EN-191	Bloodshroud Temper	0	0	=HYPERLINK("https://index.gatcg.com/edition/bloodshroud-temper-hvn", "View on Index")
+EXIA	R	EN-192	Savage Sunder	0	0	=HYPERLINK("https://index.gatcg.com/edition/savage-sunder-hvn", "View on Index")
+EXIA	R	EN-193	Wrathful Slime	0	0	=HYPERLINK("https://index.gatcg.com/edition/wrathful-slime-hvn", "View on Index")
+EXIA	SR	EN-194	Zhang Liao, Bloodmonger	0	0	=HYPERLINK("https://index.gatcg.com/edition/zhang-liao-bloodmonger-hvn", "View on Index")
+LUXEM	R	EN-195	Felicitous Flock	0	0	=HYPERLINK("https://index.gatcg.com/edition/felicitous-flock-hvn", "View on Index")
+LUXEM	SR	EN-197	Lumen Borealis	0	0	=HYPERLINK("https://index.gatcg.com/edition/lumen-borealis-hvn", "View on Index")
+LUXEM	SR	EN-198	Pang Tong, Young Phoenix	0	0	=HYPERLINK("https://index.gatcg.com/edition/pang-tong-young-phoenix-hvn", "View on Index")
+LUXEM	R	EN-199	Striking Illuminance	0	0	=HYPERLINK("https://index.gatcg.com/edition/striking-illuminance-hvn", "View on Index")
+LUXEM	SR	EN-200	Sunblessed Gazelle	0	0	=HYPERLINK("https://index.gatcg.com/edition/sunblessed-gazelle-hvn", "View on Index")
+TERA	C	EN-201	Acerbica	0	0	=HYPERLINK("https://index.gatcg.com/edition/acerbica-hvn", "View on Index")
+TERA	SR	EN-202	Bagua of Vital Demise	0	0	=HYPERLINK("https://index.gatcg.com/edition/bagua-of-vital-demise-hvn", "View on Index")
+TERA	C	EN-203	Baihua	0	0	=HYPERLINK("https://index.gatcg.com/edition/baihua-hvn", "View on Index")
+TERA	R	EN-204	Bloom: Autumn's Fall	0	0	=HYPERLINK("https://index.gatcg.com/edition/bloom-autumns-fall-hvn", "View on Index")
+TERA	R	EN-205	Enervating Decay	0	0	=HYPERLINK("https://index.gatcg.com/edition/enervating-decay-hvn", "View on Index")
+TERA	C	EN-206	Floodbloom	0	0	=HYPERLINK("https://index.gatcg.com/edition/floodbloom-hvn", "View on Index")
+TERA	C	EN-207	Flowerbud	0	0	=HYPERLINK("https://index.gatcg.com/edition/flowerbud-hvn", "View on Index")
+TERA	C	EN-209	Lycoria	0	0	=HYPERLINK("https://index.gatcg.com/edition/lycoria-hvn", "View on Index")
+TERA	R	EN-210	Maiden of Primal Virtue	0	0	=HYPERLINK("https://index.gatcg.com/edition/maiden-of-primal-virtue-hvn", "View on Index")
+TERA	SR	EN-211	Natural Order	0	0	=HYPERLINK("https://index.gatcg.com/edition/natural-order-hvn", "View on Index")
+TERA	C	EN-212	Nightshade	0	0	=HYPERLINK("https://index.gatcg.com/edition/nightshade-hvn", "View on Index")
+TERA	C	EN-213	Washuru	0	0	=HYPERLINK("https://index.gatcg.com/edition/washuru-hvn", "View on Index")

@@ -1,35 +1,35 @@
-FIRE	UR	EN-001	Fragmented Spirit of Fire	0	0
-WATER	UR	EN-002	Fragmented Spirit of Water	0	0
-WIND	UR	EN-003	Fragmented Spirit of Wind	0	0
-NORM	UR	EN-012	Mercurial Heart	0	0
-UMBRA	CSR	EN-032	Gloamspire Mantle	N/A	0
-UMBRA	UR	EN-034	Shadow's Claw	0	0
-NORM	CSR	EN-040	Bertha, Spry Howitzer	N/A	0
-NORM	UR	EN-063	Overlord Mk III	0	0
-ASTRA	UR	EN-165	Prima Materia	0	0
-NEOS	UR	EN-170	Atmos Armor Type-Ares	0	0
-UMBRA	UR	EN-180	Final Stroke	0	0
-UMBRA	UR	EN-191	Vampiric Slime	0	0
-UMBRA	R	EN-192	Accursed Strength	0	0
-NORM	U	EN-193	Armed and Dangerous	0	0
-WIND	U	EN-194	Winbless Lookout	0	0
-NORM	U	EN-195	Charged Directive	0	0
-NORM	R	EN-196	Counter Interference	0	0
-NORM	R	EN-197	Decompose	0	0
-NORM	U	EN-198	Dorumegian Foundry	0	0
-WIND	U	EN-199	Eternal Directive	0	0
-FIRE	R	EN-200	Furnace Drone	0	0
-NEOS	SR	EN-201	Hector, Praetorian Guard	0	0
-NEOS	CSR	EN-201	Hector, Praetorian Guard	N/A	0
-ASTRA	R	EN-202	Moonveil Android	0	0
-NEOS	R	EN-203	Throne Sentinel	0	0
-UMBRA	SR	EN-204	Punishing Cartridge	0	0
-NEOS	U	EN-205	Radiant Repudiation	0	0
-WATER	R	EN-206	Regal Expulsion	0	0
-FIRE	U	EN-207	Scathing Seminary	0	0
-FIRE	U	EN-208	Shield Fragmentation	0	0
-NORM	U	EN-209	Tend the Land	0	0
-NORM	U	EN-210	Vanguard's Reversal	0	0
-FIRE	SR	EN-211	Volda, Smolder's Spite	0	0
-FIRE	CSR	EN-211	Volda, Smolder's Spite	N/A	0
-NORM	U	EN-212	Baby Silver Slime	0	0
+FIRE	UR	EN-001	Fragmented Spirit of Fire	0	0	=HYPERLINK("https://index.gatcg.com/edition/fragmented-spirit-of-fire-mrc-alter", "View on Index")
+WATER	UR	EN-002	Fragmented Spirit of Water	0	0	=HYPERLINK("https://index.gatcg.com/edition/fragmented-spirit-of-water-mrc-alter", "View on Index")
+WIND	UR	EN-003	Fragmented Spirit of Wind	0	0	=HYPERLINK("https://index.gatcg.com/edition/fragmented-spirit-of-wind-mrc-alter", "View on Index")
+NORM	UR	EN-012	Mercurial Heart	0	0	=HYPERLINK("https://index.gatcg.com/edition/mercurial-heart-mrc-alter", "View on Index")
+UMBRA	CSR	EN-032	Gloamspire Mantle	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/gloamspire-mantle-mrc-alter-csr", "View on Index")
+UMBRA	UR	EN-034	Shadow's Claw	0	0	=HYPERLINK("https://index.gatcg.com/edition/shadows-claw-mrc-alter", "View on Index")
+NORM	CSR	EN-040	Bertha, Spry Howitzer	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/bertha-spry-howitzer-mrc-alter-csr", "View on Index")
+NORM	UR	EN-063	Overlord Mk III	0	0	=HYPERLINK("https://index.gatcg.com/edition/overlord-mk-iii-mrc-alter", "View on Index")
+ASTRA	UR	EN-165	Prima Materia	0	0	=HYPERLINK("https://index.gatcg.com/edition/prima-materia-mrc-alter", "View on Index")
+NEOS	UR	EN-170	Atmos Armor Type-Ares	0	0	=HYPERLINK("https://index.gatcg.com/edition/atmos-armor-type-ares-mrc-alter", "View on Index")
+UMBRA	UR	EN-180	Final Stroke	0	0	=HYPERLINK("https://index.gatcg.com/edition/final-stroke-mrc-alter", "View on Index")
+UMBRA	UR	EN-191	Vampiric Slime	0	0	=HYPERLINK("https://index.gatcg.com/edition/vampiric-slime-mrc-alter", "View on Index")
+UMBRA	R	EN-192	Accursed Strength	0	0	=HYPERLINK("https://index.gatcg.com/edition/accursed-strength-mrc-alter", "View on Index")
+NORM	U	EN-193	Armed and Dangerous	0	0	=HYPERLINK("https://index.gatcg.com/edition/armed-and-dangerous-mrc-alter", "View on Index")
+WIND	U	EN-194	Winbless Lookout	0	0	=HYPERLINK("https://index.gatcg.com/edition/winbless-lookout-mrc-alter", "View on Index")
+NORM	U	EN-195	Charged Directive	0	0	=HYPERLINK("https://index.gatcg.com/edition/charged-directive-mrc-alter", "View on Index")
+NORM	R	EN-196	Counter Interference	0	0	=HYPERLINK("https://index.gatcg.com/edition/counter-interference-mrc-alter", "View on Index")
+NORM	R	EN-197	Decompose	0	0	=HYPERLINK("https://index.gatcg.com/edition/decompose-mrc-alter", "View on Index")
+NORM	U	EN-198	Dorumegian Foundry	0	0	=HYPERLINK("https://index.gatcg.com/edition/dorumegian-foundry-mrc-alter", "View on Index")
+WIND	U	EN-199	Eternal Directive	0	0	=HYPERLINK("https://index.gatcg.com/edition/eternal-directive-mrc-alter", "View on Index")
+FIRE	R	EN-200	Furnace Drone	0	0	=HYPERLINK("https://index.gatcg.com/edition/furnace-drone-mrc-alter", "View on Index")
+NEOS	SR	EN-201	Hector, Praetorian Guard	0	0	=HYPERLINK("https://index.gatcg.com/edition/hector-praetorian-guard-mrc-alter", "View on Index")
+NEOS	CSR	EN-201	Hector, Praetorian Guard	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/hector-praetorian-guard-mrc-alter-csr", "View on Index")
+ASTRA	R	EN-202	Moonveil Android	0	0	=HYPERLINK("https://index.gatcg.com/edition/moonveil-android-mrc-alter", "View on Index")
+NEOS	R	EN-203	Throne Sentinel	0	0	=HYPERLINK("https://index.gatcg.com/edition/throne-sentinel-mrc-alter", "View on Index")
+UMBRA	SR	EN-204	Punishing Cartridge	0	0	=HYPERLINK("https://index.gatcg.com/edition/punishing-cartridge-mrc-alter", "View on Index")
+NEOS	U	EN-205	Radiant Repudiation	0	0	=HYPERLINK("https://index.gatcg.com/edition/radiant-repudiation-mrc-alter", "View on Index")
+WATER	R	EN-206	Regal Expulsion	0	0	=HYPERLINK("https://index.gatcg.com/edition/regal-expulsion-mrc-alter", "View on Index")
+FIRE	U	EN-207	Scathing Seminary	0	0	=HYPERLINK("https://index.gatcg.com/edition/scathing-seminary-mrc-alter", "View on Index")
+FIRE	U	EN-208	Shield Fragmentation	0	0	=HYPERLINK("https://index.gatcg.com/edition/shield-fragmentation-mrc-alter", "View on Index")
+NORM	U	EN-209	Tend the Land	0	0	=HYPERLINK("https://index.gatcg.com/edition/tend-the-land-mrc-alter", "View on Index")
+NORM	U	EN-210	Vanguard's Reversal	0	0	=HYPERLINK("https://index.gatcg.com/edition/vanguards-reversal-mrc-alter", "View on Index")
+FIRE	SR	EN-211	Volda, Smolder's Spite	0	0	=HYPERLINK("https://index.gatcg.com/edition/volda-smolders-spite-mrc-alter", "View on Index")
+FIRE	CSR	EN-211	Volda, Smolder's Spite	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/volda-smolders-spite-mrc-alter-csr", "View on Index")
+NORM	U	EN-212	Baby Silver Slime	0	0	=HYPERLINK("https://index.gatcg.com/edition/baby-silver-slime-mrc-alter", "View on Index")

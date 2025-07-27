@@ -1,27 +1,27 @@
-ARCANE	SR	EN-001	Arcane Blast	0	0
-NORM	R	EN-002	Barrier Servant	0	0
-FIRE	U	EN-003	Blitz Mage	0	0
-FIRE	R	EN-004	Cemetery Sentry	0	0
-NORM	U	EN-005	Esteemed Knight	0	0
-FIRE	R	EN-006	Fireball	0	0
-WATER	R	EN-007	Fishing Accident	0	0
-WATER	R	EN-008	Freezing Hail	0	0
-NORM	CSR	EN-009	Gildas, Chronicler of Aesa	N/A	0
-WIND	SR	EN-010	Hurricane Sweep	0	0
-NORM	CSR	EN-011	Nimue, Cursed Touch	N/A	0
-WIND	R	EN-012	Reclaim	0	0
-FIRE	SR	EN-013	Rending Flames	0	0
-WATER	SR	EN-014	Snow Fairy	0	0
-WATER	U	EN-015	Stillwater Patrol	0	0
-WIND	U	EN-016	Swift Recruit	0	0
-LUXEM	CSR	EN-017	Triskit, Guidance Angel	N/A	0
-NORM	U	EN-018	Veteran Soldier	0	0
-NORM	U	EN-019	Woodland Squirrels	0	0
-LUXEM	CSR	EN-020	Zander, Blinding Steel	N/A	0
-WIND	R	EN-021	Zephyr	0	0
-FIRE	PR	EN-022	Embertail Squirrel	0	N/A
-WATER	PR	EN-023	Giant Tortoise	0	N/A
-NORM	PR	EN-024	Gray Wolf	0	N/A
-WIND	PR	EN-025	Trained Hawk	0	N/A
-NORM	PR	EN-026	Trusty Steed	0	N/A
-WIND	PR	EN-027	Windstream Mutt	0	N/A
+ARCANE	SR	EN-001	Arcane Blast	0	0	=HYPERLINK("https://index.gatcg.com/edition/arcane-blast-sp1", "View on Index")
+NORM	R	EN-002	Barrier Servant	0	0	=HYPERLINK("https://index.gatcg.com/edition/barrier-servant-sp1", "View on Index")
+FIRE	U	EN-003	Blitz Mage	0	0	=HYPERLINK("https://index.gatcg.com/edition/blitz-mage-sp1", "View on Index")
+FIRE	R	EN-004	Cemetery Sentry	0	0	=HYPERLINK("https://index.gatcg.com/edition/cemetery-sentry-sp1", "View on Index")
+NORM	U	EN-005	Esteemed Knight	0	0	=HYPERLINK("https://index.gatcg.com/edition/esteemed-knight-sp1", "View on Index")
+FIRE	R	EN-006	Fireball	0	0	=HYPERLINK("https://index.gatcg.com/edition/fireball-sp1", "View on Index")
+WATER	R	EN-007	Fishing Accident	0	0	=HYPERLINK("https://index.gatcg.com/edition/fishing-accident-sp1", "View on Index")
+WATER	R	EN-008	Freezing Hail	0	0	=HYPERLINK("https://index.gatcg.com/edition/freezing-hail-sp1", "View on Index")
+NORM	CSR	EN-009	Gildas, Chronicler of Aesa	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/gildas-chronicler-of-aesa-sp1-csr", "View on Index")
+WIND	SR	EN-010	Hurricane Sweep	0	0	=HYPERLINK("https://index.gatcg.com/edition/hurricane-sweep-sp1", "View on Index")
+NORM	CSR	EN-011	Nimue, Cursed Touch	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/nimue-cursed-touch-sp1-csr", "View on Index")
+WIND	R	EN-012	Reclaim	0	0	=HYPERLINK("https://index.gatcg.com/edition/reclaim-sp1", "View on Index")
+FIRE	SR	EN-013	Rending Flames	0	0	=HYPERLINK("https://index.gatcg.com/edition/rending-flames-sp1", "View on Index")
+WATER	SR	EN-014	Snow Fairy	0	0	=HYPERLINK("https://index.gatcg.com/edition/snow-fairy-sp1", "View on Index")
+WATER	U	EN-015	Stillwater Patrol	0	0	=HYPERLINK("https://index.gatcg.com/edition/stillwater-patrol-sp1", "View on Index")
+WIND	U	EN-016	Swift Recruit	0	0	=HYPERLINK("https://index.gatcg.com/edition/swift-recruit-sp1", "View on Index")
+LUXEM	CSR	EN-017	Triskit, Guidance Angel	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/triskit-guidance-angel-sp1-csr", "View on Index")
+NORM	U	EN-018	Veteran Soldier	0	0	=HYPERLINK("https://index.gatcg.com/edition/veteran-soldier-sp1", "View on Index")
+NORM	U	EN-019	Woodland Squirrels	0	0	=HYPERLINK("https://index.gatcg.com/edition/woodland-squirrels-sp1", "View on Index")
+LUXEM	CSR	EN-020	Zander, Blinding Steel	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/zander-blinding-steel-sp1-csr", "View on Index")
+WIND	R	EN-021	Zephyr	0	0	=HYPERLINK("https://index.gatcg.com/edition/zephyr-sp1", "View on Index")
+FIRE	PR	EN-022	Embertail Squirrel	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/embertail-squirrel-sp1", "View on Index")
+WATER	PR	EN-023	Giant Tortoise	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/giant-tortoise-sp1", "View on Index")
+NORM	PR	EN-024	Gray Wolf	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/gray-wolf-sp1", "View on Index")
+WIND	PR	EN-025	Trained Hawk	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/trained-hawk-sp1", "View on Index")
+NORM	PR	EN-026	Trusty Steed	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/trusty-steed-sp1", "View on Index")
+WIND	PR	EN-027	Windstream Mutt	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/windstream-mutt-sp1", "View on Index")

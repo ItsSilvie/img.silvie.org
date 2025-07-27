@@ -1,119 +1,119 @@
-FIRE	C	EN-001	Spirit of Fire	0	N/A
-WIND	C	EN-002	Spirit of Wind	0	N/A
-NORM	C	EN-003	Lorraine, Wandering Warrior	0	N/A
-NORM	C	EN-004	Lorraine, Blademaster	0	N/A
-CRUX	C	EN-005	Lorraine, Crux Knight	0	N/A
-NORM	C	EN-006	Rai, Spellcrafter	0	N/A
-NORM	C	EN-007	Rai, Archmage	0	N/A
-ARCANE	C	EN-008	Rai, Storm Seer	0	N/A
-TERA	C	EN-009	Silvie, Loved by All	0	N/A
-LUXEM	C	EN-010	Zander, Blinding Steel	0	N/A
-NORM	C	EN-011	Bauble of Abundance	0	N/A
-NORM	R	EN-012	Clarent, Sword of Peace	0	N/A
-NORM	C	EN-013	Crystal of Empowerment	0	N/A
-NORM	R	EN-014	Endura, Scepter of Ignition	0	N/A
-NORM	U	EN-015	Fire Resonance Bauble	0	N/A
-NORM	R	EN-016	Flute of Taming	0	N/A
-NORM	C	EN-017	Life Essence Amulet	0	N/A
-NORM	U	EN-018	Mana Limiter	0	N/A
-NORM	R	EN-019	Orb of Choking Fumes	0	N/A
-NORM	SR	EN-020KS	Orb of Glitter	0	N/A
-NORM	C	EN-021	Ornamental Greatsword	0	N/A
-NORM	U	EN-022	Seer's Sword	0	N/A
-NORM	U	EN-023	Surveillance Stone	0	N/A
-NORM	U	EN-024	Sword of Seeking	0	N/A
-NORM	U	EN-025	Tome of Knowledge	0	N/A
-NORM	U	EN-026	Warrior's Longsword	0	N/A
-NORM	U	EN-027	Wind Resonance Bauble	0	N/A
-ARCANE	SR	EN-028	Arcanist's Prism	0	N/A
-CRUX	SR	EN-029	Prismatic Edge	0	N/A
-LUXEM	SR	EN-030	Caliburn of Silencing	0	N/A
-TERA	SR	EN-031	Seed of Nature	0	N/A
-NORM	C	EN-032	Banner Knight	0	N/A
-NORM	C	EN-033	Barrier Servant	0	N/A
-NORM	C	EN-034	Careful Study	0	N/A
-NORM	C	EN-035	Conceal	0	N/A
-NORM	C	EN-036	Crusader of Aesa	0	N/A
-NORM	C	EN-037	Deflecting Edge	0	N/A
-NORM	R	EN-038	Dungeon Guide	0	N/A
-NORM	R	EN-038KS	Dungeon Guide	0	N/A
-NORM	C	EN-039	Enraged Boars	0	N/A
-NORM	C	EN-040	Esteemed Knight	0	N/A
-NORM	SR	EN-041KS	Galahad, Court Knight	0	N/A
-NORM	SR	EN-042KS	Gildas, Chronicler of Aesa	0	N/A
-NORM	C	EN-043	Gray Wolf	0	N/A
-NORM	C	EN-044	Honorable Vanguard	0	N/A
-NORM	C	EN-045	Idle Thoughts	0	N/A
-NORM	C	EN-046	Inspiring Call	0	N/A
-NORM	U	EN-047	Invigorated Slash	0	N/A
-NORM	C	EN-048	Library Witch	0	N/A
-NORM	C	EN-049	Magus Disciple	0	N/A
-NORM	SR	EN-050KS	Nimue, Cursed Touch	0	N/A
-NORM	C	EN-051	Opening Cut	0	N/A
-NORM	C	EN-052	Owl Familiar	0	N/A
-NORM	C	EN-053	Peer into Mana	0	N/A
-NORM	C	EN-054	Reckless Slash	0	N/A
-NORM	C	EN-055	Refurbish	0	N/A
-NORM	C	EN-056	Savage Slash	0	N/A
-NORM	C	EN-057	Scry the Skies	0	N/A
-NORM	C	EN-058	Sudden Steel	0	N/A
-NORM	C	EN-059	Training Session	0	N/A
-NORM	C	EN-060	Trusty Steed	0	N/A
-NORM	C	EN-061	Veteran Soldier	0	N/A
-NORM	C	EN-062	Weaponsmith	0	N/A
-NORM	C	EN-063	Woodland Squirrels	0	N/A
-FIRE	C	EN-064	Blazing Throw	0	N/A
-FIRE	U	EN-065	Blitz Mage	0	N/A
-FIRE	U	EN-066	Creative Shock	0	N/A
-FIRE	C	EN-067	Cremation Ritual	0	N/A
-FIRE	U	EN-068	Devastating Blow	0	N/A
-FIRE	R	EN-069KS	Disintegrate	0	N/A
-FIRE	U	EN-070	Fiery Momentum	0	N/A
-FIRE	C	EN-071	Fireball	0	N/A
-FIRE	R	EN-072KS	Flame Sweep	0	N/A
-FIRE	C	EN-073	Flame-Rune Swordsman	0	N/A
-FIRE	U	EN-074	Focused Flames	0	N/A
-FIRE	C	EN-075	Ignite the Soul	0	N/A
-FIRE	U	EN-076	Impassioned Tutor	0	N/A
-FIRE	U	EN-077	Increasing Danger	0	N/A
-FIRE	R	EN-078KS	Purge in Flames	0	N/A
-FIRE	R	EN-078	Purge in Flames	0	N/A
-FIRE	U	EN-079	Reckless Researcher	0	N/A
-FIRE	U	EN-080	Rending Flames	0	N/A
-FIRE	C	EN-081	Spark Alight	0	N/A
-FIRE	U	EN-082	Spurn to Ash	0	N/A
-FIRE	C	EN-083	Tempered Steel	0	N/A
-WIND	U	EN-084	Aesan Protector	0	N/A
-WIND	U	EN-085	Combo Strike	0	N/A
-WIND	U	EN-086	Disorienting Winds	0	N/A
-WIND	R	EN-087	Dream Fairy	0	N/A
-WIND	U	EN-088	Fairy Whispers	0	N/A
-WIND	C	EN-089	Favorable Winds	0	N/A
-WIND	R	EN-090	Hurricane Sweep	0	N/A
-WIND	C	EN-091	Rallied Advance	0	N/A
-WIND	R	EN-092KS	Ravaging Tempest	0	N/A
-WIND	C	EN-093	Reclaim	0	N/A
-WIND	R	EN-094KS	Scattering Gusts	0	N/A
-WIND	U	EN-095	Second Wind	0	N/A
-WIND	C	EN-096	Swift Recruit	0	N/A
-WIND	U	EN-097	Tactful Sergeant	0	N/A
-WIND	C	EN-098	Trained Hawk	0	N/A
-WIND	C	EN-099	Veiling Breeze	0	N/A
-WIND	C	EN-100	Wind Cutter	0	N/A
-ARCANE	U	EN-101	Anger the Skies	0	N/A
-ARCANE	U	EN-102	Arcane Blast	0	N/A
-ARCANE	U	EN-103	Arcane Disposition	0	N/A
-ARCANE	U	EN-104	Arcane Sight	0	N/A
-ARCANE	R	EN-105KS	Power Overwhelming	0	N/A
-ARCANE	R	EN-105	Power Overwhelming	0	N/A
-ARCANE	SR	EN-106KS	Reckless Conversion	0	N/A
-ARCANE	R	EN-107	Spellshield: Arcane	0	N/A
-CRUX	U	EN-108	Crux Sight	0	N/A
-CRUX	SR	EN-109KS	Ghosts of Pendragon	0	N/A
-CRUX	R	EN-110	Spirit Blade: Ascension	0	N/A
-CRUX	R	EN-110KS	Spirit Blade: Ascension	0	N/A
-CRUX	R	EN-111KS	Spirit Blade: Dispersion	0	N/A
-CRUX	R	EN-111	Spirit Blade: Dispersion	0	N/A
-CRUX	U	EN-112	Spirit Blade: Ghost Strike	0	N/A
-CRUX	U	EN-113	Spirit Blade: Infusion	0	N/A
-CRUX	R	EN-114	Spirit's Blessing	0	N/A
+FIRE	C	EN-001	Spirit of Fire	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/spirit-of-fire-doap", "View on Index")
+WIND	C	EN-002	Spirit of Wind	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/spirit-of-wind-doap", "View on Index")
+NORM	C	EN-003	Lorraine, Wandering Warrior	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/lorraine-wandering-warrior-doap", "View on Index")
+NORM	C	EN-004	Lorraine, Blademaster	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/lorraine-blademaster-doap", "View on Index")
+CRUX	C	EN-005	Lorraine, Crux Knight	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/lorraine-crux-knight-doap", "View on Index")
+NORM	C	EN-006	Rai, Spellcrafter	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/rai-spellcrafter-doap", "View on Index")
+NORM	C	EN-007	Rai, Archmage	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/rai-archmage-doap", "View on Index")
+ARCANE	C	EN-008	Rai, Storm Seer	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/rai-storm-seer-doap", "View on Index")
+TERA	C	EN-009	Silvie, Loved by All	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/silvie-loved-by-all-doap", "View on Index")
+LUXEM	C	EN-010	Zander, Blinding Steel	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/zander-blinding-steel-doap", "View on Index")
+NORM	C	EN-011	Bauble of Abundance	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/bauble-of-abundance-doap", "View on Index")
+NORM	R	EN-012	Clarent, Sword of Peace	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/clarent-sword-of-peace-doap", "View on Index")
+NORM	C	EN-013	Crystal of Empowerment	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/crystal-of-empowerment-doap", "View on Index")
+NORM	R	EN-014	Endura, Scepter of Ignition	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/endura-scepter-of-ignition-doap", "View on Index")
+NORM	U	EN-015	Fire Resonance Bauble	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/fire-resonance-bauble-doap", "View on Index")
+NORM	R	EN-016	Flute of Taming	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/flute-of-taming-doap", "View on Index")
+NORM	C	EN-017	Life Essence Amulet	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/life-essence-amulet-doap", "View on Index")
+NORM	U	EN-018	Mana Limiter	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/mana-limiter-doap", "View on Index")
+NORM	R	EN-019	Orb of Choking Fumes	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/orb-of-choking-fumes-doap", "View on Index")
+NORM	SR	EN-020KS	Orb of Glitter	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/orb-of-glitter-doap-ks", "View on Index")
+NORM	C	EN-021	Ornamental Greatsword	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/ornamental-greatsword-doap", "View on Index")
+NORM	U	EN-022	Seer's Sword	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/seers-sword-doap", "View on Index")
+NORM	U	EN-023	Surveillance Stone	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/surveillance-stone-doap", "View on Index")
+NORM	U	EN-024	Sword of Seeking	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/sword-of-seeking-doap", "View on Index")
+NORM	U	EN-025	Tome of Knowledge	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/tome-of-knowledge-doap", "View on Index")
+NORM	U	EN-026	Warrior's Longsword	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/warriors-longsword-doap", "View on Index")
+NORM	U	EN-027	Wind Resonance Bauble	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/wind-resonance-bauble-doap", "View on Index")
+ARCANE	SR	EN-028	Arcanist's Prism	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/arcanists-prism-doap", "View on Index")
+CRUX	SR	EN-029	Prismatic Edge	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/prismatic-edge-doap", "View on Index")
+LUXEM	SR	EN-030	Caliburn of Silencing	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/caliburn-of-silencing-doap", "View on Index")
+TERA	SR	EN-031	Seed of Nature	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/seed-of-nature-doap", "View on Index")
+NORM	C	EN-032	Banner Knight	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/banner-knight-doap", "View on Index")
+NORM	C	EN-033	Barrier Servant	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/barrier-servant-doap", "View on Index")
+NORM	C	EN-034	Careful Study	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/careful-study-doap", "View on Index")
+NORM	C	EN-035	Conceal	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/conceal-doap", "View on Index")
+NORM	C	EN-036	Crusader of Aesa	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/crusader-of-aesa-doap", "View on Index")
+NORM	C	EN-037	Deflecting Edge	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/deflecting-edge-doap", "View on Index")
+NORM	R	EN-038	Dungeon Guide	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/dungeon-guide-doap", "View on Index")
+NORM	R	EN-038KS	Dungeon Guide	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/dungeon-guide-doap-ks", "View on Index")
+NORM	C	EN-039	Enraged Boars	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/enraged-boars-doap", "View on Index")
+NORM	C	EN-040	Esteemed Knight	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/esteemed-knight-doap", "View on Index")
+NORM	SR	EN-041KS	Galahad, Court Knight	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/galahad-court-knight-doap-ks", "View on Index")
+NORM	SR	EN-042KS	Gildas, Chronicler of Aesa	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/gildas-chronicler-of-aesa-doap-ks", "View on Index")
+NORM	C	EN-043	Gray Wolf	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/gray-wolf-doap", "View on Index")
+NORM	C	EN-044	Honorable Vanguard	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/honorable-vanguard-doap", "View on Index")
+NORM	C	EN-045	Idle Thoughts	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/idle-thoughts-doap", "View on Index")
+NORM	C	EN-046	Inspiring Call	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/inspiring-call-doap", "View on Index")
+NORM	U	EN-047	Invigorated Slash	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/invigorated-slash-doap", "View on Index")
+NORM	C	EN-048	Library Witch	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/library-witch-doap", "View on Index")
+NORM	C	EN-049	Magus Disciple	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/magus-disciple-doap", "View on Index")
+NORM	SR	EN-050KS	Nimue, Cursed Touch	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/nimue-cursed-touch-doap-ks", "View on Index")
+NORM	C	EN-051	Opening Cut	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/opening-cut-doap", "View on Index")
+NORM	C	EN-052	Owl Familiar	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/owl-familiar-doap", "View on Index")
+NORM	C	EN-053	Peer into Mana	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/peer-into-mana-doap", "View on Index")
+NORM	C	EN-054	Reckless Slash	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/reckless-slash-doap", "View on Index")
+NORM	C	EN-055	Refurbish	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/refurbish-doap", "View on Index")
+NORM	C	EN-056	Savage Slash	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/savage-slash-doap", "View on Index")
+NORM	C	EN-057	Scry the Skies	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/scry-the-skies-doap", "View on Index")
+NORM	C	EN-058	Sudden Steel	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/sudden-steel-doap", "View on Index")
+NORM	C	EN-059	Training Session	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/training-session-doap", "View on Index")
+NORM	C	EN-060	Trusty Steed	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/trusty-steed-doap", "View on Index")
+NORM	C	EN-061	Veteran Soldier	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/veteran-soldier-doap", "View on Index")
+NORM	C	EN-062	Weaponsmith	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/weaponsmith-doap", "View on Index")
+NORM	C	EN-063	Woodland Squirrels	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/woodland-squirrels-doap", "View on Index")
+FIRE	C	EN-064	Blazing Throw	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/blazing-throw-doap", "View on Index")
+FIRE	U	EN-065	Blitz Mage	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/blitz-mage-doap", "View on Index")
+FIRE	U	EN-066	Creative Shock	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/creative-shock-doap", "View on Index")
+FIRE	C	EN-067	Cremation Ritual	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/cremation-ritual-doap", "View on Index")
+FIRE	U	EN-068	Devastating Blow	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/devastating-blow-doap", "View on Index")
+FIRE	R	EN-069KS	Disintegrate	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/disintegrate-doap-ks", "View on Index")
+FIRE	U	EN-070	Fiery Momentum	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/fiery-momentum-doap", "View on Index")
+FIRE	C	EN-071	Fireball	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/fireball-doap", "View on Index")
+FIRE	R	EN-072KS	Flame Sweep	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/flame-sweep-doap-ks", "View on Index")
+FIRE	C	EN-073	Flame-Rune Swordsman	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/flame-rune-swordsman-doap", "View on Index")
+FIRE	U	EN-074	Focused Flames	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/focused-flames-doap", "View on Index")
+FIRE	C	EN-075	Ignite the Soul	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/ignite-the-soul-doap", "View on Index")
+FIRE	U	EN-076	Impassioned Tutor	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/impassioned-tutor-doap", "View on Index")
+FIRE	U	EN-077	Increasing Danger	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/increasing-danger-doap", "View on Index")
+FIRE	R	EN-078KS	Purge in Flames	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/purge-in-flames-doap-ks", "View on Index")
+FIRE	R	EN-078	Purge in Flames	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/purge-in-flames-doap", "View on Index")
+FIRE	U	EN-079	Reckless Researcher	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/reckless-researcher-doap", "View on Index")
+FIRE	U	EN-080	Rending Flames	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/rending-flames-doap", "View on Index")
+FIRE	C	EN-081	Spark Alight	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/spark-alight-doap", "View on Index")
+FIRE	U	EN-082	Spurn to Ash	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/spurn-to-ash-doap", "View on Index")
+FIRE	C	EN-083	Tempered Steel	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/tempered-steel-doap", "View on Index")
+WIND	U	EN-084	Aesan Protector	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/aesan-protector-doap", "View on Index")
+WIND	U	EN-085	Combo Strike	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/combo-strike-doap", "View on Index")
+WIND	U	EN-086	Disorienting Winds	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/disorienting-winds-doap", "View on Index")
+WIND	R	EN-087	Dream Fairy	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/dream-fairy-doap", "View on Index")
+WIND	U	EN-088	Fairy Whispers	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/fairy-whispers-doap", "View on Index")
+WIND	C	EN-089	Favorable Winds	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/favorable-winds-doap", "View on Index")
+WIND	R	EN-090	Hurricane Sweep	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/hurricane-sweep-doap", "View on Index")
+WIND	C	EN-091	Rallied Advance	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/rallied-advance-doap", "View on Index")
+WIND	R	EN-092KS	Ravaging Tempest	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/ravaging-tempest-doap-ks", "View on Index")
+WIND	C	EN-093	Reclaim	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/reclaim-doap", "View on Index")
+WIND	R	EN-094KS	Scattering Gusts	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/scattering-gusts-doap-ks", "View on Index")
+WIND	U	EN-095	Second Wind	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/second-wind-doap", "View on Index")
+WIND	C	EN-096	Swift Recruit	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/swift-recruit-doap", "View on Index")
+WIND	U	EN-097	Tactful Sergeant	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/tactful-sergeant-doap", "View on Index")
+WIND	C	EN-098	Trained Hawk	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/trained-hawk-doap", "View on Index")
+WIND	C	EN-099	Veiling Breeze	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/veiling-breeze-doap", "View on Index")
+WIND	C	EN-100	Wind Cutter	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/wind-cutter-doap", "View on Index")
+ARCANE	U	EN-101	Anger the Skies	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/anger-the-skies-doap", "View on Index")
+ARCANE	U	EN-102	Arcane Blast	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/arcane-blast-doap", "View on Index")
+ARCANE	U	EN-103	Arcane Disposition	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/arcane-disposition-doap", "View on Index")
+ARCANE	U	EN-104	Arcane Sight	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/arcane-sight-doap", "View on Index")
+ARCANE	R	EN-105KS	Power Overwhelming	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/power-overwhelming-doap-ks", "View on Index")
+ARCANE	R	EN-105	Power Overwhelming	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/power-overwhelming-doap", "View on Index")
+ARCANE	SR	EN-106KS	Reckless Conversion	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/reckless-conversion-doap-ks", "View on Index")
+ARCANE	R	EN-107	Spellshield: Arcane	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/spellshield-arcane-doap", "View on Index")
+CRUX	U	EN-108	Crux Sight	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/crux-sight-doap", "View on Index")
+CRUX	SR	EN-109KS	Ghosts of Pendragon	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/ghosts-of-pendragon-doap-ks", "View on Index")
+CRUX	R	EN-110	Spirit Blade: Ascension	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/spirit-blade-ascension-doap", "View on Index")
+CRUX	R	EN-110KS	Spirit Blade: Ascension	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/spirit-blade-ascension-doap-ks", "View on Index")
+CRUX	R	EN-111KS	Spirit Blade: Dispersion	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/spirit-blade-dispersion-doap-ks", "View on Index")
+CRUX	R	EN-111	Spirit Blade: Dispersion	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/spirit-blade-dispersion-doap", "View on Index")
+CRUX	U	EN-112	Spirit Blade: Ghost Strike	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/spirit-blade-ghost-strike-doap", "View on Index")
+CRUX	U	EN-113	Spirit Blade: Infusion	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/spirit-blade-infusion-doap", "View on Index")
+CRUX	R	EN-114	Spirit's Blessing	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/spirits-blessing-doap", "View on Index")

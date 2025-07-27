@@ -1,192 +1,192 @@
-FIRE	UR	EN-001	Fragmented Spirit of Fire	0	0
-WATER	UR	EN-002	Fragmented Spirit of Water	0	0
-WIND	UR	EN-003	Fragmented Spirit of Wind	0	0
-NORM	C	EN-004	Tristan, Underhanded	0	0
-NORM	C	EN-005	Tristan, Hired Blade	0	0
-UMBRA	SR	EN-006	Tristan, Shadowreaver	0	0
-NORM	R	EN-007	Alkahest	0	0
-NORM	R	EN-008	Backup Charger	0	0
-NORM	SR	EN-009	Clockwork Musicbox	0	0
-NORM	R	EN-010	Framework Sidearm	0	0
-NORM	R	EN-011	Mercenary's Blade	0	0
-NORM	UR	EN-012	Mercurial Heart	0	0
-NORM	R	EN-013	Prototype Shield	0	0
-NORM	R	EN-014	Steel Slug	0	0
-NORM	R	EN-015	Worn Diary	0	0
-FIRE	R	EN-016	Blast Shield	0	0
-FIRE	R	EN-017	Contraband Revolver	0	0
-FIRE	R	EN-018	Forgelight Blade	0	0
-FIRE	R	EN-019	Impact Hammer	0	0
-WATER	R	EN-020	Krustallan Longsword	0	0
-WATER	R	EN-021	Loaded Thoughts	0	0
-WATER	SR	EN-022	Tideholder Claymore	0	0
-WATER	R	EN-023	Vaporjet Shield	0	0
-WIND	R	EN-024	Ceremonial Stormblade	0	0
-WIND	R	EN-025	Emerald Pistol	0	0
-WIND	SR	EN-026	Mechanized Smasher	0	0
-WIND	R	EN-027	Winbless Kiteshield	0	0
-WIND	SR	EN-028	Windpiercer	0	0
-ASTRA	R	EN-029	Lunar Conduit	0	0
-NEOS	SR	EN-030	Aegis of Dawn	0	0
-NEOS	R	EN-031	Alchemical Scripture	0	0
-UMBRA	SR	EN-032	Gloamspire Mantle	0	0
-UMBRA	R	EN-033	Memento Mori	0	0
-UMBRA	UR	EN-034	Shadow's Claw	0	0
-UMBRA	SR	EN-035	Sorrowcaller	0	0
-NORM	SR	EN-036	Atmos Armor Type-Hermes	0	0
-NORM	U	EN-037	Automaton Beastkeeper	0	0
-NORM	C	EN-038	Automaton Drone	0	0
-NORM	C	EN-039	Bandage Wound	0	0
-NORM	SR	EN-040	Bertha, Spry Howitzer	0	0
-NORM	C	EN-041	Blightroot	0	N/A
-NORM	U	EN-042	Buried Grief	0	0
-NORM	C	EN-043	Cell Assembler	0	0
-NORM	U	EN-044	Charged Hunter	0	0
-NORM	C	EN-045	Charged Mannequin	0	0
-NORM	U	EN-046	City Protector	0	0
-NORM	R	EN-047	Critical Recovery	0	0
-NORM	C	EN-048	Dodge Roll	0	0
-NORM	SR	EN-049	Engineered Slime	0	0
-NORM	C	EN-050	Fraysia	0	N/A
-NORM	C	EN-051	Gearshift Block	0	0
-NORM	R	EN-052	Geldus, Terror of Dorumegia	0	0
-NORM	R	EN-053	Harvester Mk II	0	0
-NORM	U	EN-054	Hide in Bush	0	0
-NORM	C	EN-055	Hub of Innovation	0	0
-NORM	C	EN-056	Imperial Spy	0	0
-NORM	C	EN-057	Machined Monstrosity	0	0
-NORM	C	EN-058	Manaroot	0	N/A
-NORM	C	EN-059	Manufacture Cell	0	0
-NORM	U	EN-060	Mechanical Hare	0	0
-NORM	C	EN-061	Novice Healer	0	0
-NORM	C	EN-062	Nurture Crops	0	0
-NORM	UR	EN-063	Overlord Mk III	0	0
-NORM	C	EN-064	Powercell	N/A	0
-NORM	C	EN-064	Powercell	0	0
-NORM	C	EN-065	Purification	0	0
-NORM	C	EN-066	Razorvine	0	N/A
-NORM	C	EN-067	Reprogram	0	0
-NORM	C	EN-068	Retold Fortune	0	0
-NORM	SR	EN-069	Sadi, Blood Harvester	0	0
-NORM	C	EN-070	Savage Smash	0	0
-NORM	C	EN-071	Sharpen Blade	0	0
-NORM	C	EN-072	Silvershine	0	N/A
-NORM	C	EN-073	Spirit Shard	0	0
-NORM	C	EN-074	Springleaf	0	N/A
-NORM	C	EN-075	Synthetic Strike	0	0
-NORM	U	EN-076	Tonic of Remembrance	0	0
-NORM	C	EN-077	Turbo Charge	0	0
-NORM	C	EN-078	Vicious Slice	0	0
-FIRE	C	EN-079	Airship Captain	0	0
-FIRE	C	EN-080	Arsenal Keeper	0	0
-FIRE	SR	EN-081	Calamity Cannon	0	0
-FIRE	C	EN-082	Captivating Cutthroat	0	0
-FIRE	C	EN-083	Cell Forging	0	0
-FIRE	R	EN-084	Cell Handler	0	0
-FIRE	C	EN-085	Charged Alchemist	0	0
-FIRE	U	EN-086	Charged Gunslinger	0	0
-FIRE	C	EN-087	Cinderbloom Tender	0	0
-FIRE	C	EN-088	Embershield Keeper	0	0
-FIRE	U	EN-089	Kindling Flare	0	0
-FIRE	U	EN-090	Molten Cinder	0	0
-FIRE	U	EN-091	Potion Infusion: Blaze	0	0
-FIRE	C	EN-092	Powered Bishop	0	0
-FIRE	C	EN-093	Powered Sentinel	0	0
-FIRE	U	EN-094	Priestess of Flame	0	0
-FIRE	C	EN-095	Pyroclastic Flow	0	0
-FIRE	C	EN-096	Reduce to Ash	0	0
-FIRE	U	EN-097	Scorching Trap	0	0
-FIRE	U	EN-098	Smashing Force	0	0
-FIRE	U	EN-099	Surge Protector	0	0
-FIRE	C	EN-100	Surging Bolt	0	0
-FIRE	U	EN-101	Under Fire	0	0
-FIRE	SR	EN-102	Vermilion Decree	0	0
-FIRE	U	EN-103	Volatile Fusilier	0	0
-WATER	U	EN-104	Aqua Vitae	0	0
-WATER	U	EN-105	Cell Converter	0	0
-WATER	U	EN-106	Cell Sharpshooter	0	0
-WATER	SR	EN-107	Cerulean Decree	0	0
-WATER	U	EN-108	Collapsing Trap	0	0
-WATER	C	EN-109	Desperate Dive	0	0
-WATER	C	EN-110	Enthralling Visage	0	0
-WATER	U	EN-111	Eternal Dreamer	0	0
-WATER	U	EN-112	Fractal of Rain	0	0
-WATER	C	EN-113	Freezing Steel	0	0
-WATER	R	EN-114	Frost Shard	0	0
-WATER	U	EN-115	Hailstorm Guard	0	0
-WATER	C	EN-116	Hidden Enclave	0	0
-WATER	SR	EN-117	Icebound Slam	0	0
-WATER	R	EN-118	Imperial Apprentice	0	0
-WATER	C	EN-119	Imperial Scout	0	0
-WATER	R	EN-120	Krustallan Patrol	0	0
-WATER	U	EN-121	Krustallan Ruins	0	0
-WATER	R	EN-122	Lost in Thought	0	0
-WATER	SR	EN-123	Naia, Diviner of Fortunes	0	0
-WATER	U	EN-124	Portside Pirate	0	0
-WATER	U	EN-125	Potion Infusion: Seal	0	0
-WATER	R	EN-126	Powered Defender	0	0
-WATER	C	EN-127	Powered Swordsman	0	0
-WATER	R	EN-128	Primordial Ritual	0	0
-WATER	C	EN-129	Purified Shot	0	0
-WATER	SR	EN-130	Ravishing Finale	0	0
-WATER	SR	EN-131	Seaside Ringleader	0	0
-WATER	C	EN-132	Water Herbs	0	0
-WATER	C	EN-133	Waterveil Apostle	0	0
-WIND	SR	EN-134	Andronika, Eternal Herald	0	0
-WIND	R	EN-135	Blessed Clergy	0	0
-WIND	U	EN-136	Cell Generator	0	0
-WIND	C	EN-137	Cell Vanguard	0	0
-WIND	C	EN-138	Charged Assailant	0	0
-WIND	R	EN-139	Cleansing Reunion	0	0
-WIND	C	EN-140	Concealed Marksman	0	0
-WIND	C	EN-141	Cultivate	0	0
-WIND	SR	EN-142	Diablerie	0	0
-WIND	SR	EN-143	Eternal Magistrate	0	0
-WIND	C	EN-144	Favorable Winds	0	0
-WIND	R	EN-145	Gearstride Academy	0	0
-WIND	U	EN-146	Liquid Amnesia	0	0
-WIND	R	EN-147	Orchestrated Seizure	0	0
-WIND	C	EN-148	Potion Infusion: Growth	0	0
-WIND	C	EN-149	Scout the Land	0	0
-WIND	C	EN-150	Shred to Ribbons	0	0
-WIND	U	EN-151	Skirting Step	0	0
-WIND	U	EN-152	Spirited Falconer	0	0
-WIND	U	EN-153	Tempest Downfall	0	0
-WIND	SR	EN-154	Vainglory Retribution	0	0
-WIND	SR	EN-155	Verdigris Decree	0	0
-WIND	C	EN-156	Vigilant Sentry	0	0
-WIND	R	EN-157	Winbless Forecaster	0	0
-WIND	U	EN-158	Winbless Hurricane Farm	0	0
-WIND	U	EN-159	Winbless Rangefinder	0	0
-WIND	U	EN-160	Windmill Engineer	0	0
-ASTRA	SR	EN-161	Astromech Attendant	0	0
-ASTRA	SR	EN-162	Foretold Bloom	0	0
-ASTRA	U	EN-163	Lunar Seer	0	0
-ASTRA	SR	EN-164	Meteor Strike	0	0
-ASTRA	UR	EN-165	Prima Materia	0	0
-ASTRA	U	EN-166	Reflect the Skies	0	0
-ASTRA	U	EN-167	Refracted Twilight	0	0
-ASTRA	U	EN-168	Stargazer's Portent	0	0
-ASTRA	SR	EN-169	Twilight Slime	0	0
-NEOS	UR	EN-170	Atmos Armor Type-Ares	0	0
-NEOS	C	EN-171	Atmos Shield	0	0
-NEOS	R	EN-172	Blade of Creation	0	0
-NEOS	R	EN-173	Bolster Ranks	0	0
-NEOS	R	EN-174	Convoking Slime	0	0
-NEOS	SR	EN-175	Cordelia, Aurous Kaiser	0	0
-NEOS	R	EN-176	Echoic Guard	0	0
-UMBRA	SR	EN-177	Curse Amplification	0	0
-UMBRA	R	EN-178	Debilitating Grasp	0	0
-UMBRA	R	EN-179	Expunge	0	0
-UMBRA	UR	EN-180	Final Stroke	0	0
-UMBRA	U	EN-181	Gloamspire Sniper	0	0
-UMBRA	C	EN-182	Ominous Shadow	0	0
-UMBRA	SR	EN-183	Penumbral Waltz	0	0
-UMBRA	U	EN-184	Possessed Remnant	0	0
-UMBRA	U	EN-185	Powered Armsmaster	0	0
-UMBRA	SR	EN-186	Revenant’s Scourge	0	0
-UMBRA	U	EN-187	Sinister Mindreaver	0	0
-UMBRA	U	EN-188	Siphoning Fractal	0	0
-UMBRA	U	EN-189	Slip Away	0	0
-UMBRA	R	EN-190	Suffocating Miasma	0	0
-UMBRA	UR	EN-191	Vampiric Slime	0	0
+FIRE	UR	EN-001	Fragmented Spirit of Fire	0	0	=HYPERLINK("https://index.gatcg.com/edition/fragmented-spirit-of-fire-mrc", "View on Index")
+WATER	UR	EN-002	Fragmented Spirit of Water	0	0	=HYPERLINK("https://index.gatcg.com/edition/fragmented-spirit-of-water-mrc", "View on Index")
+WIND	UR	EN-003	Fragmented Spirit of Wind	0	0	=HYPERLINK("https://index.gatcg.com/edition/fragmented-spirit-of-wind-mrc", "View on Index")
+NORM	C	EN-004	Tristan, Underhanded	0	0	=HYPERLINK("https://index.gatcg.com/edition/tristan-underhanded-mrc", "View on Index")
+NORM	C	EN-005	Tristan, Hired Blade	0	0	=HYPERLINK("https://index.gatcg.com/edition/tristan-hired-blade-mrc", "View on Index")
+UMBRA	SR	EN-006	Tristan, Shadowreaver	0	0	=HYPERLINK("https://index.gatcg.com/edition/tristan-shadowreaver-mrc", "View on Index")
+NORM	R	EN-007	Alkahest	0	0	=HYPERLINK("https://index.gatcg.com/edition/alkahest-mrc", "View on Index")
+NORM	R	EN-008	Backup Charger	0	0	=HYPERLINK("https://index.gatcg.com/edition/backup-charger-mrc", "View on Index")
+NORM	SR	EN-009	Clockwork Musicbox	0	0	=HYPERLINK("https://index.gatcg.com/edition/clockwork-musicbox-mrc", "View on Index")
+NORM	R	EN-010	Framework Sidearm	0	0	=HYPERLINK("https://index.gatcg.com/edition/framework-sidearm-mrc", "View on Index")
+NORM	R	EN-011	Mercenary's Blade	0	0	=HYPERLINK("https://index.gatcg.com/edition/mercenarys-blade-mrc", "View on Index")
+NORM	UR	EN-012	Mercurial Heart	0	0	=HYPERLINK("https://index.gatcg.com/edition/mercurial-heart-mrc", "View on Index")
+NORM	R	EN-013	Prototype Shield	0	0	=HYPERLINK("https://index.gatcg.com/edition/prototype-shield-mrc", "View on Index")
+NORM	R	EN-014	Steel Slug	0	0	=HYPERLINK("https://index.gatcg.com/edition/steel-slug-mrc", "View on Index")
+NORM	R	EN-015	Worn Diary	0	0	=HYPERLINK("https://index.gatcg.com/edition/worn-diary-mrc", "View on Index")
+FIRE	R	EN-016	Blast Shield	0	0	=HYPERLINK("https://index.gatcg.com/edition/blast-shield-mrc", "View on Index")
+FIRE	R	EN-017	Contraband Revolver	0	0	=HYPERLINK("https://index.gatcg.com/edition/contraband-revolver-mrc", "View on Index")
+FIRE	R	EN-018	Forgelight Blade	0	0	=HYPERLINK("https://index.gatcg.com/edition/forgelight-blade-mrc", "View on Index")
+FIRE	R	EN-019	Impact Hammer	0	0	=HYPERLINK("https://index.gatcg.com/edition/impact-hammer-mrc", "View on Index")
+WATER	R	EN-020	Krustallan Longsword	0	0	=HYPERLINK("https://index.gatcg.com/edition/krustallan-longsword-mrc", "View on Index")
+WATER	R	EN-021	Loaded Thoughts	0	0	=HYPERLINK("https://index.gatcg.com/edition/loaded-thoughts-mrc", "View on Index")
+WATER	SR	EN-022	Tideholder Claymore	0	0	=HYPERLINK("https://index.gatcg.com/edition/tideholder-claymore-mrc", "View on Index")
+WATER	R	EN-023	Vaporjet Shield	0	0	=HYPERLINK("https://index.gatcg.com/edition/vaporjet-shield-mrc", "View on Index")
+WIND	R	EN-024	Ceremonial Stormblade	0	0	=HYPERLINK("https://index.gatcg.com/edition/ceremonial-stormblade-mrc", "View on Index")
+WIND	R	EN-025	Emerald Pistol	0	0	=HYPERLINK("https://index.gatcg.com/edition/emerald-pistol-mrc", "View on Index")
+WIND	SR	EN-026	Mechanized Smasher	0	0	=HYPERLINK("https://index.gatcg.com/edition/mechanized-smasher-mrc", "View on Index")
+WIND	R	EN-027	Winbless Kiteshield	0	0	=HYPERLINK("https://index.gatcg.com/edition/winbless-kiteshield-mrc", "View on Index")
+WIND	SR	EN-028	Windpiercer	0	0	=HYPERLINK("https://index.gatcg.com/edition/windpiercer-mrc", "View on Index")
+ASTRA	R	EN-029	Lunar Conduit	0	0	=HYPERLINK("https://index.gatcg.com/edition/lunar-conduit-mrc", "View on Index")
+NEOS	SR	EN-030	Aegis of Dawn	0	0	=HYPERLINK("https://index.gatcg.com/edition/aegis-of-dawn-mrc", "View on Index")
+NEOS	R	EN-031	Alchemical Scripture	0	0	=HYPERLINK("https://index.gatcg.com/edition/alchemical-scripture-mrc", "View on Index")
+UMBRA	SR	EN-032	Gloamspire Mantle	0	0	=HYPERLINK("https://index.gatcg.com/edition/gloamspire-mantle-mrc", "View on Index")
+UMBRA	R	EN-033	Memento Mori	0	0	=HYPERLINK("https://index.gatcg.com/edition/memento-mori-mrc", "View on Index")
+UMBRA	UR	EN-034	Shadow's Claw	0	0	=HYPERLINK("https://index.gatcg.com/edition/shadows-claw-mrc", "View on Index")
+UMBRA	SR	EN-035	Sorrowcaller	0	0	=HYPERLINK("https://index.gatcg.com/edition/sorrowcaller-mrc", "View on Index")
+NORM	SR	EN-036	Atmos Armor Type-Hermes	0	0	=HYPERLINK("https://index.gatcg.com/edition/atmos-armor-type-hermes-mrc", "View on Index")
+NORM	U	EN-037	Automaton Beastkeeper	0	0	=HYPERLINK("https://index.gatcg.com/edition/automaton-beastkeeper-mrc", "View on Index")
+NORM	C	EN-038	Automaton Drone	0	0	=HYPERLINK("https://index.gatcg.com/edition/automaton-drone-mrc", "View on Index")
+NORM	C	EN-039	Bandage Wound	0	0	=HYPERLINK("https://index.gatcg.com/edition/bandage-wound-mrc", "View on Index")
+NORM	SR	EN-040	Bertha, Spry Howitzer	0	0	=HYPERLINK("https://index.gatcg.com/edition/bertha-spry-howitzer-mrc", "View on Index")
+NORM	C	EN-041	Blightroot	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/blightroot-mrc", "View on Index")
+NORM	U	EN-042	Buried Grief	0	0	=HYPERLINK("https://index.gatcg.com/edition/buried-grief-mrc", "View on Index")
+NORM	C	EN-043	Cell Assembler	0	0	=HYPERLINK("https://index.gatcg.com/edition/cell-assembler-mrc", "View on Index")
+NORM	U	EN-044	Charged Hunter	0	0	=HYPERLINK("https://index.gatcg.com/edition/charged-hunter-mrc", "View on Index")
+NORM	C	EN-045	Charged Mannequin	0	0	=HYPERLINK("https://index.gatcg.com/edition/charged-mannequin-mrc", "View on Index")
+NORM	U	EN-046	City Protector	0	0	=HYPERLINK("https://index.gatcg.com/edition/city-protector-mrc", "View on Index")
+NORM	R	EN-047	Critical Recovery	0	0	=HYPERLINK("https://index.gatcg.com/edition/critical-recovery-mrc", "View on Index")
+NORM	C	EN-048	Dodge Roll	0	0	=HYPERLINK("https://index.gatcg.com/edition/dodge-roll-mrc", "View on Index")
+NORM	SR	EN-049	Engineered Slime	0	0	=HYPERLINK("https://index.gatcg.com/edition/engineered-slime-mrc", "View on Index")
+NORM	C	EN-050	Fraysia	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/fraysia-mrc", "View on Index")
+NORM	C	EN-051	Gearshift Block	0	0	=HYPERLINK("https://index.gatcg.com/edition/gearshift-block-mrc", "View on Index")
+NORM	R	EN-052	Geldus, Terror of Dorumegia	0	0	=HYPERLINK("https://index.gatcg.com/edition/geldus-terror-of-dorumegia-mrc", "View on Index")
+NORM	R	EN-053	Harvester Mk II	0	0	=HYPERLINK("https://index.gatcg.com/edition/harvester-mk-ii-mrc", "View on Index")
+NORM	U	EN-054	Hide in Bush	0	0	=HYPERLINK("https://index.gatcg.com/edition/hide-in-bush-mrc", "View on Index")
+NORM	C	EN-055	Hub of Innovation	0	0	=HYPERLINK("https://index.gatcg.com/edition/hub-of-innovation-mrc", "View on Index")
+NORM	C	EN-056	Imperial Spy	0	0	=HYPERLINK("https://index.gatcg.com/edition/imperial-spy-mrc", "View on Index")
+NORM	C	EN-057	Machined Monstrosity	0	0	=HYPERLINK("https://index.gatcg.com/edition/machined-monstrosity-mrc", "View on Index")
+NORM	C	EN-058	Manaroot	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/manaroot-mrc", "View on Index")
+NORM	C	EN-059	Manufacture Cell	0	0	=HYPERLINK("https://index.gatcg.com/edition/manufacture-cell-mrc", "View on Index")
+NORM	U	EN-060	Mechanical Hare	0	0	=HYPERLINK("https://index.gatcg.com/edition/mechanical-hare-mrc", "View on Index")
+NORM	C	EN-061	Novice Healer	0	0	=HYPERLINK("https://index.gatcg.com/edition/novice-healer-mrc", "View on Index")
+NORM	C	EN-062	Nurture Crops	0	0	=HYPERLINK("https://index.gatcg.com/edition/nurture-crops-mrc", "View on Index")
+NORM	UR	EN-063	Overlord Mk III	0	0	=HYPERLINK("https://index.gatcg.com/edition/overlord-mk-iii-mrc", "View on Index")
+NORM	C	EN-064	Powercell	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/powercell-mrc-b", "View on Index")
+NORM	C	EN-064	Powercell	0	0	=HYPERLINK("https://index.gatcg.com/edition/powercell-mrc-a", "View on Index")
+NORM	C	EN-065	Purification	0	0	=HYPERLINK("https://index.gatcg.com/edition/purification-mrc", "View on Index")
+NORM	C	EN-066	Razorvine	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/razorvine-mrc", "View on Index")
+NORM	C	EN-067	Reprogram	0	0	=HYPERLINK("https://index.gatcg.com/edition/reprogram-mrc", "View on Index")
+NORM	C	EN-068	Retold Fortune	0	0	=HYPERLINK("https://index.gatcg.com/edition/retold-fortune-mrc", "View on Index")
+NORM	SR	EN-069	Sadi, Blood Harvester	0	0	=HYPERLINK("https://index.gatcg.com/edition/sadi-blood-harvester-mrc", "View on Index")
+NORM	C	EN-070	Savage Smash	0	0	=HYPERLINK("https://index.gatcg.com/edition/savage-smash-mrc", "View on Index")
+NORM	C	EN-071	Sharpen Blade	0	0	=HYPERLINK("https://index.gatcg.com/edition/sharpen-blade-mrc", "View on Index")
+NORM	C	EN-072	Silvershine	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/silvershine-mrc", "View on Index")
+NORM	C	EN-073	Spirit Shard	0	0	=HYPERLINK("https://index.gatcg.com/edition/spirit-shard-mrc", "View on Index")
+NORM	C	EN-074	Springleaf	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/springleaf-mrc", "View on Index")
+NORM	C	EN-075	Synthetic Strike	0	0	=HYPERLINK("https://index.gatcg.com/edition/synthetic-strike-mrc", "View on Index")
+NORM	U	EN-076	Tonic of Remembrance	0	0	=HYPERLINK("https://index.gatcg.com/edition/tonic-of-remembrance-mrc", "View on Index")
+NORM	C	EN-077	Turbo Charge	0	0	=HYPERLINK("https://index.gatcg.com/edition/turbo-charge-mrc", "View on Index")
+NORM	C	EN-078	Vicious Slice	0	0	=HYPERLINK("https://index.gatcg.com/edition/vicious-slice-mrc", "View on Index")
+FIRE	C	EN-079	Airship Captain	0	0	=HYPERLINK("https://index.gatcg.com/edition/airship-captain-mrc", "View on Index")
+FIRE	C	EN-080	Arsenal Keeper	0	0	=HYPERLINK("https://index.gatcg.com/edition/arsenal-keeper-mrc", "View on Index")
+FIRE	SR	EN-081	Calamity Cannon	0	0	=HYPERLINK("https://index.gatcg.com/edition/calamity-cannon-mrc", "View on Index")
+FIRE	C	EN-082	Captivating Cutthroat	0	0	=HYPERLINK("https://index.gatcg.com/edition/captivating-cutthroat-mrc", "View on Index")
+FIRE	C	EN-083	Cell Forging	0	0	=HYPERLINK("https://index.gatcg.com/edition/cell-forging-mrc", "View on Index")
+FIRE	R	EN-084	Cell Handler	0	0	=HYPERLINK("https://index.gatcg.com/edition/cell-handler-mrc", "View on Index")
+FIRE	C	EN-085	Charged Alchemist	0	0	=HYPERLINK("https://index.gatcg.com/edition/charged-alchemist-mrc", "View on Index")
+FIRE	U	EN-086	Charged Gunslinger	0	0	=HYPERLINK("https://index.gatcg.com/edition/charged-gunslinger-mrc", "View on Index")
+FIRE	C	EN-087	Cinderbloom Tender	0	0	=HYPERLINK("https://index.gatcg.com/edition/cinderbloom-tender-mrc", "View on Index")
+FIRE	C	EN-088	Embershield Keeper	0	0	=HYPERLINK("https://index.gatcg.com/edition/embershield-keeper-mrc", "View on Index")
+FIRE	U	EN-089	Kindling Flare	0	0	=HYPERLINK("https://index.gatcg.com/edition/kindling-flare-mrc", "View on Index")
+FIRE	U	EN-090	Molten Cinder	0	0	=HYPERLINK("https://index.gatcg.com/edition/molten-cinder-mrc", "View on Index")
+FIRE	U	EN-091	Potion Infusion: Blaze	0	0	=HYPERLINK("https://index.gatcg.com/edition/potion-infusion-blaze-mrc", "View on Index")
+FIRE	C	EN-092	Powered Bishop	0	0	=HYPERLINK("https://index.gatcg.com/edition/powered-bishop-mrc", "View on Index")
+FIRE	C	EN-093	Powered Sentinel	0	0	=HYPERLINK("https://index.gatcg.com/edition/powered-sentinel-mrc", "View on Index")
+FIRE	U	EN-094	Priestess of Flame	0	0	=HYPERLINK("https://index.gatcg.com/edition/priestess-of-flame-mrc", "View on Index")
+FIRE	C	EN-095	Pyroclastic Flow	0	0	=HYPERLINK("https://index.gatcg.com/edition/pyroclastic-flow-mrc", "View on Index")
+FIRE	C	EN-096	Reduce to Ash	0	0	=HYPERLINK("https://index.gatcg.com/edition/reduce-to-ash-mrc", "View on Index")
+FIRE	U	EN-097	Scorching Trap	0	0	=HYPERLINK("https://index.gatcg.com/edition/scorching-trap-mrc", "View on Index")
+FIRE	U	EN-098	Smashing Force	0	0	=HYPERLINK("https://index.gatcg.com/edition/smashing-force-mrc", "View on Index")
+FIRE	U	EN-099	Surge Protector	0	0	=HYPERLINK("https://index.gatcg.com/edition/surge-protector-mrc", "View on Index")
+FIRE	C	EN-100	Surging Bolt	0	0	=HYPERLINK("https://index.gatcg.com/edition/surging-bolt-mrc", "View on Index")
+FIRE	U	EN-101	Under Fire	0	0	=HYPERLINK("https://index.gatcg.com/edition/under-fire-mrc", "View on Index")
+FIRE	SR	EN-102	Vermilion Decree	0	0	=HYPERLINK("https://index.gatcg.com/edition/vermilion-decree-mrc", "View on Index")
+FIRE	U	EN-103	Volatile Fusilier	0	0	=HYPERLINK("https://index.gatcg.com/edition/volatile-fusilier-mrc", "View on Index")
+WATER	U	EN-104	Aqua Vitae	0	0	=HYPERLINK("https://index.gatcg.com/edition/aqua-vitae-mrc", "View on Index")
+WATER	U	EN-105	Cell Converter	0	0	=HYPERLINK("https://index.gatcg.com/edition/cell-converter-mrc", "View on Index")
+WATER	U	EN-106	Cell Sharpshooter	0	0	=HYPERLINK("https://index.gatcg.com/edition/cell-sharpshooter-mrc", "View on Index")
+WATER	SR	EN-107	Cerulean Decree	0	0	=HYPERLINK("https://index.gatcg.com/edition/cerulean-decree-mrc", "View on Index")
+WATER	U	EN-108	Collapsing Trap	0	0	=HYPERLINK("https://index.gatcg.com/edition/collapsing-trap-mrc", "View on Index")
+WATER	C	EN-109	Desperate Dive	0	0	=HYPERLINK("https://index.gatcg.com/edition/desperate-dive-mrc", "View on Index")
+WATER	C	EN-110	Enthralling Visage	0	0	=HYPERLINK("https://index.gatcg.com/edition/enthralling-visage-mrc", "View on Index")
+WATER	U	EN-111	Eternal Dreamer	0	0	=HYPERLINK("https://index.gatcg.com/edition/eternal-dreamer-mrc", "View on Index")
+WATER	U	EN-112	Fractal of Rain	0	0	=HYPERLINK("https://index.gatcg.com/edition/fractal-of-rain-mrc", "View on Index")
+WATER	C	EN-113	Freezing Steel	0	0	=HYPERLINK("https://index.gatcg.com/edition/freezing-steel-mrc", "View on Index")
+WATER	R	EN-114	Frost Shard	0	0	=HYPERLINK("https://index.gatcg.com/edition/frost-shard-mrc", "View on Index")
+WATER	U	EN-115	Hailstorm Guard	0	0	=HYPERLINK("https://index.gatcg.com/edition/hailstorm-guard-mrc", "View on Index")
+WATER	C	EN-116	Hidden Enclave	0	0	=HYPERLINK("https://index.gatcg.com/edition/hidden-enclave-mrc", "View on Index")
+WATER	SR	EN-117	Icebound Slam	0	0	=HYPERLINK("https://index.gatcg.com/edition/icebound-slam-mrc", "View on Index")
+WATER	R	EN-118	Imperial Apprentice	0	0	=HYPERLINK("https://index.gatcg.com/edition/imperial-apprentice-mrc", "View on Index")
+WATER	C	EN-119	Imperial Scout	0	0	=HYPERLINK("https://index.gatcg.com/edition/imperial-scout-mrc", "View on Index")
+WATER	R	EN-120	Krustallan Patrol	0	0	=HYPERLINK("https://index.gatcg.com/edition/krustallan-patrol-mrc", "View on Index")
+WATER	U	EN-121	Krustallan Ruins	0	0	=HYPERLINK("https://index.gatcg.com/edition/krustallan-ruins-mrc", "View on Index")
+WATER	R	EN-122	Lost in Thought	0	0	=HYPERLINK("https://index.gatcg.com/edition/lost-in-thought-mrc", "View on Index")
+WATER	SR	EN-123	Naia, Diviner of Fortunes	0	0	=HYPERLINK("https://index.gatcg.com/edition/naia-diviner-of-fortunes-mrc", "View on Index")
+WATER	U	EN-124	Portside Pirate	0	0	=HYPERLINK("https://index.gatcg.com/edition/portside-pirate-mrc", "View on Index")
+WATER	U	EN-125	Potion Infusion: Seal	0	0	=HYPERLINK("https://index.gatcg.com/edition/potion-infusion-seal-mrc", "View on Index")
+WATER	R	EN-126	Powered Defender	0	0	=HYPERLINK("https://index.gatcg.com/edition/powered-defender-mrc", "View on Index")
+WATER	C	EN-127	Powered Swordsman	0	0	=HYPERLINK("https://index.gatcg.com/edition/powered-swordsman-mrc", "View on Index")
+WATER	R	EN-128	Primordial Ritual	0	0	=HYPERLINK("https://index.gatcg.com/edition/primordial-ritual-mrc", "View on Index")
+WATER	C	EN-129	Purified Shot	0	0	=HYPERLINK("https://index.gatcg.com/edition/purified-shot-mrc", "View on Index")
+WATER	SR	EN-130	Ravishing Finale	0	0	=HYPERLINK("https://index.gatcg.com/edition/ravishing-finale-mrc", "View on Index")
+WATER	SR	EN-131	Seaside Ringleader	0	0	=HYPERLINK("https://index.gatcg.com/edition/seaside-ringleader-mrc", "View on Index")
+WATER	C	EN-132	Water Herbs	0	0	=HYPERLINK("https://index.gatcg.com/edition/water-herbs-mrc", "View on Index")
+WATER	C	EN-133	Waterveil Apostle	0	0	=HYPERLINK("https://index.gatcg.com/edition/waterveil-apostle-mrc", "View on Index")
+WIND	SR	EN-134	Andronika, Eternal Herald	0	0	=HYPERLINK("https://index.gatcg.com/edition/andronika-eternal-herald-mrc", "View on Index")
+WIND	R	EN-135	Blessed Clergy	0	0	=HYPERLINK("https://index.gatcg.com/edition/blessed-clergy-mrc", "View on Index")
+WIND	U	EN-136	Cell Generator	0	0	=HYPERLINK("https://index.gatcg.com/edition/cell-generator-mrc", "View on Index")
+WIND	C	EN-137	Cell Vanguard	0	0	=HYPERLINK("https://index.gatcg.com/edition/cell-vanguard-mrc", "View on Index")
+WIND	C	EN-138	Charged Assailant	0	0	=HYPERLINK("https://index.gatcg.com/edition/charged-assailant-mrc", "View on Index")
+WIND	R	EN-139	Cleansing Reunion	0	0	=HYPERLINK("https://index.gatcg.com/edition/cleansing-reunion-mrc", "View on Index")
+WIND	C	EN-140	Concealed Marksman	0	0	=HYPERLINK("https://index.gatcg.com/edition/concealed-marksman-mrc", "View on Index")
+WIND	C	EN-141	Cultivate	0	0	=HYPERLINK("https://index.gatcg.com/edition/cultivate-mrc", "View on Index")
+WIND	SR	EN-142	Diablerie	0	0	=HYPERLINK("https://index.gatcg.com/edition/diablerie-mrc", "View on Index")
+WIND	SR	EN-143	Eternal Magistrate	0	0	=HYPERLINK("https://index.gatcg.com/edition/eternal-magistrate-mrc", "View on Index")
+WIND	C	EN-144	Favorable Winds	0	0	=HYPERLINK("https://index.gatcg.com/edition/favorable-winds-mrc", "View on Index")
+WIND	R	EN-145	Gearstride Academy	0	0	=HYPERLINK("https://index.gatcg.com/edition/gearstride-academy-mrc", "View on Index")
+WIND	U	EN-146	Liquid Amnesia	0	0	=HYPERLINK("https://index.gatcg.com/edition/liquid-amnesia-mrc", "View on Index")
+WIND	R	EN-147	Orchestrated Seizure	0	0	=HYPERLINK("https://index.gatcg.com/edition/orchestrated-seizure-mrc", "View on Index")
+WIND	C	EN-148	Potion Infusion: Growth	0	0	=HYPERLINK("https://index.gatcg.com/edition/potion-infusion-growth-mrc", "View on Index")
+WIND	C	EN-149	Scout the Land	0	0	=HYPERLINK("https://index.gatcg.com/edition/scout-the-land-mrc", "View on Index")
+WIND	C	EN-150	Shred to Ribbons	0	0	=HYPERLINK("https://index.gatcg.com/edition/shred-to-ribbons-mrc", "View on Index")
+WIND	U	EN-151	Skirting Step	0	0	=HYPERLINK("https://index.gatcg.com/edition/skirting-step-mrc", "View on Index")
+WIND	U	EN-152	Spirited Falconer	0	0	=HYPERLINK("https://index.gatcg.com/edition/spirited-falconer-mrc", "View on Index")
+WIND	U	EN-153	Tempest Downfall	0	0	=HYPERLINK("https://index.gatcg.com/edition/tempest-downfall-mrc", "View on Index")
+WIND	SR	EN-154	Vainglory Retribution	0	0	=HYPERLINK("https://index.gatcg.com/edition/vainglory-retribution-mrc", "View on Index")
+WIND	SR	EN-155	Verdigris Decree	0	0	=HYPERLINK("https://index.gatcg.com/edition/verdigris-decree-mrc", "View on Index")
+WIND	C	EN-156	Vigilant Sentry	0	0	=HYPERLINK("https://index.gatcg.com/edition/vigilant-sentry-mrc", "View on Index")
+WIND	R	EN-157	Winbless Forecaster	0	0	=HYPERLINK("https://index.gatcg.com/edition/winbless-forecaster-mrc", "View on Index")
+WIND	U	EN-158	Winbless Hurricane Farm	0	0	=HYPERLINK("https://index.gatcg.com/edition/winbless-hurricane-farm-mrc", "View on Index")
+WIND	U	EN-159	Winbless Rangefinder	0	0	=HYPERLINK("https://index.gatcg.com/edition/winbless-rangefinder-mrc", "View on Index")
+WIND	U	EN-160	Windmill Engineer	0	0	=HYPERLINK("https://index.gatcg.com/edition/windmill-engineer-mrc", "View on Index")
+ASTRA	SR	EN-161	Astromech Attendant	0	0	=HYPERLINK("https://index.gatcg.com/edition/astromech-attendant-mrc", "View on Index")
+ASTRA	SR	EN-162	Foretold Bloom	0	0	=HYPERLINK("https://index.gatcg.com/edition/foretold-bloom-mrc", "View on Index")
+ASTRA	U	EN-163	Lunar Seer	0	0	=HYPERLINK("https://index.gatcg.com/edition/lunar-seer-mrc", "View on Index")
+ASTRA	SR	EN-164	Meteor Strike	0	0	=HYPERLINK("https://index.gatcg.com/edition/meteor-strike-mrc", "View on Index")
+ASTRA	UR	EN-165	Prima Materia	0	0	=HYPERLINK("https://index.gatcg.com/edition/prima-materia-mrc", "View on Index")
+ASTRA	U	EN-166	Reflect the Skies	0	0	=HYPERLINK("https://index.gatcg.com/edition/reflect-the-skies-mrc", "View on Index")
+ASTRA	U	EN-167	Refracted Twilight	0	0	=HYPERLINK("https://index.gatcg.com/edition/refracted-twilight-mrc", "View on Index")
+ASTRA	U	EN-168	Stargazer's Portent	0	0	=HYPERLINK("https://index.gatcg.com/edition/stargazers-portent-mrc", "View on Index")
+ASTRA	SR	EN-169	Twilight Slime	0	0	=HYPERLINK("https://index.gatcg.com/edition/twilight-slime-mrc", "View on Index")
+NEOS	UR	EN-170	Atmos Armor Type-Ares	0	0	=HYPERLINK("https://index.gatcg.com/edition/atmos-armor-type-ares-mrc", "View on Index")
+NEOS	C	EN-171	Atmos Shield	0	0	=HYPERLINK("https://index.gatcg.com/edition/atmos-shield-mrc", "View on Index")
+NEOS	R	EN-172	Blade of Creation	0	0	=HYPERLINK("https://index.gatcg.com/edition/blade-of-creation-mrc", "View on Index")
+NEOS	R	EN-173	Bolster Ranks	0	0	=HYPERLINK("https://index.gatcg.com/edition/bolster-ranks-mrc", "View on Index")
+NEOS	R	EN-174	Convoking Slime	0	0	=HYPERLINK("https://index.gatcg.com/edition/convoking-slime-mrc", "View on Index")
+NEOS	SR	EN-175	Cordelia, Aurous Kaiser	0	0	=HYPERLINK("https://index.gatcg.com/edition/cordelia-aurous-kaiser-mrc", "View on Index")
+NEOS	R	EN-176	Echoic Guard	0	0	=HYPERLINK("https://index.gatcg.com/edition/echoic-guard-mrc", "View on Index")
+UMBRA	SR	EN-177	Curse Amplification	0	0	=HYPERLINK("https://index.gatcg.com/edition/curse-amplification-mrc", "View on Index")
+UMBRA	R	EN-178	Debilitating Grasp	0	0	=HYPERLINK("https://index.gatcg.com/edition/debilitating-grasp-mrc", "View on Index")
+UMBRA	R	EN-179	Expunge	0	0	=HYPERLINK("https://index.gatcg.com/edition/expunge-mrc", "View on Index")
+UMBRA	UR	EN-180	Final Stroke	0	0	=HYPERLINK("https://index.gatcg.com/edition/final-stroke-mrc", "View on Index")
+UMBRA	U	EN-181	Gloamspire Sniper	0	0	=HYPERLINK("https://index.gatcg.com/edition/gloamspire-sniper-mrc", "View on Index")
+UMBRA	C	EN-182	Ominous Shadow	0	0	=HYPERLINK("https://index.gatcg.com/edition/ominous-shadow-mrc", "View on Index")
+UMBRA	SR	EN-183	Penumbral Waltz	0	0	=HYPERLINK("https://index.gatcg.com/edition/penumbral-waltz-mrc", "View on Index")
+UMBRA	U	EN-184	Possessed Remnant	0	0	=HYPERLINK("https://index.gatcg.com/edition/possessed-remnant-mrc", "View on Index")
+UMBRA	U	EN-185	Powered Armsmaster	0	0	=HYPERLINK("https://index.gatcg.com/edition/powered-armsmaster-mrc", "View on Index")
+UMBRA	SR	EN-186	Revenant’s Scourge	0	0	=HYPERLINK("https://index.gatcg.com/edition/revenants-scourge-mrc", "View on Index")
+UMBRA	U	EN-187	Sinister Mindreaver	0	0	=HYPERLINK("https://index.gatcg.com/edition/sinister-mindreaver-mrc", "View on Index")
+UMBRA	U	EN-188	Siphoning Fractal	0	0	=HYPERLINK("https://index.gatcg.com/edition/siphoning-fractal-mrc", "View on Index")
+UMBRA	U	EN-189	Slip Away	0	0	=HYPERLINK("https://index.gatcg.com/edition/slip-away-mrc", "View on Index")
+UMBRA	R	EN-190	Suffocating Miasma	0	0	=HYPERLINK("https://index.gatcg.com/edition/suffocating-miasma-mrc", "View on Index")
+UMBRA	UR	EN-191	Vampiric Slime	0	0	=HYPERLINK("https://index.gatcg.com/edition/vampiric-slime-mrc", "View on Index")

@@ -1,8 +1,8 @@
-NORM	PR	EN-001	Lorraine, Blademaster	N/A	0
-CRUX	PR	EN-002	Lorraine, Crux Knight	N/A	0
-ARCANE	PR	EN-003	Rai, Storm Seer	N/A	0
-ARCANE	PR	EN-004	Arcanist's Prism	N/A	0
-NORM	PR	EN-005	Clarent, Sword of Peace	N/A	0
-NORM	PR	EN-006	Endura, Scepter of Ignition	N/A	0
-CRUX	PR	EN-007	Prismatic Edge	N/A	0
-NORM	PR	EN-008	Library Witch	N/A	0
+NORM	PR	EN-001	Lorraine, Blademaster	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/lorraine-blademaster-ksp", "View on Index")
+CRUX	PR	EN-002	Lorraine, Crux Knight	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/lorraine-crux-knight-ksp", "View on Index")
+ARCANE	PR	EN-003	Rai, Storm Seer	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/rai-storm-seer-ksp", "View on Index")
+ARCANE	PR	EN-004	Arcanist's Prism	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/arcanists-prism-ksp", "View on Index")
+NORM	PR	EN-005	Clarent, Sword of Peace	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/clarent-sword-of-peace-ksp", "View on Index")
+NORM	PR	EN-006	Endura, Scepter of Ignition	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/endura-scepter-of-ignition-ksp", "View on Index")
+CRUX	PR	EN-007	Prismatic Edge	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/prismatic-edge-ksp", "View on Index")
+NORM	PR	EN-008	Library Witch	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/library-witch-ksp", "View on Index")

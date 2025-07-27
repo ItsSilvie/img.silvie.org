@@ -1,20 +1,20 @@
-NORM	C	EN-001	Lost Spirit	0	N/A
-NORM	C	EN-002	Lorraine, Wandering Warrior	0	N/A
-NORM	C	EN-003	Lorraine, Blademaster	0	N/A
-NORM	C	EN-004	Bauble of Abundance	0	N/A
-NORM	C	EN-005	Life Essence Amulet	0	N/A
-NORM	C	EN-006	Ornamental Greatsword	0	N/A
-NORM	U	EN-007	Seer's Sword	0	N/A
-NORM	C	EN-008	Sharpening Stone	0	N/A
-NORM	U	EN-009	Warrior's Longsword	0	N/A
-NORM	C	EN-010	Banner Knight	0	N/A
-NORM	C	EN-011	Crusader of Aesa	0	N/A
-NORM	C	EN-012	Esteemed Knight	0	N/A
-NORM	C	EN-013	Honorable Vanguard	0	N/A
-NORM	U	EN-014	Inspiring Call	0	N/A
-NORM	C	EN-015	Opening Cut	0	N/A
-NORM	C	EN-016	Reckless Slash	0	N/A
-NORM	U	EN-017	Sudden Steel	0	N/A
-NORM	C	EN-018	Trusty Steed	0	N/A
-NORM	C	EN-019	Veteran Soldier	0	N/A
-NORM	C	EN-020	Weaponsmith	0	N/A
+NORM	C	EN-001	Lost Spirit	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/lost-spirit-demo22", "View on Index")
+NORM	C	EN-002	Lorraine, Wandering Warrior	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/lorraine-wandering-warrior-demo22", "View on Index")
+NORM	C	EN-003	Lorraine, Blademaster	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/lorraine-blademaster-demo22", "View on Index")
+NORM	C	EN-004	Bauble of Abundance	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/bauble-of-abundance-demo22", "View on Index")
+NORM	C	EN-005	Life Essence Amulet	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/life-essence-amulet-demo22", "View on Index")
+NORM	C	EN-006	Ornamental Greatsword	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/ornamental-greatsword-demo22", "View on Index")
+NORM	U	EN-007	Seer's Sword	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/seers-sword-demo22", "View on Index")
+NORM	C	EN-008	Sharpening Stone	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/sharpening-stone-demo22", "View on Index")
+NORM	U	EN-009	Warrior's Longsword	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/warriors-longsword-demo22", "View on Index")
+NORM	C	EN-010	Banner Knight	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/banner-knight-demo22", "View on Index")
+NORM	C	EN-011	Crusader of Aesa	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/crusader-of-aesa-demo22", "View on Index")
+NORM	C	EN-012	Esteemed Knight	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/esteemed-knight-demo22", "View on Index")
+NORM	C	EN-013	Honorable Vanguard	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/honorable-vanguard-demo22", "View on Index")
+NORM	U	EN-014	Inspiring Call	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/inspiring-call-demo22", "View on Index")
+NORM	C	EN-015	Opening Cut	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/opening-cut-demo22", "View on Index")
+NORM	C	EN-016	Reckless Slash	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/reckless-slash-demo22", "View on Index")
+NORM	U	EN-017	Sudden Steel	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/sudden-steel-demo22", "View on Index")
+NORM	C	EN-018	Trusty Steed	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/trusty-steed-demo22", "View on Index")
+NORM	C	EN-019	Veteran Soldier	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/veteran-soldier-demo22", "View on Index")
+NORM	C	EN-020	Weaponsmith	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/weaponsmith-demo22", "View on Index")

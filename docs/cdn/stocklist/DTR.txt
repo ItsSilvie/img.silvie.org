@@ -1,214 +1,214 @@
-FIRE	C	EN-001	Spirit of Fire	0	N/A
-WATER	C	EN-002	Spirit of Water	0	N/A
-WIND	C	EN-003	Spirit of Wind	0	N/A
-NORM	SR	EN-004	Alice, Golden Queen	0	0
-NORM	C	EN-005	Ciel, Loyal Valet	0	0
-NORM	C	EN-006	Ciel, Omenbringer	0	0
-UMBRA	C	EN-007	Ciel, Mirage's Grave	0	0
-NORM	C	EN-008	Diana, Aether Dilettante	0	0
-NORM	C	EN-009	Diana, Judgment's Arrow	0	0
-ASTRA	C	EN-010	Diana, Moonpiercer	0	0
-NORM	C	EN-011	Beastbond Paws	0	0
-NORM	R	EN-012	Candlelight Hourglass	0	0
-NORM	R	EN-013	Condemned Trinket	0	0
-NORM	R	EN-014	Memento Pocketwatch	0	0
-NORM	C	EN-015	Necklace of Foresight	0	0
-NORM	R	EN-016	Nefarious Timepiece	0	0
-NORM	U	EN-017	Poisoned Dagger	0	0
-NORM	R	EN-018	Poisonous Apple	0	0
-NORM	R	EN-019	Spellward Scepter	0	0
-NORM	R	EN-020	Suspicious Concoction	0	0
-NORM	U	EN-021	Sword of Seeking	0	0
-NORM	U	EN-023	Tome of Knowledge	0	0
-NORM	R	EN-024	Trivariate Dream	0	0
-FIRE	R	EN-025	Lacuna's Grasp	0	0
-FIRE	SR	EN-026	Salamander's Breath	0	0
-WATER	R	EN-027	Confidant's Oath	0	0
-WATER	SR	EN-028	Mana's Cascade	0	0
-WIND	SR	EN-029	Legion's Wingspan	0	0
-WIND	SR	EN-030	Servant's Obligation	0	0
-ASTRA	U	EN-031	Consumption Ring	0	0
-ASTRA	U	EN-032	Enfeebled Dagger	0	0
-ASTRA	U	EN-033	Inert Sword	0	0
-ASTRA	U	EN-034	Necklace of Hindsight	0	0
-ASTRA	U	EN-036	Ranger Strides	0	0
-ASTRA	U	EN-037	Sword of Shadows	0	0
-CRUX	SR	EN-038	Votive Runeblade	0	0
-UMBRA	U	EN-039	Bauble of Scarcity	0	0
-UMBRA	U	EN-040	Beastbond Claws	0	0
-UMBRA	U	EN-041	Death Essence Amulet	0	0
-UMBRA	U	EN-043	Tome of Ignorance	0	0
-NORM	U	EN-044	Aetheric Reforging	0	0
-NORM	R	EN-045	Alacritous Huntress	0	0
-NORM	C	EN-046	Backdash	0	0
-NORM	R	EN-047	Blighted Jewel	0	0
-NORM	R	EN-048	Chateau de Coeurs	0	0
-NORM	C	EN-050	Deadly Opportunist	0	0
-NORM	R	EN-051	Devious Welcome	0	0
-NORM	C	EN-052	Devoted Martyr	0	0
-NORM	C	EN-053	Dreamy Unicorn	0	0
-NORM	R	EN-054	Dyadic Fletcher	0	0
-NORM	C	EN-055	Enchanted Fete	0	0
-NORM	C	EN-056	Evasive Positioning	0	0
-NORM	R	EN-058	Exorcism	0	0
-NORM	U	EN-059	Exploit Vulnerability	0	0
-NORM	C	EN-060	Expose Darkness	0	0
-NORM	C	EN-061	Fight for the Crown	0	0
-NORM	C	EN-062	Five of Spades	0	0
-NORM	U	EN-063	Fleeting Guard	0	0
-NORM	R	EN-064	Fluffy Shopkeep	0	0
-NORM	C	EN-065	Fortifying Manashot	0	0
-NORM	C	EN-066	Four of Spades	0	0
-NORM	U	EN-067	Ghastly Corrosion	0	0
-NORM	C	EN-068	Horned Knight	0	0
-NORM	C	EN-069	Juggle Knives	0	0
-NORM	SR	EN-070	Lawsur, the Carpenter	0	0
-NORM	SR	EN-071	Liminal Guide	0	0
-NORM	R	EN-072	Lingering Banshee	0	0
-NORM	R	EN-073	Lucenia's Reign	0	0
-NORM	C	EN-074	Lurid Dreaming	0	0
-NORM	R	EN-075	Mad Hatter, Morose Heritor	0	0
-NORM	R	EN-076	Mad Tea Party	0	0
-NORM	R	EN-077	Manabolt Convergence	0	0
-NORM	SR	EN-078	Noire, Ace of Spades	0	0
-NORM	C	EN-079	Pride's Smith	0	0
-NORM	C	EN-080	Pride's Vanguard	0	0
-NORM	U	EN-081	Raised Slash	0	0
-NORM	C	EN-082	Recurring Invocation	0	0
-EXALTED, NORM	SR	EN-083	Regal Inquisition	0	0
-NORM	U	EN-084	Renascent Sharpshooter	0	0
-NORM	U	EN-085	Resolute Stand	0	0
-NORM	C	EN-086	Resonant Aether	0	0
-NORM	U	EN-087	Rictus Tiding	0	0
-EXALTED, NORM	C	EN-088	Royal Ordinance	0	0
-NORM	U	EN-089	Safeguard Paragon	0	0
-NORM	C	EN-090	Scavenging Raccoon	0	0
-NORM	C	EN-091	Seasoned Archer	0	0
-NORM	U	EN-092	Sleight of Hand	0	0
-EXALTED, NORM	R	EN-093	Sovereign Sanctuary	0	0
-NORM	C	EN-094	Sudden Steel	0	0
-NORM	U	EN-095	Suited Trickery	0	0
-NORM	C	EN-096	Take Aim	0	0
-NORM	C	EN-097	Take Point	0	0
-NORM	U	EN-098	Three of Spades	0	0
-NORM	C	EN-099	Trained Sharpshooter	0	0
-NORM	U	EN-100	Trump Set	0	0
-NORM	C	EN-101	Two of Spades	0	0
-NORM	C	EN-102	Undying Dreams	0	0
-NORM	C	EN-103	Unwelcome Fortune	0	0
-NORM	C	EN-104	Unyielding Wraithguard	0	0
-NORM	C	EN-105	Veiled Oracle	0	0
-NORM	U	EN-106	Wonderland's Reign	0	0
-FIRE	R	EN-107	Ashen Riffle	0	0
-FIRE	C	EN-108	Ashwound Shot	0	0
-FIRE	R	EN-109	Blazing Cindercharge	0	0
-FIRE	C	EN-110	Blazing Throw	0	0
-FIRE	R	EN-111	Butler's Augury	0	0
-FIRE	C	EN-112	Conflagrative Trounce	0	0
-FIRE	SR	EN-113	Duchess, Six of Hearts	0	0
-FIRE	C	EN-114	Embercrypt Burn	0	0
-FIRE	U	EN-115	Fiery Interference	0	0
-FIRE	C	EN-116	Five of Hearts	0	0
-FIRE	C	EN-117	Flamebound Draug	0	0
-FIRE	C	EN-118	Flamebreak Chorus	0	0
-FIRE	C	EN-119	Flickering Cinder	0	0
-FIRE	R	EN-120	Four of Hearts	0	0
-FIRE	U	EN-121	Fumant Shieldmaiden	0	0
-FIRE	C	EN-122	Furnace Lavabolt	0	0
-FIRE	R	EN-124	Incinerated Templar	0	0
-FIRE	C	EN-125	Infernal Manastreak	0	0
-FIRE	U	EN-126	Intensified Pyre	0	0
-FIRE	R	EN-127	Manaflare Barrage	0	0
-FIRE	SR	EN-128	March Hare, Mottled Host	0	0
-FIRE	C	EN-129	Peppered Chef	0	0
-FIRE	U	EN-130	Piercing Aetherfuel	0	0
-FIRE	U	EN-131	Rapid Combustion	0	0
-FIRE	R	EN-132	Rile the Abyss	0	0
-FIRE	SR	EN-133	Rouge, Ace of Hearts	0	0
-EXALTED, FIRE	SR	EN-134	Scorched Conquest	0	0
-FIRE	C	EN-135	Spark Alight	0	0
-FIRE	U	EN-136	Straight Flare	0	0
-FIRE	C	EN-137	Tempered Steel	0	0
-FIRE	R	EN-138	Three of Hearts	0	0
-FIRE	U	EN-139	Two of Hearts	0	0
-FIRE	U	EN-140	Vengeful Paramour	0	0
-FIRE	SR	EN-141	Verita, Queen of Hearts	0	0
-WATER	R	EN-142	Aquifer Seneschal	0	0
-WATER	U	EN-143	Brusque Neige	0	0
-WATER	U	EN-144	Castling Boon	0	0
-WATER	U	EN-145	Chained Charge	0	0
-WATER	C	EN-146	Dredging Streams	0	0
-WATER	C	EN-147	Evercurrent Raider	0	0
-WATER	C	EN-148	Flowing Oubli	0	0
-WATER	U	EN-149	Froglet Footman	0	0
-WATER	U	EN-150	Frostbind	0	0
-WATER	U	EN-151	Hypothermia	0	0
-EXALTED, WATER	SR	EN-152	Imperial Accord	0	0
-WATER	U	EN-153	Languid Toadtroll	0	0
-WATER	SR	EN-154	Lily, Marine Castellan	0	0
-WATER	U	EN-155	Lure the Abyss	0	0
-WATER	C	EN-156	Mire Reparation	0	0
-WATER	R	EN-157	Obsequious Blow	0	0
-WATER	R	EN-158	Pristine Scourge	0	0
-WATER	C	EN-159	Purling Footman	0	0
-WATER	U	EN-160	Rivulet Adjutant	0	0
-WATER	U	EN-161	Skewering Advance	0	0
-WATER	SR	EN-162	Snow White, Weiss Queen	0	0
-WATER	U	EN-163	Song of Frost	0	0
-WATER	R	EN-164	Spectral Diffusion	0	0
-WATER	SR	EN-165	Sunken Battle Priest	0	0
-WATER	C	EN-166	Throne-Keeper Bullfrog	0	0
-WATER	U	EN-167	Torrential Blast	0	0
-WATER	SR	EN-168	Weaving Manastream	0	0
-WIND	C	EN-169	Aether's Embrace	0	0
-WIND	C	EN-170	Armed Squallguard	0	0
-WIND	C	EN-171	Blackmarket Broker	0	0
-WIND	U	EN-172	Briar, Schwartz King	0	0
-WIND	C	EN-173	Charging Galeshot	0	0
-WIND	R	EN-174	Chrysalis, Hazy Caterpillar	0	0
-WIND	R	EN-175	Effluve Guard	0	0
-WIND	SR	EN-176	Expeditious Opening	0	0
-WIND	C	EN-177	Favorable Omens	0	0
-WIND	U	EN-178	Galed Erasure	0	0
-WIND	U	EN-179	Ghost Hunter	0	0
-WIND	U	EN-180	Longtail Grovesward	0	0
-EXALTED, WIND	SR	EN-181	Noble Dissolution	0	0
-WIND	C	EN-182	Nocturnal Blossom	0	0
-WIND	U	EN-183	Ouragan Sentinel	0	0
-WIND	U	EN-184	Poisonous Breezecap	0	0
-WIND	C	EN-185	Purging Tempest	0	0
-WIND	C	EN-186	Quadrille's Gryphon	0	0
-WIND	U	EN-187	Rafale's Slash	0	0
-WIND	U	EN-188	Skilled Aerotheurge	0	0
-WIND	C	EN-189	Summon Gale	0	0
-WIND	R	EN-190	Teasing Aerocharge	0	0
-WIND	C	EN-191	Vacuous Servant	0	0
-WIND	R	EN-192	Veteran Aerotheurge	0	0
-WIND	SR	EN-193	Viridescent Aetherstreak	0	0
-WIND	C	EN-194	Windrider Vanguard	0	0
-ASTRA	R	EN-195	Aethercloak Sentinel	0	0
-ASTRA	U	EN-196	Astra Sight	0	0
-ASTRA	C	EN-197	Astral Shard	0	0
-ASTRA	R	EN-198	Cataleptic Constellation	0	0
-ASTRA	SR	EN-199	Chamber of Reflections	0	0
-ASTRA	SR	EN-201	Cometary Vantage	0	0
-ASTRA	R	EN-202	Cosmic Alignment	0	0
-ASTRA	SR	EN-203	Humpty Dumpty, Fate's Fall	0	0
-ASTRA	R	EN-204	Stellaria Shower	0	0
-ASTRA	SR	EN-205	Stellarion Shift	0	0
-ASTRA	R	EN-206	Vanishing Eclipse	0	0
-CRUX	R	EN-207	Crossroads Specter	0	0
-CRUX	R	EN-208	Duplicitous Replication	0	0
-UMBRA	R	EN-209	Baleful Oblation	0	0
-UMBRA	SR	EN-210	Beguiling Coup	0	0
-UMBRA	U	EN-211	Exsanguinating Wallop	0	0
-UMBRA	R	EN-212	Extorting Blackjack	0	0
-UMBRA	R	EN-213	Grim Pastiche	0	0
-UMBRA	R	EN-214	Malevolent Vow	0	0
-UMBRA	SR	EN-215	Mary Ann, Maladroit Maid	0	0
-UMBRA	R	EN-216	Nightmare Coil	0	0
-UMBRA	R	EN-217	Profane Bindings	0	0
-UMBRA	U	EN-218	Reckoning's Wake	0	0
-UMBRA	R	EN-219	Shackled Theurgist	0	0
-UMBRA	SR	EN-221	Spirelle, Schwartz Queen	0	0
-UMBRA	U	EN-222	Umbra Sight	0	0
+FIRE	C	EN-001	Spirit of Fire	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/spirit-of-fire-dtr", "View on Index")
+WATER	C	EN-002	Spirit of Water	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/spirit-of-water-dtr", "View on Index")
+WIND	C	EN-003	Spirit of Wind	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/spirit-of-wind-dtr", "View on Index")
+NORM	SR	EN-004	Alice, Golden Queen	0	0	=HYPERLINK("https://index.gatcg.com/edition/alice-golden-queen-dtr", "View on Index")
+NORM	C	EN-005	Ciel, Loyal Valet	0	0	=HYPERLINK("https://index.gatcg.com/edition/ciel-loyal-valet-dtr", "View on Index")
+NORM	C	EN-006	Ciel, Omenbringer	0	0	=HYPERLINK("https://index.gatcg.com/edition/ciel-omenbringer-dtr", "View on Index")
+UMBRA	C	EN-007	Ciel, Mirage's Grave	0	0	=HYPERLINK("https://index.gatcg.com/edition/ciel-mirages-grave-dtr", "View on Index")
+NORM	C	EN-008	Diana, Aether Dilettante	0	0	=HYPERLINK("https://index.gatcg.com/edition/diana-aether-dilettante-dtr", "View on Index")
+NORM	C	EN-009	Diana, Judgment's Arrow	0	0	=HYPERLINK("https://index.gatcg.com/edition/diana-judgments-arrow-dtr", "View on Index")
+ASTRA	C	EN-010	Diana, Moonpiercer	0	0	=HYPERLINK("https://index.gatcg.com/edition/diana-moonpiercer-dtr", "View on Index")
+NORM	C	EN-011	Beastbond Paws	0	0	=HYPERLINK("https://index.gatcg.com/edition/beastbond-paws-dtr", "View on Index")
+NORM	R	EN-012	Candlelight Hourglass	0	0	=HYPERLINK("https://index.gatcg.com/edition/candlelight-hourglass-dtr", "View on Index")
+NORM	R	EN-013	Condemned Trinket	0	0	=HYPERLINK("https://index.gatcg.com/edition/condemned-trinket-dtr", "View on Index")
+NORM	R	EN-014	Memento Pocketwatch	0	0	=HYPERLINK("https://index.gatcg.com/edition/memento-pocketwatch-dtr", "View on Index")
+NORM	C	EN-015	Necklace of Foresight	0	0	=HYPERLINK("https://index.gatcg.com/edition/necklace-of-foresight-dtr", "View on Index")
+NORM	R	EN-016	Nefarious Timepiece	0	0	=HYPERLINK("https://index.gatcg.com/edition/nefarious-timepiece-dtr", "View on Index")
+NORM	U	EN-017	Poisoned Dagger	0	0	=HYPERLINK("https://index.gatcg.com/edition/poisoned-dagger-dtr", "View on Index")
+NORM	R	EN-018	Poisonous Apple	0	0	=HYPERLINK("https://index.gatcg.com/edition/poisonous-apple-dtr", "View on Index")
+NORM	R	EN-019	Spellward Scepter	0	0	=HYPERLINK("https://index.gatcg.com/edition/spellward-scepter-dtr", "View on Index")
+NORM	R	EN-020	Suspicious Concoction	0	0	=HYPERLINK("https://index.gatcg.com/edition/suspicious-concoction-dtr", "View on Index")
+NORM	U	EN-021	Sword of Seeking	0	0	=HYPERLINK("https://index.gatcg.com/edition/sword-of-seeking-dtr", "View on Index")
+NORM	U	EN-023	Tome of Knowledge	0	0	=HYPERLINK("https://index.gatcg.com/edition/tome-of-knowledge-dtr", "View on Index")
+NORM	R	EN-024	Trivariate Dream	0	0	=HYPERLINK("https://index.gatcg.com/edition/trivariate-dream-dtr", "View on Index")
+FIRE	R	EN-025	Lacuna's Grasp	0	0	=HYPERLINK("https://index.gatcg.com/edition/lacunas-grasp-dtr", "View on Index")
+FIRE	SR	EN-026	Salamander's Breath	0	0	=HYPERLINK("https://index.gatcg.com/edition/salamanders-breath-dtr", "View on Index")
+WATER	R	EN-027	Confidant's Oath	0	0	=HYPERLINK("https://index.gatcg.com/edition/confidants-oath-dtr", "View on Index")
+WATER	SR	EN-028	Mana's Cascade	0	0	=HYPERLINK("https://index.gatcg.com/edition/manas-cascade-dtr", "View on Index")
+WIND	SR	EN-029	Legion's Wingspan	0	0	=HYPERLINK("https://index.gatcg.com/edition/legions-wingspan-dtr", "View on Index")
+WIND	SR	EN-030	Servant's Obligation	0	0	=HYPERLINK("https://index.gatcg.com/edition/servants-obligation-dtr", "View on Index")
+ASTRA	U	EN-031	Consumption Ring	0	0	=HYPERLINK("https://index.gatcg.com/edition/consumption-ring-dtr", "View on Index")
+ASTRA	U	EN-032	Enfeebled Dagger	0	0	=HYPERLINK("https://index.gatcg.com/edition/enfeebled-dagger-dtr", "View on Index")
+ASTRA	U	EN-033	Inert Sword	0	0	=HYPERLINK("https://index.gatcg.com/edition/inert-sword-dtr", "View on Index")
+ASTRA	U	EN-034	Necklace of Hindsight	0	0	=HYPERLINK("https://index.gatcg.com/edition/necklace-of-hindsight-dtr", "View on Index")
+ASTRA	U	EN-036	Ranger Strides	0	0	=HYPERLINK("https://index.gatcg.com/edition/ranger-strides-dtr", "View on Index")
+ASTRA	U	EN-037	Sword of Shadows	0	0	=HYPERLINK("https://index.gatcg.com/edition/sword-of-shadows-dtr", "View on Index")
+CRUX	SR	EN-038	Votive Runeblade	0	0	=HYPERLINK("https://index.gatcg.com/edition/votive-runeblade-dtr", "View on Index")
+UMBRA	U	EN-039	Bauble of Scarcity	0	0	=HYPERLINK("https://index.gatcg.com/edition/bauble-of-scarcity-dtr", "View on Index")
+UMBRA	U	EN-040	Beastbond Claws	0	0	=HYPERLINK("https://index.gatcg.com/edition/beastbond-claws-dtr", "View on Index")
+UMBRA	U	EN-041	Death Essence Amulet	0	0	=HYPERLINK("https://index.gatcg.com/edition/death-essence-amulet-dtr", "View on Index")
+UMBRA	U	EN-043	Tome of Ignorance	0	0	=HYPERLINK("https://index.gatcg.com/edition/tome-of-ignorance-dtr", "View on Index")
+NORM	U	EN-044	Aetheric Reforging	0	0	=HYPERLINK("https://index.gatcg.com/edition/aetheric-reforging-dtr", "View on Index")
+NORM	R	EN-045	Alacritous Huntress	0	0	=HYPERLINK("https://index.gatcg.com/edition/alacritous-huntress-dtr", "View on Index")
+NORM	C	EN-046	Backdash	0	0	=HYPERLINK("https://index.gatcg.com/edition/backdash-dtr", "View on Index")
+NORM	R	EN-047	Blighted Jewel	0	0	=HYPERLINK("https://index.gatcg.com/edition/blighted-jewel-dtr", "View on Index")
+NORM	R	EN-048	Chateau de Coeurs	0	0	=HYPERLINK("https://index.gatcg.com/edition/chateau-de-coeurs-dtr", "View on Index")
+NORM	C	EN-050	Deadly Opportunist	0	0	=HYPERLINK("https://index.gatcg.com/edition/deadly-opportunist-dtr", "View on Index")
+NORM	R	EN-051	Devious Welcome	0	0	=HYPERLINK("https://index.gatcg.com/edition/devious-welcome-dtr", "View on Index")
+NORM	C	EN-052	Devoted Martyr	0	0	=HYPERLINK("https://index.gatcg.com/edition/devoted-martyr-dtr", "View on Index")
+NORM	C	EN-053	Dreamy Unicorn	0	0	=HYPERLINK("https://index.gatcg.com/edition/dreamy-unicorn-dtr", "View on Index")
+NORM	R	EN-054	Dyadic Fletcher	0	0	=HYPERLINK("https://index.gatcg.com/edition/dyadic-fletcher-dtr", "View on Index")
+NORM	C	EN-055	Enchanted Fete	0	0	=HYPERLINK("https://index.gatcg.com/edition/enchanted-fete-dtr", "View on Index")
+NORM	C	EN-056	Evasive Positioning	0	0	=HYPERLINK("https://index.gatcg.com/edition/evasive-positioning-dtr", "View on Index")
+NORM	R	EN-058	Exorcism	0	0	=HYPERLINK("https://index.gatcg.com/edition/exorcism-dtr", "View on Index")
+NORM	U	EN-059	Exploit Vulnerability	0	0	=HYPERLINK("https://index.gatcg.com/edition/exploit-vulnerability-dtr", "View on Index")
+NORM	C	EN-060	Expose Darkness	0	0	=HYPERLINK("https://index.gatcg.com/edition/expose-darkness-dtr", "View on Index")
+NORM	C	EN-061	Fight for the Crown	0	0	=HYPERLINK("https://index.gatcg.com/edition/fight-for-the-crown-dtr", "View on Index")
+NORM	C	EN-062	Five of Spades	0	0	=HYPERLINK("https://index.gatcg.com/edition/five-of-spades-dtr", "View on Index")
+NORM	U	EN-063	Fleeting Guard	0	0	=HYPERLINK("https://index.gatcg.com/edition/fleeting-guard-dtr", "View on Index")
+NORM	R	EN-064	Fluffy Shopkeep	0	0	=HYPERLINK("https://index.gatcg.com/edition/fluffy-shopkeep-dtr", "View on Index")
+NORM	C	EN-065	Fortifying Manashot	0	0	=HYPERLINK("https://index.gatcg.com/edition/fortifying-manashot-dtr", "View on Index")
+NORM	C	EN-066	Four of Spades	0	0	=HYPERLINK("https://index.gatcg.com/edition/four-of-spades-dtr", "View on Index")
+NORM	U	EN-067	Ghastly Corrosion	0	0	=HYPERLINK("https://index.gatcg.com/edition/ghastly-corrosion-dtr", "View on Index")
+NORM	C	EN-068	Horned Knight	0	0	=HYPERLINK("https://index.gatcg.com/edition/horned-knight-dtr", "View on Index")
+NORM	C	EN-069	Juggle Knives	0	0	=HYPERLINK("https://index.gatcg.com/edition/juggle-knives-dtr", "View on Index")
+NORM	SR	EN-070	Lawsur, the Carpenter	0	0	=HYPERLINK("https://index.gatcg.com/edition/lawsur-the-carpenter-dtr", "View on Index")
+NORM	SR	EN-071	Liminal Guide	0	0	=HYPERLINK("https://index.gatcg.com/edition/liminal-guide-dtr", "View on Index")
+NORM	R	EN-072	Lingering Banshee	0	0	=HYPERLINK("https://index.gatcg.com/edition/lingering-banshee-dtr", "View on Index")
+NORM	R	EN-073	Lucenia's Reign	0	0	=HYPERLINK("https://index.gatcg.com/edition/lucenias-reign-dtr", "View on Index")
+NORM	C	EN-074	Lurid Dreaming	0	0	=HYPERLINK("https://index.gatcg.com/edition/lurid-dreaming-dtr", "View on Index")
+NORM	R	EN-075	Mad Hatter, Morose Heritor	0	0	=HYPERLINK("https://index.gatcg.com/edition/mad-hatter-morose-heritor-dtr", "View on Index")
+NORM	R	EN-076	Mad Tea Party	0	0	=HYPERLINK("https://index.gatcg.com/edition/mad-tea-party-dtr", "View on Index")
+NORM	R	EN-077	Manabolt Convergence	0	0	=HYPERLINK("https://index.gatcg.com/edition/manabolt-convergence-dtr", "View on Index")
+NORM	SR	EN-078	Noire, Ace of Spades	0	0	=HYPERLINK("https://index.gatcg.com/edition/noire-ace-of-spades-dtr", "View on Index")
+NORM	C	EN-079	Pride's Smith	0	0	=HYPERLINK("https://index.gatcg.com/edition/prides-smith-dtr", "View on Index")
+NORM	C	EN-080	Pride's Vanguard	0	0	=HYPERLINK("https://index.gatcg.com/edition/prides-vanguard-dtr", "View on Index")
+NORM	U	EN-081	Raised Slash	0	0	=HYPERLINK("https://index.gatcg.com/edition/raised-slash-dtr", "View on Index")
+NORM	C	EN-082	Recurring Invocation	0	0	=HYPERLINK("https://index.gatcg.com/edition/recurring-invocation-dtr", "View on Index")
+EXALTED, NORM	SR	EN-083	Regal Inquisition	0	0	=HYPERLINK("https://index.gatcg.com/edition/regal-inquisition-dtr", "View on Index")
+NORM	U	EN-084	Renascent Sharpshooter	0	0	=HYPERLINK("https://index.gatcg.com/edition/renascent-sharpshooter-dtr", "View on Index")
+NORM	U	EN-085	Resolute Stand	0	0	=HYPERLINK("https://index.gatcg.com/edition/resolute-stand-dtr", "View on Index")
+NORM	C	EN-086	Resonant Aether	0	0	=HYPERLINK("https://index.gatcg.com/edition/resonant-aether-dtr", "View on Index")
+NORM	U	EN-087	Rictus Tiding	0	0	=HYPERLINK("https://index.gatcg.com/edition/rictus-tiding-dtr", "View on Index")
+EXALTED, NORM	C	EN-088	Royal Ordinance	0	0	=HYPERLINK("https://index.gatcg.com/edition/royal-ordinance-dtr", "View on Index")
+NORM	U	EN-089	Safeguard Paragon	0	0	=HYPERLINK("https://index.gatcg.com/edition/safeguard-paragon-dtr", "View on Index")
+NORM	C	EN-090	Scavenging Raccoon	0	0	=HYPERLINK("https://index.gatcg.com/edition/scavenging-raccoon-dtr", "View on Index")
+NORM	C	EN-091	Seasoned Archer	0	0	=HYPERLINK("https://index.gatcg.com/edition/seasoned-archer-dtr", "View on Index")
+NORM	U	EN-092	Sleight of Hand	0	0	=HYPERLINK("https://index.gatcg.com/edition/sleight-of-hand-dtr", "View on Index")
+EXALTED, NORM	R	EN-093	Sovereign Sanctuary	0	0	=HYPERLINK("https://index.gatcg.com/edition/sovereign-sanctuary-dtr", "View on Index")
+NORM	C	EN-094	Sudden Steel	0	0	=HYPERLINK("https://index.gatcg.com/edition/sudden-steel-dtr", "View on Index")
+NORM	U	EN-095	Suited Trickery	0	0	=HYPERLINK("https://index.gatcg.com/edition/suited-trickery-dtr", "View on Index")
+NORM	C	EN-096	Take Aim	0	0	=HYPERLINK("https://index.gatcg.com/edition/take-aim-dtr", "View on Index")
+NORM	C	EN-097	Take Point	0	0	=HYPERLINK("https://index.gatcg.com/edition/take-point-dtr", "View on Index")
+NORM	U	EN-098	Three of Spades	0	0	=HYPERLINK("https://index.gatcg.com/edition/three-of-spades-dtr", "View on Index")
+NORM	C	EN-099	Trained Sharpshooter	0	0	=HYPERLINK("https://index.gatcg.com/edition/trained-sharpshooter-dtr", "View on Index")
+NORM	U	EN-100	Trump Set	0	0	=HYPERLINK("https://index.gatcg.com/edition/trump-set-dtr", "View on Index")
+NORM	C	EN-101	Two of Spades	0	0	=HYPERLINK("https://index.gatcg.com/edition/two-of-spades-dtr", "View on Index")
+NORM	C	EN-102	Undying Dreams	0	0	=HYPERLINK("https://index.gatcg.com/edition/undying-dreams-dtr", "View on Index")
+NORM	C	EN-103	Unwelcome Fortune	0	0	=HYPERLINK("https://index.gatcg.com/edition/unwelcome-fortune-dtr", "View on Index")
+NORM	C	EN-104	Unyielding Wraithguard	0	0	=HYPERLINK("https://index.gatcg.com/edition/unyielding-wraithguard-dtr", "View on Index")
+NORM	C	EN-105	Veiled Oracle	0	0	=HYPERLINK("https://index.gatcg.com/edition/veiled-oracle-dtr", "View on Index")
+NORM	U	EN-106	Wonderland's Reign	0	0	=HYPERLINK("https://index.gatcg.com/edition/wonderlands-reign-dtr", "View on Index")
+FIRE	R	EN-107	Ashen Riffle	0	0	=HYPERLINK("https://index.gatcg.com/edition/ashen-riffle-dtr", "View on Index")
+FIRE	C	EN-108	Ashwound Shot	0	0	=HYPERLINK("https://index.gatcg.com/edition/ashwound-shot-dtr", "View on Index")
+FIRE	R	EN-109	Blazing Cindercharge	0	0	=HYPERLINK("https://index.gatcg.com/edition/blazing-cindercharge-dtr", "View on Index")
+FIRE	C	EN-110	Blazing Throw	0	0	=HYPERLINK("https://index.gatcg.com/edition/blazing-throw-dtr", "View on Index")
+FIRE	R	EN-111	Butler's Augury	0	0	=HYPERLINK("https://index.gatcg.com/edition/butlers-augury-dtr", "View on Index")
+FIRE	C	EN-112	Conflagrative Trounce	0	0	=HYPERLINK("https://index.gatcg.com/edition/conflagrative-trounce-dtr", "View on Index")
+FIRE	SR	EN-113	Duchess, Six of Hearts	0	0	=HYPERLINK("https://index.gatcg.com/edition/duchess-six-of-hearts-dtr", "View on Index")
+FIRE	C	EN-114	Embercrypt Burn	0	0	=HYPERLINK("https://index.gatcg.com/edition/embercrypt-burn-dtr", "View on Index")
+FIRE	U	EN-115	Fiery Interference	0	0	=HYPERLINK("https://index.gatcg.com/edition/fiery-interference-dtr", "View on Index")
+FIRE	C	EN-116	Five of Hearts	0	0	=HYPERLINK("https://index.gatcg.com/edition/five-of-hearts-dtr", "View on Index")
+FIRE	C	EN-117	Flamebound Draug	0	0	=HYPERLINK("https://index.gatcg.com/edition/flamebound-draug-dtr", "View on Index")
+FIRE	C	EN-118	Flamebreak Chorus	0	0	=HYPERLINK("https://index.gatcg.com/edition/flamebreak-chorus-dtr", "View on Index")
+FIRE	C	EN-119	Flickering Cinder	0	0	=HYPERLINK("https://index.gatcg.com/edition/flickering-cinder-dtr", "View on Index")
+FIRE	R	EN-120	Four of Hearts	0	0	=HYPERLINK("https://index.gatcg.com/edition/four-of-hearts-dtr", "View on Index")
+FIRE	U	EN-121	Fumant Shieldmaiden	0	0	=HYPERLINK("https://index.gatcg.com/edition/fumant-shieldmaiden-dtr", "View on Index")
+FIRE	C	EN-122	Furnace Lavabolt	0	0	=HYPERLINK("https://index.gatcg.com/edition/furnace-lavabolt-dtr", "View on Index")
+FIRE	R	EN-124	Incinerated Templar	0	0	=HYPERLINK("https://index.gatcg.com/edition/incinerated-templar-dtr", "View on Index")
+FIRE	C	EN-125	Infernal Manastreak	0	0	=HYPERLINK("https://index.gatcg.com/edition/infernal-manastreak-dtr", "View on Index")
+FIRE	U	EN-126	Intensified Pyre	0	0	=HYPERLINK("https://index.gatcg.com/edition/intensified-pyre-dtr", "View on Index")
+FIRE	R	EN-127	Manaflare Barrage	0	0	=HYPERLINK("https://index.gatcg.com/edition/manaflare-barrage-dtr", "View on Index")
+FIRE	SR	EN-128	March Hare, Mottled Host	0	0	=HYPERLINK("https://index.gatcg.com/edition/march-hare-mottled-host-dtr", "View on Index")
+FIRE	C	EN-129	Peppered Chef	0	0	=HYPERLINK("https://index.gatcg.com/edition/peppered-chef-dtr", "View on Index")
+FIRE	U	EN-130	Piercing Aetherfuel	0	0	=HYPERLINK("https://index.gatcg.com/edition/piercing-aetherfuel-dtr", "View on Index")
+FIRE	U	EN-131	Rapid Combustion	0	0	=HYPERLINK("https://index.gatcg.com/edition/rapid-combustion-dtr", "View on Index")
+FIRE	R	EN-132	Rile the Abyss	0	0	=HYPERLINK("https://index.gatcg.com/edition/rile-the-abyss-dtr", "View on Index")
+FIRE	SR	EN-133	Rouge, Ace of Hearts	0	0	=HYPERLINK("https://index.gatcg.com/edition/rouge-ace-of-hearts-dtr", "View on Index")
+EXALTED, FIRE	SR	EN-134	Scorched Conquest	0	0	=HYPERLINK("https://index.gatcg.com/edition/scorched-conquest-dtr", "View on Index")
+FIRE	C	EN-135	Spark Alight	0	0	=HYPERLINK("https://index.gatcg.com/edition/spark-alight-dtr", "View on Index")
+FIRE	U	EN-136	Straight Flare	0	0	=HYPERLINK("https://index.gatcg.com/edition/straight-flare-dtr", "View on Index")
+FIRE	C	EN-137	Tempered Steel	0	0	=HYPERLINK("https://index.gatcg.com/edition/tempered-steel-dtr", "View on Index")
+FIRE	R	EN-138	Three of Hearts	0	0	=HYPERLINK("https://index.gatcg.com/edition/three-of-hearts-dtr", "View on Index")
+FIRE	U	EN-139	Two of Hearts	0	0	=HYPERLINK("https://index.gatcg.com/edition/two-of-hearts-dtr", "View on Index")
+FIRE	U	EN-140	Vengeful Paramour	0	0	=HYPERLINK("https://index.gatcg.com/edition/vengeful-paramour-dtr", "View on Index")
+FIRE	SR	EN-141	Verita, Queen of Hearts	0	0	=HYPERLINK("https://index.gatcg.com/edition/verita-queen-of-hearts-dtr", "View on Index")
+WATER	R	EN-142	Aquifer Seneschal	0	0	=HYPERLINK("https://index.gatcg.com/edition/aquifer-seneschal-dtr", "View on Index")
+WATER	U	EN-143	Brusque Neige	0	0	=HYPERLINK("https://index.gatcg.com/edition/brusque-neige-dtr", "View on Index")
+WATER	U	EN-144	Castling Boon	0	0	=HYPERLINK("https://index.gatcg.com/edition/castling-boon-dtr", "View on Index")
+WATER	U	EN-145	Chained Charge	0	0	=HYPERLINK("https://index.gatcg.com/edition/chained-charge-dtr", "View on Index")
+WATER	C	EN-146	Dredging Streams	0	0	=HYPERLINK("https://index.gatcg.com/edition/dredging-streams-dtr", "View on Index")
+WATER	C	EN-147	Evercurrent Raider	0	0	=HYPERLINK("https://index.gatcg.com/edition/evercurrent-raider-dtr", "View on Index")
+WATER	C	EN-148	Flowing Oubli	0	0	=HYPERLINK("https://index.gatcg.com/edition/flowing-oubli-dtr", "View on Index")
+WATER	U	EN-149	Froglet Footman	0	0	=HYPERLINK("https://index.gatcg.com/edition/froglet-footman-dtr", "View on Index")
+WATER	U	EN-150	Frostbind	0	0	=HYPERLINK("https://index.gatcg.com/edition/frostbind-dtr", "View on Index")
+WATER	U	EN-151	Hypothermia	0	0	=HYPERLINK("https://index.gatcg.com/edition/hypothermia-dtr", "View on Index")
+EXALTED, WATER	SR	EN-152	Imperial Accord	0	0	=HYPERLINK("https://index.gatcg.com/edition/imperial-accord-dtr", "View on Index")
+WATER	U	EN-153	Languid Toadtroll	0	0	=HYPERLINK("https://index.gatcg.com/edition/languid-toadtroll-dtr", "View on Index")
+WATER	SR	EN-154	Lily, Marine Castellan	0	0	=HYPERLINK("https://index.gatcg.com/edition/lily-marine-castellan-dtr", "View on Index")
+WATER	U	EN-155	Lure the Abyss	0	0	=HYPERLINK("https://index.gatcg.com/edition/lure-the-abyss-dtr", "View on Index")
+WATER	C	EN-156	Mire Reparation	0	0	=HYPERLINK("https://index.gatcg.com/edition/mire-reparation-dtr", "View on Index")
+WATER	R	EN-157	Obsequious Blow	0	0	=HYPERLINK("https://index.gatcg.com/edition/obsequious-blow-dtr", "View on Index")
+WATER	R	EN-158	Pristine Scourge	0	0	=HYPERLINK("https://index.gatcg.com/edition/pristine-scourge-dtr", "View on Index")
+WATER	C	EN-159	Purling Footman	0	0	=HYPERLINK("https://index.gatcg.com/edition/purling-footman-dtr", "View on Index")
+WATER	U	EN-160	Rivulet Adjutant	0	0	=HYPERLINK("https://index.gatcg.com/edition/rivulet-adjutant-dtr", "View on Index")
+WATER	U	EN-161	Skewering Advance	0	0	=HYPERLINK("https://index.gatcg.com/edition/skewering-advance-dtr", "View on Index")
+WATER	SR	EN-162	Snow White, Weiss Queen	0	0	=HYPERLINK("https://index.gatcg.com/edition/snow-white-weiss-queen-dtr", "View on Index")
+WATER	U	EN-163	Song of Frost	0	0	=HYPERLINK("https://index.gatcg.com/edition/song-of-frost-dtr", "View on Index")
+WATER	R	EN-164	Spectral Diffusion	0	0	=HYPERLINK("https://index.gatcg.com/edition/spectral-diffusion-dtr", "View on Index")
+WATER	SR	EN-165	Sunken Battle Priest	0	0	=HYPERLINK("https://index.gatcg.com/edition/sunken-battle-priest-dtr", "View on Index")
+WATER	C	EN-166	Throne-Keeper Bullfrog	0	0	=HYPERLINK("https://index.gatcg.com/edition/thronekeeper-bullfrog-dtr", "View on Index")
+WATER	U	EN-167	Torrential Blast	0	0	=HYPERLINK("https://index.gatcg.com/edition/torrential-blast-dtr", "View on Index")
+WATER	SR	EN-168	Weaving Manastream	0	0	=HYPERLINK("https://index.gatcg.com/edition/weaving-manastream-dtr", "View on Index")
+WIND	C	EN-169	Aether's Embrace	0	0	=HYPERLINK("https://index.gatcg.com/edition/aethers-embrace-dtr", "View on Index")
+WIND	C	EN-170	Armed Squallguard	0	0	=HYPERLINK("https://index.gatcg.com/edition/armed-squallguard-dtr", "View on Index")
+WIND	C	EN-171	Blackmarket Broker	0	0	=HYPERLINK("https://index.gatcg.com/edition/blackmarket-broker-dtr", "View on Index")
+WIND	U	EN-172	Briar, Schwartz King	0	0	=HYPERLINK("https://index.gatcg.com/edition/briar-schwartz-king-dtr", "View on Index")
+WIND	C	EN-173	Charging Galeshot	0	0	=HYPERLINK("https://index.gatcg.com/edition/charging-galeshot-dtr", "View on Index")
+WIND	R	EN-174	Chrysalis, Hazy Caterpillar	0	0	=HYPERLINK("https://index.gatcg.com/edition/chrysalis-hazy-caterpillar-dtr", "View on Index")
+WIND	R	EN-175	Effluve Guard	0	0	=HYPERLINK("https://index.gatcg.com/edition/effluve-guard-dtr", "View on Index")
+WIND	SR	EN-176	Expeditious Opening	0	0	=HYPERLINK("https://index.gatcg.com/edition/expeditious-opening-dtr", "View on Index")
+WIND	C	EN-177	Favorable Omens	0	0	=HYPERLINK("https://index.gatcg.com/edition/favorable-omens-dtr", "View on Index")
+WIND	U	EN-178	Galed Erasure	0	0	=HYPERLINK("https://index.gatcg.com/edition/galed-erasure-dtr", "View on Index")
+WIND	U	EN-179	Ghost Hunter	0	0	=HYPERLINK("https://index.gatcg.com/edition/ghost-hunter-dtr", "View on Index")
+WIND	U	EN-180	Longtail Grovesward	0	0	=HYPERLINK("https://index.gatcg.com/edition/longtail-grovesward-dtr", "View on Index")
+EXALTED, WIND	SR	EN-181	Noble Dissolution	0	0	=HYPERLINK("https://index.gatcg.com/edition/noble-dissolution-dtr", "View on Index")
+WIND	C	EN-182	Nocturnal Blossom	0	0	=HYPERLINK("https://index.gatcg.com/edition/nocturnal-blossom-dtr", "View on Index")
+WIND	U	EN-183	Ouragan Sentinel	0	0	=HYPERLINK("https://index.gatcg.com/edition/ouragan-sentinel-dtr", "View on Index")
+WIND	U	EN-184	Poisonous Breezecap	0	0	=HYPERLINK("https://index.gatcg.com/edition/poisonous-breezecap-dtr", "View on Index")
+WIND	C	EN-185	Purging Tempest	0	0	=HYPERLINK("https://index.gatcg.com/edition/purging-tempest-dtr", "View on Index")
+WIND	C	EN-186	Quadrille's Gryphon	0	0	=HYPERLINK("https://index.gatcg.com/edition/quadrilles-gryphon-dtr", "View on Index")
+WIND	U	EN-187	Rafale's Slash	0	0	=HYPERLINK("https://index.gatcg.com/edition/rafales-slash-dtr", "View on Index")
+WIND	U	EN-188	Skilled Aerotheurge	0	0	=HYPERLINK("https://index.gatcg.com/edition/skilled-aerotheurge-dtr", "View on Index")
+WIND	C	EN-189	Summon Gale	0	0	=HYPERLINK("https://index.gatcg.com/edition/summon-gale-dtr", "View on Index")
+WIND	R	EN-190	Teasing Aerocharge	0	0	=HYPERLINK("https://index.gatcg.com/edition/teasing-aerocharge-dtr", "View on Index")
+WIND	C	EN-191	Vacuous Servant	0	0	=HYPERLINK("https://index.gatcg.com/edition/vacuous-servant-dtr", "View on Index")
+WIND	R	EN-192	Veteran Aerotheurge	0	0	=HYPERLINK("https://index.gatcg.com/edition/veteran-aerotheurge-dtr", "View on Index")
+WIND	SR	EN-193	Viridescent Aetherstreak	0	0	=HYPERLINK("https://index.gatcg.com/edition/viridescent-aetherstreak-dtr", "View on Index")
+WIND	C	EN-194	Windrider Vanguard	0	0	=HYPERLINK("https://index.gatcg.com/edition/windrider-vanguard-dtr", "View on Index")
+ASTRA	R	EN-195	Aethercloak Sentinel	0	0	=HYPERLINK("https://index.gatcg.com/edition/aethercloak-sentinel-dtr", "View on Index")
+ASTRA	U	EN-196	Astra Sight	0	0	=HYPERLINK("https://index.gatcg.com/edition/astra-sight-dtr", "View on Index")
+ASTRA	C	EN-197	Astral Shard	0	0	=HYPERLINK("https://index.gatcg.com/edition/astral-shard-dtr", "View on Index")
+ASTRA	R	EN-198	Cataleptic Constellation	0	0	=HYPERLINK("https://index.gatcg.com/edition/cataleptic-constellation-dtr", "View on Index")
+ASTRA	SR	EN-199	Chamber of Reflections	0	0	=HYPERLINK("https://index.gatcg.com/edition/chamber-of-reflections-dtr", "View on Index")
+ASTRA	SR	EN-201	Cometary Vantage	0	0	=HYPERLINK("https://index.gatcg.com/edition/cometary-vantage-dtr", "View on Index")
+ASTRA	R	EN-202	Cosmic Alignment	0	0	=HYPERLINK("https://index.gatcg.com/edition/cosmic-alignment-dtr", "View on Index")
+ASTRA	SR	EN-203	Humpty Dumpty, Fate's Fall	0	0	=HYPERLINK("https://index.gatcg.com/edition/humpty-dumpty-fates-fall-dtr", "View on Index")
+ASTRA	R	EN-204	Stellaria Shower	0	0	=HYPERLINK("https://index.gatcg.com/edition/stellaria-shower-dtr", "View on Index")
+ASTRA	SR	EN-205	Stellarion Shift	0	0	=HYPERLINK("https://index.gatcg.com/edition/stellarion-shift-dtr", "View on Index")
+ASTRA	R	EN-206	Vanishing Eclipse	0	0	=HYPERLINK("https://index.gatcg.com/edition/vanishing-eclipse-dtr", "View on Index")
+CRUX	R	EN-207	Crossroads Specter	0	0	=HYPERLINK("https://index.gatcg.com/edition/crossroads-specter-dtr", "View on Index")
+CRUX	R	EN-208	Duplicitous Replication	0	0	=HYPERLINK("https://index.gatcg.com/edition/duplicitous-replication-dtr", "View on Index")
+UMBRA	R	EN-209	Baleful Oblation	0	0	=HYPERLINK("https://index.gatcg.com/edition/baleful-oblation-dtr", "View on Index")
+UMBRA	SR	EN-210	Beguiling Coup	0	0	=HYPERLINK("https://index.gatcg.com/edition/beguiling-coup-dtr", "View on Index")
+UMBRA	U	EN-211	Exsanguinating Wallop	0	0	=HYPERLINK("https://index.gatcg.com/edition/exsanguinating-wallop-dtr", "View on Index")
+UMBRA	R	EN-212	Extorting Blackjack	0	0	=HYPERLINK("https://index.gatcg.com/edition/extorting-blackjack-dtr", "View on Index")
+UMBRA	R	EN-213	Grim Pastiche	0	0	=HYPERLINK("https://index.gatcg.com/edition/grim-pastiche-dtr", "View on Index")
+UMBRA	R	EN-214	Malevolent Vow	0	0	=HYPERLINK("https://index.gatcg.com/edition/malevolent-vow-dtr", "View on Index")
+UMBRA	SR	EN-215	Mary Ann, Maladroit Maid	0	0	=HYPERLINK("https://index.gatcg.com/edition/mary-ann-maladroit-maid-dtr", "View on Index")
+UMBRA	R	EN-216	Nightmare Coil	0	0	=HYPERLINK("https://index.gatcg.com/edition/nightmare-coil-dtr", "View on Index")
+UMBRA	R	EN-217	Profane Bindings	0	0	=HYPERLINK("https://index.gatcg.com/edition/profane-bindings-dtr", "View on Index")
+UMBRA	U	EN-218	Reckoning's Wake	0	0	=HYPERLINK("https://index.gatcg.com/edition/reckonings-wake-dtr", "View on Index")
+UMBRA	R	EN-219	Shackled Theurgist	0	0	=HYPERLINK("https://index.gatcg.com/edition/shackled-theurgist-dtr", "View on Index")
+UMBRA	SR	EN-221	Spirelle, Schwartz Queen	0	0	=HYPERLINK("https://index.gatcg.com/edition/spirelle-schwartz-queen-dtr", "View on Index")
+UMBRA	U	EN-222	Umbra Sight	0	0	=HYPERLINK("https://index.gatcg.com/edition/umbra-sight-dtr", "View on Index")

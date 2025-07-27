@@ -1,6 +1,6 @@
-WIND	PR	EN-001	Favorable Winds	0	0
-NORM	PR	EN-002	Empowering Harmony	0	0
-NORM	PR	EN-003	Strategic Planning	0	0
-FIRE	PR	EN-004	Spark Alight	0	0
-NORM	PR	EN-005	Idle Thoughts	0	0
-WATER	PR	EN-006	Enthralling Visage	N/A	N/A
+WIND	PR	EN-001	Favorable Winds	0	0	=HYPERLINK("https://index.gatcg.com/edition/favorable-winds-gsc", "View on Index")
+NORM	PR	EN-002	Empowering Harmony	0	0	=HYPERLINK("https://index.gatcg.com/edition/empowering-harmony-gsc", "View on Index")
+NORM	PR	EN-003	Strategic Planning	0	0	=HYPERLINK("https://index.gatcg.com/edition/strategic-planning-gsc", "View on Index")
+FIRE	PR	EN-004	Spark Alight	0	0	=HYPERLINK("https://index.gatcg.com/edition/spark-alight-gsc", "View on Index")
+NORM	PR	EN-005	Idle Thoughts	0	0	=HYPERLINK("https://index.gatcg.com/edition/idle-thoughts-gsc", "View on Index")
+WATER	PR	EN-006	Enthralling Visage	N/A	N/A	=HYPERLINK("https://index.gatcg.com/edition/enthralling-visage-gsc", "View on Index")

@@ -1,43 +1,43 @@
-NORM	C	EN-001	Nameless Champion	0	N/A
-NORM	C	EN-001	Nameless Champion	0	N/A
-NORM	C	EN-001	Nameless Champion	0	N/A
-NORM	C	EN-001	Nameless Champion	0	N/A
-NORM	C	EN-001	Nameless Champion	0	N/A
-NORM	C	EN-001	Nameless Champion	0	N/A
-NORM	C	EN-001	Nameless Champion	0	N/A
-NORM	C	EN-001	Nameless Champion	0	N/A
-NORM	C	EN-001	Nameless Champion	0	N/A
-NORM	C	EN-001	Nameless Champion	0	N/A
-NORM	C	EN-001	Nameless Champion	0	N/A
-NORM	C	EN-001	Nameless Champion	0	N/A
-NORM	C	EN-001	Nameless Champion	0	N/A
-NORM	C	EN-001	Nameless Champion	0	N/A
-NORM	C	EN-001	Nameless Champion	0	N/A
-NORM	C	EN-002	Amorphous Missile	0	N/A
-NORM	C	EN-003	Bellona's Runestone	0	N/A
-NORM	C	EN-004	Clandestine Chart	0	N/A
-NORM	C	EN-005	Cowl of the Wild	0	N/A
-NORM	C	EN-006	Duxal Proclamation	0	N/A
-NORM	C	EN-007	Etherealys' Promise	0	N/A
-NORM	C	EN-008	Fauna Friend	0	N/A
-NORM	C	EN-009	Gem of Sorority	0	N/A
-NORM	C	EN-010	Gossamer Staff	0	N/A
-NORM	C	EN-011	Halcyon Prism	0	N/A
-NORM	C	EN-012	Intwined Bangle	0	N/A
-NORM	C	EN-013	Marksman's Charm	0	N/A
-NORM	C	EN-014	Naga's Fang	0	N/A
-NORM	C	EN-015	Ninja Tabi	0	N/A
-NORM	C	EN-016	Oathbreaker's Justice	0	N/A
-NORM	C	EN-017	Phantom Veil	0	N/A
-NORM	C	EN-018	Prismatic Codex	0	N/A
-NORM	C	EN-019	Prismatic Perseverance	0	N/A
-NORM	C	EN-020	Protector's Plate	0	N/A
-NORM	C	EN-021	Sage's Urn	0	N/A
-NORM	C	EN-022	Sanguine Goblet	0	N/A
-NORM	C	EN-023	Shield of Parvati	0	N/A
-NORM	C	EN-024	Sojourner's Hunt	0	N/A
-NORM	C	EN-025	Spectral Beacon	0	N/A
-NORM	C	EN-026	Training Sword	0	N/A
-NORM	C	EN-027	Veilara's Promise	0	N/A
-NORM	C	EN-028	Winged Talaria	0	N/A
-NORM	C	EN-029	Prismatic Spirit	0	N/A
+NORM	C	EN-001	Nameless Champion	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/nameless-champion-am-ambdp", "View on Index")
+NORM	C	EN-001	Nameless Champion	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/nameless-champion-ac-ambdp", "View on Index")
+NORM	C	EN-001	Nameless Champion	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/nameless-champion-tw-ambdp", "View on Index")
+NORM	C	EN-001	Nameless Champion	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/nameless-champion-mr-ambdp", "View on Index")
+NORM	C	EN-001	Nameless Champion	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/nameless-champion-gm-ambdp", "View on Index")
+NORM	C	EN-001	Nameless Champion	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/nameless-champion-cr-ambdp", "View on Index")
+NORM	C	EN-001	Nameless Champion	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/nameless-champion-cw-ambdp", "View on Index")
+NORM	C	EN-001	Nameless Champion	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/nameless-champion-gw-ambdp", "View on Index")
+NORM	C	EN-001	Nameless Champion	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/nameless-champion-ar-ambdp", "View on Index")
+NORM	C	EN-001	Nameless Champion	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/nameless-champion-cg-ambdp", "View on Index")
+NORM	C	EN-001	Nameless Champion	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/nameless-champion-rt-ambdp", "View on Index")
+NORM	C	EN-001	Nameless Champion	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/nameless-champion-gt-ambdp", "View on Index")
+NORM	C	EN-001	Nameless Champion	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/nameless-champion-at-ambdp", "View on Index")
+NORM	C	EN-001	Nameless Champion	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/nameless-champion-mw-ambdp", "View on Index")
+NORM	C	EN-001	Nameless Champion	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/nameless-champion-cm-ambdp", "View on Index")
+NORM	C	EN-002	Amorphous Missile	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/amorphous-missile-ambdp", "View on Index")
+NORM	C	EN-003	Bellona's Runestone	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/bellonas-runestone-ambdp", "View on Index")
+NORM	C	EN-004	Clandestine Chart	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/clandestine-chart-ambdp", "View on Index")
+NORM	C	EN-005	Cowl of the Wild	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/cowl-of-the-wild-ambdp", "View on Index")
+NORM	C	EN-006	Duxal Proclamation	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/duxal-proclamation-ambdp", "View on Index")
+NORM	C	EN-007	Etherealys' Promise	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/etherealys-promise-ambdp", "View on Index")
+NORM	C	EN-008	Fauna Friend	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/fauna-friend-ambdp", "View on Index")
+NORM	C	EN-009	Gem of Sorority	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/gem-of-sorority-ambdp", "View on Index")
+NORM	C	EN-010	Gossamer Staff	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/gossamer-staff-ambdp", "View on Index")
+NORM	C	EN-011	Halcyon Prism	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/halcyon-prism-ambdp", "View on Index")
+NORM	C	EN-012	Intwined Bangle	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/intwined-bangle-ambdp", "View on Index")
+NORM	C	EN-013	Marksman's Charm	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/marksmans-charm-ambdp", "View on Index")
+NORM	C	EN-014	Naga's Fang	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/nagas-fang-ambdp", "View on Index")
+NORM	C	EN-015	Ninja Tabi	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/ninja-tabi-ambdp", "View on Index")
+NORM	C	EN-016	Oathbreaker's Justice	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/oathbreakers-justice-ambdp", "View on Index")
+NORM	C	EN-017	Phantom Veil	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/phantom-veil-ambdp", "View on Index")
+NORM	C	EN-018	Prismatic Codex	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/prismatic-codex-ambdp", "View on Index")
+NORM	C	EN-019	Prismatic Perseverance	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/prismatic-perseverance-ambdp", "View on Index")
+NORM	C	EN-020	Protector's Plate	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/protectors-plate-ambdp", "View on Index")
+NORM	C	EN-021	Sage's Urn	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/sages-urn-ambdp", "View on Index")
+NORM	C	EN-022	Sanguine Goblet	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/sanguine-goblet-ambdp", "View on Index")
+NORM	C	EN-023	Shield of Parvati	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/shield-of-parvati-ambdp", "View on Index")
+NORM	C	EN-024	Sojourner's Hunt	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/sojourners-hunt-ambdp", "View on Index")
+NORM	C	EN-025	Spectral Beacon	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/spectral-beacon-ambdp", "View on Index")
+NORM	C	EN-026	Training Sword	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/training-sword-ambdp", "View on Index")
+NORM	C	EN-027	Veilara's Promise	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/veilaras-promise-ambdp", "View on Index")
+NORM	C	EN-028	Winged Talaria	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/winged-talaria-ambdp", "View on Index")
+NORM	C	EN-029	Prismatic Spirit	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/prismatic-spirit-ambdp", "View on Index")

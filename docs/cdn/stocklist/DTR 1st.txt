@@ -1,24 +1,24 @@
-NORM	CSR	EN-004	Alice, Golden Queen	N/A	0
-NORM	CUR	EN-004	Alice, Golden Queen	N/A	0
-NORM	CSR	EN-005	Ciel, Loyal Valet	N/A	0
-NORM	CSR	EN-006	Ciel, Omenbringer	N/A	0
-NORM	CSR	EN-008	Diana, Aether Dilettante	N/A	0
-NORM	CSR	EN-009	Diana, Judgment's Arrow	N/A	0
-NORM	UR	EN-022	The Looking Glass	0	0
-ASTRA	UR	EN-035	Radiant Vega	0	0
-UMBRA	UR	EN-042	Devouring Malice	0	0
-EXALTED, NORM	UR	EN-049	Cheshire Cat, Impish Grin	0	0
-NORM	UR	EN-057	Excalibur, Reflected Edge	0	0
-NORM	CSR	EN-070	Lawsur, the Carpenter	N/A	0
-NORM	CSR	EN-075	Mad Hatter, Morose Heritor	N/A	0
-NORM	CSR	EN-078	Noire, Ace of Spades	N/A	0
-FIRE	CSR	EN-113	Duchess, Six of Hearts	N/A	0
-FIRE	UR	EN-123	Ignis Deus	0	0
-FIRE	CSR	EN-133	Rouge, Ace of Hearts	N/A	0
-FIRE	CSR	EN-141	Verita, Queen of Hearts	N/A	0
-WATER	CSR	EN-162	Snow White, Weiss Queen	N/A	0
-WIND	CSR	EN-174	Chrysalis, Hazy Caterpillar	N/A	0
-ASTRA	UR	EN-200	Chronowarp	0	0
-ASTRA	CSR	EN-203	Humpty Dumpty, Fate's Fall	N/A	0
-UMBRA	UR	EN-220	Soutirer Vortex	0	0
-UMBRA	CSR	EN-221	Spirelle, Schwartz Queen	N/A	0
+NORM	CSR	EN-004	Alice, Golden Queen	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/alice-golden-queen-dtr1e-csr", "View on Index")
+NORM	CUR	EN-004	Alice, Golden Queen	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/alice-golden-queen-dtr1e-cur", "View on Index")
+NORM	CSR	EN-005	Ciel, Loyal Valet	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/ciel-loyal-valet-dtr1e-csr", "View on Index")
+NORM	CSR	EN-006	Ciel, Omenbringer	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/ciel-omenbringer-dtr1e-csr", "View on Index")
+NORM	CSR	EN-008	Diana, Aether Dilettante	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/diana-aether-dilettante-dtr1e-csr", "View on Index")
+NORM	CSR	EN-009	Diana, Judgment's Arrow	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/diana-judgments-arrow-dtr1e-csr", "View on Index")
+NORM	UR	EN-022	The Looking Glass	0	0	=HYPERLINK("https://index.gatcg.com/edition/the-looking-glass-dtr1e", "View on Index")
+ASTRA	UR	EN-035	Radiant Vega	0	0	=HYPERLINK("https://index.gatcg.com/edition/radiant-vega-dtr1e", "View on Index")
+UMBRA	UR	EN-042	Devouring Malice	0	0	=HYPERLINK("https://index.gatcg.com/edition/devouring-malice-dtr1e", "View on Index")
+EXALTED, NORM	UR	EN-049	Cheshire Cat, Impish Grin	0	0	=HYPERLINK("https://index.gatcg.com/edition/cheshire-cat-impish-grin-dtr1e", "View on Index")
+NORM	UR	EN-057	Excalibur, Reflected Edge	0	0	=HYPERLINK("https://index.gatcg.com/edition/excalibur-reflected-edge-dtr1e", "View on Index")
+NORM	CSR	EN-070	Lawsur, the Carpenter	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/lawsur-the-carpenter-dtr1e-csr", "View on Index")
+NORM	CSR	EN-075	Mad Hatter, Morose Heritor	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/mad-hatter-morose-heritor-dtr1e-csr", "View on Index")
+NORM	CSR	EN-078	Noire, Ace of Spades	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/noire-ace-of-spades-dtr1e-csr", "View on Index")
+FIRE	CSR	EN-113	Duchess, Six of Hearts	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/duchess-six-of-hearts-dtr1e-csr", "View on Index")
+FIRE	UR	EN-123	Ignis Deus	0	0	=HYPERLINK("https://index.gatcg.com/edition/ignis-deus-dtr1e", "View on Index")
+FIRE	CSR	EN-133	Rouge, Ace of Hearts	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/rouge-ace-of-hearts-dtr1e-csr", "View on Index")
+FIRE	CSR	EN-141	Verita, Queen of Hearts	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/verita-queen-of-hearts-dtr1e-csr", "View on Index")
+WATER	CSR	EN-162	Snow White, Weiss Queen	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/snow-white-weiss-queen-dtr1e-csr", "View on Index")
+WIND	CSR	EN-174	Chrysalis, Hazy Caterpillar	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/chrysalis-hazy-caterpillar-dtr1e-csr", "View on Index")
+ASTRA	UR	EN-200	Chronowarp	0	0	=HYPERLINK("https://index.gatcg.com/edition/chronowarp-dtr1e", "View on Index")
+ASTRA	CSR	EN-203	Humpty Dumpty, Fate's Fall	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/humpty-dumpty-fates-fall-dtr1e-csr", "View on Index")
+UMBRA	UR	EN-220	Soutirer Vortex	0	0	=HYPERLINK("https://index.gatcg.com/edition/soutirer-vortex-dtr1e", "View on Index")
+UMBRA	CSR	EN-221	Spirelle, Schwartz Queen	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/spirelle-schwartz-queen-dtr1e-csr", "View on Index")

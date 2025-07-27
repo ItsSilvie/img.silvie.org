@@ -1,19 +1,19 @@
-NORM	PR	CN-001	Allied Warpriestess	0	0
-NORM	PR	CN-002	Backstep	0	0
-FIRE	PR	CN-003	Cremation Ritual	0	0
-FIRE	CPR	CN-003	Cremation Ritual	N/A	0
-FIRE	PR	CN-004	Force Load	0	0
-NORM	PR	CN-005	Healing Aura	0	0
-WATER	PR	CN-006	Hypothermia	0	0
-WATER	CPR	CN-006	Hypothermia	N/A	0
-NORM	PR	CN-007	Imperial Recruit	0	0
-FIRE	PR	CN-008	Increasing Danger	0	0
-FIRE	CPR	CN-008	Increasing Danger	N/A	0
-NORM	PR	CN-009	Lurking Assailant	0	0
-NORM	PR	CN-010	Navigate the Streets	0	0
-NORM	PR	CN-011	Potion of Healing	0	0
-NORM	PR	CN-012	Resolute Stand	0	0
-NORM	CPR	CN-012	Resolute Stand	N/A	0
-NORM	PR	CN-013	Study the Fables	0	0
-FIRE	PR	CN-014	Varuckan Acolyte	0	0
-WIND	PR	CN-015	Windrider Vanguard	0	0
+NORM	PR	CN-001	Allied Warpriestess	0	0	=HYPERLINK("https://index.gatcg.com/edition/allied-warpriestess-slc", "View on Index")
+NORM	PR	CN-002	Backstep	0	0	=HYPERLINK("https://index.gatcg.com/edition/backstep-slc", "View on Index")
+FIRE	PR	CN-003	Cremation Ritual	0	0	=HYPERLINK("https://index.gatcg.com/edition/cremation-ritual-slc", "View on Index")
+FIRE	CPR	CN-003	Cremation Ritual	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/cremation-ritual-slc-cpr", "View on Index")
+FIRE	PR	CN-004	Force Load	0	0	=HYPERLINK("https://index.gatcg.com/edition/force-load-slc", "View on Index")
+NORM	PR	CN-005	Healing Aura	0	0	=HYPERLINK("https://index.gatcg.com/edition/healing-aura-slc", "View on Index")
+WATER	PR	CN-006	Hypothermia	0	0	=HYPERLINK("https://index.gatcg.com/edition/hypothermia-slc", "View on Index")
+WATER	CPR	CN-006	Hypothermia	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/hypothermia-slc-cpr", "View on Index")
+NORM	PR	CN-007	Imperial Recruit	0	0	=HYPERLINK("https://index.gatcg.com/edition/imperial-recruit-slc", "View on Index")
+FIRE	PR	CN-008	Increasing Danger	0	0	=HYPERLINK("https://index.gatcg.com/edition/increasing-danger-slc", "View on Index")
+FIRE	CPR	CN-008	Increasing Danger	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/increasing-danger-slc-cpr", "View on Index")
+NORM	PR	CN-009	Lurking Assailant	0	0	=HYPERLINK("https://index.gatcg.com/edition/lurking-assailant-slc", "View on Index")
+NORM	PR	CN-010	Navigate the Streets	0	0	=HYPERLINK("https://index.gatcg.com/edition/navigate-the-streets-slc", "View on Index")
+NORM	PR	CN-011	Potion of Healing	0	0	=HYPERLINK("https://index.gatcg.com/edition/potion-of-healing-slc", "View on Index")
+NORM	PR	CN-012	Resolute Stand	0	0	=HYPERLINK("https://index.gatcg.com/edition/resolute-stand-slc", "View on Index")
+NORM	CPR	CN-012	Resolute Stand	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/resolute-stand-slc-cpr", "View on Index")
+NORM	PR	CN-013	Study the Fables	0	0	=HYPERLINK("https://index.gatcg.com/edition/study-the-fables-slc", "View on Index")
+FIRE	PR	CN-014	Varuckan Acolyte	0	0	=HYPERLINK("https://index.gatcg.com/edition/varuckan-acolyte-slc", "View on Index")
+WIND	PR	CN-015	Windrider Vanguard	0	0	=HYPERLINK("https://index.gatcg.com/edition/windrider-vanguard-slc", "View on Index")

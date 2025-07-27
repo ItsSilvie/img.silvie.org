@@ -1,18 +1,18 @@
-WATER	CSR	EN-001	Nia, Mistveiled Scout	N/A	0
-FIRE	CSR	EN-002	Arthur, Young Heir	N/A	0
-WATER	CSR	EN-003	Lunete, Frostbinder Priest	N/A	0
-NORM	CSR	EN-004	Gawain, Chivalrous Thief	N/A	0
-WIND	CSR	EN-005	Parcenet, Royal Maid	N/A	0
-LUXEM	CSR	EN-006	Uther, Illustrious King	N/A	0
-ASTRA	CSR	EN-007	Astarte, Celestial Dawn	N/A	0
-WATER	CSR	EN-008	Geni, Gifted Mechanist	N/A	0
-WIND	CSR	EN-009	Perse, Relentless Raptor	N/A	0
-UMBRA	CSR	EN-010	Ominous Shadow	N/A	0
-NORM	CSR	EN-011	Overlord Mk III	N/A	0
-TERA	CSR	EN-012	Slime King	N/A	0
-WIND	CSR	EN-013	Dilu, Auspicious Charger	N/A	0
-WATER	CSR	EN-014	Jueying, Shadowmare	N/A	0
-FIRE	CSR	EN-015	Red Hare, Unrivaled Stallion	N/A	0
-NORM	CSR	EN-016	Zhou Yu, Enlightened Sage	N/A	0
-FIRE	CSR	EN-017	March Hare, Mottled Host	N/A	0
-UMBRA	CSR	EN-018	Mary Ann, Maladroit Maid	N/A	0
+WATER	CSR	EN-001	Nia, Mistveiled Scout	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/nia-mistveiled-scout-evp", "View on Index")
+FIRE	CSR	EN-002	Arthur, Young Heir	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/arthur-young-heir-evp", "View on Index")
+WATER	CSR	EN-003	Lunete, Frostbinder Priest	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/lunete-frostbinder-priest-evp", "View on Index")
+NORM	CSR	EN-004	Gawain, Chivalrous Thief	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/gawain-chivalrous-thief-evp", "View on Index")
+WIND	CSR	EN-005	Parcenet, Royal Maid	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/parcenet-royal-maid-evp", "View on Index")
+LUXEM	CSR	EN-006	Uther, Illustrious King	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/uther-illustrious-king-evp", "View on Index")
+ASTRA	CSR	EN-007	Astarte, Celestial Dawn	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/astarte-celestial-dawn-evp", "View on Index")
+WATER	CSR	EN-008	Geni, Gifted Mechanist	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/geni-gifted-mechanist-evp", "View on Index")
+WIND	CSR	EN-009	Perse, Relentless Raptor	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/perse-relentless-raptor-evp", "View on Index")
+UMBRA	CSR	EN-010	Ominous Shadow	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/ominous-shadow-evp", "View on Index")
+NORM	CSR	EN-011	Overlord Mk III	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/overlord-mk-iii-evp", "View on Index")
+TERA	CSR	EN-012	Slime King	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/slime-king-evp", "View on Index")
+WIND	CSR	EN-013	Dilu, Auspicious Charger	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/dilu-auspicious-charger-evp", "View on Index")
+WATER	CSR	EN-014	Jueying, Shadowmare	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/jueying-shadowmare-evp", "View on Index")
+FIRE	CSR	EN-015	Red Hare, Unrivaled Stallion	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/red-hare-unrivaled-stallion-evp", "View on Index")
+NORM	CSR	EN-016	Zhou Yu, Enlightened Sage	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/zhou-yu-enlightened-sage-evp", "View on Index")
+FIRE	CSR	EN-017	March Hare, Mottled Host	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/march-hare-mottled-host-evp-csr", "View on Index")
+UMBRA	CSR	EN-018	Mary Ann, Maladroit Maid	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/mary-ann-maladroit-maid-evp-csr", "View on Index")

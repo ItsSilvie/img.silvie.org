@@ -1,29 +1,29 @@
-NORM	CSR	EN-004	Diao Chan, Enchantress	N/A	0
-NORM	CSR	EN-005	Diao Chan, Dreaming Wish	N/A	0
-TERA	CSR	EN-006	Diao Chan, Idyll Corsage	N/A	0
-NORM	CSR	EN-007	Guo Jia, Chosen Disciple	N/A	0
-NORM	CSR	EN-008	Guo Jia, Blessed Scion	N/A	0
-LUXEM	CSR	EN-009	Guo Jia, Heaven's Favored	N/A	0
-NORM	CSR	EN-010	Kongming, Erudite Strategist	N/A	0
-NORM	UR	EN-011	Art of War	0	0
-NORM	UR	EN-014	Huaji of Heaven's Rise	0	0
-FIRE	UR	EN-019	Fabled Ruby Fatestone	0	N/A
-FIRE	CSR	EN-019	Fabled Ruby Fatestone	N/A	0
-WATER	UR	EN-021	Fabled Sapphire Fatestone	0	N/A
-WATER	CSR	EN-021	Fabled Sapphire Fatestone	N/A	0
-WIND	UR	EN-025	Fabled Emerald Fatestone	0	N/A
-WIND	CSR	EN-025	Fabled Emerald Fatestone	N/A	0
-ARCANE	CSR	EN-027	Fabled Azurite Fatestone	N/A	0
-TERA	UR	EN-029	Scepter of Awakening	0	0
-NORM	CSR	EN-062	Shangxiang, Fierce Princess	N/A	0
-NORM	CSR	EN-066	Sun Ce, Weaponsmaster	N/A	0
-NORM	CSR	EN-071	Yuan Shao, Crown General	N/A	0
-NORM	CSR	EN-072	Zhang Jiao, Way of Peace	N/A	0
-FIRE	CSR	EN-079	Da Qiao, Cinderbinder	N/A	0
-WATER	CSR	EN-117	Dian Wei, Valorant Fury	N/A	0
-WATER	UR	EN-127	Jianyu, Fate's Premonition	0	0
-ARCANE	UR	EN-185	Harbinger of Lightning	0	0
-EXIA	UR	EN-190	Annihilation	0	0
-LUXEM	UR	EN-196	Glorious Presence	0	0
-TERA	UR	EN-208	Lu Bu, Indomitable Titan	0	0
-TERA	CUR	EN-208	Lu Bu, Indomitable Titan	N/A	0
+NORM	CSR	EN-004	Diao Chan, Enchantress	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/diao-chan-enchantress-hvn1e-csr", "View on Index")
+NORM	CSR	EN-005	Diao Chan, Dreaming Wish	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/diao-chan-dreaming-wish-hvn1e-csr", "View on Index")
+TERA	CSR	EN-006	Diao Chan, Idyll Corsage	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/diao-chan-idyll-corsage-hvn1e-csr", "View on Index")
+NORM	CSR	EN-007	Guo Jia, Chosen Disciple	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/guo-jia-chosen-disciple-hvn1e-csr", "View on Index")
+NORM	CSR	EN-008	Guo Jia, Blessed Scion	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/guo-jia-blessed-scion-hvn1e-csr", "View on Index")
+LUXEM	CSR	EN-009	Guo Jia, Heaven's Favored	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/guo-jia-heavens-favored-hvn1e-csr", "View on Index")
+NORM	CSR	EN-010	Kongming, Erudite Strategist	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/kongming-erudite-strategist-hvn1e-csr", "View on Index")
+NORM	UR	EN-011	Art of War	0	0	=HYPERLINK("https://index.gatcg.com/edition/art-of-war-hvn1e", "View on Index")
+NORM	UR	EN-014	Huaji of Heaven's Rise	0	0	=HYPERLINK("https://index.gatcg.com/edition/huaji-of-heavens-rise-hvn1e", "View on Index")
+FIRE	UR	EN-019	Fabled Ruby Fatestone	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/fabled-ruby-fatestone-hvn1e", "View on Index")
+FIRE	CSR	EN-019	Fabled Ruby Fatestone	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/fabled-ruby-fatestone-hvn1e-csr", "View on Index")
+WATER	UR	EN-021	Fabled Sapphire Fatestone	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/fabled-sapphire-fatestone-hvn1e", "View on Index")
+WATER	CSR	EN-021	Fabled Sapphire Fatestone	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/fabled-sapphire-fatestone-hvn1e-csr", "View on Index")
+WIND	UR	EN-025	Fabled Emerald Fatestone	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/fabled-emerald-fatestone-hvn1e", "View on Index")
+WIND	CSR	EN-025	Fabled Emerald Fatestone	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/fabled-emerald-fatestone-hvn1e-csr", "View on Index")
+ARCANE	CSR	EN-027	Fabled Azurite Fatestone	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/fabled-azurite-fatestone-hvn1e-csr", "View on Index")
+TERA	UR	EN-029	Scepter of Awakening	0	0	=HYPERLINK("https://index.gatcg.com/edition/scepter-of-awakening-hvn1e", "View on Index")
+NORM	CSR	EN-062	Shangxiang, Fierce Princess	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/shangxiang-fierce-princess-hvn1e-csr", "View on Index")
+NORM	CSR	EN-066	Sun Ce, Weaponsmaster	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/sun-ce-weaponsmaster-hvn1e-csr", "View on Index")
+NORM	CSR	EN-071	Yuan Shao, Crown General	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/yuan-shao-crown-general-hvn1e-csr", "View on Index")
+NORM	CSR	EN-072	Zhang Jiao, Way of Peace	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/zhang-jiao-way-of-peace-hvn1e-csr", "View on Index")
+FIRE	CSR	EN-079	Da Qiao, Cinderbinder	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/da-qiao-cinderbinder-hvn1e-csr", "View on Index")
+WATER	CSR	EN-117	Dian Wei, Valorant Fury	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/dian-wei-valorant-fury-hvn1e-csr", "View on Index")
+WATER	UR	EN-127	Jianyu, Fate's Premonition	0	0	=HYPERLINK("https://index.gatcg.com/edition/jianyu-fates-premonition-hvn1e", "View on Index")
+ARCANE	UR	EN-185	Harbinger of Lightning	0	0	=HYPERLINK("https://index.gatcg.com/edition/harbinger-of-lightning-hvn1e", "View on Index")
+EXIA	UR	EN-190	Annihilation	0	0	=HYPERLINK("https://index.gatcg.com/edition/annihilation-hvn1e", "View on Index")
+LUXEM	UR	EN-196	Glorious Presence	0	0	=HYPERLINK("https://index.gatcg.com/edition/glorious-presence-hvn1e", "View on Index")
+TERA	UR	EN-208	Lu Bu, Indomitable Titan	0	0	=HYPERLINK("https://index.gatcg.com/edition/lu-bu-indomitable-titan-hvn1e", "View on Index")
+TERA	CUR	EN-208	Lu Bu, Indomitable Titan	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/lu-bu-indomitable-titan-hvn1e-cur", "View on Index")

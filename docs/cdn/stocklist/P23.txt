@@ -1,26 +1,47 @@
-NORM	PR	EN-001	Deflecting Edge	0	0
-WATER	PR	EN-002	Frostsworn Paladin	0	0
-NORM	PR	EN-003	Nullifying Lantern	0	0
-NORM	PR	EN-004	Scavenging Raccoon	0	0
-NORM	PR	EN-005	Imperious Highlander	0	0
-NORM	PR	EN-006	Inspiring Call	0	0
-NORM	CPR	EN-006	Inspiring Call	N/A	0
-FIRE	PR	EN-007	Hasty Messenger	0	0
-WATER	PR	EN-008	Tide Diviner	N/A	0
-FIRE	CPR	EN-009	Aithne, Spirit of Fire	N/A	0
-NORM	CPR	EN-010	Morrigan, Lost Spirit	N/A	0
-NORM	PR	EN-011	Prismatic Spirit	0	N/A
-NORM	PR	EN-012	Gate of Alterity	0	N/A
-NORM	PR	EN-013	Orb of Regret	N/A	0
-NORM	CPR	EN-013	Orb of Regret	N/A	0
-NORM	PR	EN-014	Orb of Glitter	N/A	0
-NORM	CPR	EN-014	Orb of Glitter	N/A	0
-WIND	CPR	EN-015	Gwendolyn, Spirit of Wind	N/A	0
-NORM	PR	EN-016	Ordinary Bear	0	0
-NORM	PR	EN-017	Tithe Proclamation	N/A	0
-NORM	CPR	EN-017	Tithe Proclamation	N/A	0
-NORM	PR	EN-018	Fast Cure	N/A	0
-NORM	CPR	EN-018	Fast Cure	N/A	0
-FIRE	PR	EN-019	Creative Shock	N/A	0
-FIRE	CPR	EN-019	Creative Shock	N/A	0
-WATER	CPR	EN-020	Sabrina, Spirit of Water	N/A	0
+NORM	PR	EN-001	Deflecting Edge	0	0	=HYPERLINK("https://index.gatcg.com/edition/deflecting-edge-p23", "View on Index")
+WATER	PR	EN-002	Frostsworn Paladin	0	0	=HYPERLINK("https://index.gatcg.com/edition/frostsworn-paladin-p23", "View on Index")
+NORM	PR	EN-003	Nullifying Lantern	0	0	=HYPERLINK("https://index.gatcg.com/edition/nullifying-lantern-p23", "View on Index")
+NORM	PR	EN-004	Scavenging Raccoon	0	0	=HYPERLINK("https://index.gatcg.com/edition/scavenging-racoon-p23", "View on Index")
+NORM	PR	EN-005	Imperious Highlander	0	0	=HYPERLINK("https://index.gatcg.com/edition/imperious-highlander-p23", "View on Index")
+NORM	PR	EN-006	Inspiring Call	0	0	=HYPERLINK("https://index.gatcg.com/edition/inspiring-call-p23", "View on Index")
+NORM	CPR	EN-006	Inspiring Call (Ascent Charm stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/inspiring-call-p23-cpr", "View on Index")
+NORM	CPR	EN-006	Inspiring Call (Ascent Grace stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/inspiring-call-p23-cpr", "View on Index")
+NORM	CPR	EN-006	Inspiring Call (Ascent Valor stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/inspiring-call-p23-cpr", "View on Index")
+FIRE	PR	EN-007	Hasty Messenger	0	0	=HYPERLINK("https://index.gatcg.com/edition/hasty-messenger-p23", "View on Index")
+WATER	PR	EN-008	Tide Diviner (Ascent Auckland Top 32 stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/tide-diviner-p23", "View on Index")
+WATER	PR	EN-008	Tide Diviner (Ascent Houston Top 32 stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/tide-diviner-p23", "View on Index")
+WATER	PR	EN-008	Tide Diviner (Ascent Ontario Top 32 stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/tide-diviner-p23", "View on Index")
+FIRE	CPR	EN-009	Aithne, Spirit of Fire (Ascent Auckland stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/aithne-spirit-of-fire-p23-cpr", "View on Index")
+FIRE	CPR	EN-009	Aithne, Spirit of Fire (Ascent Houston stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/aithne-spirit-of-fire-p23-cpr", "View on Index")
+NORM	CPR	EN-010	Morrigan, Lost Spirit	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/morrigan-lost-spirit-p23-houston", "View on Index")
+NORM	PR	EN-011	Prismatic Spirit	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/prismatic-spirit-p23", "View on Index")
+NORM	PR	EN-012	Gate of Alterity	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/gate-of-alterity-p23", "View on Index")
+NORM	PR	EN-013	Orb of Regret (North America Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/orb-of-regret-p23", "View on Index")
+NORM	PR	EN-013	Orb of Regret (Oceania Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/orb-of-regret-p23", "View on Index")
+NORM	PR	EN-013	Orb of Regret (Wildcard Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/orb-of-regret-p23", "View on Index")
+NORM	CPR	EN-013	Orb of Regret	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/orb-of-regret-p23-cpr", "View on Index")
+NORM	PR	EN-014	Orb of Glitter (North America Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/orb-of-glitter-p23", "View on Index")
+NORM	PR	EN-014	Orb of Glitter (Oceania Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/orb-of-glitter-p23", "View on Index")
+NORM	PR	EN-014	Orb of Glitter (Southeast Asia Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/orb-of-glitter-p23", "View on Index")
+NORM	PR	EN-014	Orb of Glitter (Wildcard Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/orb-of-glitter-p23", "View on Index")
+NORM	CPR	EN-014	Orb of Glitter	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/orb-of-glitter-p23-cpr", "View on Index")
+WIND	CPR	EN-015	Gwendolyn, Spirit of Wind (Ascent Christchurch stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/gwendolyn-spirit-of-wind-p23-cpr", "View on Index")
+WIND	CPR	EN-015	Gwendolyn, Spirit of Wind (Ascent Ontario stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/gwendolyn-spirit-of-wind-p23-cpr", "View on Index")
+WIND	CPR	EN-015	Gwendolyn, Spirit of Wind (Ascent Taipei stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/gwendolyn-spirit-of-wind-p23-cpr", "View on Index")
+WIND	CPR	EN-015	Gwendolyn, Spirit of Wind (Ascent Utrecht stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/gwendolyn-spirit-of-wind-p23-cpr", "View on Index")
+NORM	PR	EN-016	Ordinary Bear	0	0	=HYPERLINK("https://index.gatcg.com/edition/ordinary-bear-p23", "View on Index")
+NORM	PR	EN-017	Tithe Proclamation (North America Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/tithe-proclamation-p23", "View on Index")
+NORM	PR	EN-017	Tithe Proclamation (Oceania Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/tithe-proclamation-p23", "View on Index")
+NORM	PR	EN-017	Tithe Proclamation (Southeast Asia Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/tithe-proclamation-p23", "View on Index")
+NORM	PR	EN-017	Tithe Proclamation (Wildcard Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/tithe-proclamation-p23", "View on Index")
+NORM	CPR	EN-017	Tithe Proclamation	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/tithe-proclamation-p23-cpr", "View on Index")
+NORM	PR	EN-018	Fast Cure (North America Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/fast-cure-p23", "View on Index")
+NORM	PR	EN-018	Fast Cure (Oceania Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/fast-cure-p23", "View on Index")
+NORM	PR	EN-018	Fast Cure (Southeast Asia Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/fast-cure-p23", "View on Index")
+NORM	PR	EN-018	Fast Cure (Wildcard Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/fast-cure-p23", "View on Index")
+NORM	CPR	EN-018	Fast Cure	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/fast-cure-p23-cpr", "View on Index")
+FIRE	PR	EN-019	Creative Shock	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/creative-shock-p23", "View on Index")
+FIRE	CPR	EN-019	Creative Shock	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/creative-shock-p23-cpr", "View on Index")
+WATER	CPR	EN-020	Sabrina, Spirit of Water (Ascent Melbourne stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/sabrina-spirit-of-water-p23-cpr", "View on Index")
+WATER	CPR	EN-020	Sabrina, Spirit of Water (Ascent Singapore stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/sabrina-spirit-of-water-p23-cpr", "View on Index")
+WATER	CPR	EN-020	Sabrina, Spirit of Water (Ascent Worlds stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/sabrina-spirit-of-water-p23-cpr", "View on Index")

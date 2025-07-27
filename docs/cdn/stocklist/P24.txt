@@ -1,176 +1,209 @@
-NORM	CPR	EN-000	Apotheosis Rite	N/A	0
-NORM	PR	EN-001	Blastshot Pump	N/A	0
-NORM	PR	EN-002	Bulwark Sword	N/A	0
-NORM	PR	EN-003	Charged Manaplate	N/A	0
-NORM	PR	EN-004	Cleric Robes	N/A	0
-NORM	PR	EN-005	Crest of the Alliance	N/A	0
-NORM	PR	EN-006	Flash Grenade	N/A	0
-NORM	PR	EN-007	Ingredient Pouch	N/A	0
-NORM	PR	EN-008	Life Essence Amulet	N/A	0
-NORM	PR	EN-135	Life Essence Amulet	N/A	0
-NORM	PR	EN-009	Necklace of Foresight	N/A	0
-NORM	PR	EN-010	Plated Bullet	N/A	0
-NORM	PR	EN-011	Powercharged Shield	N/A	0
-NORM	PR	EN-012	Prototype Pistol	N/A	0
-NORM	PR	EN-013	Prototype Staff	N/A	0
-NORM	PR	EN-014	Quickdraw Piercer	N/A	0
-NORM	PR	EN-015	Scale of Souls	N/A	0
-NORM	PR	EN-016	Synth Disrupter	N/A	0
-NORM	PR	EN-017	Tasershot	N/A	0
-NORM	PR	EN-018	Worn Gearblade	N/A	0
-FIRE	PR	EN-019	Penetrator Round	N/A	0
-WIND	PR	EN-020	Deployment Beacon	N/A	0
-ASTRA	PR	EN-021	Cosmic Astroscope	N/A	0
-NEOS	PR	EN-022	Archon Broadsword	N/A	0
-NEOS	PR	EN-023	Sentinel Fabricator	N/A	0
-UMBRA	PR	EN-024	Shadow's Twin	N/A	0
-NORM	PR	EN-025	Backstep	N/A	0
-NORM	PR	EN-026	Evasive Maneuvers	N/A	0
-NORM	PR	EN-027	Foraging Servant	N/A	0
-NORM	PR	EN-028	Fortified Mana Shield	N/A	0
-NORM	PR	EN-029	Heavy Swing	N/A	0
-NORM	PR	EN-030	Imperial Recruit	N/A	0
-NORM	PR	EN-031	Imperial Rifleman	N/A	0
-NORM	PR	EN-032	Imperial Sentry	N/A	0
-NORM	PR	EN-033	Martial Guard	N/A	0
-NORM	PR	EN-034	Materialize Munitions	N/A	0
-NORM	PR	EN-035	Novice Mechanist	N/A	0
-NORM	PR	EN-036	Stalwart Shieldmate	N/A	0
-NORM	PR	EN-037	Take Point	N/A	0
-FIRE	PR	EN-038	Incendiary Shot	N/A	0
-WATER	PR	EN-039	Essence of Blizzards	N/A	0
-WIND	PR	EN-040	Recruitment Officer	N/A	0
-ASTRA	PR	EN-041	Cosmic Bolt	N/A	0
-CRUX	PR	EN-042	Spirit Blade: Ascension	0	0
-WATER	PR	EN-043	Frostbind	0	0
-WATER	CPR	EN-043	Frostbind	N/A	0
-WIND	PR	EN-044	Veiling Breeze	N/A	0
-NORM	PR	EN-045	Lurking Assailant	N/A	0
-NORM	CPR	EN-045	Lurking Assailant	N/A	0
-NORM	PR	EN-046	Orb of Hubris	N/A	0
-NORM	CPR	EN-046	Orb of Hubris	N/A	0
-NORM	PR	EN-047	Capricious Lynx	0	0
-NORM	PR	EN-048	Peaceful Reunion	0	0
-NORM	CPR	EN-048	Peaceful Reunion	N/A	0
-NORM	PR	EN-049	Empowering Prayer	N/A	0
-NORM	PR	EN-050	Swooping Talons	N/A	0
-NORM	PR	EN-051	Scry the Skies	N/A	0
-NORM	CPR	EN-051	Scry the Skies	N/A	0
-WIND	PR	EN-052	Beseech the Winds	N/A	0
-WATER	PR	EN-053	Chilling Touch	0	0
-NORM	PR	EN-054	Into the Fray	0	0
-NORM	CPR	EN-054	Into the Fray	N/A	0
-FIRE	PR	EN-055	Fireworks Display	0	0
-NORM	PR	EN-056	Key Slime Pudding	N/A	0
-NORM	PR	EN-057	Assassin's Mantle	N/A	0
-WATER	PR	EN-058	Vaporjet Shieldbearer	N/A	0
-NORM	CPR	EN-059	Priscilla, Lost Spirit	N/A	0
-NORM	PR	EN-060	Sable Remnant	N/A	0
-WIND	PR	EN-061	Windmill Engineer	N/A	0
-WIND	CPR	EN-061	Windmill Engineer	N/A	0
-LUXEM	PR	EN-062	Lightweaver's Assault	N/A	0
-LUXEM	CPR	EN-062	Lightweaver's Assault	N/A	0
-NORM	PR	EN-063	Exorcise Curses	N/A	0
-NORM	CPR	EN-063	Exorcise Curses	N/A	0
-NORM	PR	EN-064	Cell Assembler	N/A	0
-FIRE	PR	EN-065	Reduce to Ash	N/A	0
-WATER	PR	EN-066	Hailstorm Guard	N/A	0
-WATER	CPR	EN-066	Hailstorm Guard	N/A	0
-FIRE	CPR	EN-067	Vyra, Spirit of Fire	N/A	0
-NORM	PR	EN-068	Spirit of Slime	N/A	0
-TERA	PR	EN-069	Silvie, Slime Sovereign	N/A	0
-NORM	PR	EN-070	Slime Nexus	N/A	0
-TERA	PR	EN-071	Slime Totem	N/A	0
-TERA	PR	EN-072	Verdant Scepter	N/A	0
-NORM	PR	EN-073	Baby Gray Slime	N/A	0
-NORM	PR	EN-074	Forest Cake	N/A	0
-NORM	PR	EN-075	Limitless Slime	N/A	0
-FIRE	PR	EN-076	Baby Red Slime	N/A	0
-FIRE	PR	EN-077	Slime Eruption	N/A	0
-WATER	PR	EN-078	Baby Blue Slime	N/A	0
-WATER	PR	EN-079	Gather Slimes	N/A	0
-WIND	PR	EN-080	Baby Green Slime	N/A	0
-WIND	PR	EN-081	Slime's Blessing	N/A	0
-WIND	PR	EN-082	Slimeshield	N/A	0
-ARCANE	PR	EN-083	Storm Slime	N/A	0
-CRUX	PR	EN-084	Ethereal Slime	N/A	0
-LUXEM	PR	EN-085	Lustrous Slime	N/A	0
-TERA	PR	EN-086	Slime King	N/A	0
-TERA	PR	EN-087	Verdant Slime	N/A	0
-UMBRA	PR	EN-088	Tristan, Shadowdancer	N/A	0
-NORM	PR	EN-089	Curved Dagger	N/A	0
-WIND	PR	EN-090	Gearstride Gloves	N/A	0
-UMBRA	PR	EN-091	Dusksoul Stone	N/A	0
-UMBRA	PR	EN-092	Malignant Athame	N/A	0
-UMBRA	PR	EN-093	Shadeblood Coating	N/A	0
-NORM	PR	EN-094	Exploit Vulnerability	N/A	0
-NORM	PR	EN-095	Incapacitate	N/A	0
-NORM	PR	EN-096	Mastermind Scheme	N/A	0
-NORM	PR	EN-097	Slice and Dice	N/A	0
-NORM	PR	EN-098	Thieving Cut	N/A	0
-WIND	PR	EN-099	Arrow Trap	N/A	0
-WIND	PR	EN-100	Betraying Blade	N/A	0
-WIND	PR	EN-101	Cloaked Executioner	N/A	0
-WIND	PR	EN-102	Sirocco Operative	N/A	0
-WIND	PR	EN-103	Stifling Trap	N/A	0
-WIND	PR	EN-104	Surveil the Winds	N/A	0
-UMBRA	PR	EN-105	Gloamspire Headhunter	N/A	0
-UMBRA	PR	EN-106	Grim Foreboding	N/A	0
-UMBRA	PR	EN-107	Haunting Demise	N/A	0
-UMBRA	PR	EN-108	Shadow Resonance	N/A	0
-UMBRA	PR	EN-109	Shadowstrike	N/A	0
-UMBRA	PR	EN-110	Shifting Mirage	N/A	0
-NORM	PR	EN-111	Careful Study	N/A	0
-FIRE	PR	EN-112	Flame-Rune Swordsman	0	0
-NORM	CPR	EN-113	Shira, Lost Spirit	N/A	0
-NORM	PR	EN-114	Reprogram	0	0
-NORM	CPR	EN-114	Reprogram	N/A	0
-NORM	PR	EN-115	Tariff Ring	N/A	0
-NORM	PR	EN-149	Tariff Ring	N/A	0
-NORM	PR	EN-116	Executioner's Spear	N/A	0
-NORM	PR	EN-117	Fan of Seven Debts	N/A	0
-FIRE	PR	EN-118	Blazing Throw	N/A	0
-FIRE	CPR	EN-118	Blazing Throw	N/A	0
-NORM	PR	EN-119	Backup Charger	N/A	0
-NORM	CPR	EN-119	Backup Charger	N/A	0
-NORM	PR	EN-120	Academy Guide	N/A	0
-NORM	CPR	EN-120	Academy Guide	N/A	0
-WATER	PR	EN-121	Fractal of Rain	0	0
-NORM	PR	EN-122	Heighten Spellcraft	N/A	0
-NORM	PR	EN-123	Ardent Cloudstriker	N/A	0
-NORM	PR	EN-124	Banner Knight	N/A	0
-NORM	PR	EN-125	Bauble of Abundance	N/A	0
-EXIA	PR	EN-126	Berserker Plate	N/A	0
-WATER	PR	EN-127	Coriolis Ward	N/A	0
-TERA	PR	EN-128	Coronal of Rejuvenation	N/A	0
-TERA	PR	EN-129	Devoted Bloomweaver	N/A	0
-WIND	PR	EN-130	Eminent Commander	N/A	0
-EXIA	PR	EN-131	Enrage	N/A	0
-TERA	PR	EN-132	Entrancing Filigree	N/A	0
-NORM	PR	EN-133	Formidable Youxia	N/A	0
-NORM	PR	EN-134	Harmonious Mantra	N/A	0
-NORM	PR	EN-136	Pierce the Heavens	N/A	0
-WIND	PR	EN-137	Reclaim	N/A	0
-NORM	PR	EN-138	Safeguard Amulet	N/A	0
-NORM	PR	EN-139	Safeguard Paladin	N/A	0
-NORM	PR	EN-140	Savage Swing	N/A	0
-NORM	PR	EN-141	Shard of Empowerment	N/A	0
-	PR	EN-142	Shifting Currents	N/A	0
-EXIA	PR	EN-143	Shuang Ji of Sacrifice	N/A	0
-NORM	PR	EN-144	Slate Whetstone	N/A	0
-NORM	PR	EN-145	Spirited Neophyte	N/A	0
-NORM	PR	EN-146	Steel Halberd	N/A	0
-WATER	PR	EN-147	Sweet Ambrosia	N/A	0
-WATER	PR	EN-148	Taiji of Crystal Strategems	N/A	0
-WIND	CPR	EN-150	Brissa, Spirit of Wind	N/A	0
-WATER	PR	EN-151	Cone of Frost	N/A	0
-NORM	PR	EN-152	Staggering Strike	N/A	0
-WATER	PR	EN-153	Lost in Thought	N/A	0
-WATER	CPR	EN-153	Lost in Thought	N/A	0
-NORM	PR	EN-154	Peer into Mana	N/A	0
-WATER	CPR	EN-155	Minthe, Spirit of Water	N/A	0
-WATER	PR	EN-156	Revitalizing Cleanse	0	0
-WATER	CPR	EN-156	Revitalizing Cleanse	N/A	0
-NORM	CPR	EN-157	Morrigan, Lost Spirit	N/A	0
-NORM	PR	EN-158	Nascent Blast	0	0
-NORM	CPR	EN-158	Nascent Blast	N/A	0
+NORM	CPR	EN-000	Apotheosis Rite	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/apotheosis-rite-p24-cpr", "View on Index")
+NORM	PR	EN-001	Blastshot Pump	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/blastshot-pump-p24", "View on Index")
+NORM	PR	EN-002	Bulwark Sword	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/bulwark-sword-p24", "View on Index")
+NORM	PR	EN-003	Charged Manaplate	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/charged-manaplate-p24", "View on Index")
+NORM	PR	EN-004	Cleric Robes	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/cleric-robes-p24", "View on Index")
+NORM	PR	EN-005	Crest of the Alliance	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/crest-of-the-alliance-p24", "View on Index")
+NORM	PR	EN-006	Flash Grenade	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/flash-grenade-p24", "View on Index")
+NORM	PR	EN-007	Ingredient Pouch	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/ingredient-pouch-p24", "View on Index")
+NORM	PR	EN-008	Life Essence Amulet	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/life-essence-amulet-p24", "View on Index")
+NORM	PR	EN-135	Life Essence Amulet	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/life-essence-amulet-p24-amb", "View on Index")
+NORM	PR	EN-009	Necklace of Foresight	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/necklace-of-foresight-p24", "View on Index")
+NORM	PR	EN-010	Plated Bullet	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/plated-bullet-p24", "View on Index")
+NORM	PR	EN-011	Powercharged Shield	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/powercharged-shield-p24", "View on Index")
+NORM	PR	EN-012	Prototype Pistol	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/prototype-pistol-p24", "View on Index")
+NORM	PR	EN-013	Prototype Staff	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/prototype-staff-p24", "View on Index")
+NORM	PR	EN-014	Quickdraw Piercer	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/quickdraw-piercer-p24", "View on Index")
+NORM	PR	EN-015	Scale of Souls	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/scale-of-souls-p24", "View on Index")
+NORM	PR	EN-016	Synth Disrupter	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/synth-disrupter-p24", "View on Index")
+NORM	PR	EN-017	Tasershot	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/tasershot-p24", "View on Index")
+NORM	PR	EN-018	Worn Gearblade	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/worn-gearblade-p24", "View on Index")
+FIRE	PR	EN-019	Penetrator Round	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/penetrator-round-p24", "View on Index")
+WIND	PR	EN-020	Deployment Beacon	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/deployment-beacon-p24", "View on Index")
+ASTRA	PR	EN-021	Cosmic Astroscope	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/cosmic-astroscope-p24", "View on Index")
+NEOS	PR	EN-022	Archon Broadsword	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/archon-broadsword-p24", "View on Index")
+NEOS	PR	EN-023	Sentinel Fabricator	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/sentinel-fabricator-p24", "View on Index")
+UMBRA	PR	EN-024	Shadow's Twin	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/shadows-twin-p24", "View on Index")
+NORM	PR	EN-025	Backstep	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/backstep-p24", "View on Index")
+NORM	PR	EN-026	Evasive Maneuvers	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/evasive-maneuvers-p24", "View on Index")
+NORM	PR	EN-027	Foraging Servant	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/foraging-servant-p24", "View on Index")
+NORM	PR	EN-028	Fortified Mana Shield	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/fortified-mana-shield-p24", "View on Index")
+NORM	PR	EN-029	Heavy Swing	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/heavy-swing-p24", "View on Index")
+NORM	PR	EN-030	Imperial Recruit	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/imperial-recruit-p24", "View on Index")
+NORM	PR	EN-031	Imperial Rifleman	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/imperial-rifleman-p24", "View on Index")
+NORM	PR	EN-032	Imperial Sentry	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/imperial-sentry-p24", "View on Index")
+NORM	PR	EN-033	Martial Guard	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/martial-guard-p24", "View on Index")
+NORM	PR	EN-034	Materialize Munitions	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/materialize-munitions-p24", "View on Index")
+NORM	PR	EN-035	Novice Mechanist	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/novice-mechanist-p24", "View on Index")
+NORM	PR	EN-036	Stalwart Shieldmate	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/stalwart-shieldmate-p24", "View on Index")
+NORM	PR	EN-037	Take Point	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/take-point-p24", "View on Index")
+FIRE	PR	EN-038	Incendiary Shot	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/incendiary-shot-p24", "View on Index")
+WATER	PR	EN-039	Essence of Blizzards	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/essence-of-blizzards-p24", "View on Index")
+WIND	PR	EN-040	Recruitment Officer	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/recruitment-officer-p24", "View on Index")
+ASTRA	PR	EN-041	Cosmic Bolt	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/cosmic-bolt-p24", "View on Index")
+CRUX	PR	EN-042	Spirit Blade: Ascension ("Nationals" stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/spirit-blade-ascension-p24", "View on Index")
+CRUX	PR	EN-042	Spirit Blade: Ascension	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/spirit-blade-ascension-p24", "View on Index")
+WATER	PR	EN-043	Frostbind	0	0	=HYPERLINK("https://index.gatcg.com/edition/frostbind-p24", "View on Index")
+WATER	CPR	EN-043	Frostbind	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/frostbind-p24-cpr", "View on Index")
+WIND	PR	EN-044	Veiling Breeze	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/veiling-breeze-p24", "View on Index")
+NORM	PR	EN-045	Lurking Assailant (North America Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/lurking-assailant-p24", "View on Index")
+NORM	PR	EN-045	Lurking Assailant (Oceania Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/lurking-assailant-p24", "View on Index")
+NORM	PR	EN-045	Lurking Assailant (Southeast Asia Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/lurking-assailant-p24", "View on Index")
+NORM	PR	EN-045	Lurking Assailant (Wildcard Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/lurking-assailant-p24", "View on Index")
+NORM	CPR	EN-045	Lurking Assailant	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/lurking-assailant-p24-cpr", "View on Index")
+NORM	PR	EN-046	Orb of Hubris (North America Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/orb-of-hubris-p24", "View on Index")
+NORM	PR	EN-046	Orb of Hubris (Oceania Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/orb-of-hubris-p24", "View on Index")
+NORM	PR	EN-046	Orb of Hubris (Southeast Asia Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/orb-of-hubris-p24", "View on Index")
+NORM	PR	EN-046	Orb of Hubris (Wildcard Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/orb-of-hubris-p24", "View on Index")
+NORM	CPR	EN-046	Orb of Hubris	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/orb-of-hubris-p24-cpr", "View on Index")
+NORM	PR	EN-047	Capricious Lynx	0	0	=HYPERLINK("https://index.gatcg.com/edition/capricious-lynx-p24", "View on Index")
+NORM	PR	EN-048	Peaceful Reunion	0	0	=HYPERLINK("https://index.gatcg.com/edition/peaceful-reunion-p24", "View on Index")
+NORM	CPR	EN-048	Peaceful Reunion	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/peaceful-reunion-p24-cpr", "View on Index")
+NORM	PR	EN-049	Empowering Prayer	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/empowering-prayer-p24", "View on Index")
+NORM	PR	EN-050	Swooping Talons	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/swooping-talons-p24", "View on Index")
+NORM	PR	EN-051	Scry the Skies	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/scry-the-skies-p24", "View on Index")
+NORM	CPR	EN-051	Scry the Skies	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/scry-the-skies-p24-cpr", "View on Index")
+WIND	PR	EN-052	Beseech the Winds	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/beseech-the-winds-p24", "View on Index")
+WATER	PR	EN-053	Chilling Touch	0	0	=HYPERLINK("https://index.gatcg.com/edition/chilling-touch-p24", "View on Index")
+NORM	PR	EN-054	Into the Fray	0	0	=HYPERLINK("https://index.gatcg.com/edition/into-the-fray-p24", "View on Index")
+NORM	CPR	EN-054	Into the Fray (Ascent Ferocity stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/into-the-fray-p24-cpr", "View on Index")
+NORM	CPR	EN-054	Into the Fray (Ascent Mystique stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/into-the-fray-p24-cpr", "View on Index")
+NORM	CPR	EN-054	Into the Fray (Ascent Valor stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/into-the-fray-p24-cpr", "View on Index")
+FIRE	PR	EN-055	Fireworks Display	0	0	=HYPERLINK("https://index.gatcg.com/edition/fireworks-display-p24", "View on Index")
+NORM	PR	EN-056	Key Slime Pudding	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/key-slime-pudding-p24", "View on Index")
+NORM	PR	EN-057	Assassin's Mantle	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/assassins-mantle-p24", "View on Index")
+WATER	PR	EN-058	Vaporjet Shieldbearer	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/vaporjet-shieldbearer-p24", "View on Index")
+NORM	CPR	EN-059	Priscilla, Lost Spirit	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/priscilla-lost-spirit-p24", "View on Index")
+NORM	PR	EN-060	Sable Remnant	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/sable-remnant-p24", "View on Index")
+WIND	PR	EN-061	Windmill Engineer (North America Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/windmill-engineer-p24", "View on Index")
+WIND	PR	EN-061	Windmill Engineer (Oceania Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/windmill-engineer-p24", "View on Index")
+WIND	PR	EN-061	Windmill Engineer (Southeast Asia Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/windmill-engineer-p24", "View on Index")
+WIND	PR	EN-061	Windmill Engineer (Wildcard Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/windmill-engineer-p24", "View on Index")
+WIND	CPR	EN-061	Windmill Engineer	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/windmill-engineer-p24-cpr", "View on Index")
+LUXEM	PR	EN-062	Lightweaver's Assault (North America Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/lightweavers-assault-p24", "View on Index")
+LUXEM	PR	EN-062	Lightweaver's Assault (Oceania Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/lightweavers-assault-p24", "View on Index")
+LUXEM	PR	EN-062	Lightweaver's Assault (Southeast Asia Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/lightweavers-assault-p24", "View on Index")
+LUXEM	PR	EN-062	Lightweaver's Assault (Wildcard Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/lightweavers-assault-p24", "View on Index")
+LUXEM	CPR	EN-062	Lightweaver's Assault	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/lightweavers-assault-p24-cpr", "View on Index")
+NORM	PR	EN-063	Exorcise Curses (Ascent Chicago stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/exorcise-curses-p24", "View on Index")
+NORM	PR	EN-063	Exorcise Curses (Ascent Singapore stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/exorcise-curses-p24", "View on Index")
+NORM	PR	EN-063	Exorcise Curses (Ascent Taipei stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/exorcise-curses-p24", "View on Index")
+NORM	PR	EN-063	Exorcise Curses (Ascent Worlds stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/exorcise-curses-p24", "View on Index")
+NORM	CPR	EN-063	Exorcise Curses	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/exorcise-curses-p24-cpr", "View on Index")
+NORM	PR	EN-064	Cell Assembler	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/cell-assembler-p24", "View on Index")
+FIRE	PR	EN-065	Reduce to Ash	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/reduce-to-ash-p24", "View on Index")
+WATER	PR	EN-066	Hailstorm Guard	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/hailstorm-guard-p24", "View on Index")
+WATER	CPR	EN-066	Hailstorm Guard	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/hailstorm-guard-p24-cpr", "View on Index")
+FIRE	CPR	EN-067	Vyra, Spirit of Fire (Ascent Chicago stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/vyra-spirit-of-fire-p24-cpr", "View on Index")
+FIRE	CPR	EN-067	Vyra, Spirit of Fire (Ascent Kuala Lumpur stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/vyra-spirit-of-fire-p24-cpr", "View on Index")
+NORM	PR	EN-068	Spirit of Slime	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/spirit-of-slime-p24", "View on Index")
+TERA	PR	EN-069	Silvie, Slime Sovereign	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/silvie-slime-sovereign-p24", "View on Index")
+NORM	PR	EN-070	Slime Nexus	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/slime-nexus-p24", "View on Index")
+TERA	PR	EN-071	Slime Totem	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/slime-totem-p24", "View on Index")
+TERA	PR	EN-072	Verdant Scepter	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/verdant-scepter-p24", "View on Index")
+NORM	PR	EN-073	Baby Gray Slime	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/baby-gray-slime-p24", "View on Index")
+NORM	PR	EN-074	Forest Cake	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/forest-cake-p24", "View on Index")
+NORM	PR	EN-075	Limitless Slime	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/limitless-slime-p24", "View on Index")
+FIRE	PR	EN-076	Baby Red Slime	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/baby-red-slime-p24", "View on Index")
+FIRE	PR	EN-077	Slime Eruption	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/slime-eruption-p24", "View on Index")
+WATER	PR	EN-078	Baby Blue Slime	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/baby-blue-slime-p24", "View on Index")
+WATER	PR	EN-079	Gather Slimes	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/gather-slimes-p24", "View on Index")
+WIND	PR	EN-080	Baby Green Slime	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/baby-green-slime-p24", "View on Index")
+WIND	PR	EN-081	Slime's Blessing	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/slimes-blessing-p24", "View on Index")
+WIND	PR	EN-082	Slimeshield	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/slimeshield-p24", "View on Index")
+ARCANE	PR	EN-083	Storm Slime	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/storm-slime-p24", "View on Index")
+CRUX	PR	EN-084	Ethereal Slime	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/ethereal-slime-p24", "View on Index")
+LUXEM	PR	EN-085	Lustrous Slime	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/lustrous-slime-p24", "View on Index")
+TERA	PR	EN-086	Slime King	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/slime-king-p24", "View on Index")
+TERA	PR	EN-087	Verdant Slime	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/verdant-slime-p24", "View on Index")
+UMBRA	PR	EN-088	Tristan, Shadowdancer	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/tristan-shadowdancer-p24", "View on Index")
+NORM	PR	EN-089	Curved Dagger	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/curved-dagger-p24", "View on Index")
+WIND	PR	EN-090	Gearstride Gloves	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/gearstride-gloves-p24", "View on Index")
+UMBRA	PR	EN-091	Dusksoul Stone	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/dusksoul-stone-p24", "View on Index")
+UMBRA	PR	EN-092	Malignant Athame	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/malignant-athame-p24", "View on Index")
+UMBRA	PR	EN-093	Shadeblood Coating	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/shadeblood-coating-p24", "View on Index")
+NORM	PR	EN-094	Exploit Vulnerability	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/exploit-vulnerability-p24", "View on Index")
+NORM	PR	EN-095	Incapacitate	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/incapacitate-p24", "View on Index")
+NORM	PR	EN-096	Mastermind Scheme	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/mastermind-scheme-p24", "View on Index")
+NORM	PR	EN-097	Slice and Dice	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/slice-and-dice-p24", "View on Index")
+NORM	PR	EN-098	Thieving Cut	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/thieving-cut-p24", "View on Index")
+WIND	PR	EN-099	Arrow Trap	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/arrow-trap-p24", "View on Index")
+WIND	PR	EN-100	Betraying Blade	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/betraying-blade-p24", "View on Index")
+WIND	PR	EN-101	Cloaked Executioner	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/cloaked-executioner-p24", "View on Index")
+WIND	PR	EN-102	Sirocco Operative	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/sirocco-operative-p24", "View on Index")
+WIND	PR	EN-103	Stifling Trap	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/stifling-trap-p24", "View on Index")
+WIND	PR	EN-104	Surveil the Winds	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/surveil-the-winds-p24", "View on Index")
+UMBRA	PR	EN-105	Gloamspire Headhunter	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/gloamspire-headhunter-p24", "View on Index")
+UMBRA	PR	EN-106	Grim Foreboding	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/grim-foreboding-p24", "View on Index")
+UMBRA	PR	EN-107	Haunting Demise	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/haunting-demise-p24", "View on Index")
+UMBRA	PR	EN-108	Shadow Resonance	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/shadow-resonance-p24", "View on Index")
+UMBRA	PR	EN-109	Shadowstrike	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/shadowstrike-p24", "View on Index")
+UMBRA	PR	EN-110	Shifting Mirage	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/shifting-mirage-p24", "View on Index")
+NORM	PR	EN-111	Careful Study	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/careful-study-p24", "View on Index")
+FIRE	PR	EN-112	Flame-Rune Swordsman	0	0	=HYPERLINK("https://index.gatcg.com/edition/flame-rune-swordsman-p24", "View on Index")
+NORM	CPR	EN-113	Shira, Lost Spirit	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/shira-lost-spirit-p24-cpr", "View on Index")
+NORM	PR	EN-114	Reprogram	0	0	=HYPERLINK("https://index.gatcg.com/edition/reprogram-p24", "View on Index")
+NORM	CPR	EN-114	Reprogram (Ascent Charm stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/reprogram-p24-cpr", "View on Index")
+NORM	CPR	EN-114	Reprogram (Ascent Grace stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/reprogram-p24-cpr", "View on Index")
+NORM	CPR	EN-114	Reprogram (Ascent Mystique stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/reprogram-p24-cpr", "View on Index")
+NORM	PR	EN-115	Tariff Ring	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/tariff-ring-p24", "View on Index")
+NORM	PR	EN-149	Tariff Ring	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/tariff-ring-p24-amb", "View on Index")
+NORM	PR	EN-116	Executioner's Spear	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/executioners-spear-p24", "View on Index")
+NORM	PR	EN-117	Fan of Seven Debts	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/fan-of-seven-debts-p24", "View on Index")
+FIRE	PR	EN-118	Blazing Throw (North America Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/blazing-throw-p24", "View on Index")
+FIRE	PR	EN-118	Blazing Throw (Oceania Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/blazing-throw-p24", "View on Index")
+FIRE	PR	EN-118	Blazing Throw (Southeast Asia Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/blazing-throw-p24", "View on Index")
+FIRE	PR	EN-118	Blazing Throw (Wildcard Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/blazing-throw-p24", "View on Index")
+FIRE	CPR	EN-118	Blazing Throw	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/blazing-throw-p24-cpr", "View on Index")
+NORM	PR	EN-119	Backup Charger (North America Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/backup-charger-p24", "View on Index")
+NORM	PR	EN-119	Backup Charger (Oceania Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/backup-charger-p24", "View on Index")
+NORM	PR	EN-119	Backup Charger (Southeast Asia Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/backup-charger-p24", "View on Index")
+NORM	PR	EN-119	Backup Charger (Wildcard Nationals Qualifier stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/backup-charger-p24", "View on Index")
+NORM	CPR	EN-119	Backup Charger	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/backup-charger-p24-cpr", "View on Index")
+NORM	PR	EN-120	Academy Guide (Ascent Christchurch stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/academy-guide-p24", "View on Index")
+NORM	PR	EN-120	Academy Guide (Ascent Melbourne stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/academy-guide-p24", "View on Index")
+NORM	PR	EN-120	Academy Guide (Ascent Santa Clara stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/academy-guide-p24", "View on Index")
+NORM	PR	EN-120	Academy Guide (Ascent Toronto stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/academy-guide-p24", "View on Index")
+NORM	PR	EN-120	Academy Guide (Ascent Utrecht stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/academy-guide-p24", "View on Index")
+NORM	CPR	EN-120	Academy Guide	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/academy-guide-p24-cpr", "View on Index")
+WATER	PR	EN-121	Fractal of Rain	0	0	=HYPERLINK("https://index.gatcg.com/edition/fractal-of-rain-p24", "View on Index")
+NORM	PR	EN-122	Heighten Spellcraft	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/heighten-spellcraft-p24", "View on Index")
+NORM	PR	EN-123	Ardent Cloudstriker	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/ardent-cloudstriker-p24", "View on Index")
+NORM	PR	EN-124	Banner Knight	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/banner-knight-p24", "View on Index")
+NORM	PR	EN-125	Bauble of Abundance	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/bauble-of-abundance-p24", "View on Index")
+EXIA	PR	EN-126	Berserker Plate	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/berserker-plate-p24", "View on Index")
+WATER	PR	EN-127	Coriolis Ward	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/coriolis-ward-p24", "View on Index")
+TERA	PR	EN-128	Coronal of Rejuvenation	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/coronal-of-rejuvenation-p24", "View on Index")
+TERA	PR	EN-129	Devoted Bloomweaver	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/devoted-bloomweaver-p24", "View on Index")
+WIND	PR	EN-130	Eminent Commander	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/eminent-commander-p24", "View on Index")
+EXIA	PR	EN-131	Enrage	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/enrage-p24", "View on Index")
+TERA	PR	EN-132	Entrancing Filigree	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/entrancing-filigree-p24", "View on Index")
+NORM	PR	EN-133	Formidable Youxia	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/formidable-youxia-p24", "View on Index")
+NORM	PR	EN-134	Harmonious Mantra	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/harmonious-mantra-p24", "View on Index")
+NORM	PR	EN-136	Pierce the Heavens	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/pierce-the-heavens-p24", "View on Index")
+WIND	PR	EN-137	Reclaim	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/reclaim-p24", "View on Index")
+NORM	PR	EN-138	Safeguard Amulet	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/safeguard-amulet-p24", "View on Index")
+NORM	PR	EN-139	Safeguard Paladin	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/safeguard-paladin-p24", "View on Index")
+NORM	PR	EN-140	Savage Swing	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/savage-swing-p24", "View on Index")
+NORM	PR	EN-141	Shard of Empowerment	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/shard-of-empowerment-p24", "View on Index")
+	PR	EN-142	Shifting Currents	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/shifting-currents-p24", "View on Index")
+EXIA	PR	EN-143	Shuang Ji of Sacrifice	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/shuang-ji-of-sacrifice-p24", "View on Index")
+NORM	PR	EN-144	Slate Whetstone	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/slate-whetstone-p24", "View on Index")
+NORM	PR	EN-145	Spirited Neophyte	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/spirited-neophyte-p24", "View on Index")
+NORM	PR	EN-146	Steel Halberd	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/steel-halberd-p24", "View on Index")
+WATER	PR	EN-147	Sweet Ambrosia	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/sweet-ambrosia-p24", "View on Index")
+WATER	PR	EN-148	Taiji of Crystal Strategems	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/taiji-of-crystal-strategems-p24", "View on Index")
+WIND	CPR	EN-150	Brissa, Spirit of Wind (Ascent Toronto stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/brissa-spirit-of-wind-p24-cpr", "View on Index")
+WATER	PR	EN-151	Cone of Frost	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/cone-of-frost-p24", "View on Index")
+NORM	PR	EN-152	Staggering Strike	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/staggering-strike-p24", "View on Index")
+WATER	PR	EN-153	Lost in Thought	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/lost-in-thought-p24", "View on Index")
+WATER	CPR	EN-153	Lost in Thought	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/lost-in-thought-p24-cpr", "View on Index")
+NORM	PR	EN-154	Peer into Mana	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/peer-into-mana-p24", "View on Index")
+WATER	CPR	EN-155	Minthe, Spirit of Water (Ascent Santa Clara stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/minthe-spirit-of-water-p24-cpr", "View on Index")
+WATER	PR	EN-156	Revitalizing Cleanse	0	0	=HYPERLINK("https://index.gatcg.com/edition/revitalizing-cleanse-p24", "View on Index")
+WATER	CPR	EN-156	Revitalizing Cleanse	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/revitalizing-cleanse-p24-cpr", "View on Index")
+NORM	CPR	EN-157	Morrigan, Lost Spirit	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/morrigan-lost-spirit-p24-cpr", "View on Index")
+NORM	PR	EN-158	Nascent Blast	0	0	=HYPERLINK("https://index.gatcg.com/edition/nascent-blast-p24", "View on Index")
+NORM	CPR	EN-158	Nascent Blast (Ascent Ferocity stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/nascent-blast-p24-cpr", "View on Index")
+NORM	CPR	EN-158	Nascent Blast (Ascent Grace stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/nascent-blast-p24-cpr", "View on Index")
+NORM	CPR	EN-158	Nascent Blast (Ascent Valor stamp)	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/nascent-blast-p24-cpr", "View on Index")

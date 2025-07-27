@@ -1,32 +1,32 @@
-FIRE	C	EN-001	Spirit of Fire	0	N/A
-NORM	C	EN-002	Guo Jia, Chosen Disciple	0	N/A
-NORM	C	EN-003	Guo Jia, Blessed Scion	0	N/A
-LUXEM	C	EN-004	Guo Jia, Heaven's Favored	0	N/A
-NORM	SR	EN-005	Fated Keepsake	0	N/A
-NORM	C	EN-006	Life Essence Amulet	0	N/A
-NORM	R	EN-007	Portentous Tanggu	0	N/A
-NORM	R	EN-008	Rousing Rattle Drum	0	N/A
-NORM	C	EN-009	Tariff Ring	0	N/A
-FIRE	SR	EN-010	Band of Burning Verdict	0	N/A
-ARCANE	UR	EN-011	Fabled Azurite Fatestone	0	N/A
-LUXEM	SR	EN-012	Incandescent Reliquary	0	N/A
-NORM	U	EN-013	Companion Fatestone	0	N/A
-NORM	SR	EN-014	Craggy Fatestone	0	N/A
-NORM	U	EN-015	Expel the Departed	0	N/A
-NORM	U	EN-016	Fatestone of Revelations	0	N/A
-NORM	C	EN-017	Foraging Fox	0	N/A
-NORM	C	EN-018	Idle Thoughts	0	N/A
-NORM	U	EN-019	Journey's Beginning	0	N/A
-NORM	U	EN-020	Obscuring Threads	0	N/A
-NORM	U	EN-021	Strengthen the Bonds	0	N/A
-FIRE	R	EN-022	Broken Promises	0	N/A
-FIRE	R	EN-023	Fatestone of Unrelenting	0	N/A
-FIRE	R	EN-024	Flamewreath Call	0	N/A
-FIRE	R	EN-025	Lavaplume Fatestone	0	N/A
-FIRE	U	EN-026	Shatter the Brittle	0	N/A
-ARCANE	C	EN-027	Arcane Blast	0	N/A
-ARCANE	CSR	EN-027	Arcane Blast	N/A	0
-LUXEM	UR	EN-028	Advent of the Shenju	0	N/A
-LUXEM	SR	EN-029	Fatestone of Heaven	0	N/A
-LUXEM	R	EN-030	Light the Hunt	0	N/A
-LUXEM	U	EN-031	Peacock of Prosperity	0	N/A
+FIRE	C	EN-001	Spirit of Fire	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/spirit-of-fire-rec-hvf", "View on Index")
+NORM	C	EN-002	Guo Jia, Chosen Disciple	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/guo-jia-chosen-disciple-rec-hvf", "View on Index")
+NORM	C	EN-003	Guo Jia, Blessed Scion	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/guo-jia-blessed-scion-rec-hvf", "View on Index")
+LUXEM	C	EN-004	Guo Jia, Heaven's Favored	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/guo-jia-heavens-favored-rec-hvf", "View on Index")
+NORM	SR	EN-005	Fated Keepsake	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/fated-keepsake-rec-hvf", "View on Index")
+NORM	C	EN-006	Life Essence Amulet	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/life-essence-amulet-rec-hvf", "View on Index")
+NORM	R	EN-007	Portentous Tanggu	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/portentous-tanggu-rec-hvf", "View on Index")
+NORM	R	EN-008	Rousing Rattle Drum	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/rousing-rattle-drum-rec-hvf", "View on Index")
+NORM	C	EN-009	Tariff Ring	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/tariff-ring-rec-hvf", "View on Index")
+FIRE	SR	EN-010	Band of Burning Verdict	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/band-of-burning-verdict-rec-hvf", "View on Index")
+ARCANE	UR	EN-011	Fabled Azurite Fatestone	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/fabled-azurite-fatestone-rec-hvf", "View on Index")
+LUXEM	SR	EN-012	Incandescent Reliquary	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/incandescent-reliquary-rec-hvf", "View on Index")
+NORM	U	EN-013	Companion Fatestone	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/companion-fatestone-rec-hvf", "View on Index")
+NORM	SR	EN-014	Craggy Fatestone	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/craggy-fatestone-rec-hvf", "View on Index")
+NORM	U	EN-015	Expel the Departed	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/expel-the-departed-rec-hvf", "View on Index")
+NORM	U	EN-016	Fatestone of Revelations	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/fatestone-of-revelations-rec-hvf", "View on Index")
+NORM	C	EN-017	Foraging Fox	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/foraging-fox-rec-hvf", "View on Index")
+NORM	C	EN-018	Idle Thoughts	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/idle-thoughts-rec-hvf", "View on Index")
+NORM	U	EN-019	Journey's Beginning	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/journeys-beginning-rec-hvf", "View on Index")
+NORM	U	EN-020	Obscuring Threads	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/obscuring-threads-rec-hvf", "View on Index")
+NORM	U	EN-021	Strengthen the Bonds	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/strengthen-the-bonds-rec-hvf", "View on Index")
+FIRE	R	EN-022	Broken Promises	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/broken-promises-rec-hvf", "View on Index")
+FIRE	R	EN-023	Fatestone of Unrelenting	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/fatestone-of-unrelenting-rec-hvf", "View on Index")
+FIRE	R	EN-024	Flamewreath Call	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/flamewreath-call-rec-hvf", "View on Index")
+FIRE	R	EN-025	Lavaplume Fatestone	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/lavaplume-fatestone-rec-hvf", "View on Index")
+FIRE	U	EN-026	Shatter the Brittle	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/shatter-the-brittle-rec-hvf", "View on Index")
+ARCANE	C	EN-027	Arcane Blast	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/arcane-blast-rec-hvf", "View on Index")
+ARCANE	CSR	EN-027	Arcane Blast	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/arcane-blast-rec-hvf-csr", "View on Index")
+LUXEM	UR	EN-028	Advent of the Shenju	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/advent-of-the-shenju-rec-hvf", "View on Index")
+LUXEM	SR	EN-029	Fatestone of Heaven	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/fatestone-of-heaven-rec-hvf", "View on Index")
+LUXEM	R	EN-030	Light the Hunt	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/light-the-hunt-rec-hvf", "View on Index")
+LUXEM	U	EN-031	Peacock of Prosperity	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/peacock-of-prosperity-rec-hvf", "View on Index")

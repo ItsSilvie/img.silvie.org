@@ -1,20 +1,20 @@
-NORM	CSR	EN-004	Jin, Fate Defiant	N/A	0
-NORM	CSR	EN-005	Jin, Zealous Maverick	N/A	0
-NORM	CSR	EN-007	Kongming, Wayward Maven	N/A	0
-NORM	CSR	EN-008	Kongming, Ascetic Vice	N/A	0
-TERA	CUR	EN-009	Kongming, Fel Eidolon	N/A	0
-NORM	UR	EN-015	Imperial Seal	0	0
-FIRE	UR	EN-022	Dragon's Dawn	0	0
-WATER	UR	EN-025	Ebbing Tide	0	0
-WIND	UR	EN-028	Sundering Moon	0	0
-NORM	UR	EN-062	Mortal Ambition	0	0
-NORM	CSR	EN-084	Sun Quan, Sealbearer	N/A	0
-FIRE	CSR	EN-126	Xiao Qiao, Cinderkeeper	N/A	0
-WATER	CSR	EN-129	Cao Cao, Aspirant of Chaos	N/A	0
-WATER	CSR	EN-164	Xia Hou Dun, Gloryseeker	N/A	0
-WIND	CSR	EN-179	Guan Yu, Prime Exemplar	N/A	0
-WIND	CSR	EN-182	Liu Bei, Oathkeeper	N/A	0
-WIND	UR	EN-194	Three Visits	0	0
-WIND	CSR	EN-201	Zhang Fei, Spirited Steel	N/A	0
-EXIA	UR	EN-214	Zhao Yun, Dragonsblood	0	0
-TERA	UR	EN-220	Dong Zhou, False Liege	0	0
+NORM	CSR	EN-004	Jin, Fate Defiant	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/jin-fate-defiant-amb-csr", "View on Index")
+NORM	CSR	EN-005	Jin, Zealous Maverick	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/jin-zealous-maverick-amb-csr", "View on Index")
+NORM	CSR	EN-007	Kongming, Wayward Maven	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/kongming-wayward-maven-amb-csr", "View on Index")
+NORM	CSR	EN-008	Kongming, Ascetic Vice	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/kongming-ascetic-vice-amb-csr", "View on Index")
+TERA	CUR	EN-009	Kongming, Fel Eidolon	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/kongming-fel-eidolon-amb-cur", "View on Index")
+NORM	UR	EN-015	Imperial Seal	0	0	=HYPERLINK("https://index.gatcg.com/edition/imperial-seal-amb", "View on Index")
+FIRE	UR	EN-022	Dragon's Dawn	0	0	=HYPERLINK("https://index.gatcg.com/edition/dragons-dawn-amb", "View on Index")
+WATER	UR	EN-025	Ebbing Tide	0	0	=HYPERLINK("https://index.gatcg.com/edition/ebbing-tide-amb", "View on Index")
+WIND	UR	EN-028	Sundering Moon	0	0	=HYPERLINK("https://index.gatcg.com/edition/sundering-moon-amb", "View on Index")
+NORM	UR	EN-062	Mortal Ambition	0	0	=HYPERLINK("https://index.gatcg.com/edition/mortal-ambition-amb", "View on Index")
+NORM	CSR	EN-084	Sun Quan, Sealbearer	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/sun-quan-sealbearer-amb-csr", "View on Index")
+FIRE	CSR	EN-126	Xiao Qiao, Cinderkeeper	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/xiao-qiao-cinderkeeper-amb-csr", "View on Index")
+WATER	CSR	EN-129	Cao Cao, Aspirant of Chaos	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/cao-cao-aspirant-of-chaos-amb-csr", "View on Index")
+WATER	CSR	EN-164	Xia Hou Dun, Gloryseeker	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/xia-hou-dun-gloryseeker-amb-csr", "View on Index")
+WIND	CSR	EN-179	Guan Yu, Prime Exemplar	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/guan-yu-prime-exemplar-amb-csr", "View on Index")
+WIND	CSR	EN-182	Liu Bei, Oathkeeper	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/liu-bei-oathkeeper-amb-csr", "View on Index")
+WIND	UR	EN-194	Three Visits	0	0	=HYPERLINK("https://index.gatcg.com/edition/three-visits-amb", "View on Index")
+WIND	CSR	EN-201	Zhang Fei, Spirited Steel	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/zhang-fei-spirited-steel-amb-csr", "View on Index")
+EXIA	UR	EN-214	Zhao Yun, Dragonsblood	0	0	=HYPERLINK("https://index.gatcg.com/edition/zhao-yun-dragonsblood-amb", "View on Index")
+TERA	UR	EN-220	Dong Zhou, False Liege	0	0	=HYPERLINK("https://index.gatcg.com/edition/dong-zhou-false-liege-amb", "View on Index")

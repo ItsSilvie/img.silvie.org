@@ -1,29 +1,29 @@
-FIRE	C	EN-001	Spirit of Fire	0	N/A
-WIND	C	EN-002	Spirit of Wind	0	N/A
-NORM	C	EN-003	Lorraine, Wandering Warrior	0	N/A
-NORM	C	EN-004	Lorraine, Blademaster	0	N/A
-NORM	C	EN-005	Life Essence Amulet	0	N/A
-NORM	C	EN-006	Ornamental Greatsword	0	N/A
-NORM	U	EN-007	Sword of Seeking	0	N/A
-NORM	U	EN-008	Warrior's Longsword	0	N/A
-NORM	C	EN-009	Banner Knight	0	N/A
-NORM	C	EN-010	Crusader of Aesa	0	N/A
-NORM	C	EN-011	Deflecting Edge	0	N/A
-NORM	C	EN-012	Esteemed Knight	0	N/A
-NORM	C	EN-013	Honorable Vanguard	0	N/A
-NORM	C	EN-014	Inspiring Call	0	N/A
-NORM	C	EN-015	Savage Slash	0	N/A
-NORM	C	EN-016	Trusty Steed	0	N/A
-NORM	C	EN-017	Veteran Soldier	0	N/A
-FIRE	C	EN-018	Blazing Throw	0	N/A
-FIRE	U	EN-019	Fiery Momentum	0	N/A
-FIRE	C	EN-020	Flame-Rune Swordsman	0	N/A
-FIRE	U	EN-021	Hasty Messenger	0	N/A
-FIRE	U	EN-022	Strapping Conscript	0	N/A
-FIRE	U	EN-023	Tempered Steel	0	N/A
-WIND	C	EN-024	Favorable Winds	0	N/A
-WIND	U	EN-025	Reclaim	0	N/A
-WIND	U	EN-026	Second Wind	0	N/A
-WIND	C	EN-027	Swift Recruit	0	N/A
-WIND	C	EN-028	Wind Cutter	0	N/A
-WIND	C	EN-029	Windrider Vanguard	0	N/A
+FIRE	C	EN-001	Spirit of Fire	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/spirit-of-fire-demo23", "View on Index")
+WIND	C	EN-002	Spirit of Wind	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/spirit-of-wind-demo23", "View on Index")
+NORM	C	EN-003	Lorraine, Wandering Warrior	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/lorraine-wandering-warrior-demo23", "View on Index")
+NORM	C	EN-004	Lorraine, Blademaster	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/lorraine-blademaster-demo23", "View on Index")
+NORM	C	EN-005	Life Essence Amulet	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/life-essence-amulet-demo23", "View on Index")
+NORM	C	EN-006	Ornamental Greatsword	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/ornamental-greatsword-demo23", "View on Index")
+NORM	U	EN-007	Sword of Seeking	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/sword-of-seeking-demo23", "View on Index")
+NORM	U	EN-008	Warrior's Longsword	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/warriors-longsword-demo23", "View on Index")
+NORM	C	EN-009	Banner Knight	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/banner-knight-demo23", "View on Index")
+NORM	C	EN-010	Crusader of Aesa	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/crusader-of-aesa-demo23", "View on Index")
+NORM	C	EN-011	Deflecting Edge	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/deflecting-edge-demo23", "View on Index")
+NORM	C	EN-012	Esteemed Knight	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/esteemed-knight-demo23", "View on Index")
+NORM	C	EN-013	Honorable Vanguard	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/honorable-vanguard-demo23", "View on Index")
+NORM	C	EN-014	Inspiring Call	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/inspiring-call-demo23", "View on Index")
+NORM	C	EN-015	Savage Slash	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/savage-slash-demo23", "View on Index")
+NORM	C	EN-016	Trusty Steed	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/trusty-steed-demo23", "View on Index")
+NORM	C	EN-017	Veteran Soldier	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/veteran-soldier-demo23", "View on Index")
+FIRE	C	EN-018	Blazing Throw	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/blazing-throw-demo23", "View on Index")
+FIRE	U	EN-019	Fiery Momentum	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/fiery-momentum-demo23", "View on Index")
+FIRE	C	EN-020	Flame-Rune Swordsman	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/flame-rune-swordsman-demo23", "View on Index")
+FIRE	U	EN-021	Hasty Messenger	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/hasty-messenger-demo23", "View on Index")
+FIRE	U	EN-022	Strapping Conscript	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/strapping-conscript-demo23", "View on Index")
+FIRE	U	EN-023	Tempered Steel	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/tempered-steel-demo23", "View on Index")
+WIND	C	EN-024	Favorable Winds	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/favorable-winds-demo23", "View on Index")
+WIND	U	EN-025	Reclaim	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/reclaim-demo23", "View on Index")
+WIND	U	EN-026	Second Wind	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/second-wind-demo23", "View on Index")
+WIND	C	EN-027	Swift Recruit	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/swift-recruit-demo23", "View on Index")
+WIND	C	EN-028	Wind Cutter	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/wind-cutter-demo23", "View on Index")
+WIND	C	EN-029	Windrider Vanguard	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/windrider-vanguard-demo23", "View on Index")

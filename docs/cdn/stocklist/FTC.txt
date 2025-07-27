@@ -1,98 +1,98 @@
-FIRE	UR	EN-001	Spirit of Serene Fire	0	0
-WATER	UR	EN-002	Spirit of Serene Water	0	0
-WIND	UR	EN-003	Spirit of Serene Wind	0	0
-CRUX	SR	EN-004	Merlin, Kingslayer	0	0
-CRUX	CSR	EN-004A	Merlin, Kingslayer	N/A	0
-CRUX	CSR	EN-004B	Merlin, Kingslayer	N/A	0
-NORM	U	EN-005	Azure Protective Trinket	0	0
-NORM	U	EN-006	Crimson Protective Trinket	0	0
-NORM	UR	EN-007	Quicksilver Grail	0	N/A
-NORM	C	EN-008	Tariff Ring	0	0
-NORM	C	EN-009	Tithe Proclamation	0	0
-NORM	U	EN-010	Viridian Protective Trinket	0	0
-FIRE	R	EN-011	Beastsoul Visage	0	0
-FIRE	R	EN-012	Explosive Rune	0	0
-FIRE	R	EN-013	Firetongue	0	0
-FIRE	SR	EN-014	Varuckan Soulknife	0	0
-WATER	SR	EN-015	Arondight, Azure Blade	0	0
-WATER	R	EN-016	Cloak of Stillwater	0	0
-WATER	R	EN-017	Wand of Frost	0	0
-WATER	R	EN-018	Wildheart Lyre	0	0
-WIND	SR	EN-019	Effigy of Gaia	0	0
-WIND	SR	EN-020	Ventus, Staff of Zephyrs	0	0
-WIND	R	EN-021	Windwalker Boots	0	0
-WIND	R	EN-022	Zephyr's Edge	0	0
-CRUX	UR	EN-023	The Majestic Spirit	0	0
-CRUX	CSR	EN-023	The Majestic Spirit	N/A	0
-LUXEM	UR	EN-024	Fractured Crown	0	0
-TERA	R	EN-025	Covenant of Thorns	0	0
-NORM	SR	EN-026	Bedivere, Woodland Overseer	0	0
-NORM	CSR	EN-026	Bedivere, Woodland Overseer	N/A	0
-NORM	SR	EN-027	Blanche, Sheltering Saint	0	0
-NORM	CSR	EN-027	Blanche, Sheltering Saint	N/A	0
-NORM	C	EN-028	Capricious Lynx	0	0
-NORM	C	EN-029	Cunning Broker	0	0
-NORM	SR	EN-030	Dawn of Ashes	0	0
-NORM	C	EN-031	Develop Mana	0	0
-NORM	C	EN-032	Fast Cure	0	0
-NORM	C	EN-033	Fractal of Insight	0	0
-NORM	SR	EN-034	Gawain, Chivalrous Thief	0	0
-NORM	R	EN-035	Gentle Respite	0	0
-NORM	C	EN-036	Imperious Highlander	0	0
-NORM	SR	EN-037	Lancelot, Goliath of Aesa	0	0
-NORM	CSR	EN-037	Lancelot, Goliath of Aesa	N/A	0
-NORM	C	EN-038	Lurking Assailant	0	0
-NORM	SR	EN-039	Morgan, Soul Guide	0	0
-NORM	CSR	EN-039	Morgan, Soul Guide	N/A	0
-NORM	C	EN-040	Ordinary Bear	0	0
-NORM	C	EN-041	Peaceful Reunion	0	0
-NORM	SR	EN-042	Prismatic Sanctuary	0	0
-NORM	U	EN-043	Resolute Stand	0	0
-NORM	UR	EN-044	Right of Realm	0	0
-NORM	C	EN-045	Scavenging Raccoon	0	0
-NORM	C	EN-046	Seeking Shot	0	0
-NORM	C	EN-047	Stalwart Shieldmate	0	0
-NORM	C	EN-048	Steady Verse	0	0
-NORM	C	EN-049	Thieving Cut	0	0
-FIRE	C	EN-050	Blazing Bowman	0	0
-FIRE	U	EN-051	Corhazi Arsonist	0	0
-FIRE	C	EN-052	Flamebreak Chorus	0	0
-FIRE	C	EN-053	Hone by Fire	0	0
-FIRE	C	EN-054	Incendiary Fractal	0	0
-FIRE	R	EN-055	Innervate Fury	0	0
-FIRE	U	EN-056	Red Slime	0	0
-FIRE	U	EN-057	Varuckan Acolyte	0	0
-WATER	U	EN-058	Corhazi Trapper	0	0
-WATER	C	EN-059	Deep Sea Fractal	0	0
-WATER	R	EN-060	Fractal of Intrusion	0	0
-WATER	R	EN-061	Fracturize	0	0
-WATER	U	EN-062	Frostbind	0	0
-WATER	U	EN-063	Frostbinder Apostle	0	0
-WATER	U	EN-064	Guarded Dissipation	0	0
-WATER	R	EN-065	Innervate Knowledge	0	0
-WATER	U	EN-066	Ocean's Blessing	0	0
-WATER	C	EN-067	Protective Fractal	0	0
-WATER	U	EN-068	Refracting Missile	0	0
-WATER	C	EN-069	Riptide Slash	0	0
-WATER	C	EN-070	Song of Frost	0	0
-WIND	C	EN-071	Anthem of Vitality	0	0
-WIND	U	EN-072	Corhazi Outlook	0	0
-WIND	C	EN-073	Dematerialize	0	0
-WIND	R	EN-074	Displace	0	0
-WIND	U	EN-075	Green Slime	0	0
-WIND	R	EN-076	Innervate Agility	0	0
-WIND	C	EN-077	Intrepid Spearman	0	0
-WIND	C	EN-078	Mark of Fervor	0	0
-WIND	R	EN-079	Parcenet, Royal Maid	0	0
-WIND	U	EN-080	Rally the Peasants	0	0
-WIND	U	EN-081	Scatter Essence	0	0
-WIND	U	EN-082	Windrider Invoker	0	0
-ARCANE	R	EN-083	Shock Therapy	0	0
-ARCANE	SR	EN-084	Voltaic Sphere	0	0
-CRUX	SR	EN-085	Incarnate Majesty	0	0
-CRUX	R	EN-086	Slay the King	0	0
-LUXEM	R	EN-087	Illuminate Secrets	0	0
-LUXEM	SR	EN-088	Uther, Illustrious King	0	0
-TERA	R	EN-089	Avatar of Gaia	0	0
-TERA	SR	EN-090	Kraal, Stonescale Tyrant	0	0
-TERA	CSR	EN-090	Kraal, Stonescale Tyrant	N/A	0
+FIRE	UR	EN-001	Spirit of Serene Fire	0	0	=HYPERLINK("https://index.gatcg.com/edition/spirit-of-serene-fire-ftc", "View on Index")
+WATER	UR	EN-002	Spirit of Serene Water	0	0	=HYPERLINK("https://index.gatcg.com/edition/spirit-of-serene-water-ftc", "View on Index")
+WIND	UR	EN-003	Spirit of Serene Wind	0	0	=HYPERLINK("https://index.gatcg.com/edition/spirit-of-serene-wind-ftc", "View on Index")
+CRUX	SR	EN-004	Merlin, Kingslayer	0	0	=HYPERLINK("https://index.gatcg.com/edition/merlin-kingslayer-ftc", "View on Index")
+CRUX	CSR	EN-004A	Merlin, Kingslayer	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/merlin-kingslayer-ftc-csra", "View on Index")
+CRUX	CSR	EN-004B	Merlin, Kingslayer	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/merlin-kingslayer-ftc-csrb", "View on Index")
+NORM	U	EN-005	Azure Protective Trinket	0	0	=HYPERLINK("https://index.gatcg.com/edition/azure-protective-trinket-ftc", "View on Index")
+NORM	U	EN-006	Crimson Protective Trinket	0	0	=HYPERLINK("https://index.gatcg.com/edition/crimson-protective-trinket-ftc", "View on Index")
+NORM	UR	EN-007	Quicksilver Grail	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/quicksilver-grail-ftc", "View on Index")
+NORM	C	EN-008	Tariff Ring	0	0	=HYPERLINK("https://index.gatcg.com/edition/tariff-ring-ftc", "View on Index")
+NORM	C	EN-009	Tithe Proclamation	0	0	=HYPERLINK("https://index.gatcg.com/edition/tithe-proclamation-ftc", "View on Index")
+NORM	U	EN-010	Viridian Protective Trinket	0	0	=HYPERLINK("https://index.gatcg.com/edition/viridian-protective-trinket-ftc", "View on Index")
+FIRE	R	EN-011	Beastsoul Visage	0	0	=HYPERLINK("https://index.gatcg.com/edition/beastsoul-visage-ftc", "View on Index")
+FIRE	R	EN-012	Explosive Rune	0	0	=HYPERLINK("https://index.gatcg.com/edition/explosive-rune-ftc", "View on Index")
+FIRE	R	EN-013	Firetongue	0	0	=HYPERLINK("https://index.gatcg.com/edition/firetongue-ftc", "View on Index")
+FIRE	SR	EN-014	Varuckan Soulknife	0	0	=HYPERLINK("https://index.gatcg.com/edition/varuckan-soulknife-ftc", "View on Index")
+WATER	SR	EN-015	Arondight, Azure Blade	0	0	=HYPERLINK("https://index.gatcg.com/edition/arondight-azure-blade-ftc", "View on Index")
+WATER	R	EN-016	Cloak of Stillwater	0	0	=HYPERLINK("https://index.gatcg.com/edition/cloak-of-stillwater-ftc", "View on Index")
+WATER	R	EN-017	Wand of Frost	0	0	=HYPERLINK("https://index.gatcg.com/edition/wand-of-frost-ftc", "View on Index")
+WATER	R	EN-018	Wildheart Lyre	0	0	=HYPERLINK("https://index.gatcg.com/edition/wildheart-lyre-ftc", "View on Index")
+WIND	SR	EN-019	Effigy of Gaia	0	0	=HYPERLINK("https://index.gatcg.com/edition/effigy-of-gaia-ftc", "View on Index")
+WIND	SR	EN-020	Ventus, Staff of Zephyrs	0	0	=HYPERLINK("https://index.gatcg.com/edition/ventus-staff-of-zephyrs-ftc", "View on Index")
+WIND	R	EN-021	Windwalker Boots	0	0	=HYPERLINK("https://index.gatcg.com/edition/windwalker-boots-ftc", "View on Index")
+WIND	R	EN-022	Zephyr's Edge	0	0	=HYPERLINK("https://index.gatcg.com/edition/zephyrs-edge-ftc", "View on Index")
+CRUX	UR	EN-023	The Majestic Spirit	0	0	=HYPERLINK("https://index.gatcg.com/edition/the-majestic-spirit-ftc", "View on Index")
+CRUX	CSR	EN-023	The Majestic Spirit	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/the-majestic-spirit-ftc-csr", "View on Index")
+LUXEM	UR	EN-024	Fractured Crown	0	0	=HYPERLINK("https://index.gatcg.com/edition/fractured-crown-ftc", "View on Index")
+TERA	R	EN-025	Covenant of Thorns	0	0	=HYPERLINK("https://index.gatcg.com/edition/covenant-of-thorns-ftc", "View on Index")
+NORM	SR	EN-026	Bedivere, Woodland Overseer	0	0	=HYPERLINK("https://index.gatcg.com/edition/bedivere-woodland-overseer-ftc", "View on Index")
+NORM	CSR	EN-026	Bedivere, Woodland Overseer	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/bedivere-woodland-overseer-ftc-csr", "View on Index")
+NORM	SR	EN-027	Blanche, Sheltering Saint	0	0	=HYPERLINK("https://index.gatcg.com/edition/blanche-sheltering-saint-ftc", "View on Index")
+NORM	CSR	EN-027	Blanche, Sheltering Saint	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/blanche-sheltering-saint-ftc-csr", "View on Index")
+NORM	C	EN-028	Capricious Lynx	0	0	=HYPERLINK("https://index.gatcg.com/edition/capricious-lynx-ftc", "View on Index")
+NORM	C	EN-029	Cunning Broker	0	0	=HYPERLINK("https://index.gatcg.com/edition/cunning-broker-ftc", "View on Index")
+NORM	SR	EN-030	Dawn of Ashes	0	0	=HYPERLINK("https://index.gatcg.com/edition/dawn-of-ashes-ftc", "View on Index")
+NORM	C	EN-031	Develop Mana	0	0	=HYPERLINK("https://index.gatcg.com/edition/develop-mana-ftc", "View on Index")
+NORM	C	EN-032	Fast Cure	0	0	=HYPERLINK("https://index.gatcg.com/edition/fast-cure-ftc", "View on Index")
+NORM	C	EN-033	Fractal of Insight	0	0	=HYPERLINK("https://index.gatcg.com/edition/fractal-of-insight-ftc", "View on Index")
+NORM	SR	EN-034	Gawain, Chivalrous Thief	0	0	=HYPERLINK("https://index.gatcg.com/edition/gawain-chivalrous-thief-ftc", "View on Index")
+NORM	R	EN-035	Gentle Respite	0	0	=HYPERLINK("https://index.gatcg.com/edition/gentle-respite-ftc", "View on Index")
+NORM	C	EN-036	Imperious Highlander	0	0	=HYPERLINK("https://index.gatcg.com/edition/imperious-highlander-ftc", "View on Index")
+NORM	SR	EN-037	Lancelot, Goliath of Aesa	0	0	=HYPERLINK("https://index.gatcg.com/edition/lancelot-goliath-of-aesa-ftc", "View on Index")
+NORM	CSR	EN-037	Lancelot, Goliath of Aesa	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/lancelot-goliath-of-aesa-ftc-csr", "View on Index")
+NORM	C	EN-038	Lurking Assailant	0	0	=HYPERLINK("https://index.gatcg.com/edition/lurking-assailant-ftc", "View on Index")
+NORM	SR	EN-039	Morgan, Soul Guide	0	0	=HYPERLINK("https://index.gatcg.com/edition/morgan-soul-guide-ftc", "View on Index")
+NORM	CSR	EN-039	Morgan, Soul Guide	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/morgan-soul-guide-ftc-csr", "View on Index")
+NORM	C	EN-040	Ordinary Bear	0	0	=HYPERLINK("https://index.gatcg.com/edition/ordinary-bear-ftc", "View on Index")
+NORM	C	EN-041	Peaceful Reunion	0	0	=HYPERLINK("https://index.gatcg.com/edition/peaceful-reunion-ftc", "View on Index")
+NORM	SR	EN-042	Prismatic Sanctuary	0	0	=HYPERLINK("https://index.gatcg.com/edition/prismatic-sanctuary-ftc", "View on Index")
+NORM	U	EN-043	Resolute Stand	0	0	=HYPERLINK("https://index.gatcg.com/edition/resolute-stand-ftc", "View on Index")
+NORM	UR	EN-044	Right of Realm	0	0	=HYPERLINK("https://index.gatcg.com/edition/right-of-realm-ftc", "View on Index")
+NORM	C	EN-045	Scavenging Raccoon	0	0	=HYPERLINK("https://index.gatcg.com/edition/scavenging-raccoon-ftc", "View on Index")
+NORM	C	EN-046	Seeking Shot	0	0	=HYPERLINK("https://index.gatcg.com/edition/seeking-shot-ftc", "View on Index")
+NORM	C	EN-047	Stalwart Shieldmate	0	0	=HYPERLINK("https://index.gatcg.com/edition/stalwart-shieldmate-ftc", "View on Index")
+NORM	C	EN-048	Steady Verse	0	0	=HYPERLINK("https://index.gatcg.com/edition/steady-verse-ftc", "View on Index")
+NORM	C	EN-049	Thieving Cut	0	0	=HYPERLINK("https://index.gatcg.com/edition/thieving-cut-ftc", "View on Index")
+FIRE	C	EN-050	Blazing Bowman	0	0	=HYPERLINK("https://index.gatcg.com/edition/blazing-bowman-ftc", "View on Index")
+FIRE	U	EN-051	Corhazi Arsonist	0	0	=HYPERLINK("https://index.gatcg.com/edition/corhazi-arsonist-ftc", "View on Index")
+FIRE	C	EN-052	Flamebreak Chorus	0	0	=HYPERLINK("https://index.gatcg.com/edition/flamebreak-chorus-ftc", "View on Index")
+FIRE	C	EN-053	Hone by Fire	0	0	=HYPERLINK("https://index.gatcg.com/edition/hone-by-fire-ftc", "View on Index")
+FIRE	C	EN-054	Incendiary Fractal	0	0	=HYPERLINK("https://index.gatcg.com/edition/incendiary-fractal-ftc", "View on Index")
+FIRE	R	EN-055	Innervate Fury	0	0	=HYPERLINK("https://index.gatcg.com/edition/innervate-fury-ftc", "View on Index")
+FIRE	U	EN-056	Red Slime	0	0	=HYPERLINK("https://index.gatcg.com/edition/red-slime-ftc", "View on Index")
+FIRE	U	EN-057	Varuckan Acolyte	0	0	=HYPERLINK("https://index.gatcg.com/edition/varuckan-acolyte-ftc", "View on Index")
+WATER	U	EN-058	Corhazi Trapper	0	0	=HYPERLINK("https://index.gatcg.com/edition/corhazi-trapper-ftc", "View on Index")
+WATER	C	EN-059	Deep Sea Fractal	0	0	=HYPERLINK("https://index.gatcg.com/edition/deep-sea-fractal-ftc", "View on Index")
+WATER	R	EN-060	Fractal of Intrusion	0	0	=HYPERLINK("https://index.gatcg.com/edition/fractal-of-intrusion-ftc", "View on Index")
+WATER	R	EN-061	Fracturize	0	0	=HYPERLINK("https://index.gatcg.com/edition/fracturize-ftc", "View on Index")
+WATER	U	EN-062	Frostbind	0	0	=HYPERLINK("https://index.gatcg.com/edition/frostbind-ftc", "View on Index")
+WATER	U	EN-063	Frostbinder Apostle	0	0	=HYPERLINK("https://index.gatcg.com/edition/frostbinder-apostle-ftc", "View on Index")
+WATER	U	EN-064	Guarded Dissipation	0	0	=HYPERLINK("https://index.gatcg.com/edition/guarded-dissipation-ftc", "View on Index")
+WATER	R	EN-065	Innervate Knowledge	0	0	=HYPERLINK("https://index.gatcg.com/edition/innervate-knowledge-ftc", "View on Index")
+WATER	U	EN-066	Ocean's Blessing	0	0	=HYPERLINK("https://index.gatcg.com/edition/oceans-blessing-ftc", "View on Index")
+WATER	C	EN-067	Protective Fractal	0	0	=HYPERLINK("https://index.gatcg.com/edition/protective-fractal-ftc", "View on Index")
+WATER	U	EN-068	Refracting Missile	0	0	=HYPERLINK("https://index.gatcg.com/edition/refracting-missile-ftc", "View on Index")
+WATER	C	EN-069	Riptide Slash	0	0	=HYPERLINK("https://index.gatcg.com/edition/riptide-slash-ftc", "View on Index")
+WATER	C	EN-070	Song of Frost	0	0	=HYPERLINK("https://index.gatcg.com/edition/song-of-frost-ftc", "View on Index")
+WIND	C	EN-071	Anthem of Vitality	0	0	=HYPERLINK("https://index.gatcg.com/edition/anthem-of-vitality-ftc", "View on Index")
+WIND	U	EN-072	Corhazi Outlook	0	0	=HYPERLINK("https://index.gatcg.com/edition/corhazi-outlook-ftc", "View on Index")
+WIND	C	EN-073	Dematerialize	0	0	=HYPERLINK("https://index.gatcg.com/edition/dematerialize-ftc", "View on Index")
+WIND	R	EN-074	Displace	0	0	=HYPERLINK("https://index.gatcg.com/edition/displace-ftc", "View on Index")
+WIND	U	EN-075	Green Slime	0	0	=HYPERLINK("https://index.gatcg.com/edition/green-slime-ftc", "View on Index")
+WIND	R	EN-076	Innervate Agility	0	0	=HYPERLINK("https://index.gatcg.com/edition/innervate-agility-ftc", "View on Index")
+WIND	C	EN-077	Intrepid Spearman	0	0	=HYPERLINK("https://index.gatcg.com/edition/intrepid-spearman-ftc", "View on Index")
+WIND	C	EN-078	Mark of Fervor	0	0	=HYPERLINK("https://index.gatcg.com/edition/mark-of-fervor-ftc", "View on Index")
+WIND	R	EN-079	Parcenet, Royal Maid	0	0	=HYPERLINK("https://index.gatcg.com/edition/parcenet-royal-maid-ftc", "View on Index")
+WIND	U	EN-080	Rally the Peasants	0	0	=HYPERLINK("https://index.gatcg.com/edition/rally-the-peasants-ftc", "View on Index")
+WIND	U	EN-081	Scatter Essence	0	0	=HYPERLINK("https://index.gatcg.com/edition/scatter-essence-ftc", "View on Index")
+WIND	U	EN-082	Windrider Invoker	0	0	=HYPERLINK("https://index.gatcg.com/edition/windrider-invoker-ftc", "View on Index")
+ARCANE	R	EN-083	Shock Therapy	0	0	=HYPERLINK("https://index.gatcg.com/edition/shock-therapy-ftc", "View on Index")
+ARCANE	SR	EN-084	Voltaic Sphere	0	0	=HYPERLINK("https://index.gatcg.com/edition/voltaic-sphere-ftc", "View on Index")
+CRUX	SR	EN-085	Incarnate Majesty	0	0	=HYPERLINK("https://index.gatcg.com/edition/incarnate-majesty-ftc", "View on Index")
+CRUX	R	EN-086	Slay the King	0	0	=HYPERLINK("https://index.gatcg.com/edition/slay-the-king-ftc", "View on Index")
+LUXEM	R	EN-087	Illuminate Secrets	0	0	=HYPERLINK("https://index.gatcg.com/edition/illuminate-secrets-ftc", "View on Index")
+LUXEM	SR	EN-088	Uther, Illustrious King	0	0	=HYPERLINK("https://index.gatcg.com/edition/uther-illustrious-king-ftc", "View on Index")
+TERA	R	EN-089	Avatar of Gaia	0	0	=HYPERLINK("https://index.gatcg.com/edition/avatar-of-gaia-ftc", "View on Index")
+TERA	SR	EN-090	Kraal, Stonescale Tyrant	0	0	=HYPERLINK("https://index.gatcg.com/edition/kraal-stonescale-tyrant-ftc", "View on Index")
+TERA	CSR	EN-090	Kraal, Stonescale Tyrant	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/kraal-stonescale-tyrant-ftc-csr", "View on Index")

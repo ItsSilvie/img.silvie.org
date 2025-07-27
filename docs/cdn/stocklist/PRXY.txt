@@ -1,8 +1,11 @@
-WATER	PR	EN-001B	Scepter of Lumina	0	N/A
-TERA	PR	EN-002B	Stonescale Band	0	N/A
-LUXEM	PR	EN-003	Insignia of the Corhazi	0	N/A
-NORM	PR	EN-004	Viridian Protective Trinket	0	N/A
-NORM	PR	EN-005	Zander, Deft Executor	0	N/A
-NORM	PR	EN-006B	Polaris, Twinkling Cauldron	0	N/A
-NORM	PR	EN-007	Reciprocity, Dorumegia's Call	N/A	N/A
-NORM	PR	EN-008	Clarent, Reimagined	N/A	N/A
+WATER	PR	EN-001B	Scepter of Lumina (Original "001" variant)	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/scepter-of-lumina-prxy", "View on Index")
+WATER	PR	EN-001B	Scepter of Lumina	N/A	N/A	=HYPERLINK("https://index.gatcg.com/edition/scepter-of-lumina-prxy", "View on Index")
+TERA	PR	EN-002B	Stonescale Band (Original "002" variant)	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/stonescale-band-prxy", "View on Index")
+TERA	PR	EN-002B	Stonescale Band	N/A	N/A	=HYPERLINK("https://index.gatcg.com/edition/stonescale-band-prxy", "View on Index")
+LUXEM	PR	EN-003	Insignia of the Corhazi	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/insignia-of-the-corhazi-prxy", "View on Index")
+NORM	PR	EN-004	Viridian Protective Trinket	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/viridian-protective-trinket-prxy", "View on Index")
+NORM	PR	EN-005	Zander, Deft Executor	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/zander-deft-executor-prxy", "View on Index")
+NORM	PR	EN-006B	Polaris, Twinkling Cauldron (Original "006" variant)	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/polaris-twinkling-cauldron-prxy", "View on Index")
+NORM	PR	EN-006B	Polaris, Twinkling Cauldron	N/A	N/A	=HYPERLINK("https://index.gatcg.com/edition/polaris-twinkling-cauldron-prxy", "View on Index")
+NORM	PR	EN-007	Reciprocity, Dorumegia's Call	N/A	N/A	=HYPERLINK("https://index.gatcg.com/edition/reciprocity-dorumegias-call-prxy", "View on Index")
+NORM	PR	EN-008	Clarent, Reimagined	N/A	N/A	=HYPERLINK("https://index.gatcg.com/edition/clarent-reimagined-prxy", "View on Index")

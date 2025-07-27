@@ -1,34 +1,34 @@
-WIND	C	EN-001	Spirit of Wind	0	N/A
-NORM	C	EN-002	Tristan, Underhanded	0	N/A
-NORM	C	EN-003	Tristan, Hired Blade	0	N/A
-UMBRA	SR	EN-004	Tristan, Shadowdancer	0	N/A
-UMBRA	CSR	EN-004	Tristan, Shadowdancer	N/A	0
-NORM	R	EN-005	Assassin's Mantle	0	N/A
-NORM	U	EN-006	Curved Dagger	0	N/A
-NORM	C	EN-007	Life Essence Amulet	0	N/A
-NORM	U	EN-008	Poisoned Dagger	0	N/A
-WIND	R	EN-009	Gearstride Gloves	0	N/A
-UMBRA	SR	EN-010	Dusksoul Stone	0	N/A
-UMBRA	SR	EN-011	Malignant Athame	0	N/A
-UMBRA	R	EN-012	Shadeblood Coating	0	N/A
-NORM	U	EN-013	Exploit Vulnerability	0	N/A
-NORM	C	EN-014	Idle Thoughts	0	N/A
-NORM	R	EN-015	Incapacitate	0	N/A
-NORM	SR	EN-016	Mastermind Scheme	0	N/A
-NORM	U	EN-017	Sable Remnant	0	N/A
-NORM	U	EN-018	Slice and Dice	0	N/A
-NORM	C	EN-019	Thieving Cut	0	N/A
-WIND	U	EN-020	Arrow Trap	0	N/A
-WIND	U	EN-021	Betraying Blade	0	N/A
-WIND	U	EN-022	Cloaked Executioner	0	N/A
-WIND	C	EN-023	Shimmercloak Assassin	0	N/A
-WIND	U	EN-024	Sirocco Operative	0	N/A
-WIND	R	EN-025	Stifling Trap	0	N/A
-WIND	U	EN-026	Surveil the Winds	0	N/A
-UMBRA	R	EN-027	Gloamspire Headhunter	0	N/A
-UMBRA	SR	EN-028	Grim Foreboding	0	N/A
-UMBRA	R	EN-029	Haunting Demise	0	N/A
-UMBRA	C	EN-030	Ominous Shadow	0	N/A
-UMBRA	UR	EN-031	Shadow Resonance	0	N/A
-UMBRA	SR	EN-032	Shadowstrike	0	N/A
-UMBRA	SR	EN-033	Shifting Mirage	0	N/A
+WIND	C	EN-001	Spirit of Wind	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/spirit-of-wind-rec-shd", "View on Index")
+NORM	C	EN-002	Tristan, Underhanded	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/tristan-underhanded-rec-shd", "View on Index")
+NORM	C	EN-003	Tristan, Hired Blade	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/tristan-hired-blade-rec-shd", "View on Index")
+UMBRA	SR	EN-004	Tristan, Shadowdancer	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/tristan-shadowdancer-rec-shd", "View on Index")
+UMBRA	CSR	EN-004	Tristan, Shadowdancer	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/tristan-shadowdancer-rec-shd-csr", "View on Index")
+NORM	R	EN-005	Assassin's Mantle	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/assassins-mantle-rec-shd", "View on Index")
+NORM	U	EN-006	Curved Dagger	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/curved-dagger-rec-shd", "View on Index")
+NORM	C	EN-007	Life Essence Amulet	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/life-essence-amulet-rec-shd", "View on Index")
+NORM	U	EN-008	Poisoned Dagger	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/poisoned-dagger-rec-shd", "View on Index")
+WIND	R	EN-009	Gearstride Gloves	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/gearstride-gloves-rec-shd", "View on Index")
+UMBRA	SR	EN-010	Dusksoul Stone	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/dusksoul-stone-rec-shd", "View on Index")
+UMBRA	SR	EN-011	Malignant Athame	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/malignant-athame-rec-shd", "View on Index")
+UMBRA	R	EN-012	Shadeblood Coating	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/shadeblood-coating-rec-shd", "View on Index")
+NORM	U	EN-013	Exploit Vulnerability	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/exploit-vulnerability-rec-shd", "View on Index")
+NORM	C	EN-014	Idle Thoughts	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/idle-thoughts-rec-shd", "View on Index")
+NORM	R	EN-015	Incapacitate	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/incapacitate-rec-shd", "View on Index")
+NORM	SR	EN-016	Mastermind Scheme	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/mastermind-scheme-rec-shd", "View on Index")
+NORM	U	EN-017	Sable Remnant	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/sable-remnant-rec-shd", "View on Index")
+NORM	U	EN-018	Slice and Dice	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/slice-and-dice-rec-shd", "View on Index")
+NORM	C	EN-019	Thieving Cut	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/thieving-cut-rec-shd", "View on Index")
+WIND	U	EN-020	Arrow Trap	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/arrow-trap-rec-shd", "View on Index")
+WIND	U	EN-021	Betraying Blade	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/betraying-blade-rec-shd", "View on Index")
+WIND	U	EN-022	Cloaked Executioner	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/cloaked-executioner-rec-shd", "View on Index")
+WIND	C	EN-023	Shimmercloak Assassin	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/shimmercloak-assassin-rec-shd", "View on Index")
+WIND	U	EN-024	Sirocco Operative	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/sirocco-operative-rec-shd", "View on Index")
+WIND	R	EN-025	Stifling Trap	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/stifling-trap-rec-shd", "View on Index")
+WIND	U	EN-026	Surveil the Winds	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/surveil-the-winds-rec-shd", "View on Index")
+UMBRA	R	EN-027	Gloamspire Headhunter	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/gloamspire-headhunter-rec-shd", "View on Index")
+UMBRA	SR	EN-028	Grim Foreboding	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/grim-foreboding-rec-shd", "View on Index")
+UMBRA	R	EN-029	Haunting Demise	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/haunting-demise-rec-shd", "View on Index")
+UMBRA	C	EN-030	Ominous Shadow	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/ominous-shadow-rec-shd", "View on Index")
+UMBRA	UR	EN-031	Shadow Resonance	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/shadow-resonance-rec-shd", "View on Index")
+UMBRA	SR	EN-032	Shadowstrike	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/shadowstrike-rec-shd", "View on Index")
+UMBRA	SR	EN-033	Shifting Mirage	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/shifting-mirage-rec-shd", "View on Index")

@@ -1,41 +1,41 @@
-WATER	C	EN-001	Spirit of Water	0	N/A
-NORM	C	EN-002	Diao Chan, Enchantress	0	N/A
-NORM	C	EN-003	Diao Chan, Dreaming Wish	0	N/A
-TERA	C	EN-004	Diao Chan, Idyll Corsage	0	N/A
-NORM	U	EN-005	Cleric Robes	0	N/A
-NORM	U	EN-006	Glimmer Essence Amulet	0	N/A
-NORM	R	EN-007	Scepter of Fascination	0	N/A
-NORM	C	EN-008	Tariff Ring	0	N/A
-WATER	R	EN-009	Crystalline Mirror	0	N/A
-WATER	R	EN-010	Hairpin of Transience	0	N/A
-TERA	SR	EN-011	Kaleidoscope Barrette	0	N/A
-TERA	SR	EN-012	Staff of Blossoming Will	0	N/A
-NORM	C	EN-013	Fractal of Insight	0	N/A
-NORM	C	EN-014	Idle Thoughts	0	N/A
-NORM	U	EN-015	Shimmering Refraction	0	N/A
-NORM	R	EN-016	Unstable Fractal	0	N/A
-WATER	R	EN-017	Acquiescing Rejection	0	N/A
-WATER	U	EN-018	Chill to the Bone	0	N/A
-WATER	U	EN-019	Dissuading Halt	0	N/A
-WATER	U	EN-020	Eventide Lure	0	N/A
-WATER	SR	EN-021	Fractal of Refreshment	0	N/A
-WATER	U	EN-022	Frostbind	0	N/A
-WATER	R	EN-023	Frostlorn Caress	0	N/A
-WATER	SR	EN-024	Frostnip Pirouette	0	N/A
-WATER	R	EN-025	Glimmering Refusal	0	N/A
-WATER	C	EN-026	Protective Fractal	0	N/A
-WATER	SR	EN-027	Redirect Flow	0	N/A
-WATER	C	EN-028	Refracting Missile	0	N/A
-WATER	C	EN-029	Torpid Fractal	0	N/A
-TERA	C	EN-030	Baihua	0	N/A
-TERA	SR	EN-031	Bloom: Summer's Glow	0	N/A
-TERA	SR	EN-032	Bloom: Winter's Chill	0	N/A
-TERA	SR	EN-033	Blossoming Denial	0	N/A
-TERA	C	EN-034	Flowerbud	0	N/A
-TERA	C	EN-035	Floodbloom	0	N/A
-TERA	C	EN-036	Lycoria	0	N/A
-TERA	C	EN-037	Nightshade	0	N/A
-TERA	R	EN-038	Ripples of Atrophy	0	N/A
-TERA	UR	EN-039	Season's End	0	N/A
-TERA	CSR	EN-039	Season's End	N/A	0
-TERA	SR	EN-040	Shriveling Vines	0	N/A
+WATER	C	EN-001	Spirit of Water	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/spirit-of-water-rec-idy", "View on Index")
+NORM	C	EN-002	Diao Chan, Enchantress	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/diao-chan-enchantress-rec-idy", "View on Index")
+NORM	C	EN-003	Diao Chan, Dreaming Wish	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/diao-chan-dreaming-wish-rec-idy", "View on Index")
+TERA	C	EN-004	Diao Chan, Idyll Corsage	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/diao-chan-idyll-corsage-rec-idy", "View on Index")
+NORM	U	EN-005	Cleric Robes	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/cleric-robes-rec-idy", "View on Index")
+NORM	U	EN-006	Glimmer Essence Amulet	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/glimmer-essence-amulet-rec-idy", "View on Index")
+NORM	R	EN-007	Scepter of Fascination	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/scepter-of-fascination-rec-idy", "View on Index")
+NORM	C	EN-008	Tariff Ring	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/tariff-ring-rec-idy", "View on Index")
+WATER	R	EN-009	Crystalline Mirror	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/crystalline-mirror-rec-idy", "View on Index")
+WATER	R	EN-010	Hairpin of Transience	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/hairpin-of-transience-rec-idy", "View on Index")
+TERA	SR	EN-011	Kaleidoscope Barrette	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/kaleidoscope-barrette-rec-idy", "View on Index")
+TERA	SR	EN-012	Staff of Blossoming Will	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/staff-of-blossoming-will-rec-idy", "View on Index")
+NORM	C	EN-013	Fractal of Insight	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/fractal-of-insight-rec-idy", "View on Index")
+NORM	C	EN-014	Idle Thoughts	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/idle-thoughts-rec-idy", "View on Index")
+NORM	U	EN-015	Shimmering Refraction	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/shimmering-refraction-rec-idy", "View on Index")
+NORM	R	EN-016	Unstable Fractal	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/unstable-fractal-rec-idy", "View on Index")
+WATER	R	EN-017	Acquiescing Rejection	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/acquiescing-rejection-rec-idy", "View on Index")
+WATER	U	EN-018	Chill to the Bone	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/chill-to-the-bone-rec-idy", "View on Index")
+WATER	U	EN-019	Dissuading Halt	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/dissuading-halt-rec-idy", "View on Index")
+WATER	U	EN-020	Eventide Lure	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/eventide-lure-rec-idy", "View on Index")
+WATER	SR	EN-021	Fractal of Refreshment	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/fractal-of-refreshment-rec-idy", "View on Index")
+WATER	U	EN-022	Frostbind	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/frostbind-rec-idy", "View on Index")
+WATER	R	EN-023	Frostlorn Caress	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/frostlorn-caress-rec-idy", "View on Index")
+WATER	SR	EN-024	Frostnip Pirouette	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/frostnip-pirouette-rec-idy", "View on Index")
+WATER	R	EN-025	Glimmering Refusal	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/glimmering-refusal-rec-idy", "View on Index")
+WATER	C	EN-026	Protective Fractal	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/protective-fractal-rec-idy", "View on Index")
+WATER	SR	EN-027	Redirect Flow	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/redirect-flow-rec-idy", "View on Index")
+WATER	C	EN-028	Refracting Missile	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/refracting-missile-rec-idy", "View on Index")
+WATER	C	EN-029	Torpid Fractal	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/torpid-fractal-rec-idy", "View on Index")
+TERA	C	EN-030	Baihua	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/baihua-rec-idy", "View on Index")
+TERA	SR	EN-031	Bloom: Summer's Glow	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/bloom-summers-glow-rec-idy", "View on Index")
+TERA	SR	EN-032	Bloom: Winter's Chill	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/bloom-winters-chill-rec-idy", "View on Index")
+TERA	SR	EN-033	Blossoming Denial	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/blossoming-denial-rec-idy", "View on Index")
+TERA	C	EN-034	Flowerbud	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/flowerbud-rec-idy", "View on Index")
+TERA	C	EN-035	Floodbloom	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/floodbloom-rec-idy", "View on Index")
+TERA	C	EN-036	Lycoria	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/lycoria-rec-idy", "View on Index")
+TERA	C	EN-037	Nightshade	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/nightshade-rec-idy", "View on Index")
+TERA	R	EN-038	Ripples of Atrophy	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/ripples-of-atrophy-rec-idy", "View on Index")
+TERA	UR	EN-039	Season's End	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/seasons-end-rec-idy", "View on Index")
+TERA	CSR	EN-039	Season's End	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/seasons-end-rec-idy-csr", "View on Index")
+TERA	SR	EN-040	Shriveling Vines	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/shriveling-vines-rec-idy", "View on Index")
