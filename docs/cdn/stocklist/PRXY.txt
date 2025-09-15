@@ -1,6 +1,5 @@
 WATER	PR	EN-001B	Scepter of Lumina (Original "001" variant)	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/scepter-of-lumina-prxy", "View on Index")
 WATER	PR	EN-001B	Scepter of Lumina	N/A	N/A	=HYPERLINK("https://index.gatcg.com/edition/scepter-of-lumina-prxy", "View on Index")
-WIND	PR	EN-001T	Purifying Thurible	N/A	N/A	=HYPERLINK("https://index.gatcg.com/edition/purifying-thurible-prxy", "View on Index")
 TERA	PR	EN-002B	Stonescale Band (Original "002" variant)	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/stonescale-band-prxy", "View on Index")
 TERA	PR	EN-002B	Stonescale Band	N/A	N/A	=HYPERLINK("https://index.gatcg.com/edition/stonescale-band-prxy", "View on Index")
 LUXEM	PR	EN-003	Insignia of the Corhazi	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/insignia-of-the-corhazi-prxy", "View on Index")
