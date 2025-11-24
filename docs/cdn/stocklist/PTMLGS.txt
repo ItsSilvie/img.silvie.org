@@ -1,0 +1,8 @@
+ARCANE	UR	EN-001	Arcane Sight	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/arcane-sight-ptmlgs", "View on Index")
+ASTRA	UR	EN-002	Astra Sight	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/astra-sight-ptmlgs", "View on Index")
+CRUX	UR	EN-003	Crux Sight	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/crux-sight-ptmlgs", "View on Index")
+EXIA	UR	EN-004	Exia Sight	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/exia-sight-ptmlgs", "View on Index")
+LUXEM	UR	EN-005	Luxem Sight	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/luxem-sight-ptmlgs", "View on Index")
+NEOS	UR	EN-006	Neos Sight	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/neos-sight-ptmlgs", "View on Index")
+TERA	UR	EN-007	Tera Sight	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/tera-sight-ptmlgs", "View on Index")
+UMBRA	UR	EN-008	Umbra Sight	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/umbra-sight-ptmlgs", "View on Index")
