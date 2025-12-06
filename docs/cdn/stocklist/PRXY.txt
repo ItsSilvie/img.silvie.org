@@ -9,3 +9,4 @@ NORM	PR	EN-006B	Polaris, Twinkling Cauldron (Original "006" variant)	0	N/A	=HYPE
 NORM	PR	EN-006B	Polaris, Twinkling Cauldron	N/A	N/A	=HYPERLINK("https://index.gatcg.com/edition/polaris-twinkling-cauldron-prxy", "View on Index")
 NORM	PR	EN-007	Reciprocity, Dorumegia's Call	N/A	N/A	=HYPERLINK("https://index.gatcg.com/edition/reciprocity-dorumegias-call-prxy", "View on Index")
 NORM	PR	EN-008	Clarent, Reimagined	N/A	N/A	=HYPERLINK("https://index.gatcg.com/edition/clarent-reimagined-prxy", "View on Index")
+FIRE	PR	EN-009	Mantle of the Abyss	N/A	N/A	=HYPERLINK("https://index.gatcg.com/edition/mantle-of-the-abyss-prxy", "View on Index")

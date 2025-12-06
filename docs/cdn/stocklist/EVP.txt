@@ -16,3 +16,5 @@ FIRE	CSR	EN-015	Red Hare, Unrivaled Stallion	N/A	0	=HYPERLINK("https://index.gat
 NORM	CSR	EN-016	Zhou Yu, Enlightened Sage	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/zhou-yu-enlightened-sage-evp", "View on Index")
 FIRE	CSR	EN-017	March Hare, Mottled Host	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/march-hare-mottled-host-evp-csr", "View on Index")
 UMBRA	CSR	EN-018	Mary Ann, Maladroit Maid	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/mary-ann-maladroit-maid-evp-csr", "View on Index")
+WATER	CSR	EN-019	Tweedledee, Contrarian Poet	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/tweedledee-contrarian-poet-ptmevp-csr", "View on Index")
+FIRE	CSR	EN-020	Tweedledum, Rattled Dancer	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/tweedledum-rattled-dancer-ptmevp-csr", "View on Index")
