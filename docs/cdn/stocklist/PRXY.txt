@@ -10,3 +10,4 @@ NORM	PR	EN-006B	Polaris, Twinkling Cauldron	N/A	N/A	=HYPERLINK("https://index.ga
 NORM	PR	EN-007	Reciprocity, Dorumegia's Call	N/A	N/A	=HYPERLINK("https://index.gatcg.com/edition/reciprocity-dorumegias-call-prxy", "View on Index")
 NORM	PR	EN-008	Clarent, Reimagined	N/A	N/A	=HYPERLINK("https://index.gatcg.com/edition/clarent-reimagined-prxy", "View on Index")
 FIRE	PR	EN-009	Mantle of the Abyss	N/A	N/A	=HYPERLINK("https://index.gatcg.com/edition/mantle-of-the-abyss-prxy", "View on Index")
+WATER	PR	EN-010	Sablemere, Warden's Grip	N/A	N/A	=HYPERLINK("https://index.gatcg.com/edition/sablemere-wardens-grip-prxy", "View on Index")
