@@ -4,3 +4,4 @@ NORM	PR	EN-003	Strategic Planning	0	0	=HYPERLINK("https://index.gatcg.com/editio
 FIRE	PR	EN-004	Spark Alight	0	0	=HYPERLINK("https://index.gatcg.com/edition/spark-alight-gsc", "View on Index")
 NORM	PR	EN-005	Idle Thoughts	0	0	=HYPERLINK("https://index.gatcg.com/edition/idle-thoughts-gsc", "View on Index")
 WATER	PR	EN-006	Enthralling Visage	N/A	N/A	=HYPERLINK("https://index.gatcg.com/edition/enthralling-visage-gsc", "View on Index")
+NORM	PR	EN-007	Enchanted Fete	N/A	N/A	=HYPERLINK("https://index.gatcg.com/edition/enchanted-fete-gsc", "View on Index")
