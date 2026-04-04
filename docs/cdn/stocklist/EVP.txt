@@ -18,3 +18,5 @@ FIRE	CSR	EN-017	March Hare, Mottled Host	N/A	0	=HYPERLINK("https://index.gatcg.c
 UMBRA	CSR	EN-018	Mary Ann, Maladroit Maid	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/mary-ann-maladroit-maid-evp-csr", "View on Index")
 WATER	CSR	EN-019	Tweedledee, Contrarian Poet	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/tweedledee-contrarian-poet-ptmevp-csr", "View on Index")
 FIRE	CSR	EN-020	Tweedledum, Rattled Dancer	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/tweedledum-rattled-dancer-ptmevp-csr", "View on Index")
+LUXEM	CSR	EN-021	Elyan, Lustre Loyalty	N/A	N/A	=HYPERLINK("https://index.gatcg.com/edition/elyan-lustre-loyalty-evp-csr", "View on Index")
+CRUX	CSR	EN-022	Sabela, Gossamer Penance	N/A	N/A	=HYPERLINK("https://index.gatcg.com/edition/sabela-gossamer-penance-evp-csr", "View on Index")
