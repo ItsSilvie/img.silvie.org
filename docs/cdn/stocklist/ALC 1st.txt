@@ -1,6 +1,6 @@
 NORM	CSR	EN-004	Arisanna, Herbalist Prodigy	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/arisanna-herbalist-prodigy-alc1e-csr", "View on Index")
-NORM	CSR	EN-005A	Arisanna, Master Alchemist	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/arisanna-master-alchemist-alc1e-csra", "View on Index")
 NORM	CSR	EN-005B	Arisanna, Master Alchemist	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/arisanna-master-alchemist-alc1e-csrb", "View on Index")
+NORM	CSR	EN-005A	Arisanna, Master Alchemist	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/arisanna-master-alchemist-alc1e-csra", "View on Index")
 ASTRA	CSR	EN-007	Arisanna, Lucent Arbiter	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/arisanna-lucent-arbiter-alc1e-csr", "View on Index")
 NORM	CSR	EN-008	Diana, Keen Huntress	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/diana-keen-huntress-alc1e-csr", "View on Index")
 NORM	CSR	EN-009A	Diana, Deadly Duelist	N/A	0	=HYPERLINK("https://index.gatcg.com/edition/diana-deadly-duelist-alc1e-csra", "View on Index")

@@ -16,3 +16,4 @@ FIRE	PR	EN-009B	Mantle of the Abyss	N/A	N/A	=HYPERLINK("https://index.gatcg.com/
 WATER	PR	EN-010	Sablemere, Warden's Grip	0	N/A	=HYPERLINK("https://index.gatcg.com/edition/sablemere-wardens-grip-prxy", "View on Index")
 FIRE	PR	EN-011	The Duchess's Thornes	N/A	N/A	=HYPERLINK("https://index.gatcg.com/edition/the-duchesss-thornes-prxy", "View on Index")
 NORM	PR	EN-012	Endura, Reimagined	N/A	N/A	=HYPERLINK("https://index.gatcg.com/edition/endura-reimagined-prxy", "View on Index")
+WIND	PR	EN-013	Jinzhuo, Bands of Virtue	N/A	N/A	=HYPERLINK("https://index.gatcg.com/edition/jinzhuo-bands-of-virtue-prxy", "View on Index")
